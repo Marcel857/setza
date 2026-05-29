@@ -35,6 +35,7 @@ import requests
 HERE = os.path.dirname(os.path.abspath(__file__))
 SEEN_FILE = os.path.join(HERE, "seen_jobs.json")
 LOG_FILE = os.path.join(HERE, "scout_log.md")
+JOBS_FILE = os.path.join(HERE, "jobs.json")  # vollständige Liste für die Setza-App
 
 SMTP_USER = os.environ.get("SMTP_USER", "")
 SMTP_PASS = os.environ.get("SMTP_PASS", "")
@@ -493,6 +494,51 @@ def save_seen(seen):
         json.dump(seen, f, ensure_ascii=False, indent=2)
 
 
+def _tags(job, reasons):
+    text = (job["title"] + " " + job["description"]).lower()
+    tags = []
+    if any(h in text for h in PACK_PRINT_HINTS):
+        tags.append("Packaging/Print")
+    if any(h in text for h in ["brand", "branding"]):
+        tags.append("Branding")
+    if any(h in text for h in ["social media", "social-media"]):
+        tags.append("Social Media")
+    if any(h in text for h in ["foto", "photo", "produktfoto"]):
+        tags.append("Fotografie")
+    if any(h in text for h in JUNIOR_HINTS):
+        tags.append("Junior")
+    return tags
+
+
+def write_jobs_json(all_scored, threshold, seen_urls):
+    """Schreibt die komplette, bewertete Stellenliste für die Setza-App."""
+    jobs = []
+    for sc, reasons, j in sorted(all_scored, key=lambda x: x[0], reverse=True):
+        jobs.append({
+            "title": j["title"],
+            "company": j["company"] or "",
+            "url": j["url"],
+            "source": j["source"],
+            "location": j["location"],
+            "remote": bool(j["remote"]),
+            "score": sc,
+            "reasons": reasons,
+            "tags": _tags(j, reasons),
+            "age_days": j["age"],
+            "is_match": sc >= threshold,
+            "is_new": sc >= threshold and j["url"] not in seen_urls,
+        })
+    payload = {
+        "app": "Setza",
+        "updated": dt.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "threshold": threshold,
+        "count": len(jobs),
+        "jobs": jobs,
+    }
+    with open(JOBS_FILE, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+
 def append_log(platforms, found, hits, sent, note=""):
     line = f"| {now_iso()} | {platforms} | {found} | {hits} | {sent} | {note} |\n"
     if not os.path.exists(LOG_FILE):
@@ -526,13 +572,17 @@ def main():
     candidates = [j for j in uniq.values() if passes_filter(j)]
     print(f"Nach Filter: {len(candidates)} Kandidaten")
 
-    scored = []
+    all_scored, scored = [], []
     for j in candidates:
         sc, reasons = score(j)
+        all_scored.append((sc, reasons, j))
         if sc >= MATCH_THRESHOLD and j["url"] not in seen_urls:
             scored.append((sc, reasons, j))
     scored.sort(key=lambda x: x[0], reverse=True)
     print(f"Treffer >= {MATCH_THRESHOLD}: {len(scored)}")
+
+    # Vollständige, bewertete Liste für die Setza-App schreiben (jeder Lauf)
+    write_jobs_json(all_scored, MATCH_THRESHOLD, seen_urls)
 
     sent = 0
     if first_run and not DRY_RUN:
