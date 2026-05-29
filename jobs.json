@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-05-29T12:45:10Z",
+  "updated": "2026-05-29T19:55:20Z",
   "threshold": 60,
-  "count": 22,
+  "count": 19,
   "jobs": [
     {
       "title": "Product Designer",
@@ -18,43 +18,6 @@
         "Junior"
       ],
       "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Visual Designer - Social & Motion (m/w/d)",
-      "company": "Prematch",
-      "url": "https://www.arbeitnow.com/jobs/companies/prematch/visual-designer-social-motion-cologne-75725",
-      "source": "Arbeitnow",
-      "location": "Cologne",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Corporate Graphic Designer (m/w/d)",
-      "company": "6PM GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/6pm-gmbh/corporate-graphic-designer-frankfurt-am-main-254896",
-      "source": "Arbeitnow",
-      "location": "Frankfurt am Main",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -120,7 +83,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -136,26 +99,25 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Canva Designer für Social Media Grafiken (m/w/d)",
-      "company": "Bee Seen Agency",
-      "url": "https://www.arbeitnow.com/jobs/companies/bee-seen-agency/canva-designer-fur-social-media-grafiken-cologne-262371",
+      "title": "UI/UX Designer (m/f/d)",
+      "company": "Joy_",
+      "url": "https://www.arbeitnow.com/jobs/companies/joy/ui-ux-designer-berlin-478152",
       "source": "Arbeitnow",
-      "location": "Cologne",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "location": "Berlin",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Social Media",
-        "Fotografie"
+        "Branding"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Designer",
@@ -188,7 +150,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -198,20 +160,6 @@
       "url": "https://remoteOK.com/remote-jobs/remote-product-designer-designmeshai-1132393",
       "source": "RemoteOK",
       "location": "United Kingdom, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Heidi",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-heidi-1132448",
-      "source": "RemoteOK",
-      "location": "Sydney, Sydney, New South Wales, Australia",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
@@ -258,7 +206,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -272,7 +220,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -286,7 +234,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -303,7 +251,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -335,7 +283,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -349,7 +297,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     }
