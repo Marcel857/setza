@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-05-29T11:16:53Z",
+  "updated": "2026-05-29T12:45:10Z",
   "threshold": 60,
-  "count": 23,
+  "count": 22,
   "jobs": [
-    {
-      "title": "Entry Level Product Design Apprenticeship",
-      "company": "UX Woman",
-      "url": "https://weworkremotely.com/remote-jobs/ux-woman-entry-level-product-design-apprenticeship-1",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Junior"
-      ],
-      "age_days": 14,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Product Designer",
       "company": "Blueprint",
@@ -38,6 +20,24 @@
       "age_days": 29,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Visual Designer - Social & Motion (m/w/d)",
+      "company": "Prematch",
+      "url": "https://www.arbeitnow.com/jobs/companies/prematch/visual-designer-social-motion-cologne-75725",
+      "source": "Arbeitnow",
+      "location": "Cologne",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Corporate Graphic Designer (m/w/d)",
@@ -73,22 +73,6 @@
         "Fotografie"
       ],
       "age_days": 28,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Founding Designer (Americas)",
-      "company": "infisical",
-      "url": "https://jobicy.com/jobs/144244-founding-designer-americas",
-      "source": "Jobicy",
-      "location": "LATAM,  Canada,  USA",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -218,7 +202,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
