@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-05-29T19:55:20Z",
+  "updated": "2026-05-29T23:59:31Z",
   "threshold": 60,
-  "count": 19,
+  "count": 18,
   "jobs": [
-    {
-      "title": "Product Designer",
-      "company": "Blueprint",
-      "url": "https://weworkremotely.com/remote-jobs/blueprint-product-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Junior"
-      ],
-      "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Product Designer",
       "company": "Petra Brands",
@@ -35,7 +18,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -117,7 +100,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer",
