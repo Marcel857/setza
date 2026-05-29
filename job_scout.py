@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Job-Scout für Isabel Reusch – 24/7-Version (server / GitHub Actions).
+Setza – KI-Job-Scout – 24/7-Version (server / GitHub Actions).
 
 Sucht über mehrere freie Job-APIs nach passenden Remote-/Junior-Designstellen,
 bewertet sie (0-100), entfernt Duplikate und versendet Treffer >= MATCH_THRESHOLD
@@ -552,7 +552,7 @@ def send_mail(job, sc, reasons):
         return True
     msg = MIMEText(body, "plain", "utf-8")
     msg["Subject"] = subject
-    msg["From"] = formataddr(("Job-Scout für Isabel", SMTP_USER))
+    msg["From"] = formataddr(("Setza", SMTP_USER))
     msg["To"] = ALERT_TO
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
         s.login(SMTP_USER, SMTP_PASS)
