@@ -1,0 +1,373 @@
+{
+  "app": "Setza",
+  "updated": "2026-05-29T11:16:53Z",
+  "threshold": 60,
+  "count": 23,
+  "jobs": [
+    {
+      "title": "Entry Level Product Design Apprenticeship",
+      "company": "UX Woman",
+      "url": "https://weworkremotely.com/remote-jobs/ux-woman-entry-level-product-design-apprenticeship-1",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Junior"
+      ],
+      "age_days": 14,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Blueprint",
+      "url": "https://weworkremotely.com/remote-jobs/blueprint-product-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Junior"
+      ],
+      "age_days": 29,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Corporate Graphic Designer (m/w/d)",
+      "company": "6PM GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/6pm-gmbh/corporate-graphic-designer-frankfurt-am-main-254896",
+      "source": "Arbeitnow",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Petra Brands",
+      "url": "https://weworkremotely.com/remote-jobs/petra-brands-product-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 28,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Founding Designer (Americas)",
+      "company": "infisical",
+      "url": "https://jobicy.com/jobs/144244-founding-designer-americas",
+      "source": "Jobicy",
+      "location": "LATAM,  Canada,  USA",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 9,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Associate Product Designer",
+      "company": "World Wide Technology",
+      "url": "https://jobicy.com/jobs/143456-associate-product-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 20,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Junior UI designer (Marketing team)",
+      "company": "TechMagic",
+      "url": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
+      "source": "Jobicy",
+      "location": "Ukraine",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 21,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "South Geeks",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-south-geeks-1132403",
+      "source": "RemoteOK",
+      "location": "Wyoming",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Contra",
+      "url": "https://weworkremotely.com/remote-jobs/contra-graphic-designer-5",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 16,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Canva Designer für Social Media Grafiken (m/w/d)",
+      "company": "Bee Seen Agency",
+      "url": "https://www.arbeitnow.com/jobs/companies/bee-seen-agency/canva-designer-fur-social-media-grafiken-cologne-262371",
+      "source": "Arbeitnow",
+      "location": "Cologne",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Designer",
+      "company": "inDrive",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-indrive-1132472",
+      "source": "RemoteOK",
+      "location": "Almaty, Almaty, Almaty, Kazakhstan",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Gamdom",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-gamdom-1132426",
+      "source": "RemoteOK",
+      "location": "Lisboa, Lisboa, Lisboa, Portugal",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "DesignMeshAI",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-designmeshai-1132393",
+      "source": "RemoteOK",
+      "location": "United Kingdom, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Heidi",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-heidi-1132448",
+      "source": "RemoteOK",
+      "location": "Sydney, Sydney, New South Wales, Australia",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Motion Designer (Contractor)",
+      "company": "Fortis Games",
+      "url": "https://jobicy.com/jobs/144330-motion-designer-contractor",
+      "source": "Jobicy",
+      "location": "Portugal",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 9,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Conversational Designer",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/143763-conversational-designer",
+      "source": "Jobicy",
+      "location": "UK",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 16,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Professional Application Designer",
+      "company": "Gainwell Technologies",
+      "url": "https://jobicy.com/jobs/143683-professional-application-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 16,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "UI/UX Designer",
+      "company": "ManTech",
+      "url": "https://jobicy.com/jobs/143624-ui-ux-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 17,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Instructional Designer",
+      "company": "LastPass",
+      "url": "https://jobicy.com/jobs/143623-instructional-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 17,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Creative Performance Designer",
+      "company": "Nabu Global FZE",
+      "url": "https://weworkremotely.com/remote-jobs/nabu-global-fze-creative-performance-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 7,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Turkish-Speaking Video & Motion Graphics Designer",
+      "company": "XM",
+      "url": "https://weworkremotely.com/remote-jobs/xm-turkish-speaking-video-motion-graphics-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Social Media"
+      ],
+      "age_days": 15,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Brand Designer",
+      "company": "Contra",
+      "url": "https://weworkremotely.com/remote-jobs/contra-brand-designer-7",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 16,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Contra",
+      "url": "https://weworkremotely.com/remote-jobs/contra-product-designer-5",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 16,
+      "is_match": true,
+      "is_new": false
+    }
+  ]
+}
