@@ -255,34 +255,79 @@ def _strip_html(text):
     return re.sub(r"<[^>]+>", " ", text or "").replace("&nbsp;", " ").strip()
 
 
+def _rss_items_regex(xml_text):
+    """Toleranter Fallback für nicht wohlgeformtes XML."""
+    items = re.findall(r"<item[ >].*?</item>", xml_text, re.S | re.I)
+
+    def field(block, tag):
+        m = re.search(r"<%s[^>]*>(.*?)</%s>" % (tag, tag), block, re.S | re.I)
+        if not m:
+            return ""
+        val = m.group(1)
+        cd = re.search(r"<!\[CDATA\[(.*?)\]\]>", val, re.S)
+        return (cd.group(1) if cd else val).strip()
+
+    return items, field
+
+
 def fetch_rss(url, source, split_company=False):
-    """Generischer RSS-Leser (stdlib, keine Zusatz-Abhängigkeit)."""
+    """Generischer RSS-Leser (stdlib). Fällt bei kaputtem XML auf Regex zurück."""
     out = []
     try:
         r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-        root = ET.fromstring(r.content)
-        for item in root.iter("item"):
-            def t(tag):
-                el = item.find(tag)
-                return el.text if el is not None and el.text else ""
-            title = (t("title") or "").strip()
-            company = ""
-            if split_company and ":" in title:
-                company, title = [p.strip() for p in title.split(":", 1)]
-            if not company:
-                company = (t("{http://purl.org/dc/elements/1.1/}creator") or "").strip()
-            out.append({
-                "source": source,
-                "title": title,
-                "company": company,
-                "url": (t("link") or "").strip(),
-                "location": (t("region") or "Remote").strip(),
-                "remote": True,
-                "description": _strip_html(t("description")),
-                "age": days_since(t("pubDate")),
-            })
     except Exception as e:
         print(f"  ! {source} Fehler:", e)
+        return out
+
+    parsed = []
+    try:
+        root = ET.fromstring(r.content)
+        for item in root.iter("item"):
+            def t(tag, _i=item):
+                el = _i.find(tag)
+                return el.text if el is not None and el.text else ""
+            parsed.append({
+                "title": (t("title") or "").strip(),
+                "link": (t("link") or "").strip(),
+                "region": (t("region") or "").strip(),
+                "creator": (t("{http://purl.org/dc/elements/1.1/}creator") or "").strip(),
+                "description": t("description"),
+                "pubDate": t("pubDate"),
+            })
+    except Exception:
+        try:  # Fallback für fehlerhafte Feeds (z. B. SkipTheDrive)
+            xml_text = r.content.decode("utf-8", "ignore")
+            items, field = _rss_items_regex(xml_text)
+            for block in items:
+                parsed.append({
+                    "title": field(block, "title"),
+                    "link": field(block, "link"),
+                    "region": field(block, "region"),
+                    "creator": field(block, "dc:creator"),
+                    "description": field(block, "description"),
+                    "pubDate": field(block, "pubDate"),
+                })
+        except Exception as e:
+            print(f"  ! {source} Fehler:", e)
+            return out
+
+    for p in parsed:
+        title = p["title"]
+        company = ""
+        if split_company and ":" in title:
+            company, title = [x.strip() for x in title.split(":", 1)]
+        if not company:
+            company = p["creator"]
+        out.append({
+            "source": source,
+            "title": title,
+            "company": company,
+            "url": p["link"],
+            "location": p["region"] or "Remote",
+            "remote": True,
+            "description": _strip_html(p["description"]),
+            "age": days_since(p["pubDate"]),
+        })
     return out
 
 
