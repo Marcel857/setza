@@ -1,0 +1,47 @@
+name: Job Scout Isabel
+
+# Läuft 24/7 in der GitHub-Cloud – kein eigener Rechner nötig.
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # alle 30 Minuten (UTC)
+  workflow_dispatch: {}        # erlaubt manuellen Start per Knopfdruck
+
+permissions:
+  contents: write              # damit der Lauf seen_jobs.json/Log zurückschreiben darf
+
+concurrency:
+  group: job-scout
+  cancel-in-progress: false
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Code auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Job-Scout ausführen
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          ALERT_TO: ${{ secrets.ALERT_TO }}
+          MATCH_THRESHOLD: "60"
+          MAX_ALERTS_PER_RUN: "25"
+          POSTED_WITHIN_DAYS: "30"
+        run: python job_scout.py
+
+      - name: Stand zurückschreiben (gemeldete Jobs + Log)
+        run: |
+          git config user.name "job-scout-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "scout: Lauf $(date -u +%FT%TZ)" || echo "keine Änderungen"
+          git push || echo "push übersprungen"
