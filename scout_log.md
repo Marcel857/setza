@@ -1,0 +1,5 @@
+# Job-Scout Protokoll (24/7)
+
+| Datum/Zeit | Plattformen | Gefunden | Treffer ≥Schwelle | Versendet | Hinweis |
+|---|---|---|---|---|---|
+| 2026-05-29 10:58 | Arbeitnow+Remotive+RemoteOK+Himalayas+Jobicy+WeWorkRemotely+WorkingNomads | 315 | 23 | 0 | Erstlauf: Seeding, keine Mails |
