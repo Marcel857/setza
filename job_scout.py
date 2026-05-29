@@ -81,8 +81,9 @@ INCLUDE_KEYWORDS = [
 # Sofort ausschließen, wenn der Titel eines dieser Wörter enthält
 EXCLUDE_KEYWORDS = [
     "senior", "lead", "head of", "head ", "principal", "staff",
-    "art director", "director", "manager",
-    "praktik", "intern", "internship", "trainee",
+    "art director", "director", "manager", "chief", "vp ", "vp,",
+    "praktik", "intern", "internship", "trainee", "apprentice", "apprenticeship",
+    "founding", "founder", "working student",
     "werkstudent", "freelanc", "selbständ", "selbstständ", "self-employed",
     "ausbildung", "auszubild", "studium", "duales", "dual ",
     "developer", "entwickler", "engineer", "architekt",
@@ -374,9 +375,94 @@ def fetch_workingnomads():
     return out
 
 
+# --------------------------------------------------------------------------- #
+# Daten-Burggraben: ATS-Quellen (Firmen-Karriereseiten, legal & strukturiert)
+# Kuratierte Firmen-Tokens hier pflegen — das ist der Wettbewerbsvorteil.
+# Personio = DACH-stark; Greenhouse/Lever = Startups/Agenturen.
+# --------------------------------------------------------------------------- #
+ATS_PERSONIO = [
+    # "firmatoken",   # -> https://firmatoken.jobs.personio.de
+]
+ATS_GREENHOUSE = [
+    # "firmatoken",   # -> https://boards.greenhouse.io/firmatoken
+]
+ATS_LEVER = [
+    # "firmatoken",   # -> https://jobs.lever.co/firmatoken
+]
+
+
+def fetch_personio():
+    out = []
+    for cmp in ATS_PERSONIO:
+        try:
+            r = requests.get(f"https://{cmp}.jobs.personio.de/xml?language=de",
+                             headers=HEADERS, timeout=TIMEOUT)
+            root = ET.fromstring(r.content)
+            for pos in root.iter("position"):
+                def t(tag, _p=pos):
+                    el = _p.find(tag)
+                    return el.text if el is not None and el.text else ""
+                jid = t("id")
+                office = t("office")
+                desc = _strip_html(" ".join((e.text or "") for e in pos.iter("value")))
+                desc += " " + t("seniority") + " " + t("employmentType") + " " + t("schedule")
+                out.append({
+                    "source": f"Personio/{cmp}", "title": t("name"), "company": cmp,
+                    "url": f"https://{cmp}.jobs.personio.de/job/{jid}",
+                    "location": office or "DACH",
+                    "remote": "remote" in (office + " " + desc).lower(),
+                    "description": desc, "age": days_since(t("createdAt")),
+                })
+        except Exception as e:
+            print(f"  ! Personio/{cmp} Fehler:", e)
+    return out
+
+
+def fetch_greenhouse():
+    out = []
+    for tok in ATS_GREENHOUSE:
+        try:
+            r = requests.get(f"https://boards-api.greenhouse.io/v1/boards/{tok}/jobs?content=true",
+                             headers=HEADERS, timeout=TIMEOUT)
+            for j in r.json().get("jobs", []):
+                loc = (j.get("location") or {}).get("name", "") or ""
+                out.append({
+                    "source": f"Greenhouse/{tok}", "title": j.get("title", ""), "company": tok,
+                    "url": j.get("absolute_url", ""), "location": loc,
+                    "remote": "remote" in loc.lower(),
+                    "description": _strip_html(j.get("content", "")),
+                    "age": days_since(j.get("updated_at")),
+                })
+        except Exception as e:
+            print(f"  ! Greenhouse/{tok} Fehler:", e)
+    return out
+
+
+def fetch_lever():
+    out = []
+    for tok in ATS_LEVER:
+        try:
+            r = requests.get(f"https://api.lever.co/v0/postings/{tok}?mode=json",
+                             headers=HEADERS, timeout=TIMEOUT)
+            for j in r.json():
+                cat = j.get("categories", {}) or {}
+                loc = cat.get("location", "") or ""
+                out.append({
+                    "source": f"Lever/{tok}", "title": j.get("text", ""), "company": tok,
+                    "url": j.get("hostedUrl", ""), "location": loc,
+                    "remote": "remote" in loc.lower(),
+                    "description": (j.get("descriptionPlain", "") or "") + " " + (cat.get("commitment", "") or ""),
+                    "age": days_since(j.get("createdAt")),
+                })
+        except Exception as e:
+            print(f"  ! Lever/{tok} Fehler:", e)
+    return out
+
+
 SOURCES = [
     fetch_arbeitnow, fetch_remotive, fetch_remoteok, fetch_himalayas, fetch_jobicy,
     fetch_weworkremotely, fetch_jobspresso, fetch_skipthedrive, fetch_workingnomads,
+    fetch_personio, fetch_greenhouse, fetch_lever,
 ]
 
 
