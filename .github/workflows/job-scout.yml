@@ -1,4 +1,4 @@
-name: Job Scout Isabel
+name: Setza Job-Scout
 
 # Läuft 24/7 in der GitHub-Cloud – kein eigener Rechner nötig.
 on:
@@ -40,7 +40,7 @@ jobs:
 
       - name: Stand zurückschreiben (gemeldete Jobs + Log)
         run: |
-          git config user.name "job-scout-bot"
+          git config user.name "setza-bot"
           git config user.email "actions@users.noreply.github.com"
           git add -A
           git commit -m "scout: Lauf $(date -u +%FT%TZ)" || echo "keine Änderungen"
