@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-05-30T09:05:15Z",
+  "updated": "2026-05-30T14:49:25Z",
   "threshold": 60,
   "count": 20,
   "jobs": [
@@ -20,7 +20,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer",
@@ -103,7 +103,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -122,11 +122,11 @@
       "is_new": false
     },
     {
-      "title": "UI/UX Designer (m/f/d)",
-      "company": "Joy_",
-      "url": "https://www.arbeitnow.com/jobs/companies/joy/ui-ux-designer-berlin-478152",
+      "title": "Graphic Designer (m/w/d)",
+      "company": "Edubini GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/edubini-gmbh/graphic-designer-hamburg-39510",
       "source": "Arbeitnow",
-      "location": "Berlin",
+      "location": "Hamburg",
       "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
@@ -135,7 +135,25 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "Digital Designer",
+      "company": "COLIBRIX ONE",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-designer-colibrix-one-1132593",
+      "source": "RemoteOK",
+      "location": "Belgrade, Belgrade, Serbia",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer",
@@ -150,7 +168,7 @@
         "Branding",
         "Social Media"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -173,20 +191,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "DesignMeshAI",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-designmeshai-1132393",
-      "source": "RemoteOK",
-      "location": "United Kingdom, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Motion Designer (Contractor)",
       "company": "Fortis Games",
       "url": "https://jobicy.com/jobs/144330-motion-designer-contractor",
@@ -196,7 +200,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -210,7 +214,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
