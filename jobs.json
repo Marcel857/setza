@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-05-29T23:59:31Z",
+  "updated": "2026-05-30T09:05:15Z",
   "threshold": 60,
-  "count": 18,
+  "count": 20,
   "jobs": [
+    {
+      "title": "E-COMMERCE GRAPHIC DESIGNER (PART-TIME, REMOTE-FIRST) @ ONLINE BRAND HOUSE",
+      "company": "Flummox",
+      "url": "https://himalayas.app/companies/flummox/jobs/e-commerce-graphic-designer-part-time-remote-first-online-brand-house",
+      "source": "Himalayas",
+      "location": "Spain",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Product Designer",
       "company": "Petra Brands",
@@ -34,7 +52,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -50,7 +68,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
@@ -69,6 +87,23 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Marketing Design Specialist",
+      "company": "Rezilient Health",
+      "url": "https://himalayas.app/companies/rezilient-health/jobs/marketing-design-specialist",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -250,7 +285,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
