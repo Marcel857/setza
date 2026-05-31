@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-05-31T09:38:44Z",
+  "updated": "2026-05-31T15:05:14Z",
   "threshold": 60,
-  "count": 15,
+  "count": 14,
   "jobs": [
     {
       "title": "Associate Product Designer",
@@ -88,23 +88,6 @@
       "is_new": false
     },
     {
-      "title": "Designer",
-      "company": "inDrive",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-indrive-1132472",
-      "source": "RemoteOK",
-      "location": "Almaty, Almaty, Almaty, Kazakhstan",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Motion Designer (Contractor)",
       "company": "Fortis Games",
       "url": "https://jobicy.com/jobs/144330-motion-designer-contractor",
@@ -114,7 +97,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -128,7 +111,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
