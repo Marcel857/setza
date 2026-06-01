@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-05-31T23:45:06Z",
+  "updated": "2026-06-01T19:30:26Z",
   "threshold": 60,
-  "count": 14,
+  "count": 15,
   "jobs": [
+    {
+      "title": "Mediengestalter Web & Digital (w/m/d)",
+      "company": "Migrando GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/mediengestalter-web-digital-cottbus-45554",
+      "source": "Arbeitnow",
+      "location": "Cottbus",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Associate Product Designer",
       "company": "World Wide Technology",
@@ -16,7 +33,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -32,7 +49,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -67,25 +84,25 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Graphic Designer (m/w/d)",
-      "company": "Edubini GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/edubini-gmbh/graphic-designer-hamburg-39510",
+      "title": "UI/UX Designer (w/m/d)",
+      "company": "Migrando GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/ui-ux-designer-cottbus-398585",
       "source": "Arbeitnow",
-      "location": "Hamburg",
+      "location": "Cottbus",
       "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Branding"
+        "Social Media"
       ],
-      "age_days": 1,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Motion Designer (Contractor)",
@@ -97,7 +114,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -111,7 +128,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
@@ -125,7 +142,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
@@ -139,7 +156,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -153,7 +170,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -170,7 +187,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -186,7 +203,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -202,7 +219,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
@@ -216,7 +233,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     }
