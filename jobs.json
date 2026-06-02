@@ -1,23 +1,42 @@
 {
   "app": "Setza",
-  "updated": "2026-06-01T19:30:26Z",
+  "updated": "2026-06-02T11:54:02Z",
   "threshold": 60,
-  "count": 15,
+  "count": 19,
   "jobs": [
     {
-      "title": "Mediengestalter Web & Digital (w/m/d)",
-      "company": "Migrando GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/mediengestalter-web-digital-cottbus-45554",
+      "title": "Grafikdesigner (m/w/d) Maschinen & Technik",
+      "company": "ETT Verpackungstechnik GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/ett-verpackungstechnik-gmbh/grafikdesigner-maschinen-technik-moringen-93852",
       "source": "Arbeitnow",
-      "location": "Cottbus",
+      "location": "Moringen",
       "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
-        "Social Media"
+        "Social Media",
+        "Fotografie",
+        "Junior"
       ],
       "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Junior Brand Designer",
+      "company": "Twine",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-brand-designer-twine-1132655",
+      "source": "RemoteOK",
+      "location": "Australia, ",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Junior"
+      ],
+      "age_days": 1,
       "is_match": true,
       "is_new": true
     },
@@ -33,7 +52,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -49,9 +68,26 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Grafiker:in für E-Commerce in Voll- oder Teilzeit (m/w/d)",
+      "company": "Bodenglück",
+      "url": "https://www.arbeitnow.com/jobs/companies/bodengluck/grafikerin-fur-e-commerce-in-voll-oder-teilzeit-cologne-352266",
+      "source": "Arbeitnow",
+      "location": "Cologne",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer",
@@ -68,7 +104,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -89,17 +125,51 @@
       "is_new": false
     },
     {
-      "title": "UI/UX Designer (w/m/d)",
+      "title": "Mediengestalter / Grafikdesigner (m/w/d) - Teilzeit (30h)",
+      "company": "Rudelkönig GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rudelkonig-gmbh/mediengestalter-grafikdesigner-teilzeit-30h-nuremberg-134441",
+      "source": "Arbeitnow",
+      "location": "Nuremberg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "MailerLite",
+      "url": "https://weworkremotely.com/remote-jobs/mailerlite-graphic-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Webdesigner (w/m/d)",
       "company": "Migrando GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/ui-ux-designer-cottbus-398585",
+      "url": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/webdesigner-cottbus-52186",
       "source": "Arbeitnow",
       "location": "Cottbus",
       "remote": false,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Social Media"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -114,7 +184,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -128,7 +198,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
@@ -203,7 +273,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
