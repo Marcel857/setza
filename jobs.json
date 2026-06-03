@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-06-02T22:06:59Z",
+  "updated": "2026-06-03T16:03:52Z",
   "threshold": 60,
-  "count": 19,
+  "count": 17,
   "jobs": [
+    {
+      "title": "Creative Designer",
+      "company": "Air Apps",
+      "url": "https://remoteOK.com/remote-jobs/remote-creative-designer-air-apps-1132755",
+      "source": "RemoteOK",
+      "location": "ZÃ¼rich, ZÃ¼rich, ZÃ¼rich, Schweiz",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Junior Brand Designer",
       "company": "Twine",
@@ -17,7 +36,7 @@
         "Branding",
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -33,7 +52,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -49,61 +68,27 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Kommunikationsdesigner*in mit dem Schwerpunkt UX-Design in Köln (m/w/d)",
-      "company": "facts and fiction GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/facts-and-fiction-gmbh/kommunikationsdesignerin-mit-dem-schwerpunkt-ux-design-in-koln-cologne-138440",
+      "title": "Grafiker:in (all genders) // Vollzeit // ab August // Frankfurt am Main",
+      "company": "MainTea GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/maintea-gmbh/grafikerin-all-genders-vollzeit-ab-august-frankfurt-am-main-198231",
       "source": "Arbeitnow",
-      "location": "Cologne",
+      "location": "Frankfurt am Main",
       "remote": false,
       "score": 82,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print"
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
-    },
-    {
-      "title": "Grafiker:in für E-Commerce in Voll- oder Teilzeit (m/w/d)",
-      "company": "Bodenglück",
-      "url": "https://www.arbeitnow.com/jobs/companies/bodengluck/grafikerin-fur-e-commerce-in-voll-oder-teilzeit-cologne-352266",
-      "source": "Arbeitnow",
-      "location": "Cologne",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Designer",
-      "company": "Thorne",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-thorne-1132610",
-      "source": "RemoteOK",
-      "location": "South Carolina, South Carolina, United States",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -117,27 +102,23 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Mediengestalter / Grafikdesigner (m/w/d) - Teilzeit (30h)",
-      "company": "Rudelkönig GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/rudelkonig-gmbh/mediengestalter-grafikdesigner-teilzeit-30h-nuremberg-134441",
+      "title": "Product Designer (UX/UI) (m/f/x)",
+      "company": "Progyny Global",
+      "url": "https://www.arbeitnow.com/jobs/companies/progyny-global/product-designer-ux-ui-berlin-246881",
       "source": "Arbeitnow",
-      "location": "Nuremberg",
+      "location": "Berlin",
       "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -153,21 +134,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Webdesigner (w/m/d)",
-      "company": "Migrando GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/webdesigner-cottbus-52186",
-      "source": "Arbeitnow",
-      "location": "Cottbus",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -181,7 +148,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -195,7 +162,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -209,7 +176,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
@@ -270,7 +237,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
@@ -286,7 +253,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
@@ -300,7 +267,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     }
