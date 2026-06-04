@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-04T19:37:01Z",
+  "updated": "2026-06-04T23:56:52Z",
   "threshold": 60,
-  "count": 15,
+  "count": 17,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -22,6 +22,22 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Vertical Transportation Designer",
+      "company": "Gannett Fleming, Inc.",
+      "url": "https://himalayas.app/companies/gannett-fleming-inc/jobs/vertical-transportation-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Associate Product Designer",
@@ -82,6 +98,20 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
       "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Nevis",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-nevis-1132791",
+      "source": "RemoteOK",
+      "location": "Denver, Denver, Colorado, United States",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 1,
       "is_match": true,
       "is_new": true
     },
