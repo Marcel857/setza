@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-03T23:17:54Z",
+  "updated": "2026-06-04T11:27:21Z",
   "threshold": 60,
-  "count": 17,
+  "count": 15,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -52,7 +52,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
     },
@@ -68,28 +68,9 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Intermediate Graphic Designer",
-      "company": "AlgaeCal",
-      "url": "https://himalayas.app/companies/algaecal/jobs/intermediate-graphic-designer-6213853430",
-      "source": "Himalayas",
-      "location": "Argentina",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -108,20 +89,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer (UX/UI) (m/f/x)",
-      "company": "Progyny Global",
-      "url": "https://www.arbeitnow.com/jobs/companies/progyny-global/product-designer-ux-ui-berlin-246881",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Graphic Designer",
       "company": "MailerLite",
       "url": "https://weworkremotely.com/remote-jobs/mailerlite-graphic-designer",
@@ -135,7 +102,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -149,7 +116,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -163,7 +130,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
@@ -238,7 +205,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
