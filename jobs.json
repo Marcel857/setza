@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-06-04T11:27:21Z",
+  "updated": "2026-06-04T19:37:01Z",
   "threshold": 60,
   "count": 15,
   "jobs": [
@@ -19,24 +19,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Junior Brand Designer",
-      "company": "Twine",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-brand-designer-twine-1132655",
-      "source": "RemoteOK",
-      "location": "Australia, ",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Junior"
-      ],
-      "age_days": 3,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -84,9 +67,23 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UI/UX Designer",
+      "company": "Valorbyte UG (haftungsbeschränkt)",
+      "url": "https://www.arbeitnow.com/jobs/companies/valorbyte-ug-haftungsbeschrankt/ui-ux-designer-karlsruhe-417466",
+      "source": "Arbeitnow",
+      "location": "Karlsruhe",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -144,7 +141,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -158,7 +155,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -172,7 +169,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -189,7 +186,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -221,7 +218,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -235,7 +232,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     }
