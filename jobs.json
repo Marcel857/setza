@@ -1,27 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-06-05T18:30:32Z",
+  "updated": "2026-06-05T22:48:19Z",
   "threshold": 60,
-  "count": 16,
+  "count": 18,
   "jobs": [
     {
-      "title": "Creative Designer",
-      "company": "Air Apps",
-      "url": "https://remoteOK.com/remote-jobs/remote-creative-designer-air-apps-1132755",
+      "title": "Junior Digital Designer",
+      "company": "The Big Table Group",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-digital-designer-the-big-table-group-1132848",
       "source": "RemoteOK",
-      "location": "ZÃ¼rich, ZÃ¼rich, ZÃ¼rich, Schweiz",
+      "location": "London, London, England, United Kingdom",
       "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Packaging/Print",
         "Branding",
         "Social Media",
-        "Fotografie"
+        "Junior"
       ],
-      "age_days": 3,
+      "age_days": 1,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Associate Product Designer",
@@ -72,6 +71,22 @@
       "is_new": false
     },
     {
+      "title": "Grafikdesigner (m/w/d) - KI & Designautomatisierung",
+      "company": "Neolymp",
+      "url": "https://www.arbeitnow.com/jobs/companies/neolymp/grafikdesigner-ki-designautomatisierung-berlin-183312",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Product Designer",
       "company": "Nevis",
       "url": "https://remoteOK.com/remote-jobs/remote-product-designer-nevis-1132791",
@@ -81,7 +96,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -188,6 +203,20 @@
       "is_new": false
     },
     {
+      "title": "UX Designer – Design System Pleno",
+      "company": "Lyncas",
+      "url": "https://weworkremotely.com/remote-jobs/lyncas-ux-designer-design-system-pleno",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Creative Performance Designer",
       "company": "Nabu Global FZE",
       "url": "https://weworkremotely.com/remote-jobs/nabu-global-fze-creative-performance-designer",
@@ -200,7 +229,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
