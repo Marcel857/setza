@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-05T11:52:18Z",
+  "updated": "2026-06-05T18:30:32Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -19,7 +19,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -67,21 +67,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 23,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI/UX Designer",
-      "company": "Valorbyte UG (haftungsbeschränkt)",
-      "url": "https://www.arbeitnow.com/jobs/companies/valorbyte-ug-haftungsbeschrankt/ui-ux-designer-karlsruhe-417466",
-      "source": "Arbeitnow",
-      "location": "Karlsruhe",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -129,7 +115,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Motion Designer (Contractor)",
@@ -169,7 +155,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -183,7 +169,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -197,7 +183,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -246,7 +232,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -260,7 +246,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     }
