@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-06-05T22:48:19Z",
+  "updated": "2026-06-06T08:17:43Z",
   "threshold": 60,
   "count": 18,
   "jobs": [
@@ -20,7 +20,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Associate Product Designer",
@@ -34,7 +34,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -50,7 +50,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -84,7 +84,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer",
@@ -128,7 +128,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -214,7 +214,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Creative Performance Designer",
@@ -245,7 +245,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
