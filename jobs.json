@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-06-06T12:19:58Z",
+  "updated": "2026-06-06T16:42:49Z",
   "threshold": 60,
   "count": 18,
   "jobs": [
@@ -66,7 +66,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -170,7 +170,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -261,7 +261,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -275,7 +275,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     }
