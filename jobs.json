@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-06T20:47:27Z",
+  "updated": "2026-06-07T08:38:55Z",
   "threshold": 60,
-  "count": 18,
+  "count": 19,
   "jobs": [
     {
       "title": "Junior Digital Designer",
@@ -23,6 +23,23 @@
       "is_new": false
     },
     {
+      "title": "Mediengestalter (m/w/d)",
+      "company": "BUZIL-WERK Wagner GmbH & Co. KG",
+      "url": "https://www.arbeitnow.com/jobs/companies/buzil-werk-wagner-gmbh-co-kg/mediengestalter-memmingen-223473",
+      "source": "Arbeitnow",
+      "location": "Memmingen",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Associate Product Designer",
       "company": "World Wide Technology",
       "url": "https://jobicy.com/jobs/143456-associate-product-designer",
@@ -34,7 +51,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -50,7 +67,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 29,
+      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
@@ -118,7 +135,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer, Web Presence & Platform",
@@ -130,7 +147,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -247,7 +264,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
