@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-07T08:38:55Z",
+  "updated": "2026-06-07T15:12:49Z",
   "threshold": 60,
-  "count": 19,
+  "count": 20,
   "jobs": [
     {
       "title": "Junior Digital Designer",
@@ -34,6 +34,23 @@
       "tags": [
         "Packaging/Print",
         "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Junior Graphic Designer (m/w/d)",
+      "company": "nuvallo",
+      "url": "https://www.arbeitnow.com/jobs/companies/nuvallo/junior-graphic-designer-berlin-46044",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie",
+        "Junior"
       ],
       "age_days": 0,
       "is_match": true,
@@ -117,7 +134,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -161,7 +178,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -175,7 +192,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
