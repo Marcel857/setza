@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-07T20:02:44Z",
+  "updated": "2026-06-08T12:47:15Z",
   "threshold": 60,
-  "count": 21,
+  "count": 18,
   "jobs": [
     {
       "title": "Multi Grade Geographically Position",
@@ -18,42 +18,26 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Junior Digital Designer",
-      "company": "The Big Table Group",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-digital-designer-the-big-table-group-1132848",
-      "source": "RemoteOK",
-      "location": "London, London, England, United Kingdom",
-      "remote": true,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Junior"
-      ],
-      "age_days": 3,
-      "is_match": true,
       "is_new": false
     },
     {
-      "title": "Mediengestalter (m/w/d)",
-      "company": "BUZIL-WERK Wagner GmbH & Co. KG",
-      "url": "https://www.arbeitnow.com/jobs/companies/buzil-werk-wagner-gmbh-co-kg/mediengestalter-memmingen-223473",
-      "source": "Arbeitnow",
-      "location": "Memmingen",
-      "remote": false,
+      "title": "Graphic Narrator",
+      "company": "Resilient Solutions Plus, LLC",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-narrator-resilient-solutions-plus-llc-1132981",
+      "source": "RemoteOK",
+      "location": "Baltimore, ",
+      "remote": true,
       "score": 87,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
+        "Branding",
+        "Social Media",
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Junior Graphic Designer (m/w/d)",
@@ -68,25 +52,9 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "UX Designer I / II",
-      "company": "Renewed Vision",
-      "url": "https://himalayas.app/companies/renewed-vision/jobs/ux-designer-i-ii",
-      "source": "Himalayas",
-      "location": "India, United Kingdom, United States",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Associate Product Designer",
@@ -100,25 +68,27 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 29,
+      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Junior UI designer (Marketing team)",
-      "company": "TechMagic",
-      "url": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
-      "source": "Jobicy",
-      "location": "Ukraine",
+      "title": "Remote - Graphics Designer - Output Based/Hourly",
+      "company": "Kirin",
+      "url": "https://himalayas.app/companies/kirin/jobs/remote-graphics-designer-output-based-hourly-7812245033",
+      "source": "Himalayas",
+      "location": "Philippines",
       "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Junior"
+        "Packaging/Print",
+        "Branding",
+        "Social Media"
       ],
-      "age_days": 30,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -137,22 +107,6 @@
       "is_new": false
     },
     {
-      "title": "Grafikdesigner (m/w/d) - KI & Designautomatisierung",
-      "company": "Neolymp",
-      "url": "https://www.arbeitnow.com/jobs/companies/neolymp/grafikdesigner-ki-designautomatisierung-berlin-183312",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Graphic Designer",
       "company": "MailerLite",
       "url": "https://weworkremotely.com/remote-jobs/mailerlite-graphic-designer",
@@ -166,7 +120,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -180,7 +134,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -194,7 +148,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
@@ -208,7 +162,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
     },
@@ -297,7 +251,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
