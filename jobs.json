@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-08T12:47:15Z",
+  "updated": "2026-06-08T21:15:28Z",
   "threshold": 60,
-  "count": 18,
+  "count": 19,
   "jobs": [
     {
       "title": "Multi Grade Geographically Position",
@@ -16,7 +16,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -34,23 +34,6 @@
         "Branding",
         "Social Media",
         "Fotografie"
-      ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Junior Graphic Designer (m/w/d)",
-      "company": "nuvallo",
-      "url": "https://www.arbeitnow.com/jobs/companies/nuvallo/junior-graphic-designer-berlin-46044",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie",
-        "Junior"
       ],
       "age_days": 1,
       "is_match": true,
@@ -88,7 +71,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -102,7 +85,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -123,6 +106,39 @@
       "age_days": 6,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "3D-DesignerIn (m/w/d) in Voll- oder Teilzeit - C4D & Redshift",
+      "company": "LYNIQ STUDIO",
+      "url": "https://www.arbeitnow.com/jobs/companies/lyniq-studio/3d-designerin-in-voll-oder-teilzeit-c4d-redshift-bielefeld-322884",
+      "source": "Arbeitnow",
+      "location": "Bielefeld",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Studentische Hilfskraft (m/w/d/x) für Grafik, Foto- und Videoarbeiten",
+      "company": "DFKI GmbH - Robotics Innovation Center",
+      "url": "https://www.arbeitnow.com/jobs/companies/dfki-gmbh-robotics-innovation-center/studentische-hilfskraft-x-fur-grafik-foto-und-videoarbeiten-bremen-311395",
+      "source": "Arbeitnow",
+      "location": "Bremen",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Web Presence & Platform",
@@ -176,7 +192,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -190,7 +206,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -204,7 +220,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -218,7 +234,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -235,7 +251,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -267,7 +283,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -281,7 +297,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     }
