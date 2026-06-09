@@ -1,9 +1,45 @@
 {
   "app": "Setza",
-  "updated": "2026-06-09T10:43:26Z",
+  "updated": "2026-06-09T18:33:46Z",
   "threshold": 60,
-  "count": 18,
+  "count": 19,
   "jobs": [
+    {
+      "title": "Junior Graphic Designer (m/w/d) (Vollzeit/ +2 Jahre Erfahrung/ ab sofort)",
+      "company": "BAM Communication GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/bam-communication-gmbh/junior-graphic-designer-vollzeit-2-jahre-erfahrung-ab-sofort-berlin-214123",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Produkt-/Industriedesigner*in",
+      "company": "invivo industrial design",
+      "url": "https://www.arbeitnow.com/jobs/companies/invivo-industrial-design/produkt-industriedesignerin-berlin-363598",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Multi Grade Geographically Position",
       "company": "School District No. 27",
@@ -40,6 +76,24 @@
       "is_new": false
     },
     {
+      "title": "Mediengestalter:in (m/w/d)",
+      "company": "1KOMMA5˚",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/mediengestalterin-hamburg-187706",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Graphic Designer",
       "company": "Contra",
       "url": "https://weworkremotely.com/remote-jobs/contra-graphic-designer-5",
@@ -51,7 +105,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -69,7 +123,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -84,39 +138,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
         "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "3D-DesignerIn (m/w/d) in Voll- oder Teilzeit - C4D & Redshift",
-      "company": "LYNIQ STUDIO",
-      "url": "https://www.arbeitnow.com/jobs/companies/lyniq-studio/3d-designerin-in-voll-oder-teilzeit-c4d-redshift-bielefeld-322884",
-      "source": "Arbeitnow",
-      "location": "Bielefeld",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Studentische Hilfskraft (m/w/d/x) für Grafik, Foto- und Videoarbeiten",
-      "company": "DFKI GmbH - Robotics Innovation Center",
-      "url": "https://www.arbeitnow.com/jobs/companies/dfki-gmbh-robotics-innovation-center/studentische-hilfskraft-x-fur-grafik-foto-und-videoarbeiten-bremen-311395",
-      "source": "Arbeitnow",
-      "location": "Bremen",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Social Media",
-        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
@@ -146,7 +167,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
@@ -174,7 +195,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -188,7 +209,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -202,7 +223,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -265,7 +286,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -279,7 +300,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     }
