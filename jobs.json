@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-08T21:15:28Z",
+  "updated": "2026-06-09T10:43:26Z",
   "threshold": 60,
-  "count": 19,
+  "count": 18,
   "jobs": [
     {
       "title": "Multi Grade Geographically Position",
@@ -35,41 +35,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Associate Product Designer",
-      "company": "World Wide Technology",
-      "url": "https://jobicy.com/jobs/143456-associate-product-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 30,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Remote - Graphics Designer - Output Based/Hourly",
-      "company": "Kirin",
-      "url": "https://himalayas.app/companies/kirin/jobs/remote-graphics-designer-output-based-hourly-7812245033",
-      "source": "Himalayas",
-      "location": "Philippines",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -108,6 +74,22 @@
       "is_new": false
     },
     {
+      "title": "Performance Creative Designer (m/w/d)",
+      "company": "Curia Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/curia-consulting-gmbh/performance-creative-designer-dusseldorf-447331",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "3D-DesignerIn (m/w/d) in Voll- oder Teilzeit - C4D & Redshift",
       "company": "LYNIQ STUDIO",
       "url": "https://www.arbeitnow.com/jobs/companies/lyniq-studio/3d-designerin-in-voll-oder-teilzeit-c4d-redshift-bielefeld-322884",
@@ -121,7 +103,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Studentische Hilfskraft (m/w/d/x) für Grafik, Foto- und Videoarbeiten",
@@ -138,7 +120,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer, Web Presence & Platform",
@@ -150,7 +132,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -178,7 +160,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -267,7 +249,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
     },
