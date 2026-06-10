@@ -1,45 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-06-09T23:54:05Z",
+  "updated": "2026-06-10T12:40:40Z",
   "threshold": 60,
-  "count": 19,
+  "count": 17,
   "jobs": [
-    {
-      "title": "Junior Graphic Designer (m/w/d) (Vollzeit/ +2 Jahre Erfahrung/ ab sofort)",
-      "company": "BAM Communication GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/bam-communication-gmbh/junior-graphic-designer-vollzeit-2-jahre-erfahrung-ab-sofort-berlin-214123",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Produkt-/Industriedesigner*in",
-      "company": "invivo industrial design",
-      "url": "https://www.arbeitnow.com/jobs/companies/invivo-industrial-design/produkt-industriedesignerin-berlin-363598",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Multi Grade Geographically Position",
       "company": "School District No. 27",
@@ -71,25 +35,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Mediengestalter:in (m/w/d)",
-      "company": "1KOMMA5˚",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/mediengestalterin-hamburg-187706",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -123,25 +69,39 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Performance Creative Designer (m/w/d)",
-      "company": "Curia Consulting GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/curia-consulting-gmbh/performance-creative-designer-dusseldorf-447331",
-      "source": "Arbeitnow",
-      "location": "Düsseldorf",
-      "remote": false,
+      "title": "Web Designer",
+      "company": "Regex SEO",
+      "url": "https://remoteOK.com/remote-jobs/remote-web-designer-regex-seo-1133051",
+      "source": "RemoteOK",
+      "location": "Remote",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Instructional Designer",
+      "company": "Bluefield University",
+      "url": "https://remoteOK.com/remote-jobs/remote-instructional-designer-bluefield-university-1133145",
+      "source": "RemoteOK",
+      "location": "Bluefield, ",
+      "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Designer, Web Presence & Platform",
@@ -153,7 +113,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -167,7 +127,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -181,7 +141,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -270,7 +230,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
