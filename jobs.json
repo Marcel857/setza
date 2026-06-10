@@ -1,31 +1,51 @@
 {
   "app": "Setza",
-  "updated": "2026-06-10T12:40:40Z",
+  "updated": "2026-06-10T21:28:57Z",
   "threshold": 60,
-  "count": 17,
+  "count": 19,
   "jobs": [
     {
-      "title": "Multi Grade Geographically Position",
-      "company": "School District No. 27",
-      "url": "https://remoteOK.com/remote-jobs/remote-multi-grade-geographically-position-school-district-no-27-1132973",
-      "source": "RemoteOK",
-      "location": "Anahim Lake, ",
-      "remote": true,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Graphic Designer (Print & Digital) -  Part-Time (15 - 20 Hours/Week) (m/w/d)",
+      "company": "Walt's Comic Shop",
+      "url": "https://www.arbeitnow.com/jobs/companies/walts-comic-shop/graphic-designer-print-digital-part-time-15-20-hours-week-berlin-385688",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Junior"
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
       ],
-      "age_days": 3,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Graphic Narrator",
-      "company": "Resilient Solutions Plus, LLC",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-narrator-resilient-solutions-plus-llc-1132981",
+      "title": "Grafikdesigner:in - Teilzeit 15-20 Stunden/ Woche (m/w/d)",
+      "company": "Walt's Comic Shop",
+      "url": "https://www.arbeitnow.com/jobs/companies/walts-comic-shop/grafikdesignerin-teilzeit-15-20-stunden-woche-berlin-161551",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Designer",
+      "company": "TED Conferences",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-ted-conferences-1133078",
       "source": "RemoteOK",
-      "location": "Baltimore, ",
+      "location": "New York, New York, New York, United States",
       "remote": true,
       "score": 87,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
@@ -35,9 +55,9 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 3,
+      "age_days": 1,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -51,27 +71,40 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Graphic Designer",
-      "company": "MailerLite",
-      "url": "https://weworkremotely.com/remote-jobs/mailerlite-graphic-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
+      "title": "Product Designer",
+      "company": "Butter",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-butter-1133097",
+      "source": "RemoteOK",
+      "location": "San Francisco Bay Area",
       "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Brand Designer",
+      "company": "Canals",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-designer-canals-1133104",
+      "source": "RemoteOK",
+      "location": "New York, New York, New York, United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
         "Branding",
-        "Social Media",
         "Fotografie"
       ],
-      "age_days": 8,
+      "age_days": 1,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Web Designer",
@@ -85,7 +118,7 @@
       "tags": [],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Instructional Designer",
@@ -101,7 +134,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer, Web Presence & Platform",
@@ -155,7 +188,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -169,7 +202,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 29,
+      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
@@ -183,7 +216,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 29,
+      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
@@ -197,7 +230,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -214,7 +247,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
@@ -246,7 +279,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -260,7 +293,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     }
