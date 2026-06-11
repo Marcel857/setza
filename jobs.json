@@ -1,45 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-06-10T21:28:57Z",
+  "updated": "2026-06-11T12:30:42Z",
   "threshold": 60,
-  "count": 19,
+  "count": 17,
   "jobs": [
-    {
-      "title": "Graphic Designer (Print & Digital) -  Part-Time (15 - 20 Hours/Week) (m/w/d)",
-      "company": "Walt's Comic Shop",
-      "url": "https://www.arbeitnow.com/jobs/companies/walts-comic-shop/graphic-designer-print-digital-part-time-15-20-hours-week-berlin-385688",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Grafikdesigner:in - Teilzeit 15-20 Stunden/ Woche (m/w/d)",
-      "company": "Walt's Comic Shop",
-      "url": "https://www.arbeitnow.com/jobs/companies/walts-comic-shop/grafikdesignerin-teilzeit-15-20-stunden-woche-berlin-161551",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Designer",
       "company": "TED Conferences",
@@ -57,7 +21,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -87,7 +51,7 @@
       "tags": [],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Brand Designer",
@@ -104,7 +68,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Web Designer",
@@ -116,7 +80,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -132,7 +96,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -146,7 +110,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -160,7 +124,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
@@ -174,7 +138,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -263,7 +227,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
