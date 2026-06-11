@@ -1,44 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-06-11T12:30:42Z",
+  "updated": "2026-06-11T21:31:30Z",
   "threshold": 60,
-  "count": 17,
+  "count": 10,
   "jobs": [
-    {
-      "title": "Designer",
-      "company": "TED Conferences",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-ted-conferences-1133078",
-      "source": "RemoteOK",
-      "location": "New York, New York, New York, United States",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Contra",
-      "url": "https://weworkremotely.com/remote-jobs/contra-graphic-designer-5",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Product Designer",
       "company": "Butter",
@@ -49,7 +14,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -66,39 +31,23 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Web Designer",
-      "company": "Regex SEO",
-      "url": "https://remoteOK.com/remote-jobs/remote-web-designer-regex-seo-1133051",
-      "source": "RemoteOK",
-      "location": "Remote",
+      "title": "Autodesk Civil 3D Designer",
+      "company": "EquipmentShare",
+      "url": "https://jobicy.com/jobs/146211-autodesk-civil-3d-designer",
+      "source": "Jobicy",
+      "location": "USA",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Instructional Designer",
-      "company": "Bluefield University",
-      "url": "https://remoteOK.com/remote-jobs/remote-instructional-designer-bluefield-university-1133145",
-      "source": "RemoteOK",
-      "location": "Bluefield, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 2,
-      "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Designer, Web Presence & Platform",
@@ -152,34 +101,6 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI/UX Designer",
-      "company": "ManTech",
-      "url": "https://jobicy.com/jobs/143624-ui-ux-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 30,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Instructional Designer",
-      "company": "LastPass",
-      "url": "https://jobicy.com/jobs/143623-instructional-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
       "age_days": 30,
       "is_match": true,
       "is_new": false
@@ -194,7 +115,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -211,7 +132,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -228,36 +149,6 @@
         "Social Media"
       ],
       "age_days": 28,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand Designer",
-      "company": "Contra",
-      "url": "https://weworkremotely.com/remote-jobs/contra-brand-designer-7",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Contra",
-      "url": "https://weworkremotely.com/remote-jobs/contra-product-designer-5",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 29,
       "is_match": true,
       "is_new": false
     }
