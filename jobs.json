@@ -1,28 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-06-12T11:54:50Z",
+  "updated": "2026-06-12T18:31:25Z",
   "threshold": 60,
-  "count": 10,
+  "count": 8,
   "jobs": [
-    {
-      "title": "Grafiker / Brand Designer (m/w/d) - Teilzeit 20-30h",
-      "company": "Bearpaw GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/bearpaw-gmbh/grafiker-brand-designer-teilzeit-20-30h-bamberg-303463",
-      "source": "Arbeitnow",
-      "location": "Bamberg",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Junior Web Designer",
       "company": "INFUSE",
@@ -38,7 +19,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Autodesk Civil 3D Designer",
@@ -50,7 +31,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -88,20 +69,6 @@
       "url": "https://jobicy.com/jobs/143763-conversational-designer",
       "source": "Jobicy",
       "location": "UK",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 30,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Professional Application Designer",
-      "company": "Gainwell Technologies",
-      "url": "https://jobicy.com/jobs/143683-professional-application-designer",
-      "source": "Jobicy",
-      "location": "USA",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
