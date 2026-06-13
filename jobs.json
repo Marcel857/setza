@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-13T00:05:29Z",
+  "updated": "2026-06-13T10:17:03Z",
   "threshold": 60,
-  "count": 7,
+  "count": 5,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -17,7 +17,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -31,7 +31,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -46,20 +46,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 23,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Conversational Designer",
-      "company": "Cresta",
-      "url": "https://jobicy.com/jobs/143763-conversational-designer",
-      "source": "Jobicy",
-      "location": "UK",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
@@ -91,22 +77,6 @@
         "Fotografie"
       ],
       "age_days": 22,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Turkish-Speaking Video & Motion Graphics Designer",
-      "company": "XM",
-      "url": "https://weworkremotely.com/remote-jobs/xm-turkish-speaking-video-motion-graphics-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Social Media"
-      ],
-      "age_days": 29,
       "is_match": true,
       "is_new": false
     }
