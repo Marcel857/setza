@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-12T18:31:25Z",
+  "updated": "2026-06-13T00:05:29Z",
   "threshold": 60,
-  "count": 8,
+  "count": 7,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -17,20 +17,6 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Autodesk Civil 3D Designer",
-      "company": "EquipmentShare",
-      "url": "https://jobicy.com/jobs/146211-autodesk-civil-3d-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
       "age_days": 1,
       "is_match": true,
       "is_new": false
@@ -87,7 +73,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -104,7 +90,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
