@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-06-15T16:22:25Z",
+  "updated": "2026-06-15T23:17:22Z",
   "threshold": 60,
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "title": "Mediengestaltung / Grafikdesign",
+      "company": "Projektron GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/mediengestaltung-grafikdesign-berlin-391272",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer Project",
       "company": "Twine",
@@ -18,7 +35,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Autodesk Civil 3D Designer",
@@ -72,7 +89,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -89,7 +106,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     }
