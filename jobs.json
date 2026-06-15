@@ -1,25 +1,24 @@
 {
   "app": "Setza",
-  "updated": "2026-06-14T20:23:27Z",
+  "updated": "2026-06-15T16:22:25Z",
   "threshold": 60,
   "count": 6,
   "jobs": [
     {
-      "title": "Junior Web Designer",
-      "company": "INFUSE",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-infuse-1133315",
+      "title": "Brand Designer Project",
+      "company": "Twine",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-designer-project-twine-1133404",
       "source": "RemoteOK",
-      "location": "Baki, Baki, Jawa Tengah, Indonesia",
+      "location": "Australia, ",
       "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Fotografie",
-        "Junior"
+        "Branding"
       ],
-      "age_days": 3,
+      "age_days": 1,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Autodesk Civil 3D Designer",
@@ -31,7 +30,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -45,7 +44,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -59,7 +58,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
     },
