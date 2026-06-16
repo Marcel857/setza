@@ -1,23 +1,22 @@
 {
   "app": "Setza",
-  "updated": "2026-06-16T18:13:54Z",
+  "updated": "2026-06-16T23:55:17Z",
   "threshold": 60,
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
-      "title": "Mediengestalter/in Digital und Print (mwd)",
-      "company": "Bugaga Werbeagentur e.K.",
-      "url": "https://www.arbeitnow.com/jobs/companies/bugaga-werbeagentur-ek/mediengestalter-in-digital-und-print-mwd-hamburg-84636",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
+      "title": "Graphic Designer",
+      "company": "The Fountain Group",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-the-fountain-group-1133453",
+      "source": "RemoteOK",
+      "location": "San Francisco, San Francisco, California, United States",
       "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print",
-        "Fotografie"
+        "Packaging/Print"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": true
     },
@@ -38,6 +37,20 @@
       "is_new": false
     },
     {
+      "title": "Surfacing Designer",
+      "company": "Meta",
+      "url": "https://jobicy.com/jobs/146920-surfacing-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Product Designer",
       "company": "Pogo",
       "url": "https://jobicy.com/jobs/146718-product-designer-5",
@@ -51,7 +64,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Autodesk Civil 3D Designer",
@@ -105,7 +118,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -122,7 +135,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
     }
