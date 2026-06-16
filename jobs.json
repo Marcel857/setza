@@ -1,16 +1,16 @@
 {
   "app": "Setza",
-  "updated": "2026-06-15T23:17:22Z",
+  "updated": "2026-06-16T18:13:54Z",
   "threshold": 60,
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
-      "title": "Mediengestaltung / Grafikdesign",
-      "company": "Projektron GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/mediengestaltung-grafikdesign-berlin-391272",
+      "title": "Mediengestalter/in Digital und Print (mwd)",
+      "company": "Bugaga Werbeagentur e.K.",
+      "url": "https://www.arbeitnow.com/jobs/companies/bugaga-werbeagentur-ek/mediengestalter-in-digital-und-print-mwd-hamburg-84636",
       "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
+      "location": "Hamburg",
+      "remote": true,
       "score": 87,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
@@ -33,9 +33,25 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Pogo",
+      "url": "https://jobicy.com/jobs/146718-product-designer-5",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Autodesk Civil 3D Designer",
@@ -47,7 +63,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -61,7 +77,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -75,7 +91,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
