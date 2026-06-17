@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-17T13:02:17Z",
+  "updated": "2026-06-17T21:24:51Z",
   "threshold": 60,
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "title": "Grafikdesigner:in",
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -32,9 +32,23 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer Design Systems",
+      "company": "Penn Interactive",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-design-systems-penn-interactive-1133499",
+      "source": "RemoteOK",
+      "location": "Remote",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Brand Designer Project",
@@ -48,23 +62,20 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Digital Designer",
-      "company": "VALD",
-      "url": "https://himalayas.app/companies/vald/jobs/digital-designer",
-      "source": "Himalayas",
-      "location": "Netherlands",
+      "title": "Electrical Designer",
+      "company": "ManTech",
+      "url": "https://jobicy.com/jobs/147053-electrical-designer",
+      "source": "Jobicy",
+      "location": "USA",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -79,7 +90,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -109,7 +120,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -151,7 +162,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -168,7 +179,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     }
