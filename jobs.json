@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-06-16T23:55:17Z",
+  "updated": "2026-06-17T13:02:17Z",
   "threshold": 60,
-  "count": 9,
+  "count": 11,
   "jobs": [
+    {
+      "title": "Grafikdesigner:in",
+      "company": "bits&birds GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/bitsbirds-gmbh/grafikdesignerin-passau-468341",
+      "source": "Arbeitnow",
+      "location": "Passau",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Graphic Designer",
       "company": "The Fountain Group",
@@ -18,7 +34,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Brand Designer Project",
@@ -37,6 +53,23 @@
       "is_new": false
     },
     {
+      "title": "Digital Designer",
+      "company": "VALD",
+      "url": "https://himalayas.app/companies/vald/jobs/digital-designer",
+      "source": "Himalayas",
+      "location": "Netherlands",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Surfacing Designer",
       "company": "Meta",
       "url": "https://jobicy.com/jobs/146920-surfacing-designer",
@@ -48,7 +81,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer",
@@ -62,7 +95,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -90,7 +123,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -104,7 +137,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
