@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-06-17T21:24:51Z",
+  "updated": "2026-06-18T11:57:48Z",
   "threshold": 60,
-  "count": 12,
+  "count": 10,
   "jobs": [
-    {
-      "title": "Grafikdesigner:in",
-      "company": "bits&birds GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/bitsbirds-gmbh/grafikdesignerin-passau-468341",
-      "source": "Arbeitnow",
-      "location": "Passau",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Graphic Designer",
       "company": "The Fountain Group",
@@ -37,6 +21,20 @@
       "is_new": false
     },
     {
+      "title": "Design System Designer  (m/w/d) / fluege.de",
+      "company": "Invia Flights Germany GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/design-system-designer-fluegede-leipzig-307228",
+      "source": "Arbeitnow",
+      "location": "Leipzig",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Product Designer Design Systems",
       "company": "Penn Interactive",
       "url": "https://remoteOK.com/remote-jobs/remote-product-designer-design-systems-penn-interactive-1133499",
@@ -47,22 +45,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 1,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Brand Designer Project",
-      "company": "Twine",
-      "url": "https://remoteOK.com/remote-jobs/remote-brand-designer-project-twine-1133404",
-      "source": "RemoteOK",
-      "location": "Australia, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -78,7 +60,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Surfacing Designer",
@@ -90,22 +72,6 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Pogo",
-      "url": "https://jobicy.com/jobs/146718-product-designer-5",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
       "age_days": 1,
       "is_match": true,
       "is_new": false
@@ -134,7 +100,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -148,7 +114,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
