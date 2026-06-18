@@ -1,24 +1,76 @@
 {
   "app": "Setza",
-  "updated": "2026-06-18T11:57:48Z",
+  "updated": "2026-06-18T20:42:47Z",
   "threshold": 60,
-  "count": 10,
+  "count": 13,
   "jobs": [
     {
-      "title": "Graphic Designer",
-      "company": "The Fountain Group",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-the-fountain-group-1133453",
+      "title": "Junior Project Designer",
+      "company": "Archinect",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-project-designer-archinect-1133677",
       "source": "RemoteOK",
-      "location": "San Francisco, San Francisco, California, United States",
+      "location": "Hoboken, ",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Kommunikationsdesigner (m/w/d) Online und Print",
+      "company": "api GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/api-gmbh/kommunikationsdesigner-online-und-print-baesweiler-52294",
+      "source": "Arbeitnow",
+      "location": "Baesweiler",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Mediengestalter (m/w/d) Online und Print",
+      "company": "api GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/api-gmbh/mediengestalter-online-und-print-baesweiler-13286",
+      "source": "Arbeitnow",
+      "location": "Baesweiler",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Designer",
+      "company": "Newsquest Media Group",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-newsquest-media-group-1133546",
+      "source": "RemoteOK",
+      "location": "Northern Ireland, Northern Ireland, United Kingdom",
       "remote": true,
       "score": 82,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print"
+        "Packaging/Print",
+        "Fotografie"
       ],
-      "age_days": 2,
+      "age_days": 1,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Design System Designer  (m/w/d) / fluege.de",
@@ -32,7 +84,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer Design Systems",
@@ -44,7 +96,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -58,7 +110,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -72,7 +124,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -86,7 +138,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -128,7 +180,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -145,7 +197,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     }
