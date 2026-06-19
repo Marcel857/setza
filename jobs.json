@@ -1,28 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-06-19T12:33:23Z",
+  "updated": "2026-06-19T19:15:56Z",
   "threshold": 60,
   "count": 12,
   "jobs": [
-    {
-      "title": "Digital Designer für Sportcontent (w/m/d)",
-      "company": "agido GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/agido-gmbh/digital-designer-fur-sportcontent-dortmund-108704",
-      "source": "Arbeitnow",
-      "location": "Dortmund",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Junior Project Designer",
       "company": "Archinect",
@@ -41,6 +22,24 @@
       "is_new": false
     },
     {
+      "title": "Mediengestalter / Grafikdesigner Marketing (m/w/d)",
+      "company": "geo-FENNEL GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/geo-fennel-gmbh/mediengestalter-grafikdesigner-marketing-baunatal-11646",
+      "source": "Arbeitnow",
+      "location": "Baunatal",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Designer",
       "company": "Newsquest Media Group",
       "url": "https://remoteOK.com/remote-jobs/remote-designer-newsquest-media-group-1133546",
@@ -53,9 +52,26 @@
         "Packaging/Print",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Swoon",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676",
+      "source": "RemoteOK",
+      "location": "New York, New York, United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Social Content Designer & Producer",
@@ -69,20 +85,6 @@
       "tags": [],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Product Designer Design Systems",
-      "company": "Penn Interactive",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-design-systems-penn-interactive-1133499",
-      "source": "RemoteOK",
-      "location": "Remote",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 2,
-      "is_match": true,
       "is_new": false
     },
     {
@@ -95,7 +97,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -109,7 +111,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -123,7 +125,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -165,7 +167,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -182,7 +184,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     }
