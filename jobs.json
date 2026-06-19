@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-06-19T19:15:56Z",
+  "updated": "2026-06-19T22:39:00Z",
   "threshold": 60,
   "count": 12,
   "jobs": [
@@ -37,7 +37,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer",
@@ -71,7 +71,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Social Content Designer & Producer",
