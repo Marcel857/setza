@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-06-18T20:42:47Z",
+  "updated": "2026-06-19T12:33:23Z",
   "threshold": 60,
-  "count": 13,
+  "count": 12,
   "jobs": [
+    {
+      "title": "Digital Designer für Sportcontent (w/m/d)",
+      "company": "agido GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/agido-gmbh/digital-designer-fur-sportcontent-dortmund-108704",
+      "source": "Arbeitnow",
+      "location": "Dortmund",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Junior Project Designer",
       "company": "Archinect",
@@ -17,43 +36,9 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Kommunikationsdesigner (m/w/d) Online und Print",
-      "company": "api GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/api-gmbh/kommunikationsdesigner-online-und-print-baesweiler-52294",
-      "source": "Arbeitnow",
-      "location": "Baesweiler",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Mediengestalter (m/w/d) Online und Print",
-      "company": "api GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/api-gmbh/mediengestalter-online-und-print-baesweiler-13286",
-      "source": "Arbeitnow",
-      "location": "Baesweiler",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer",
@@ -70,21 +55,21 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Design System Designer  (m/w/d) / fluege.de",
-      "company": "Invia Flights Germany GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/invia-flights-germany-gmbh/design-system-designer-fluegede-leipzig-307228",
-      "source": "Arbeitnow",
-      "location": "Leipzig",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Social Content Designer & Producer",
+      "company": "Josie Maran",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-content-designer-producer-josie-maran-1133579",
+      "source": "RemoteOK",
+      "location": "Remote, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Product Designer Design Systems",
@@ -152,7 +137,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -166,7 +151,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 29,
+      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
