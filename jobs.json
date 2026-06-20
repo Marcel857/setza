@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-06-20T10:15:22Z",
+  "updated": "2026-06-20T16:02:54Z",
   "threshold": 60,
-  "count": 14,
+  "count": 12,
   "jobs": [
-    {
-      "title": "Sr Graphic Designer",
-      "company": "Great Minds",
-      "url": "https://himalayas.app/companies/great-minds/jobs/sr-graphic-designer",
-      "source": "Himalayas",
-      "location": "Serbia",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Junior Graphic Designer",
       "company": "Work Force Nexus",
@@ -36,7 +18,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Mediengestalter / Grafikdesigner Marketing (m/w/d)",
@@ -52,7 +34,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -69,23 +51,22 @@
         "Packaging/Print",
         "Fotografie"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Graphic Designer (m/f/x)",
-      "company": "bwise Media AG",
-      "url": "https://himalayas.app/companies/bwise-media-ag/jobs/graphic-designer-m-f-x",
+      "title": "Graphic Designer (5 Month Contract)",
+      "company": "Clio",
+      "url": "https://himalayas.app/companies/clio/jobs/graphic-designer-5-month-contract",
       "source": "Himalayas",
-      "location": "Croatia, Italy, Serbia",
+      "location": "Canada",
       "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
+        "Packaging/Print",
+        "Branding"
       ],
       "age_days": 0,
       "is_match": true,
@@ -104,7 +85,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -160,7 +141,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -175,20 +156,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 15,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Motion Designer (Contractor)",
-      "company": "Fortis Games",
-      "url": "https://jobicy.com/jobs/144330-motion-designer-contractor",
-      "source": "Jobicy",
-      "location": "Portugal",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
