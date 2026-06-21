@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-21T16:57:07Z",
+  "updated": "2026-06-21T21:59:38Z",
   "threshold": 60,
-  "count": 11,
+  "count": 10,
   "jobs": [
     {
       "title": "Grafik Designer/ Mediengestalter (m/w/d) dein Design im Fokus",
@@ -21,7 +21,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior Graphic Designer",
@@ -38,22 +38,6 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "UX/UI Designer",
-      "company": "Pavago",
-      "url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer-8312075770",
-      "source": "Himalayas",
-      "location": "Costa Rica",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Grafiker & Video Creator",
@@ -114,7 +98,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -170,7 +154,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     }
