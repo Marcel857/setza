@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-06-21T10:46:28Z",
+  "updated": "2026-06-21T16:57:07Z",
   "threshold": 60,
-  "count": 9,
+  "count": 11,
   "jobs": [
+    {
+      "title": "Grafik Designer/ Mediengestalter (m/w/d) dein Design im Fokus",
+      "company": "LK Recruiting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/lk-recruiting-gmbh/grafik-designer-mediengestalter-dein-design-im-fokus-braunschweig-272666",
+      "source": "Arbeitnow",
+      "location": "Braunschweig",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Junior Graphic Designer",
       "company": "Work Force Nexus",
@@ -21,6 +40,22 @@
       "is_new": false
     },
     {
+      "title": "UX/UI Designer",
+      "company": "Pavago",
+      "url": "https://himalayas.app/companies/pavago/jobs/ux-ui-designer-8312075770",
+      "source": "Himalayas",
+      "location": "Costa Rica",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Grafiker & Video Creator",
       "company": "InkuPlay UG (haftungsbeschränkt)",
       "url": "https://www.arbeitnow.com/jobs/companies/inkuplay-ug-haftungsbeschrankt/grafiker-video-creator-biesenthal-352403",
@@ -36,7 +71,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -51,7 +86,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -93,7 +128,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -107,7 +142,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
