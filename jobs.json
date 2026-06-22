@@ -1,28 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-06-21T21:59:38Z",
+  "updated": "2026-06-22T16:14:59Z",
   "threshold": 60,
-  "count": 10,
+  "count": 8,
   "jobs": [
-    {
-      "title": "Grafik Designer/ Mediengestalter (m/w/d) dein Design im Fokus",
-      "company": "LK Recruiting GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/lk-recruiting-gmbh/grafik-designer-mediengestalter-dein-design-im-fokus-braunschweig-272666",
-      "source": "Arbeitnow",
-      "location": "Braunschweig",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior Graphic Designer",
       "company": "Work Force Nexus",
@@ -35,25 +16,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Grafiker & Video Creator",
-      "company": "InkuPlay UG (haftungsbeschränkt)",
-      "url": "https://www.arbeitnow.com/jobs/companies/inkuplay-ug-haftungsbeschrankt/grafiker-video-creator-biesenthal-352403",
-      "source": "Arbeitnow",
-      "location": "Biesenthal",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -70,23 +33,23 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Social Content Designer & Producer",
-      "company": "Josie Maran",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-content-designer-producer-josie-maran-1133579",
-      "source": "RemoteOK",
-      "location": "Remote, ",
+      "title": "UNPAID VOLUNTEER - Learning Designer / Learning Technologist",
+      "company": "Blockchain & Climate Institute",
+      "url": "https://himalayas.app/companies/blockchain-climate-institute/jobs/unpaid-volunteer-learning-designer-learning-technologist",
+      "source": "Himalayas",
+      "location": "United Kingdom",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Electrical Designer",
@@ -112,7 +75,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -126,7 +89,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -140,7 +103,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
