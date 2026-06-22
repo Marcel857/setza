@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-22T16:14:59Z",
+  "updated": "2026-06-22T22:27:41Z",
   "threshold": 60,
-  "count": 8,
+  "count": 7,
   "jobs": [
     {
       "title": "Junior Graphic Designer",
@@ -38,20 +38,6 @@
       "is_new": false
     },
     {
-      "title": "UNPAID VOLUNTEER - Learning Designer / Learning Technologist",
-      "company": "Blockchain & Climate Institute",
-      "url": "https://himalayas.app/companies/blockchain-climate-institute/jobs/unpaid-volunteer-learning-designer-learning-technologist",
-      "source": "Himalayas",
-      "location": "United Kingdom",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Electrical Designer",
       "company": "ManTech",
       "url": "https://jobicy.com/jobs/147053-electrical-designer",
@@ -61,7 +47,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -117,7 +103,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     }
