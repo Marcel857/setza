@@ -1,24 +1,56 @@
 {
   "app": "Setza",
-  "updated": "2026-06-23T10:48:02Z",
+  "updated": "2026-06-23T17:34:15Z",
   "threshold": 60,
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
-      "title": "Junior Graphic Designer",
-      "company": "Work Force Nexus",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-work-force-nexus-1133696",
-      "source": "RemoteOK",
-      "location": "Remote, ",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "title": "Mediengestalter & Medientechniker (50%/50%) (m/w/d)",
+      "company": "SIGMA System Audio-Visuell GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/sigma-system-audio-visuell-gmbh/mediengestalter-medientechniker-50-50-dusseldorf-198310",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Junior"
+        "Packaging/Print"
       ],
-      "age_days": 4,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Creative Cove Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-creative-cove-inc-1133972",
+      "source": "RemoteOK",
+      "location": "Greater Boston",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Schrankdesigner (w/m/d) gesucht! Ref.Nr. 4200!",
+      "company": "agex IT gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/agex-it-gmbh/schrankdesigner-gesucht-refnr-4200-stuttgart-224814",
+      "source": "Arbeitnow",
+      "location": "Stuttgart",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Kosmetikerin und/oder Nageldesignerin",
@@ -32,7 +64,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Digital Marketing Designer",
@@ -50,21 +82,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "REMOTE - Truss Designer",
-      "company": "UFP Industries",
-      "url": "https://himalayas.app/companies/ufp-industries/jobs/remote-truss-designer",
-      "source": "Himalayas",
-      "location": "Australia, Canada, Ireland, New Zealand, South Africa, United Kingdom, United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Surfacing Designer",
@@ -76,7 +94,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -90,7 +108,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
