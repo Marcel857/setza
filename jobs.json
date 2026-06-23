@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-06-23T17:34:15Z",
+  "updated": "2026-06-23T22:46:20Z",
   "threshold": 60,
   "count": 9,
   "jobs": [
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -36,7 +36,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Schrankdesigner (w/m/d) gesucht! Ref.Nr. 4200!",
@@ -44,20 +44,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/agex-it-gmbh/schrankdesigner-gesucht-refnr-4200-stuttgart-224814",
       "source": "Arbeitnow",
       "location": "Stuttgart",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Kosmetikerin und/oder Nageldesignerin",
-      "company": "Pow korean concept",
-      "url": "https://www.arbeitnow.com/jobs/companies/pow-korean-concept/kosmetikerin-und-oder-nageldesignerin-frankfurt-am-main-247135",
-      "source": "Arbeitnow",
-      "location": "Frankfurt am Main",
       "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
@@ -83,6 +69,23 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Brand & Web Designer",
+      "company": "Motivity",
+      "url": "https://himalayas.app/companies/motivity/jobs/brand-web-designer",
+      "source": "Himalayas",
+      "location": "Australia, Canada, France, Germany, India, Nigeria, Philippines, South Africa, United Kingdom, United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Surfacing Designer",
@@ -136,7 +139,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     }
