@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-22T22:27:41Z",
+  "updated": "2026-06-23T10:48:02Z",
   "threshold": 60,
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "title": "Junior Graphic Designer",
@@ -16,40 +16,55 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Swoon",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676",
-      "source": "RemoteOK",
-      "location": "New York, New York, United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
       "age_days": 4,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Electrical Designer",
-      "company": "ManTech",
-      "url": "https://jobicy.com/jobs/147053-electrical-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "title": "Kosmetikerin und/oder Nageldesignerin",
+      "company": "Pow korean concept",
+      "url": "https://www.arbeitnow.com/jobs/companies/pow-korean-concept/kosmetikerin-und-oder-nageldesignerin-frankfurt-am-main-247135",
+      "source": "Arbeitnow",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 5,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "Digital Marketing Designer",
+      "company": "Format",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-marketing-designer-format-1133916",
+      "source": "RemoteOK",
+      "location": "Toronto, Toronto, Ontario, Canada",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "REMOTE - Truss Designer",
+      "company": "UFP Industries",
+      "url": "https://himalayas.app/companies/ufp-industries/jobs/remote-truss-designer",
+      "source": "Himalayas",
+      "location": "Australia, Canada, Ireland, New Zealand, South Africa, United Kingdom, United States",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Surfacing Designer",
@@ -89,7 +104,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
