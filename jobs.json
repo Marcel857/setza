@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-06-24T18:12:51Z",
+  "updated": "2026-06-24T22:50:49Z",
   "threshold": 60,
   "count": 9,
   "jobs": [
@@ -38,7 +38,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -59,23 +59,6 @@
       "is_new": false
     },
     {
-      "title": "Content Creator (Video & Grafik) im Pferderennsport (m/w/d)",
-      "company": "German Tote Serv.-u.Bet. GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/german-tote-serv-ubet-gmbh/content-creator-video-grafik-im-pferderennsport-neustadt-am-rubenberge-48018",
-      "source": "Arbeitnow",
-      "location": "Neustadt am Rübenberge",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Digital Marketing Designer",
       "company": "Format",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-marketing-designer-format-1133916",
@@ -92,6 +75,20 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Autopilot",
+      "url": "https://himalayas.app/companies/autopilot-is/jobs/product-designer",
+      "source": "Himalayas",
+      "location": "",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Surfacing Designer",
@@ -145,7 +142,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     }
