@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-06-24T10:33:59Z",
+  "updated": "2026-06-24T18:12:51Z",
   "threshold": 60,
   "count": 9,
   "jobs": [
-    {
-      "title": "Mediengestalter & Medientechniker (50%/50%) (m/w/d)",
-      "company": "SIGMA System Audio-Visuell GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/sigma-system-audio-visuell-gmbh/mediengestalter-medientechniker-50-50-dusseldorf-198310",
-      "source": "Arbeitnow",
-      "location": "Düsseldorf",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior Digital Graphic Designer",
       "company": "Nailscamp GmbH",
@@ -33,6 +17,24 @@
         "Branding",
         "Fotografie",
         "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Designer (Marketing & Event Design) (m/w/d)",
+      "company": "Mammutmarsch UG",
+      "url": "https://www.arbeitnow.com/jobs/companies/mammutmarsch-ug/designer-marketing-event-design-berlin-59881",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
@@ -52,7 +54,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -71,7 +73,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Digital Marketing Designer",
@@ -101,7 +103,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -115,7 +117,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
