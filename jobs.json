@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-06-23T22:46:20Z",
+  "updated": "2026-06-24T10:33:59Z",
   "threshold": 60,
   "count": 9,
   "jobs": [
@@ -21,6 +21,24 @@
       "is_new": false
     },
     {
+      "title": "Junior Digital Graphic Designer",
+      "company": "Nailscamp GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/nailscamp-gmbh/junior-digital-graphic-designer-berlin-74629",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Graphic Designer",
       "company": "Creative Cove Inc.",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-creative-cove-inc-1133972",
@@ -39,18 +57,21 @@
       "is_new": false
     },
     {
-      "title": "Schrankdesigner (w/m/d) gesucht! Ref.Nr. 4200!",
-      "company": "agex IT gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/agex-it-gmbh/schrankdesigner-gesucht-refnr-4200-stuttgart-224814",
+      "title": "Content Creator (Video & Grafik) im Pferderennsport (m/w/d)",
+      "company": "German Tote Serv.-u.Bet. GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/german-tote-serv-ubet-gmbh/content-creator-video-grafik-im-pferderennsport-neustadt-am-rubenberge-48018",
       "source": "Arbeitnow",
-      "location": "Stuttgart",
+      "location": "Neustadt am Rübenberge",
       "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Digital Marketing Designer",
@@ -66,26 +87,9 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Brand & Web Designer",
-      "company": "Motivity",
-      "url": "https://himalayas.app/companies/motivity/jobs/brand-web-designer",
-      "source": "Himalayas",
-      "location": "Australia, Canada, France, Germany, India, Nigeria, Philippines, South Africa, United Kingdom, United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Surfacing Designer",
@@ -125,7 +129,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
