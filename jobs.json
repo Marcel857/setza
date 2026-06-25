@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-06-25T17:33:36Z",
+  "updated": "2026-06-25T23:01:37Z",
   "threshold": 60,
   "count": 11,
   "jobs": [
@@ -18,7 +18,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -51,22 +51,6 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Creative Concepter / Grafikdesigner:in (m/w/d)",
-      "company": "Growthartig GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/growthartig-gmbh/creative-concepter-grafikdesignerin-berlin-274937",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
       "is_new": false
     },
     {
@@ -82,9 +66,25 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Designer",
+      "company": "ROUTE06",
+      "url": "https://himalayas.app/companies/route06/jobs/designer",
+      "source": "Himalayas",
+      "location": "Japan",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UI/UX Designer",
@@ -166,7 +166,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     }
