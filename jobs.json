@@ -1,26 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-06-24T22:50:49Z",
+  "updated": "2026-06-25T10:24:00Z",
   "threshold": 60,
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
-      "title": "Junior Digital Graphic Designer",
-      "company": "Nailscamp GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/nailscamp-gmbh/junior-digital-graphic-designer-berlin-74629",
+      "title": "Marketingleitung / Grafikdesigner (m/w/d)",
+      "company": "Sweet & Lucky GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/sweet-lucky-gmbh/marketingleitung-grafikdesigner-gondelsheim-376348",
       "source": "Arbeitnow",
-      "location": "Berlin",
+      "location": "Gondelsheim",
       "remote": false,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
+        "Packaging/Print",
         "Branding",
-        "Fotografie",
-        "Junior"
+        "Social Media",
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Designer (Marketing & Event Design) (m/w/d)",
@@ -59,22 +60,37 @@
       "is_new": false
     },
     {
-      "title": "Digital Marketing Designer",
-      "company": "Format",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-marketing-designer-format-1133916",
-      "source": "RemoteOK",
-      "location": "Toronto, Toronto, Ontario, Canada",
-      "remote": true,
+      "title": "Creative Concepter / Grafikdesigner:in (m/w/d)",
+      "company": "Growthartig GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/growthartig-gmbh/creative-concepter-grafikdesignerin-berlin-274937",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Afina",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-afina-1134082",
+      "source": "RemoteOK",
+      "location": "London, London, England, United Kingdom",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
         "Branding",
-        "Social Media",
         "Fotografie"
       ],
       "age_days": 2,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Product Designer",
@@ -88,7 +104,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Surfacing Designer",
@@ -128,7 +144,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
