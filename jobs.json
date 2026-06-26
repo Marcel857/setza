@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-25T23:01:37Z",
+  "updated": "2026-06-26T10:38:35Z",
   "threshold": 60,
-  "count": 11,
+  "count": 10,
   "jobs": [
     {
       "title": "Junior UX UI Designer",
@@ -32,7 +32,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -54,35 +54,18 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer",
-      "company": "Afina",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-afina-1134082",
+      "title": "Architectural Designer Assistant",
+      "company": "Archisearch",
+      "url": "https://remoteOK.com/remote-jobs/remote-architectural-designer-assistant-archisearch-1134110",
       "source": "RemoteOK",
-      "location": "London, London, England, United Kingdom",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Designer",
-      "company": "ROUTE06",
-      "url": "https://himalayas.app/companies/route06/jobs/designer",
-      "source": "Himalayas",
-      "location": "Japan",
+      "location": "Athens, ",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": true
     },
@@ -96,7 +79,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -110,7 +93,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -152,7 +135,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
