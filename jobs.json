@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-06-26T10:38:35Z",
+  "updated": "2026-06-26T17:21:32Z",
   "threshold": 60,
   "count": 10,
   "jobs": [
+    {
+      "title": "Illustrator Graphic Designer",
+      "company": "Longship Marketing",
+      "url": "https://remoteOK.com/remote-jobs/remote-illustrator-graphic-designer-longship-marketing-1134148",
+      "source": "RemoteOK",
+      "location": "Belgrade, Belgrade, Serbia",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Junior UX UI Designer",
       "company": "Work Force Nexus",
@@ -16,7 +34,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -37,23 +55,6 @@
       "is_new": false
     },
     {
-      "title": "Brand Experience Designer (human)",
-      "company": "madhat GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/madhat-gmbh/brand-experience-designer-human-offenbach-429760",
-      "source": "Arbeitnow",
-      "location": "Offenbach",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Architectural Designer Assistant",
       "company": "Archisearch",
       "url": "https://remoteOK.com/remote-jobs/remote-architectural-designer-assistant-archisearch-1134110",
@@ -66,6 +67,20 @@
         "Fotografie"
       ],
       "age_days": 1,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Instructional Designer - Fully Remote | Upto $55/hr",
+      "company": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/instructional-designer-fully-remote-upto-55-hr-1563552149",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
       "is_match": true,
       "is_new": true
     },
@@ -107,21 +122,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Autodesk Civil 3D Designer",
-      "company": "EquipmentShare",
-      "url": "https://jobicy.com/jobs/146211-autodesk-civil-3d-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 14,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
