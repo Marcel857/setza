@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-06-27T16:47:29Z",
+  "updated": "2026-06-27T20:41:23Z",
   "threshold": 60,
-  "count": 10,
+  "count": 8,
   "jobs": [
-    {
-      "title": "Illustrator Graphic Designer",
-      "company": "Longship Marketing",
-      "url": "https://remoteOK.com/remote-jobs/remote-illustrator-graphic-designer-longship-marketing-1134148",
-      "source": "RemoteOK",
-      "location": "Belgrade, Belgrade, Serbia",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior UX UI Designer",
       "company": "Work Force Nexus",
@@ -69,24 +51,6 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Creative Experience Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/miami-christmas-lights/jobs/creative-experience-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "UI/UX Designer",
@@ -154,7 +118,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     }
