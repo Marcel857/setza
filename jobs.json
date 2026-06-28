@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-06-28T08:33:31Z",
+  "updated": "2026-06-28T14:58:55Z",
   "threshold": 60,
-  "count": 8,
+  "count": 7,
   "jobs": [
-    {
-      "title": "Junior UX UI Designer",
-      "company": "Work Force Nexus",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-ux-ui-designer-work-force-nexus-1134022",
-      "source": "RemoteOK",
-      "location": "Remote, ",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
@@ -32,7 +16,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
