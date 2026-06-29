@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-28T23:12:47Z",
+  "updated": "2026-06-29T01:35:43Z",
   "threshold": 60,
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -35,6 +35,22 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Conversation Designer (Portugal based)",
+      "company": "Scotty AI",
+      "url": "https://himalayas.app/companies/scotty-ai/jobs/conversation-designer-portugal-based",
+      "source": "Himalayas",
+      "location": "Portugal",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UI/UX Designer",
