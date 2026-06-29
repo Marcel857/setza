@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-29T06:43:17Z",
+  "updated": "2026-06-29T11:56:19Z",
   "threshold": 60,
-  "count": 8,
+  "count": 10,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -16,9 +16,23 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Technischer Produktdesigner - Fachrichtung Maschinen & Anlagentechnik (m/w/d)",
+      "company": "Ebert HERA Esser Group",
+      "url": "https://www.arbeitnow.com/jobs/companies/ebert-hera-esser-group/technischer-produktdesigner-fachrichtung-maschinen-anlagentechnik-marl-95933",
+      "source": "Arbeitnow",
+      "location": "Marl",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -36,6 +50,22 @@
       ],
       "age_days": 2,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "UX UI Designer",
+      "company": "Siroko",
+      "url": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-siroko-1134233",
+      "source": "RemoteOK",
+      "location": "GijÃ³n, GijÃ³n, Principado de Asturias, EspaÃ±a",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 3,
+      "is_match": true,
       "is_new": true
     },
     {
@@ -50,7 +80,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -64,7 +94,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -78,7 +108,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
