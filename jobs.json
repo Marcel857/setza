@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-06-29T01:35:43Z",
+  "updated": "2026-06-29T06:43:17Z",
   "threshold": 60,
   "count": 8,
   "jobs": [
@@ -21,6 +21,24 @@
       "is_new": false
     },
     {
+      "title": "Graphic Designer",
+      "company": "Digital Executive",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-digital-executive-1134223",
+      "source": "RemoteOK",
+      "location": "English, ",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Architectural Designer Assistant",
       "company": "Archisearch",
       "url": "https://remoteOK.com/remote-jobs/remote-architectural-designer-assistant-archisearch-1134110",
@@ -35,22 +53,6 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Conversation Designer (Portugal based)",
-      "company": "Scotty AI",
-      "url": "https://himalayas.app/companies/scotty-ai/jobs/conversation-designer-portugal-based",
-      "source": "Himalayas",
-      "location": "Portugal",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "UI/UX Designer",
@@ -104,7 +106,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
