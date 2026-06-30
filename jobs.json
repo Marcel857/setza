@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-06-30T11:27:29Z",
+  "updated": "2026-06-30T13:22:52Z",
   "threshold": 60,
-  "count": 11,
+  "count": 10,
   "jobs": [
     {
       "title": "Trading Card & Product Designer (m/w/d)",
@@ -22,7 +22,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -37,24 +37,6 @@
         "Junior"
       ],
       "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Kreativer Mediengestalter Digital & Print (m/w/d)",
-      "company": "consurio AG",
-      "url": "https://www.arbeitnow.com/jobs/companies/consurio-ag/kreativer-mediengestalter-digital-print-frechen-363765",
-      "source": "Arbeitnow",
-      "location": "Frechen",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
