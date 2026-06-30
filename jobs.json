@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-06-30T16:02:04Z",
+  "updated": "2026-06-30T18:18:10Z",
   "threshold": 60,
   "count": 10,
   "jobs": [
@@ -70,7 +70,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UX UI Designer",
@@ -126,7 +126,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
