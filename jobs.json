@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-06-30T13:22:52Z",
+  "updated": "2026-06-30T16:02:04Z",
   "threshold": 60,
   "count": 10,
   "jobs": [
@@ -54,9 +54,23 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX/UI Designer Managementsysteme (m/w/x)",
+      "company": "K-tronik GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/ux-ui-designer-managementsysteme-berlin-211047",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UX UI Designer",
@@ -71,22 +85,6 @@
         "Branding"
       ],
       "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Architectural Designer Assistant",
-      "company": "Archisearch",
-      "url": "https://remoteOK.com/remote-jobs/remote-architectural-designer-assistant-archisearch-1134110",
-      "source": "RemoteOK",
-      "location": "Athens, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
