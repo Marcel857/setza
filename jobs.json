@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-01T20:22:47Z",
+  "updated": "2026-07-01T21:58:17Z",
   "threshold": 60,
   "count": 10,
   "jobs": [
@@ -50,7 +50,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
