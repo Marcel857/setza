@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-01T10:28:48Z",
+  "updated": "2026-07-01T13:18:16Z",
   "threshold": 60,
-  "count": 9,
+  "count": 8,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -35,20 +35,6 @@
         "Fotografie"
       ],
       "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX/UI Designer Managementsysteme (m/w/x)",
-      "company": "K-tronik GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/ux-ui-designer-managementsysteme-berlin-211047",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
