@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-01T18:23:16Z",
+  "updated": "2026-07-01T20:22:47Z",
   "threshold": 60,
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "title": "Product Designer UX/UI (m/w/d)",
@@ -35,6 +35,22 @@
       "age_days": 6,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer (UX/UI)",
+      "company": "Nulegal GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/nulegal-gmbh/product-designer-ux-ui-berlin-245704",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -136,7 +152,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
     }
