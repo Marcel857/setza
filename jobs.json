@@ -1,29 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-07-01T06:23:06Z",
+  "updated": "2026-07-01T10:28:48Z",
   "threshold": 60,
-  "count": 10,
+  "count": 9,
   "jobs": [
-    {
-      "title": "Trading Card & Product Designer (m/w/d)",
-      "company": "Ultimate Dropz GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/ultimate-dropz-gmbh/trading-card-product-designer-dortmund-194262",
-      "source": "Arbeitnow",
-      "location": "Dortmund",
-      "remote": true,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
@@ -36,7 +16,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -84,7 +64,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -98,7 +78,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -112,7 +92,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
