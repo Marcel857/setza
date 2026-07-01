@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-01T21:58:17Z",
+  "updated": "2026-07-01T23:19:31Z",
   "threshold": 60,
-  "count": 10,
+  "count": 9,
   "jobs": [
     {
       "title": "Product Designer UX/UI (m/w/d)",
@@ -65,22 +65,6 @@
         "Branding",
         "Social Media",
         "Fotografie"
-      ],
-      "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX UI Designer",
-      "company": "Siroko",
-      "url": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-siroko-1134233",
-      "source": "RemoteOK",
-      "location": "GijÃ³n, GijÃ³n, Principado de Asturias, EspaÃ±a",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
       ],
       "age_days": 5,
       "is_match": true,
