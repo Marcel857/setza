@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-02T11:31:16Z",
+  "updated": "2026-07-02T13:50:59Z",
   "threshold": 60,
-  "count": 9,
+  "count": 8,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -32,22 +32,6 @@
       "tags": [
         "Social Media",
         "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (UX/UI)",
-      "company": "Nulegal GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/nulegal-gmbh/product-designer-ux-ui-berlin-245704",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
       ],
       "age_days": 0,
       "is_match": true,
