@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-07-02T18:12:02Z",
+  "updated": "2026-07-02T20:00:46Z",
   "threshold": 60,
-  "count": 7,
+  "count": 9,
   "jobs": [
+    {
+      "title": "Junior Product Designer",
+      "company": "WealthCounsel, LLC",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-product-designer-wealthcounsel-llc-1134407",
+      "source": "RemoteOK",
+      "location": "Jersey City, Jersey City, New Jersey, United States",
+      "remote": true,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Junior"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Designer",
       "company": "Forbes",
@@ -20,6 +37,25 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/civic-nation/jobs/graphic-designer",
+      "source": "Himalayas",
+      "location": "",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -103,7 +139,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     }
