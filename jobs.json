@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-02T16:03:17Z",
+  "updated": "2026-07-02T18:12:02Z",
   "threshold": 60,
   "count": 7,
   "jobs": [
@@ -19,7 +19,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -75,7 +75,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
