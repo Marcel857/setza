@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-07-02T08:53:35Z",
+  "updated": "2026-07-02T11:31:16Z",
   "threshold": 60,
-  "count": 10,
+  "count": 9,
   "jobs": [
-    {
-      "title": "Product Designer UX/UI (m/w/d)",
-      "company": "Digitale Leute School",
-      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/product-designer-ux-ui-cologne-146595",
-      "source": "Arbeitnow",
-      "location": "Cologne",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
@@ -32,7 +16,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -51,7 +35,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer (UX/UI)",
