@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-07-02T13:50:59Z",
+  "updated": "2026-07-02T16:03:17Z",
   "threshold": 60,
-  "count": 8,
+  "count": 7,
   "jobs": [
+    {
+      "title": "Designer",
+      "company": "Forbes",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-forbes-1134352",
+      "source": "RemoteOK",
+      "location": "Jersey City, Jersey City, New Jersey, United States",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
@@ -17,41 +34,6 @@
         "Junior"
       ],
       "age_days": 7,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Grafik- / Motion Designer (m/w/d)",
-      "company": "neaSOL GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/neasol-gmbh/grafik-motion-designer-dormagen-139837",
-      "source": "Arbeitnow",
-      "location": "Dormagen",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Digital Executive",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-digital-executive-1134223",
-      "source": "RemoteOK",
-      "location": "English, ",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
