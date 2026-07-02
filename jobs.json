@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-02T21:42:43Z",
+  "updated": "2026-07-02T23:01:00Z",
   "threshold": 60,
-  "count": 9,
+  "count": 8,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -35,25 +35,6 @@
         "Branding"
       ],
       "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/civic-nation/jobs/graphic-designer",
-      "source": "Himalayas",
-      "location": "",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
