@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-02T05:56:12Z",
+  "updated": "2026-07-02T08:53:35Z",
   "threshold": 60,
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "title": "Product Designer UX/UI (m/w/d)",
@@ -35,6 +35,23 @@
       "age_days": 6,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Grafik- / Motion Designer (m/w/d)",
+      "company": "neaSOL GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/neasol-gmbh/grafik-motion-designer-dormagen-139837",
+      "source": "Arbeitnow",
+      "location": "Dormagen",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer (UX/UI)",
@@ -80,7 +97,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -94,7 +111,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
