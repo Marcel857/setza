@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-03T11:29:17Z",
+  "updated": "2026-07-03T13:21:01Z",
   "threshold": 60,
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -36,7 +36,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer",
@@ -70,7 +70,7 @@
       ],
       "age_days": 2,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -89,6 +89,24 @@
       "is_new": false
     },
     {
+      "title": "Graphic Designer (Performance Ads)",
+      "company": "Libertex Group",
+      "url": "https://himalayas.app/companies/libertex-group/jobs/graphic-designer-performance-ads",
+      "source": "Himalayas",
+      "location": "Serbia",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Grafikdesigner / Mediengestalter (Digital) - 100 % remote (m/w/d)",
       "company": "retentionclub GmbH",
       "url": "https://www.arbeitnow.com/jobs/companies/retentionclub-gmbh/grafikdesigner-mediengestalter-digital-100-remote-geisa-403830",
@@ -103,7 +121,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UI/UX Designer",
