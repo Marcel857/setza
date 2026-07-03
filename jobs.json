@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-03T15:32:52Z",
+  "updated": "2026-07-03T17:21:15Z",
   "threshold": 60,
-  "count": 13,
+  "count": 10,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -22,23 +22,6 @@
       "is_new": false
     },
     {
-      "title": "Brand & Web Designer (w/m/d) - remote",
-      "company": "Severin Travel GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/severin-travel-gmbh/brand-web-designer-remote-dusseldorf-60384",
-      "source": "Arbeitnow",
-      "location": "Düsseldorf",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Designer",
       "company": "Forbes",
       "url": "https://remoteOK.com/remote-jobs/remote-designer-forbes-1134352",
@@ -51,7 +34,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -68,7 +51,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -99,41 +82,6 @@
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
         "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Graphic Designer (Performance Ads)",
-      "company": "Libertex Group",
-      "url": "https://himalayas.app/companies/libertex-group/jobs/graphic-designer-performance-ads",
-      "source": "Himalayas",
-      "location": "Serbia",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Grafikdesigner / Mediengestalter (Digital) - 100 % remote (m/w/d)",
-      "company": "retentionclub GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/retentionclub-gmbh/grafikdesigner-mediengestalter-digital-100-remote-geisa-403830",
-      "source": "Arbeitnow",
-      "location": "Geisa",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
         "Branding",
         "Fotografie"
       ],
@@ -179,7 +127,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
