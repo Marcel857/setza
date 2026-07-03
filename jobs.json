@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-03T13:21:01Z",
+  "updated": "2026-07-03T15:32:52Z",
   "threshold": 60,
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -89,6 +89,24 @@
       "is_new": false
     },
     {
+      "title": "Mediengestalter Digital & Print (m/w/d)",
+      "company": "VersicherungsCheck24.de Vergleichsportal GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/versicherungscheck24de-vergleichsportal-gmbh/mediengestalter-digital-print-frechen-174223",
+      "source": "Arbeitnow",
+      "location": "Frechen",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Graphic Designer (Performance Ads)",
       "company": "Libertex Group",
       "url": "https://himalayas.app/companies/libertex-group/jobs/graphic-designer-performance-ads",
@@ -104,7 +122,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Grafikdesigner / Mediengestalter (Digital) - 100 % remote (m/w/d)",
