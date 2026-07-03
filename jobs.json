@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-03T08:33:14Z",
+  "updated": "2026-07-03T11:29:17Z",
   "threshold": 60,
-  "count": 8,
+  "count": 11,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -22,6 +22,23 @@
       "is_new": false
     },
     {
+      "title": "Brand & Web Designer (w/m/d) - remote",
+      "company": "Severin Travel GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/severin-travel-gmbh/brand-web-designer-remote-dusseldorf-60384",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Designer",
       "company": "Forbes",
       "url": "https://remoteOK.com/remote-jobs/remote-designer-forbes-1134352",
@@ -39,6 +56,23 @@
       "is_new": false
     },
     {
+      "title": "Designer",
+      "company": "Cats Protection",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-cats-protection-1134430",
+      "source": "RemoteOK",
+      "location": "Chelwood Gate, ",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
       "url": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
@@ -50,9 +84,26 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Grafikdesigner / Mediengestalter (Digital) - 100 % remote (m/w/d)",
+      "company": "retentionclub GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/retentionclub-gmbh/grafikdesigner-mediengestalter-digital-100-remote-geisa-403830",
+      "source": "Arbeitnow",
+      "location": "Geisa",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UI/UX Designer",
