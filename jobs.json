@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-03T22:58:17Z",
+  "updated": "2026-07-04T00:09:31Z",
   "threshold": 60,
-  "count": 12,
+  "count": 7,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -56,22 +56,6 @@
       "is_new": false
     },
     {
-      "title": "Junior UI designer (Marketing team)",
-      "company": "TechMagic",
-      "url": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
-      "source": "Jobicy",
-      "location": "Ukraine",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 8,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Mediengestalter Digital & Print (m/w/d)",
       "company": "VersicherungsCheck24.de Vergleichsportal GmbH",
       "url": "https://www.arbeitnow.com/jobs/companies/versicherungscheck24de-vergleichsportal-gmbh/mediengestalter-digital-print-frechen-174223",
@@ -101,7 +85,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Motion Designer / Video Editor (Contract)",
@@ -118,62 +102,6 @@
         "Fotografie"
       ],
       "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "UI/UX Designer",
-      "company": "ManTech",
-      "url": "https://jobicy.com/jobs/143624-ui-ux-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 8,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Conversational Designer",
-      "company": "Cresta",
-      "url": "https://jobicy.com/jobs/143763-conversational-designer",
-      "source": "Jobicy",
-      "location": "UK",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 8,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Surfacing Designer",
-      "company": "Meta",
-      "url": "https://jobicy.com/jobs/146920-surfacing-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 17,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Designer, Web Presence & Platform",
-      "company": "Stripe",
-      "url": "https://jobicy.com/jobs/145546-designer-web-presence-platform",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
