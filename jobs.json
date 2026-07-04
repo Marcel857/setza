@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-04T12:42:30Z",
+  "updated": "2026-07-04T14:26:16Z",
   "threshold": 60,
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -70,6 +70,20 @@
       "age_days": 9,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Computer Aided Design Designer",
+      "company": "Indovance Inc",
+      "url": "https://remoteOK.com/remote-jobs/remote-computer-aided-design-designer-indovance-inc-1134470",
+      "source": "RemoteOK",
+      "location": "Pune Division, Pune Division, Maharashtra, India",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Creative Designer",
