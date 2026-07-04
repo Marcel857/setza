@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-04T04:09:43Z",
+  "updated": "2026-07-04T07:21:16Z",
   "threshold": 60,
-  "count": 12,
+  "count": 10,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -90,38 +90,6 @@
       "is_new": false
     },
     {
-      "title": "LiveOps Game Designer - Empire",
-      "company": "Stillfront",
-      "url": "https://himalayas.app/companies/stillfront/jobs/liveops-game-designer-empire",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Motion Designer / Video Editor (Contract)",
-      "company": "Seez",
-      "url": "https://himalayas.app/companies/seez/jobs/motion-designer-video-editor-contract-7056763875",
-      "source": "Himalayas",
-      "location": "Australia, Brazil, Canada, France, Germany, India, Japan, Mexico, United Kingdom, United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "UI/UX Designer",
       "company": "ManTech",
       "url": "https://jobicy.com/jobs/143624-ui-ux-designer",
@@ -173,7 +141,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
