@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-04T20:06:43Z",
+  "updated": "2026-07-04T21:26:14Z",
   "threshold": 60,
   "count": 12,
   "jobs": [
@@ -86,7 +86,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Computer Aided Design Designer",
