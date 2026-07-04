@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-04T18:30:20Z",
+  "updated": "2026-07-04T20:06:43Z",
   "threshold": 60,
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -70,6 +70,23 @@
       "age_days": 9,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Creative Designer",
+      "company": "Lodgify",
+      "url": "https://himalayas.app/companies/lodgify/jobs/creative-designer",
+      "source": "Himalayas",
+      "location": "Spain",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Computer Aided Design Designer",
@@ -165,7 +182,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     }
