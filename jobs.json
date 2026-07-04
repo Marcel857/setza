@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-04T14:26:16Z",
+  "updated": "2026-07-04T15:41:44Z",
   "threshold": 60,
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -51,7 +51,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -82,6 +82,23 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 2,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Graphic, UX/UI Visual Designer Crypto/Blockchain",
+      "company": "Caiz",
+      "url": "https://himalayas.app/companies/caiz/jobs/graphic-ux-ui-visual-designer-crypto-blockchain",
+      "source": "Himalayas",
+      "location": "Czechia",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
       "is_match": true,
       "is_new": true
     },
