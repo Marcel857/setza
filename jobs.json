@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-05T14:38:24Z",
+  "updated": "2026-07-05T16:04:12Z",
   "threshold": 60,
-  "count": 11,
+  "count": 10,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -34,7 +34,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -53,24 +53,6 @@
       "age_days": 10,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Graphic Designer ( Syria )",
-      "company": "MAİSON DE MAA KOZMETİK SANAYİ VE DIŞ TİCARET LİMİT",
-      "url": "https://himalayas.app/companies/maison-de-maa-kozmetik-sanayi-ve-dis-ticaret-limit/jobs/graphic-designer-syria",
-      "source": "Himalayas",
-      "location": "Syrian Arab Republic",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Computer Aided Design Designer",
