@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-05T06:37:36Z",
+  "updated": "2026-07-05T09:39:47Z",
   "threshold": 60,
-  "count": 11,
+  "count": 10,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -39,23 +39,6 @@
       "is_new": false
     },
     {
-      "title": "Designer",
-      "company": "Cats Protection",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-cats-protection-1134430",
-      "source": "RemoteOK",
-      "location": "Chelwood Gate, ",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
       "url": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
@@ -67,7 +50,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -81,7 +64,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -95,7 +78,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -109,7 +92,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -123,7 +106,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
