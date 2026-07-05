@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-05T21:58:15Z",
+  "updated": "2026-07-05T23:05:10Z",
   "threshold": 60,
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -67,6 +67,20 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Instructional Designer - Home Services",
+      "company": "HOME DEPOT U.S.A., INC.",
+      "url": "https://himalayas.app/companies/home-depot-u-s-a-inc/jobs/instructional-designer-home-services-4289879261",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Creative Designer",
