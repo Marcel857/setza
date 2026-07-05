@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-05T17:35:11Z",
+  "updated": "2026-07-05T19:11:21Z",
   "threshold": 60,
-  "count": 10,
+  "count": 9,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -135,20 +135,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 30,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX Designer – Design System Pleno",
-      "company": "Lyncas",
-      "url": "https://weworkremotely.com/remote-jobs/lyncas-ux-designer-design-system-pleno",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 29,
       "is_match": true,
       "is_new": false
     }
