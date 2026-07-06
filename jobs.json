@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-07-06T05:52:29Z",
+  "updated": "2026-07-06T10:11:18Z",
   "threshold": 60,
   "count": 8,
   "jobs": [
-    {
-      "title": "Junior Product Designer",
-      "company": "WealthCounsel, LLC",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-product-designer-wealthcounsel-llc-1134407",
-      "source": "RemoteOK",
-      "location": "Jersey City, Jersey City, New Jersey, United States",
-      "remote": true,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Junior"
-      ],
-      "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Designer",
       "company": "Forbes",
@@ -50,9 +33,27 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Social Media Video Editor & Content Designer (m/w/d)",
+      "company": "AYLASHES",
+      "url": "https://www.arbeitnow.com/jobs/companies/aylashes/social-media-video-editor-content-designer-pleidelsheim-152121",
+      "source": "Arbeitnow",
+      "location": "Pleidelsheim",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Computer Aided Design Designer",
@@ -64,7 +65,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -78,7 +79,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -92,7 +93,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -106,7 +107,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
