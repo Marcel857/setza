@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-06T21:09:01Z",
+  "updated": "2026-07-06T22:44:17Z",
   "threshold": 60,
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "title": "Designer",
@@ -20,24 +20,6 @@
       "age_days": 5,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Multimedia Designer",
-      "company": "SmartClout Media",
-      "url": "https://himalayas.app/companies/smartclout-media/jobs/multimedia-designer-2966055808",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -132,6 +114,38 @@
       "age_days": 4,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer - UX/UI & Design Systems",
+      "company": "Pavago",
+      "url": "https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-2036816009",
+      "source": "Himalayas",
+      "location": "El Salvador",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Amazon 3D Designer",
+      "company": "PriorityChef",
+      "url": "https://himalayas.app/companies/prioritychef/jobs/amazon-3d-designer",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Web Presence & Platform",
