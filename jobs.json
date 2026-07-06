@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-06T14:05:00Z",
+  "updated": "2026-07-06T17:19:52Z",
   "threshold": 60,
-  "count": 8,
+  "count": 11,
   "jobs": [
     {
       "title": "Designer",
@@ -17,7 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -38,6 +38,56 @@
       "is_new": false
     },
     {
+      "title": "Webdesigner:in / Social Media Marketing in Teilzeit o. Vollzeit (nicht Remote)",
+      "company": "Asia Therme Wellness Spa GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/asia-therme-wellness-spa-gmbh/webdesignerin-social-media-marketing-in-teilzeit-o-vollzeit-nicht-remote-korschenbroich-384235",
+      "source": "Arbeitnow",
+      "location": "Korschenbroich",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI/UX Designer E-Commerce (m/w/d)",
+      "company": "SCAEL",
+      "url": "https://www.arbeitnow.com/jobs/companies/scael/ui-ux-designer-e-commerce-hamburg-452981",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI/UX Designer (m/w/d)",
+      "company": "SCAEL",
+      "url": "https://www.arbeitnow.com/jobs/companies/scael/ui-ux-designer-hamburg-324678",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "CTO im Bereich Elektronik und Produktdesign eingebetteter Monitoring- und Automatisierungssysteme",
       "company": "HOREICH GmbH",
       "url": "https://www.arbeitnow.com/jobs/companies/horeich-gmbh/cto-im-bereich-elektronik-und-produktdesign-eingebetteter-monitoring-und-automatisierungssysteme-erlangen-54706",
@@ -49,7 +99,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Computer Aided Design Designer",
@@ -117,7 +167,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     }
