@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-06T10:11:18Z",
+  "updated": "2026-07-06T14:05:00Z",
   "threshold": 60,
   "count": 8,
   "jobs": [
@@ -38,19 +38,15 @@
       "is_new": false
     },
     {
-      "title": "Social Media Video Editor & Content Designer (m/w/d)",
-      "company": "AYLASHES",
-      "url": "https://www.arbeitnow.com/jobs/companies/aylashes/social-media-video-editor-content-designer-pleidelsheim-152121",
+      "title": "CTO im Bereich Elektronik und Produktdesign eingebetteter Monitoring- und Automatisierungssysteme",
+      "company": "HOREICH GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/horeich-gmbh/cto-im-bereich-elektronik-und-produktdesign-eingebetteter-monitoring-und-automatisierungssysteme-erlangen-54706",
       "source": "Arbeitnow",
-      "location": "Pleidelsheim",
-      "remote": true,
+      "location": "Erlangen",
+      "remote": false,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
