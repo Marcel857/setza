@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-06T01:13:48Z",
+  "updated": "2026-07-06T05:52:29Z",
   "threshold": 60,
   "count": 8,
   "jobs": [
@@ -17,7 +17,7 @@
         "Packaging/Print",
         "Junior"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
