@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-07-07T08:19:32Z",
+  "updated": "2026-07-07T11:23:36Z",
   "threshold": 60,
-  "count": 12,
+  "count": 11,
   "jobs": [
-    {
-      "title": "Designer",
-      "company": "Forbes",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-forbes-1134352",
-      "source": "RemoteOK",
-      "location": "Jersey City, Jersey City, New Jersey, United States",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
@@ -33,7 +16,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
