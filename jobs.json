@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-07T21:53:09Z",
+  "updated": "2026-07-07T22:57:22Z",
   "threshold": 60,
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "title": "Mediengestalter (m/w/d)",
@@ -49,6 +49,20 @@
       "age_days": 5,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Opto-Mechanical Designer - Remote",
+      "company": "KBR, Inc.",
+      "url": "https://himalayas.app/companies/kbr-inc/jobs/opto-mechanical-designer-remote-3837460653",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Web Presence & Platform",
