@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-07T20:26:57Z",
+  "updated": "2026-07-07T21:53:09Z",
   "threshold": 60,
   "count": 8,
   "jobs": [
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI designer (Marketing team)",
