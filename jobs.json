@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-07-07T18:29:14Z",
+  "updated": "2026-07-07T20:26:57Z",
   "threshold": 60,
-  "count": 11,
+  "count": 8,
   "jobs": [
+    {
+      "title": "Mediengestalter (m/w/d)",
+      "company": "carl & friends adv. gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/carl-friends-adv-gmbh/mediengestalter-kassel-380659",
+      "source": "Arbeitnow",
+      "location": "Kassel",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
@@ -17,70 +33,6 @@
         "Junior"
       ],
       "age_days": 12,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Webdesigner:in / Social Media Marketing in Teilzeit o. Vollzeit (nicht Remote)",
-      "company": "Asia Therme Wellness Spa GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/asia-therme-wellness-spa-gmbh/webdesignerin-social-media-marketing-in-teilzeit-o-vollzeit-nicht-remote-korschenbroich-384235",
-      "source": "Arbeitnow",
-      "location": "Korschenbroich",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI/UX Designer E-Commerce (m/w/d)",
-      "company": "SCAEL",
-      "url": "https://www.arbeitnow.com/jobs/companies/scael/ui-ux-designer-e-commerce-hamburg-452981",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI/UX Designer (m/w/d)",
-      "company": "SCAEL",
-      "url": "https://www.arbeitnow.com/jobs/companies/scael/ui-ux-designer-hamburg-324678",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "CTO im Bereich Elektronik und Produktdesign eingebetteter Monitoring- und Automatisierungssysteme",
-      "company": "HOREICH GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/horeich-gmbh/cto-im-bereich-elektronik-und-produktdesign-eingebetteter-monitoring-und-automatisierungssysteme-erlangen-54706",
-      "source": "Arbeitnow",
-      "location": "Erlangen",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
