@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-06T22:44:17Z",
+  "updated": "2026-07-07T00:04:24Z",
   "threshold": 60,
-  "count": 14,
+  "count": 12,
   "jobs": [
     {
       "title": "Designer",
@@ -114,38 +114,6 @@
       "age_days": 4,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Product Designer - UX/UI & Design Systems",
-      "company": "Pavago",
-      "url": "https://himalayas.app/companies/pavago/jobs/product-designer-ux-ui-design-systems-2036816009",
-      "source": "Himalayas",
-      "location": "El Salvador",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Amazon 3D Designer",
-      "company": "PriorityChef",
-      "url": "https://himalayas.app/companies/prioritychef/jobs/amazon-3d-designer",
-      "source": "Himalayas",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Designer, Web Presence & Platform",
