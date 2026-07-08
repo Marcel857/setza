@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-08T16:57:35Z",
+  "updated": "2026-07-08T18:20:00Z",
   "threshold": 60,
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "title": "Grafikdesign (m/w/d)",
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -35,6 +35,23 @@
       "age_days": 13,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Mediengestalter Digital (w/m/d) in Vollzeit - Schwerpunkt Paid Ads & Digital Creative",
+      "company": "StraightAds Marketing GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/straightads-marketing-gmbh/mediengestalter-digital-in-vollzeit-schwerpunkt-paid-ads-digital-creative-mainz-90812",
+      "source": "Arbeitnow",
+      "location": "Mainz",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer",
