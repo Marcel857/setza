@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-08T06:12:14Z",
+  "updated": "2026-07-08T09:05:18Z",
   "threshold": 60,
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "title": "Mediengestalter (m/w/d)",
@@ -37,6 +37,20 @@
       "is_new": false
     },
     {
+      "title": "Designer",
+      "company": "Archisearch",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-archisearch-1134565",
+      "source": "RemoteOK",
+      "location": "Athens, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Designer, Web Presence & Platform",
       "company": "Stripe",
       "url": "https://jobicy.com/jobs/145546-designer-web-presence-platform",
@@ -60,7 +74,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -74,7 +88,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -88,7 +102,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
