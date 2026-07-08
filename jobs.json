@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-07T23:58:52Z",
+  "updated": "2026-07-08T03:26:01Z",
   "threshold": 60,
-  "count": 9,
+  "count": 7,
   "jobs": [
     {
       "title": "Mediengestalter (m/w/d)",
@@ -33,34 +33,6 @@
         "Junior"
       ],
       "age_days": 12,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Computer Aided Design Designer",
-      "company": "Indovance Inc",
-      "url": "https://remoteOK.com/remote-jobs/remote-computer-aided-design-designer-indovance-inc-1134470",
-      "source": "RemoteOK",
-      "location": "Pune Division, Pune Division, Maharashtra, India",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Opto-Mechanical Designer - Remote",
-      "company": "KBR, Inc.",
-      "url": "https://himalayas.app/companies/kbr-inc/jobs/opto-mechanical-designer-remote-3837460653",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
