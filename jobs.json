@@ -1,15 +1,15 @@
 {
   "app": "Setza",
-  "updated": "2026-07-08T15:28:26Z",
+  "updated": "2026-07-08T16:57:35Z",
   "threshold": 60,
   "count": 8,
   "jobs": [
     {
-      "title": "Mediengestalter (m/w/d)",
-      "company": "carl & friends adv. gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/carl-friends-adv-gmbh/mediengestalter-kassel-380659",
+      "title": "Grafikdesign (m/w/d)",
+      "company": "BrainersHub GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/brainershub-gmbh/grafikdesign-hamburg-438103",
       "source": "Arbeitnow",
-      "location": "Kassel",
+      "location": "Hamburg",
       "remote": false,
       "score": 87,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -60,7 +60,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -116,7 +116,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     }
