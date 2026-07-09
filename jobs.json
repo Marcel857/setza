@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-09T01:08:30Z",
+  "updated": "2026-07-09T05:34:23Z",
   "threshold": 60,
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "title": "Grafikdesign (m/w/d)",
@@ -37,6 +37,23 @@
       "is_new": false
     },
     {
+      "title": "Graphic Designer",
+      "company": "The Global Talent Co.",
+      "url": "https://himalayas.app/companies/the-global-talent-co/jobs/graphic-designer-8016450221",
+      "source": "Himalayas",
+      "location": "South Africa",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Mediengestalter Digital (w/m/d) in Vollzeit - Schwerpunkt Paid Ads & Digital Creative",
       "company": "StraightAds Marketing GmbH",
       "url": "https://www.arbeitnow.com/jobs/companies/straightads-marketing-gmbh/mediengestalter-digital-in-vollzeit-schwerpunkt-paid-ads-digital-creative-mainz-90812",
@@ -54,6 +71,20 @@
       "is_new": false
     },
     {
+      "title": "Architectural Drafter Designer",
+      "company": "OnlineJobs.PH",
+      "url": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-onlinejobs-ph-1134584",
+      "source": "RemoteOK",
+      "location": "Miami, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Designer",
       "company": "Archisearch",
       "url": "https://remoteOK.com/remote-jobs/remote-designer-archisearch-1134565",
@@ -66,22 +97,6 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "The Restory",
-      "url": "https://himalayas.app/companies/the-restory/jobs/product-designer",
-      "source": "Himalayas",
-      "location": "United Kingdom",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Designer, Web Presence & Platform",
