@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-09T15:42:24Z",
+  "updated": "2026-07-09T17:51:54Z",
   "threshold": 60,
   "count": 10,
   "jobs": [
@@ -34,7 +34,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Architectural Drafter Designer",
@@ -76,7 +76,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer, Web Presence & Platform",
@@ -88,7 +88,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -144,7 +144,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     }
