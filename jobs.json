@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-09T17:51:54Z",
+  "updated": "2026-07-09T19:39:00Z",
   "threshold": 60,
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -35,6 +35,23 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX / UI Designer with German",
+      "company": "name",
+      "url": "https://himalayas.app/companies/accesa-raro/jobs/ux-ui-designer-with-german",
+      "source": "Himalayas",
+      "location": "Canada",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Architectural Drafter Designer",
