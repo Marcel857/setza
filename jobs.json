@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-09T09:32:09Z",
+  "updated": "2026-07-09T15:42:24Z",
   "threshold": 60,
   "count": 10,
   "jobs": [
@@ -21,38 +21,20 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer",
-      "company": "The Global Talent Co.",
-      "url": "https://himalayas.app/companies/the-global-talent-co/jobs/graphic-designer-8016450221",
-      "source": "Himalayas",
-      "location": "South Africa",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Mediengestalter Digital (w/m/d) in Vollzeit - Schwerpunkt Paid Ads & Digital Creative",
-      "company": "StraightAds Marketing GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/straightads-marketing-gmbh/mediengestalter-digital-in-vollzeit-schwerpunkt-paid-ads-digital-creative-mainz-90812",
+      "title": "UI/UX Designer",
+      "company": "flexlog GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/flexlog-gmbh/ui-ux-designer-karlsruhe-96142",
       "source": "Arbeitnow",
-      "location": "Mainz",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "location": "Karlsruhe",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Social Media",
-        "Fotografie"
+        "Packaging/Print"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Architectural Drafter Designer",
@@ -81,6 +63,20 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Instructional Designer, Nebius Academy",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/149045-instructional-designer-nebius-academy",
+      "source": "Jobicy",
+      "location": "Europe",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Web Presence & Platform",
