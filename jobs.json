@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-10T08:18:49Z",
+  "updated": "2026-07-10T11:23:44Z",
   "threshold": 60,
-  "count": 10,
+  "count": 8,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -16,23 +16,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 14,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI/UX Designer",
-      "company": "flexlog GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/flexlog-gmbh/ui-ux-designer-karlsruhe-96142",
-      "source": "Arbeitnow",
-      "location": "Karlsruhe",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -131,20 +115,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 15,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Surfacing Designer",
-      "company": "Meta",
-      "url": "https://jobicy.com/jobs/146920-surfacing-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 23,
       "is_match": true,
       "is_new": false
     }
