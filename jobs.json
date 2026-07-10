@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-10T21:57:59Z",
+  "updated": "2026-07-10T23:01:03Z",
   "threshold": 60,
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -47,6 +47,20 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UI/UX Designer",
+      "company": "Codekeeper",
+      "url": "https://himalayas.app/companies/codekeeper/jobs/ui-ux-designer-3849422622",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Instructional Designer, Nebius Academy",
