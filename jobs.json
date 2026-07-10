@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-09T22:48:45Z",
+  "updated": "2026-07-10T00:01:00Z",
   "threshold": 60,
-  "count": 11,
+  "count": 10,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -35,22 +35,6 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Sr. Product Designer II - Design Systems",
-      "company": "Instacart",
-      "url": "https://himalayas.app/companies/instacart/jobs/sr-product-designer-ii-design-systems-5224058858",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Architectural Drafter Designer",
