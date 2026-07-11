@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-11T11:28:53Z",
+  "updated": "2026-07-11T12:31:01Z",
   "threshold": 60,
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -37,6 +37,22 @@
       "is_new": false
     },
     {
+      "title": "UX Designer (Secret or TS Clearance Required)",
+      "company": "ICF",
+      "url": "https://himalayas.app/companies/icf/jobs/ux-designer-secret-or-ts-clearance-required",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Architectural Drafter Designer",
       "company": "OnlineJobs.PH",
       "url": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-onlinejobs-ph-1134584",
@@ -60,7 +76,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
