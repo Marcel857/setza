@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-11T19:43:06Z",
+  "updated": "2026-07-11T20:42:14Z",
   "threshold": 60,
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -49,6 +49,20 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "XTN-23D4549 | SCADA PROJECT DESIGNER",
+      "company": "KMC Solutions Inc",
+      "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-23d4549-scada-project-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Instructional Designer, Nebius Academy",
