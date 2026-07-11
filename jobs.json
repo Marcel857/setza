@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-11T12:31:01Z",
+  "updated": "2026-07-11T14:20:01Z",
   "threshold": 60,
   "count": 9,
   "jobs": [
@@ -50,7 +50,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Architectural Drafter Designer",
