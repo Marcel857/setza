@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-11T16:27:18Z",
+  "updated": "2026-07-11T17:30:00Z",
   "threshold": 60,
   "count": 8,
   "jobs": [
@@ -74,7 +74,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
