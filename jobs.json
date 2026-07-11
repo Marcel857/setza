@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-11T14:20:01Z",
+  "updated": "2026-07-11T15:29:18Z",
   "threshold": 60,
-  "count": 9,
+  "count": 8,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -33,22 +33,6 @@
         "Junior"
       ],
       "age_days": 16,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX Designer (Secret or TS Clearance Required)",
-      "company": "ICF",
-      "url": "https://himalayas.app/companies/icf/jobs/ux-designer-secret-or-ts-clearance-required",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
