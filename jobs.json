@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-07-12T14:40:21Z",
+  "updated": "2026-07-12T15:56:07Z",
   "threshold": 60,
-  "count": 11,
+  "count": 12,
   "jobs": [
+    {
+      "title": "Junior Web Designer",
+      "company": "Hunt Remotely",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-hunt-remotely-1134732",
+      "source": "RemoteOK",
+      "location": "Manchester, ",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Junior Web Designer",
       "company": "Arabian Private Holdings",
