@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-12T17:58:51Z",
+  "updated": "2026-07-12T19:13:42Z",
   "threshold": 60,
   "count": 12,
   "jobs": [
@@ -53,6 +53,20 @@
       "is_new": false
     },
     {
+      "title": "Graphic Designer",
+      "company": "Huzzle",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-1134712",
+      "source": "RemoteOK",
+      "location": "Bulgaria, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Designer",
       "company": "Crevtus",
       "url": "https://remoteOK.com/remote-jobs/remote-designer-crevtus-1134739",
@@ -67,20 +81,6 @@
         "Fotografie"
       ],
       "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Architectural Drafter Designer",
-      "company": "OnlineJobs.PH",
-      "url": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-onlinejobs-ph-1134584",
-      "source": "RemoteOK",
-      "location": "Miami, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
