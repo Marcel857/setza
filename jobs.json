@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-12T08:10:28Z",
+  "updated": "2026-07-12T10:06:26Z",
   "threshold": 60,
-  "count": 11,
+  "count": 10,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -32,7 +32,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -51,20 +51,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "Fortive",
-      "url": "https://himalayas.app/companies/fortive/jobs/product-designer",
-      "source": "Himalayas",
-      "location": "Canada",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Marketing AI Designer",
       "company": "Superside",
       "url": "https://jobicy.com/jobs/149181-marketing-ai-designer",
@@ -78,7 +64,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer - Marketing",
@@ -92,7 +78,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Instructional Designer, Nebius Academy",
