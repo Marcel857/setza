@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-12T10:06:26Z",
+  "updated": "2026-07-12T11:36:02Z",
   "threshold": 60,
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -16,9 +16,25 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX designer",
+      "company": "XPERIENCE DESIGN",
+      "url": "https://himalayas.app/companies/xperience-design/jobs/ux-designer",
+      "source": "Himalayas",
+      "location": "Colombia",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
