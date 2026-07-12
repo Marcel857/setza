@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-12T15:56:07Z",
+  "updated": "2026-07-12T16:56:59Z",
   "threshold": 60,
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -18,7 +18,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior Web Designer",
@@ -67,6 +67,24 @@
       "age_days": 17,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Designer",
+      "company": "Crevtus",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-crevtus-1134739",
+      "source": "RemoteOK",
+      "location": "Indiana, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Architectural Drafter Designer",
@@ -136,7 +154,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
