@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-13T14:25:23Z",
+  "updated": "2026-07-13T16:55:30Z",
   "threshold": 60,
-  "count": 15,
+  "count": 17,
   "jobs": [
     {
       "title": "Junior Videographer & Motion Designer (m/w/d)",
@@ -34,7 +34,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -71,6 +71,20 @@
       "is_new": false
     },
     {
+      "title": "Architectural Drafter Designer",
+      "company": "DevHub",
+      "url": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-devhub-1134758",
+      "source": "RemoteOK",
+      "location": "Miami, ",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Interface Designer",
       "company": "Grow the Roses",
       "url": "https://remoteOK.com/remote-jobs/remote-interface-designer-grow-the-roses-1134742",
@@ -85,6 +99,20 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Eventeny",
+      "url": "https://himalayas.app/companies/eventeny/jobs/product-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Architectural Designer",
@@ -186,7 +214,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
