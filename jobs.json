@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-13T01:02:25Z",
+  "updated": "2026-07-13T04:57:13Z",
   "threshold": 60,
   "count": 13,
   "jobs": [
@@ -37,22 +37,6 @@
       "is_new": false
     },
     {
-      "title": "Service Designer Junior",
-      "company": "XPERIENCE DESIGN",
-      "url": "https://himalayas.app/companies/xperience-design/jobs/service-designer-junior",
-      "source": "Himalayas",
-      "location": "Colombia",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
       "url": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
@@ -67,6 +51,22 @@
       "age_days": 17,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Interface Designer",
+      "company": "Grow the Roses",
+      "url": "https://remoteOK.com/remote-jobs/remote-interface-designer-grow-the-roses-1134742",
+      "source": "RemoteOK",
+      "location": "Only, ",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -112,7 +112,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -126,7 +126,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
