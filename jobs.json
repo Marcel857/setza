@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-13T04:57:13Z",
+  "updated": "2026-07-13T08:17:42Z",
   "threshold": 60,
   "count": 13,
   "jobs": [
@@ -66,7 +66,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -168,7 +168,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -182,7 +182,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -196,7 +196,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     }
