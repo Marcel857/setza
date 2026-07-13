@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-13T16:55:30Z",
+  "updated": "2026-07-13T18:41:32Z",
   "threshold": 60,
   "count": 17,
   "jobs": [
@@ -82,7 +82,7 @@
       "tags": [],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Interface Designer",
@@ -101,20 +101,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "Eventeny",
-      "url": "https://himalayas.app/companies/eventeny/jobs/product-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Architectural Designer",
       "company": "RemoteVA",
       "url": "https://remoteOK.com/remote-jobs/remote-architectural-designer-remoteva-1134763",
@@ -127,6 +113,22 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX UI Designer",
+      "company": "Palerto Studio",
+      "url": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-palerto-studio-1134780",
+      "source": "RemoteOK",
+      "location": "Washington County, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
