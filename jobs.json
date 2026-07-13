@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-07-13T18:41:32Z",
+  "updated": "2026-07-13T20:11:27Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
-    {
-      "title": "Junior Videographer & Motion Designer (m/w/d)",
-      "company": "CMF Advertising GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/cmf-advertising-gmbh/junior-videographer-motion-designer-oberursel-118554",
-      "source": "Arbeitnow",
-      "location": "Oberursel",
-      "remote": false,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior Web Designer",
       "company": "Hunt Remotely",
@@ -128,7 +110,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -140,7 +122,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
