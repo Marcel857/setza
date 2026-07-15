@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-07-15T20:31:29Z",
+  "updated": "2026-07-15T21:56:01Z",
   "threshold": 60,
   "count": 15,
   "jobs": [
-    {
-      "title": "Junior Web Designer",
-      "company": "Hunt Remotely",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-hunt-remotely-1134732",
-      "source": "RemoteOK",
-      "location": "Manchester, ",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
@@ -33,6 +17,24 @@
         "Junior"
       ],
       "age_days": 20,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Junior Designer (Part-Time Contract)",
+      "company": "LooseGrip",
+      "url": "https://weworkremotely.com/remote-jobs/loosegrip-junior-designer-part-time-contract",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -106,7 +108,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
