@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-15T05:13:28Z",
+  "updated": "2026-07-15T07:27:53Z",
   "threshold": 60,
-  "count": 18,
+  "count": 16,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -19,22 +19,6 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Substation Physical Designer (Inventor) - Remote (Ontario, Canada)",
-      "company": "ICF",
-      "url": "https://himalayas.app/companies/icf/jobs/substation-physical-designer-inventor-remote-ontario-canada",
-      "source": "Himalayas",
-      "location": "Canada",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -145,24 +129,6 @@
       "is_new": false
     },
     {
-      "title": "Designer",
-      "company": "Crevtus",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-crevtus-1134739",
-      "source": "RemoteOK",
-      "location": "Indiana, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Marketing AI Designer",
       "company": "Superside",
       "url": "https://jobicy.com/jobs/149181-marketing-ai-designer",
@@ -230,7 +196,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -258,7 +224,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
@@ -274,7 +240,7 @@
       "tags": [],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
