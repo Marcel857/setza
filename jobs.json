@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-15T11:10:57Z",
+  "updated": "2026-07-15T12:50:35Z",
   "threshold": 60,
   "count": 18,
   "jobs": [
@@ -68,7 +68,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Architectural Drafter Designer",
@@ -198,7 +198,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
