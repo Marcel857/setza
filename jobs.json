@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-15T09:29:12Z",
+  "updated": "2026-07-15T11:10:57Z",
   "threshold": 60,
-  "count": 17,
+  "count": 18,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -55,6 +55,22 @@
       "is_new": false
     },
     {
+      "title": "Mediengestalter (m/w/d) - Schwerpunkt Bildbearbeitung (Voll- oder Teilzeit)",
+      "company": "BB Sport GmbH & Co. KG",
+      "url": "https://www.arbeitnow.com/jobs/companies/bb-sport-gmbh-co-kg/mediengestalter-schwerpunkt-bildbearbeitung-voll-oder-teilzeit-toging-am-inn-93368",
+      "source": "Arbeitnow",
+      "location": "Töging am Inn",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Architectural Drafter Designer",
       "company": "DevHub",
       "url": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-devhub-1134758",
@@ -96,7 +112,7 @@
       "tags": [],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Architectural Designer",
