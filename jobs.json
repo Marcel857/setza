@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-15T16:17:42Z",
+  "updated": "2026-07-15T17:45:36Z",
   "threshold": 60,
-  "count": 18,
+  "count": 17,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -212,21 +212,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Creative Designer",
-      "company": "Ruby Labs",
-      "url": "https://jobicy.com/jobs/148657-creative-designer",
-      "source": "Jobicy",
-      "location": "Europe",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 11,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
