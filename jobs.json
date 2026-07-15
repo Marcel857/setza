@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-14T23:50:46Z",
+  "updated": "2026-07-15T02:03:04Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -17,22 +17,6 @@
         "Junior"
       ],
       "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Junior Web Designer",
-      "company": "Arabian Private Holdings",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-arabian-private-holdings-1134699",
-      "source": "RemoteOK",
-      "location": "Manchester, Manchester, England, United Kingdom",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -96,7 +80,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
