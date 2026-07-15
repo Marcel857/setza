@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-15T19:04:46Z",
+  "updated": "2026-07-15T20:31:29Z",
   "threshold": 60,
-  "count": 17,
+  "count": 15,
   "jobs": [
     {
       "title": "Junior Web Designer",
@@ -33,40 +33,6 @@
         "Junior"
       ],
       "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Junior Designer (Part-Time Contract)",
-      "company": "LooseGrip",
-      "url": "https://weworkremotely.com/remote-jobs/loosegrip-junior-designer-part-time-contract",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Mediengestalter (m/w/d) - Schwerpunkt Bildbearbeitung (Voll- oder Teilzeit)",
-      "company": "BB Sport GmbH & Co. KG",
-      "url": "https://www.arbeitnow.com/jobs/companies/bb-sport-gmbh-co-kg/mediengestalter-schwerpunkt-bildbearbeitung-voll-oder-teilzeit-toging-am-inn-93368",
-      "source": "Arbeitnow",
-      "location": "Töging am Inn",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -154,7 +120,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
