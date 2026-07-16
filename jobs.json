@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-16T15:54:32Z",
+  "updated": "2026-07-16T17:11:07Z",
   "threshold": 60,
-  "count": 15,
+  "count": 14,
   "jobs": [
     {
       "title": "Junior Digital Designer für Social Content (m/w/d)",
@@ -90,21 +90,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Architectural Drafter Designer",
-      "company": "DevHub",
-      "url": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-devhub-1134758",
-      "source": "RemoteOK",
-      "location": "Miami, ",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 4,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -137,7 +123,7 @@
       "tags": [],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -193,7 +179,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
