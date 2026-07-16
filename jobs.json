@@ -1,9 +1,46 @@
 {
   "app": "Setza",
-  "updated": "2026-07-16T12:00:22Z",
+  "updated": "2026-07-16T14:11:58Z",
   "threshold": 60,
-  "count": 7,
+  "count": 14,
   "jobs": [
+    {
+      "title": "Junior Digital Designer für Social Content (m/w/d)",
+      "company": "CMF Advertising GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/cmf-advertising-gmbh/junior-digital-designer-fur-social-content-oberursel-155089",
+      "source": "Arbeitnow",
+      "location": "Oberursel",
+      "remote": false,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Digital Designer für Sportcontent (w/m/d)",
+      "company": "NEO.bet",
+      "url": "https://www.arbeitnow.com/jobs/companies/neobet/digital-designer-fur-sportcontent-dortmund-183566",
+      "source": "Arbeitnow",
+      "location": "Dortmund",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
@@ -35,6 +72,70 @@
         "Junior"
       ],
       "age_days": 1,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Designer",
+      "company": "Intelligent Change",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-intelligent-change-1134905",
+      "source": "RemoteOK",
+      "location": "Toronto, Toronto, Ontario, Canada",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Architectural Drafter Designer",
+      "company": "DevHub",
+      "url": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-devhub-1134758",
+      "source": "RemoteOK",
+      "location": "Miami, ",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 3,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "AI-Driven Content Creator / E-Commerce Brand Designer (m/w/d)",
+      "company": "brandnooz Media GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/brandnooz-media-gmbh/ai-driven-content-creator-e-commerce-brand-designer-hamburg-355704",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Huzzle.com",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-com-1134799",
+      "source": "RemoteOK",
+      "location": "Croatia, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -107,6 +208,20 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 21,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Motion Designer",
+      "company": "Pragmatike",
+      "url": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793",
+      "source": "RemoteOK",
+      "location": "Remote",
+      "remote": true,
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
+      "tags": [],
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     }
