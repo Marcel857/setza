@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-16T14:11:58Z",
+  "updated": "2026-07-16T15:54:32Z",
   "threshold": 60,
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "title": "Junior Digital Designer für Social Content (m/w/d)",
@@ -20,7 +20,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Digital Designer für Sportcontent (w/m/d)",
@@ -39,7 +39,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -71,7 +71,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -104,7 +104,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -122,6 +122,20 @@
         "Fotografie"
       ],
       "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Level Designer",
+      "company": "Devoted Studios",
+      "url": "https://remoteOK.com/remote-jobs/remote-level-designer-devoted-studios-1134863",
+      "source": "RemoteOK",
+      "location": "Canada, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
       "is_match": true,
       "is_new": true
     },
