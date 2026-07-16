@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-16T05:36:40Z",
+  "updated": "2026-07-16T08:06:00Z",
   "threshold": 60,
-  "count": 13,
+  "count": 11,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -39,6 +39,25 @@
       "is_new": false
     },
     {
+      "title": "Designer",
+      "company": "Intelligent Change",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-intelligent-change-1134905",
+      "source": "RemoteOK",
+      "location": "Toronto, Toronto, Ontario, Canada",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Architectural Drafter Designer",
       "company": "DevHub",
       "url": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-devhub-1134758",
@@ -53,22 +72,6 @@
       "is_new": false
     },
     {
-      "title": "Interface Designer",
-      "company": "Grow the Roses",
-      "url": "https://remoteOK.com/remote-jobs/remote-interface-designer-grow-the-roses-1134742",
-      "source": "RemoteOK",
-      "location": "Only, ",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Graphic Designer",
       "company": "Huzzle.com",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-com-1134799",
@@ -79,36 +82,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Architectural Designer",
-      "company": "RemoteVA",
-      "url": "https://remoteOK.com/remote-jobs/remote-architectural-designer-remoteva-1134763",
-      "source": "RemoteOK",
-      "location": "Manila, Manila, National Capital Region, Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX UI Designer",
-      "company": "Palerto Studio",
-      "url": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-palerto-studio-1134780",
-      "source": "RemoteOK",
-      "location": "Washington County, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -166,7 +139,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -180,7 +153,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
