@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-15T23:58:16Z",
+  "updated": "2026-07-16T02:55:06Z",
   "threshold": 60,
-  "count": 15,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -64,7 +64,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -92,7 +92,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -113,20 +113,6 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer",
-      "company": "Huzzle",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-1134712",
-      "source": "RemoteOK",
-      "location": "Bulgaria, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Marketing AI Designer",
       "company": "Superside",
       "url": "https://jobicy.com/jobs/149181-marketing-ai-designer",
@@ -138,20 +124,6 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer - Marketing",
-      "company": "Truelogic",
-      "url": "https://jobicy.com/jobs/149177-graphic-designer-marketing",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
       "age_days": 3,
       "is_match": true,
       "is_new": false
