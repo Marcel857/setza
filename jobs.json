@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-16T02:55:06Z",
+  "updated": "2026-07-16T05:36:40Z",
   "threshold": 60,
   "count": 13,
   "jobs": [
@@ -124,7 +124,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -194,7 +194,7 @@
       "score": 62,
       "reasons": "100% Remote, Design-Fokus",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     }
