@@ -1,46 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-07-17T09:26:11Z",
+  "updated": "2026-07-17T11:05:22Z",
   "threshold": 60,
-  "count": 14,
+  "count": 12,
   "jobs": [
-    {
-      "title": "Junior Digital Designer für Social Content (m/w/d)",
-      "company": "CMF Advertising GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/cmf-advertising-gmbh/junior-digital-designer-fur-social-content-oberursel-155089",
-      "source": "Arbeitnow",
-      "location": "Oberursel",
-      "remote": false,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Digital Designer für Sportcontent (w/m/d)",
-      "company": "NEO.bet",
-      "url": "https://www.arbeitnow.com/jobs/companies/neobet/digital-designer-fur-sportcontent-dortmund-183566",
-      "source": "Arbeitnow",
-      "location": "Dortmund",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
@@ -76,6 +39,24 @@
       "is_new": false
     },
     {
+      "title": "Mediengestalter:in Digital & Print (m/w/d)",
+      "company": "Lock4Safe Marketing",
+      "url": "https://www.arbeitnow.com/jobs/companies/lock4safe-marketing/mediengestalterin-digital-print-kleve-107863",
+      "source": "Arbeitnow",
+      "location": "Kleve",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Designer",
       "company": "Intelligent Change",
       "url": "https://remoteOK.com/remote-jobs/remote-designer-intelligent-change-1134905",
@@ -91,23 +72,6 @@
         "Fotografie"
       ],
       "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "AI-Driven Content Creator / E-Commerce Brand Designer (m/w/d)",
-      "company": "brandnooz Media GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/brandnooz-media-gmbh/ai-driven-content-creator-e-commerce-brand-designer-hamburg-355704",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
