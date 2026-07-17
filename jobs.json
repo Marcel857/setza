@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-17T19:01:20Z",
+  "updated": "2026-07-17T20:25:55Z",
   "threshold": 60,
-  "count": 12,
+  "count": 11,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -168,20 +168,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 22,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Motion Designer",
-      "company": "Pragmatike",
-      "url": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793",
-      "source": "RemoteOK",
-      "location": "Remote",
-      "remote": true,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [],
-      "age_days": 3,
       "is_match": true,
       "is_new": false
     }
