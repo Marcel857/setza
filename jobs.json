@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-17T22:12:58Z",
+  "updated": "2026-07-17T23:22:13Z",
   "threshold": 60,
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -82,6 +82,20 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 2,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Graphic Designer - Marketing",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/149177-graphic-designer-marketing",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
