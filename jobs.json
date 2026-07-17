@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-17T16:11:56Z",
+  "updated": "2026-07-17T17:36:21Z",
   "threshold": 60,
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -17,6 +17,24 @@
         "Junior"
       ],
       "age_days": 22,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Junior Designer (Part-Time Contract)",
+      "company": "LooseGrip",
+      "url": "https://weworkremotely.com/remote-jobs/loosegrip-junior-designer-part-time-contract",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -69,7 +87,7 @@
       "tags": [],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Level Designer",
@@ -139,7 +157,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
