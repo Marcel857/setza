@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-17T17:36:21Z",
+  "updated": "2026-07-17T19:01:20Z",
   "threshold": 60,
-  "count": 13,
+  "count": 12,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -35,24 +35,6 @@
         "Junior"
       ],
       "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Mediengestalter:in Digital & Print (m/w/d)",
-      "company": "Lock4Safe Marketing",
-      "url": "https://www.arbeitnow.com/jobs/companies/lock4safe-marketing/mediengestalterin-digital-print-kleve-107863",
-      "source": "Arbeitnow",
-      "location": "Kleve",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
