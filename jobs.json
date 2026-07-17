@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-17T21:20:28Z",
+  "updated": "2026-07-17T22:12:58Z",
   "threshold": 60,
-  "count": 11,
+  "count": 10,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -82,20 +82,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Huzzle.com",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-com-1134799",
-      "source": "RemoteOK",
-      "location": "Croatia, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
