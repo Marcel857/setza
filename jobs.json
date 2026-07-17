@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-17T14:39:53Z",
+  "updated": "2026-07-17T16:11:56Z",
   "threshold": 60,
   "count": 12,
   "jobs": [
@@ -17,24 +17,6 @@
         "Junior"
       ],
       "age_days": 22,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Junior Designer (Part-Time Contract)",
-      "company": "LooseGrip",
-      "url": "https://weworkremotely.com/remote-jobs/loosegrip-junior-designer-part-time-contract",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -71,9 +53,23 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "YouFibre",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-youfibre-1134925",
+      "source": "RemoteOK",
+      "location": "Remote, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Level Designer",
@@ -85,7 +81,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
