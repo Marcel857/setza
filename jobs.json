@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-18T11:57:32Z",
+  "updated": "2026-07-18T13:20:39Z",
   "threshold": 60,
-  "count": 11,
+  "count": 10,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -33,25 +33,6 @@
         "Branding",
         "Fotografie",
         "Junior"
-      ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Designer",
-      "company": "Intelligent Change",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-intelligent-change-1134905",
-      "source": "RemoteOK",
-      "location": "Toronto, Toronto, Ontario, Canada",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
       ],
       "age_days": 3,
       "is_match": true,
