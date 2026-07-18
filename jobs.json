@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-18T15:52:34Z",
+  "updated": "2026-07-18T16:53:18Z",
   "threshold": 60,
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -39,6 +39,23 @@
       "is_new": false
     },
     {
+      "title": "Animated Graphic Visual Artist",
+      "company": "Gritter Francona",
+      "url": "https://remoteOK.com/remote-jobs/remote-animated-graphic-visual-artist-gritter-francona-1134995",
+      "source": "RemoteOK",
+      "location": "Washington, Washington, District of Columbia, United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Graphic Designer",
       "company": "YouFibre",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-youfibre-1134925",
@@ -48,7 +65,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -120,7 +137,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
