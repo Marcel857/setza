@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-19T10:51:56Z",
+  "updated": "2026-07-19T11:53:53Z",
   "threshold": 60,
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -53,7 +53,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer",
@@ -85,6 +85,22 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Designer de Interiores",
+      "company": "Inovcorp",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-de-interiores-inovcorp-1135055",
+      "source": "RemoteOK",
+      "location": "Rio de Janeiro e RegiÃ£o",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -140,7 +156,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
