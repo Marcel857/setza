@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-19T14:37:13Z",
+  "updated": "2026-07-19T15:53:49Z",
   "threshold": 60,
-  "count": 14,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -34,7 +34,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -115,23 +115,6 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/spreetail-inc/jobs/graphic-designer-1618505868",
-      "source": "Himalayas",
-      "location": "Pakistan, Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Graphic Designer - Marketing",
