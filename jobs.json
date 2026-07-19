@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-19T07:03:59Z",
+  "updated": "2026-07-19T09:25:36Z",
   "threshold": 60,
   "count": 11,
   "jobs": [
@@ -16,7 +16,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -37,6 +37,20 @@
       "age_days": 4,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Designer",
+      "company": "RideTEGO",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-ridetego-1135030",
+      "source": "RemoteOK",
+      "location": "Haridwar, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Animated Graphic Visual Artist",
@@ -66,20 +80,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Level Designer",
-      "company": "Devoted Studios",
-      "url": "https://remoteOK.com/remote-jobs/remote-level-designer-devoted-studios-1134863",
-      "source": "RemoteOK",
-      "location": "Canada, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -151,7 +151,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -165,7 +165,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     }
