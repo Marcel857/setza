@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-19T09:25:36Z",
+  "updated": "2026-07-19T10:51:56Z",
   "threshold": 60,
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -39,6 +39,23 @@
       "is_new": false
     },
     {
+      "title": "Presentation Designer",
+      "company": "INFUSE",
+      "url": "https://remoteOK.com/remote-jobs/remote-presentation-designer-infuse-1135025",
+      "source": "RemoteOK",
+      "location": "Warszawa, Warszawa, Woj. Mazowieckie, Polska",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Designer",
       "company": "RideTEGO",
       "url": "https://remoteOK.com/remote-jobs/remote-designer-ridetego-1135030",
@@ -50,7 +67,7 @@
       "tags": [],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Animated Graphic Visual Artist",
