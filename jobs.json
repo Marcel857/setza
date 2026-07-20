@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-20T08:22:45Z",
+  "updated": "2026-07-20T11:20:50Z",
   "threshold": 60,
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -16,7 +16,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -57,6 +57,22 @@
       "is_new": false
     },
     {
+      "title": "UI/UX Designer (m/w/d) Schwerpunkt Design System – fluege.de / Berlin",
+      "company": "TC Flights Germany GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/tc-flights-germany-gmbh/ui-ux-designer-schwerpunkt-design-system-fluegede-berlin-443483",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Presentation Designer",
       "company": "INFUSE",
       "url": "https://remoteOK.com/remote-jobs/remote-presentation-designer-infuse-1135025",
@@ -69,7 +85,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
