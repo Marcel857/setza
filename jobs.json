@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-20T11:20:50Z",
+  "updated": "2026-07-20T13:24:34Z",
   "threshold": 60,
   "count": 15,
   "jobs": [
@@ -70,7 +70,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Presentation Designer",
@@ -190,7 +190,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
