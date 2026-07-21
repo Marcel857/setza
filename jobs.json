@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-21T14:33:15Z",
+  "updated": "2026-07-21T16:20:20Z",
   "threshold": 60,
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "title": "Designer",
@@ -51,9 +51,28 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Brand & Content Designer / Mediengestalter (m/w/d)",
+      "company": "GLOBAL FINANZ AG",
+      "url": "https://www.arbeitnow.com/jobs/companies/global-finanz-ag/brand-content-designer-mediengestalter-bonn-17596",
+      "source": "Arbeitnow",
+      "location": "Bonn",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
