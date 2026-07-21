@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-21T22:01:02Z",
+  "updated": "2026-07-21T23:27:31Z",
   "threshold": 60,
-  "count": 15,
+  "count": 16,
   "jobs": [
     {
       "title": "Designer",
@@ -91,6 +91,22 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer (UI/UX)",
+      "company": "name",
+      "url": "https://himalayas.app/companies/appetiser-apps/jobs/product-designer-ui-ux",
+      "source": "Himalayas",
+      "location": "",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Presentation Designer",
