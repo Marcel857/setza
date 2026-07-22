@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-22T18:39:22Z",
+  "updated": "2026-07-22T20:09:21Z",
   "threshold": 60,
-  "count": 22,
+  "count": 14,
   "jobs": [
     {
       "title": "Grafikdesigner/-in (m/w/d)",
@@ -144,123 +144,6 @@
       "is_new": false
     },
     {
-      "title": "Presentation Designer",
-      "company": "INFUSE",
-      "url": "https://remoteOK.com/remote-jobs/remote-presentation-designer-infuse-1135025",
-      "source": "RemoteOK",
-      "location": "Warszawa, Warszawa, Woj. Mazowieckie, Polska",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI Designer - AI Neobank App (Spain)",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-spain",
-      "source": "Himalayas",
-      "location": "Spain",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/product-designer",
-      "source": "Himalayas",
-      "location": "Malaysia",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Visual Designer",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/visual-designer-9253402489",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI Designer - AI Neobank App (Netherlands)",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-netherlands",
-      "source": "Himalayas",
-      "location": "Netherlands",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Motion Designer (UX/Interface)",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/motion-designer-ux-interface-2469678473",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Mobile UI Designer",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/mobile-ui-designer",
-      "source": "Himalayas",
-      "location": "Malaysia",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI Designer - AI Neobank App",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app",
-      "source": "Himalayas",
-      "location": "Malaysia",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Graphic Designer - Marketing",
       "company": "Truelogic",
       "url": "https://jobicy.com/jobs/149177-graphic-designer-marketing",
@@ -270,7 +153,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
