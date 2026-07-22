@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-22T13:42:30Z",
+  "updated": "2026-07-22T15:37:03Z",
   "threshold": 60,
-  "count": 17,
+  "count": 21,
   "jobs": [
     {
       "title": "Mediengestalter / Content Creator (m/w/d)",
@@ -69,7 +69,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -139,37 +139,37 @@
       "is_new": false
     },
     {
-      "title": "UI Designer - AI Neobank App (Australia)",
+      "title": "UI Designer - AI Neobank App (Spain)",
       "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-australia",
+      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-spain",
       "source": "Himalayas",
-      "location": "Australia",
+      "location": "Spain",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "UI Designer - AI Neobank App (South Korea)",
+      "title": "Product Designer",
       "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-south-korea",
+      "url": "https://himalayas.app/companies/bjak/jobs/product-designer",
       "source": "Himalayas",
-      "location": "South Korea",
+      "location": "Malaysia",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "UI Designer - AI Neobank App (Vietnam)",
+      "title": "Visual Designer",
       "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-vietnam",
+      "url": "https://himalayas.app/companies/bjak/jobs/visual-designer-9253402489",
       "source": "Himalayas",
       "location": "United States",
       "remote": true,
@@ -178,7 +178,65 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "UI Designer - AI Neobank App (Netherlands)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-netherlands",
+      "source": "Himalayas",
+      "location": "Netherlands",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Motion Designer (UX/Interface)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/motion-designer-ux-interface-2469678473",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Mobile UI Designer",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/mobile-ui-designer",
+      "source": "Himalayas",
+      "location": "Malaysia",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI Designer - AI Neobank App",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app",
+      "source": "Himalayas",
+      "location": "Malaysia",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer - Marketing",
