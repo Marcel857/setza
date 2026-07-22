@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-07-22T15:37:03Z",
+  "updated": "2026-07-22T17:12:52Z",
   "threshold": 60,
-  "count": 21,
+  "count": 22,
   "jobs": [
+    {
+      "title": "Grafikdesigner/-in (m/w/d)",
+      "company": "E-Whisper Agency UG (haftungsbeschränkt)",
+      "url": "https://www.arbeitnow.com/jobs/companies/e-whisper-agency-ug-haftungsbeschrankt/grafikdesigner-in-passau-297618",
+      "source": "Arbeitnow",
+      "location": "Passau",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Mediengestalter / Content Creator (m/w/d)",
       "company": "Confiserie Rabbel GmbH",
@@ -75,6 +92,25 @@
     },
     {
       "title": "Graphic Designer",
+      "company": "Chazak Rescue",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-chazak-rescue-1135170",
+      "source": "RemoteOK",
+      "location": "England, ",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Graphic Designer",
       "company": "DOSED",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-dosed-1135046",
       "source": "RemoteOK",
@@ -125,20 +161,6 @@
       "is_new": false
     },
     {
-      "title": "Designer",
-      "company": "RideTEGO",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-ridetego-1135030",
-      "source": "RemoteOK",
-      "location": "Haridwar, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "UI Designer - AI Neobank App (Spain)",
       "company": "Bjak",
       "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-spain",
@@ -150,7 +172,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer",
@@ -164,7 +186,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Visual Designer",
@@ -178,7 +200,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UI Designer - AI Neobank App (Netherlands)",
@@ -192,7 +214,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Motion Designer (UX/Interface)",
@@ -206,7 +228,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Mobile UI Designer",
@@ -222,7 +244,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UI Designer - AI Neobank App",
@@ -236,7 +258,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer - Marketing",
@@ -292,7 +314,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
