@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-22T20:09:21Z",
+  "updated": "2026-07-22T21:35:59Z",
   "threshold": 60,
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "title": "Grafikdesigner/-in (m/w/d)",
@@ -92,6 +92,24 @@
     },
     {
       "title": "Graphic Designer",
+      "company": "Sezzle",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-sezzle-1135192",
+      "source": "RemoteOK",
+      "location": "Ciudad de MÃ©xico, Ciudad de MÃ©xico, MÃ©xico",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Graphic Designer",
       "company": "Chazak Rescue",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-chazak-rescue-1135170",
       "source": "RemoteOK",
@@ -123,7 +141,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
