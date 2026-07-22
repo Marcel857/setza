@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-22T04:15:19Z",
+  "updated": "2026-07-22T07:07:25Z",
   "threshold": 60,
-  "count": 15,
+  "count": 16,
   "jobs": [
     {
       "title": "Designer",
@@ -107,6 +107,22 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Designer Residential",
+      "company": "NORR",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-residential-norr-1135165",
+      "source": "RemoteOK",
+      "location": "Edmonton, Edmonton, Alberta, Canada",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Presentation Designer",
