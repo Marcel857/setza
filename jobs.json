@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-22T07:07:25Z",
+  "updated": "2026-07-22T09:56:45Z",
   "threshold": 60,
   "count": 16,
   "jobs": [
@@ -33,7 +33,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -56,25 +56,6 @@
       "is_new": false
     },
     {
-      "title": "Brand & Content Designer / Mediengestalter (m/w/d)",
-      "company": "GLOBAL FINANZ AG",
-      "url": "https://www.arbeitnow.com/jobs/companies/global-finanz-ag/brand-content-designer-mediengestalter-bonn-17596",
-      "source": "Arbeitnow",
-      "location": "Bonn",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Graphic Designer",
       "company": "DOSED",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-dosed-1135046",
@@ -93,22 +74,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer (UI/UX)",
-      "company": "Appetiser Apps",
-      "url": "https://himalayas.app/companies/appetiser-apps/jobs/product-designer-ui-ux",
-      "source": "Himalayas",
-      "location": "",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Designer Residential",
       "company": "NORR",
       "url": "https://remoteOK.com/remote-jobs/remote-designer-residential-norr-1135165",
@@ -122,7 +87,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Presentation Designer",
@@ -137,7 +102,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -151,26 +116,51 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Animated Graphic Visual Artist",
-      "company": "Gritter Francona",
-      "url": "https://remoteOK.com/remote-jobs/remote-animated-graphic-visual-artist-gritter-francona-1134995",
-      "source": "RemoteOK",
-      "location": "Washington, Washington, District of Columbia, United States",
+      "title": "UI Designer - AI Neobank App (Australia)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-australia",
+      "source": "Himalayas",
+      "location": "Australia",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 4,
+      "tags": [],
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "UI Designer - AI Neobank App (South Korea)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-south-korea",
+      "source": "Himalayas",
+      "location": "South Korea",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI Designer - AI Neobank App (Vietnam)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/ui-designer-ai-neobank-app-vietnam",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer - Marketing",
@@ -240,7 +230,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -254,7 +244,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     }
