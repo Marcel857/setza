@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-22T17:12:52Z",
+  "updated": "2026-07-22T18:39:22Z",
   "threshold": 60,
   "count": 22,
   "jobs": [
@@ -19,7 +19,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Mediengestalter / Content Creator (m/w/d)",
@@ -107,7 +107,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
