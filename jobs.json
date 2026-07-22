@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-21T23:27:31Z",
+  "updated": "2026-07-22T00:56:00Z",
   "threshold": 60,
   "count": 16,
   "jobs": [
@@ -106,7 +106,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Presentation Designer",
