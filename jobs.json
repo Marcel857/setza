@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-07-22T09:56:45Z",
+  "updated": "2026-07-22T11:46:57Z",
   "threshold": 60,
-  "count": 16,
+  "count": 17,
   "jobs": [
+    {
+      "title": "Mediengestalter / Content Creator (m/w/d)",
+      "company": "Confiserie Rabbel GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/confiserie-rabbel-gmbh/mediengestalter-content-creator-westerkappeln-421122",
+      "source": "Arbeitnow",
+      "location": "Westerkappeln",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Designer",
       "company": "Simon and Schuster Books",
@@ -17,7 +35,7 @@
         "Packaging/Print",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -132,7 +150,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UI Designer - AI Neobank App (South Korea)",
@@ -146,7 +164,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UI Designer - AI Neobank App (Vietnam)",
@@ -160,7 +178,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer - Marketing",
