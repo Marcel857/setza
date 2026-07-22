@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-22T00:56:00Z",
+  "updated": "2026-07-22T04:15:19Z",
   "threshold": 60,
-  "count": 16,
+  "count": 15,
   "jobs": [
     {
       "title": "Designer",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Product Designer (UI/UX)",
-      "company": "name",
+      "company": "Appetiser Apps",
       "url": "https://himalayas.app/companies/appetiser-apps/jobs/product-designer-ui-ux",
       "source": "Himalayas",
       "location": "",
@@ -157,22 +157,6 @@
       "is_new": false
     },
     {
-      "title": "Designer de Interiores",
-      "company": "Inovcorp",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-de-interiores-inovcorp-1135055",
-      "source": "RemoteOK",
-      "location": "Rio de Janeiro e RegiÃ£o",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Graphic Designer - Marketing",
       "company": "Truelogic",
       "url": "https://jobicy.com/jobs/149177-graphic-designer-marketing",
@@ -198,7 +182,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
