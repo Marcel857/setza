@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-22T22:58:04Z",
+  "updated": "2026-07-23T00:02:48Z",
   "threshold": 60,
-  "count": 15,
+  "count": 14,
   "jobs": [
     {
       "title": "Grafikdesigner/-in (m/w/d)",
@@ -126,22 +126,6 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Service Designers multiiple roles long term contracts",
-      "company": "Softtest pays pty ltd",
-      "url": "https://himalayas.app/companies/softtest-pays-pty-ltd/jobs/service-designers-multiiple-roles-long-term-contracts",
-      "source": "Himalayas",
-      "location": "Australia",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Designer Residential",
