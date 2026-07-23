@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-23T09:07:10Z",
+  "updated": "2026-07-23T11:23:03Z",
   "threshold": 60,
-  "count": 15,
+  "count": 13,
   "jobs": [
     {
       "title": "Grafikdesigner/-in (m/w/d)",
@@ -22,21 +22,22 @@
       "is_new": false
     },
     {
-      "title": "Designer",
-      "company": "Simon and Schuster Books",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-simon-and-schuster-books-1135107",
-      "source": "RemoteOK",
-      "location": "New York, ",
+      "title": "Sr Graphic Designer",
+      "company": "Trafilea",
+      "url": "https://himalayas.app/companies/trafilea-com/jobs/sr-graphic-designer",
+      "source": "Himalayas",
+      "location": "Serbia",
       "remote": true,
       "score": 87,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
+        "Branding",
         "Fotografie"
       ],
-      "age_days": 2,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -50,7 +51,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -122,36 +123,6 @@
         "Fotografie"
       ],
       "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Remote UX Designer",
-      "company": "FreeUp",
-      "url": "https://himalayas.app/companies/freeup/jobs/remote-ux-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Mobile UI Designer (South Korea)",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/mobile-ui-designer-south-korea",
-      "source": "Himalayas",
-      "location": "South Korea",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
