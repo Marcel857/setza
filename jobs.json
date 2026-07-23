@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-07-23T16:56:11Z",
+  "updated": "2026-07-23T18:11:14Z",
   "threshold": 60,
-  "count": 14,
+  "count": 15,
   "jobs": [
+    {
+      "title": "UX DESIGNER",
+      "company": "Qaledon by Caledonia Financial Group",
+      "url": "https://remoteOK.com/remote-jobs/remote-ux-designer-qaledon-by-caledonia-financial-group-1135227",
+      "source": "RemoteOK",
+      "location": "Greater Edinburgh Area, ",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
@@ -119,7 +135,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer (m/w/d)",
