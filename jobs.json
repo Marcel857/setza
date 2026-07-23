@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-23T15:08:44Z",
+  "updated": "2026-07-23T16:56:11Z",
   "threshold": 60,
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -34,7 +34,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -71,7 +71,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -89,7 +89,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer Residential",
@@ -108,6 +108,20 @@
       "is_new": false
     },
     {
+      "title": "Designer Retail & Interior (m/w/d)",
+      "company": "WESPRO Retail Design",
+      "url": "https://www.arbeitnow.com/jobs/companies/wespro-retail-design/designer-retail-interior-berlin-22786",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Designer (m/w/d)",
       "company": "SW Studios GmbH",
       "url": "https://www.arbeitnow.com/jobs/companies/sw-studios-gmbh/designer-hanover-124170",
@@ -119,7 +133,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer - Marketing",
@@ -175,7 +189,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
