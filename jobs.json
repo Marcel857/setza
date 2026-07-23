@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-23T03:52:55Z",
+  "updated": "2026-07-23T06:27:14Z",
   "threshold": 60,
   "count": 16,
   "jobs": [
@@ -139,7 +139,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -155,7 +155,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Mobile UI Designer (South Korea)",
@@ -171,7 +171,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer - Marketing",
