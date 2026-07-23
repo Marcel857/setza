@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-23T00:02:48Z",
+  "updated": "2026-07-23T03:52:55Z",
   "threshold": 60,
-  "count": 14,
+  "count": 16,
   "jobs": [
     {
       "title": "Grafikdesigner/-in (m/w/d)",
@@ -144,6 +144,36 @@
       "is_new": false
     },
     {
+      "title": "Remote UX Designer",
+      "company": "FreeUp",
+      "url": "https://himalayas.app/companies/freeup/jobs/remote-ux-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Mobile UI Designer (South Korea)",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/mobile-ui-designer-south-korea",
+      "source": "Himalayas",
+      "location": "South Korea",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Graphic Designer - Marketing",
       "company": "Truelogic",
       "url": "https://jobicy.com/jobs/149177-graphic-designer-marketing",
@@ -169,7 +199,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
