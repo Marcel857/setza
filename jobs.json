@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-23T12:56:53Z",
+  "updated": "2026-07-23T15:08:44Z",
   "threshold": 60,
-  "count": 11,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior UI designer (Marketing team)",
@@ -76,6 +76,22 @@
       "is_new": false
     },
     {
+      "title": "UX/UI Designer (m/w/d)",
+      "company": "AccountOne GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/accountone-gmbh/ux-ui-designer-flensburg-285105",
+      "source": "Arbeitnow",
+      "location": "Flensburg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Designer Residential",
       "company": "NORR",
       "url": "https://remoteOK.com/remote-jobs/remote-designer-residential-norr-1135165",
@@ -90,6 +106,20 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Designer (m/w/d)",
+      "company": "SW Studios GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/sw-studios-gmbh/designer-hanover-124170",
+      "source": "Arbeitnow",
+      "location": "Hanover",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer - Marketing",
