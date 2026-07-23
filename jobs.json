@@ -1,9 +1,29 @@
 {
   "app": "Setza",
-  "updated": "2026-07-23T22:08:39Z",
+  "updated": "2026-07-23T23:26:54Z",
   "threshold": 60,
   "count": 16,
   "jobs": [
+    {
+      "title": "Junior Designer",
+      "company": "ð© ð ð¥ ð§ ð¥ ð ð¢",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-designer-v-i-r-t-r-i-o-1135327",
+      "source": "RemoteOK",
+      "location": "Time, ",
+      "remote": true,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "UX DESIGNER",
       "company": "Qaledon by Caledonia Financial Group",
@@ -37,7 +57,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -123,22 +143,6 @@
         "Branding"
       ],
       "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Designer Residential",
-      "company": "NORR",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-residential-norr-1135165",
-      "source": "RemoteOK",
-      "location": "Edmonton, Edmonton, Alberta, Canada",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
