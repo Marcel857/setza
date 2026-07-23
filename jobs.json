@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-23T06:27:14Z",
+  "updated": "2026-07-23T09:07:10Z",
   "threshold": 60,
-  "count": 16,
+  "count": 15,
   "jobs": [
     {
       "title": "Grafikdesigner/-in (m/w/d)",
@@ -16,24 +16,6 @@
       "tags": [
         "Packaging/Print",
         "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Mediengestalter / Content Creator (m/w/d)",
-      "company": "Confiserie Rabbel GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/confiserie-rabbel-gmbh/mediengestalter-content-creator-westerkappeln-421122",
-      "source": "Arbeitnow",
-      "location": "Westerkappeln",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
@@ -241,7 +223,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -255,7 +237,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     }
