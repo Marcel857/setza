@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-23T23:26:54Z",
+  "updated": "2026-07-24T00:55:32Z",
   "threshold": 60,
   "count": 16,
   "jobs": [
@@ -22,7 +22,7 @@
       ],
       "age_days": 2,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UX DESIGNER",
@@ -41,23 +41,22 @@
       "is_new": false
     },
     {
-      "title": "Graphic & Motion Designer for Digital Marketing Agency",
-      "company": "name",
-      "url": "https://himalayas.app/companies/mvr-digital/jobs/graphic-motion-designer-for-digital-marketing-agency-9374174214",
+      "title": "Apparel Graphic Designer / Design Assistant | United States",
+      "company": "HireHawk",
+      "url": "https://himalayas.app/companies/hirehawk/jobs/apparel-graphic-designer-design-assistant-united-states",
       "source": "Himalayas",
-      "location": "Argentina",
+      "location": "United States",
       "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print",
         "Branding",
         "Social Media",
-        "Fotografie"
+        "Junior"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
