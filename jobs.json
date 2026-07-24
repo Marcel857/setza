@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-24T15:13:03Z",
+  "updated": "2026-07-24T17:03:02Z",
   "threshold": 60,
-  "count": 16,
+  "count": 15,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -39,7 +39,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UX DESIGNER",
@@ -87,7 +87,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -136,22 +136,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
       "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Email Designer",
-      "company": "ScaleJet",
-      "url": "https://himalayas.app/companies/scalejet/jobs/email-designer-1998278791",
-      "source": "Himalayas",
-      "location": "Moldova",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -225,7 +209,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
