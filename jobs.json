@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-24T09:42:38Z",
+  "updated": "2026-07-24T11:38:39Z",
   "threshold": 60,
   "count": 15,
   "jobs": [
@@ -23,6 +23,25 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UFC GYM Jurnior Graphic Designer",
+      "company": "UFC GYM",
+      "url": "https://remoteOK.com/remote-jobs/remote-ufc-gym-jurnior-graphic-designer-ufc-gym-1135299",
+      "source": "RemoteOK",
+      "location": "Hollywood, Hollywood, Florida, United States",
+      "remote": true,
+      "score": 95,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UX DESIGNER",
@@ -112,22 +131,6 @@
       "is_new": false
     },
     {
-      "title": "UX/UI Designer (m/w/d)",
-      "company": "AccountOne GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/accountone-gmbh/ux-ui-designer-flensburg-285105",
-      "source": "Arbeitnow",
-      "location": "Flensburg",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Designer Retail & Interior (m/w/d)",
       "company": "WESPRO Retail Design",
       "url": "https://www.arbeitnow.com/jobs/companies/wespro-retail-design/designer-retail-interior-berlin-22786",
@@ -142,18 +145,20 @@
       "is_new": false
     },
     {
-      "title": "Designer (m/w/d)",
-      "company": "SW Studios GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/sw-studios-gmbh/designer-hanover-124170",
-      "source": "Arbeitnow",
-      "location": "Hanover",
-      "remote": false,
+      "title": "Motion Designer",
+      "company": "StackAdapt",
+      "url": "https://jobicy.com/jobs/149685-motion-designer",
+      "source": "Jobicy",
+      "location": "Canada",
+      "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
+      "tags": [
+        "Branding"
+      ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer - Marketing",
