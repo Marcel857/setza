@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-24T11:38:39Z",
+  "updated": "2026-07-24T13:28:03Z",
   "threshold": 60,
-  "count": 15,
+  "count": 17,
   "jobs": [
     {
       "title": "Junior Designer",
@@ -41,7 +41,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UX DESIGNER",
@@ -112,23 +112,34 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer",
-      "company": "Chazak Rescue",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-chazak-rescue-1135170",
+      "title": "GRAPHIC DESIGNER",
+      "company": "NEW VINE LIMITED",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-new-vine-limited-1135316",
       "source": "RemoteOK",
-      "location": "England, ",
+      "location": "Oxford, ",
       "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
+        "Branding"
       ],
-      "age_days": 2,
+      "age_days": 1,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "Designer",
+      "company": "Digitalilusion S.L.",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-digitalilusion-s-l-1135360",
+      "source": "RemoteOK",
+      "location": "Granada, ",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer Retail & Interior (m/w/d)",
@@ -145,6 +156,22 @@
       "is_new": false
     },
     {
+      "title": "Email Designer",
+      "company": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/email-designer-1998278791",
+      "source": "Himalayas",
+      "location": "Moldova",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Motion Designer",
       "company": "StackAdapt",
       "url": "https://jobicy.com/jobs/149685-motion-designer",
@@ -158,7 +185,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer - Marketing",
@@ -200,7 +227,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
