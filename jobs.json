@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-24T20:18:14Z",
+  "updated": "2026-07-24T21:35:52Z",
   "threshold": 60,
-  "count": 14,
+  "count": 16,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -120,6 +120,38 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Creative Designer (DTC)",
+      "company": "name",
+      "url": "https://himalayas.app/companies/scalejet/jobs/creative-designer-dtc-7981181368",
+      "source": "Himalayas",
+      "location": "Portugal",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "AI Native Product Designer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/metalab/jobs/ai-native-product-designer",
+      "source": "Himalayas",
+      "location": "Australia, Canada, Germany, India, United Kingdom, United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Motion Designer",
