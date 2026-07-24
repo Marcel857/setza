@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-24T00:55:32Z",
+  "updated": "2026-07-24T04:12:11Z",
   "threshold": 60,
-  "count": 16,
+  "count": 15,
   "jobs": [
     {
       "title": "Junior Designer",
@@ -39,24 +39,6 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Apparel Graphic Designer / Design Assistant | United States",
-      "company": "HireHawk",
-      "url": "https://himalayas.app/companies/hirehawk/jobs/apparel-graphic-designer-design-assistant-united-states",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -199,7 +181,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
