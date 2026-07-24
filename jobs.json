@@ -1,29 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-07-24T13:28:03Z",
+  "updated": "2026-07-24T15:13:03Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
-    {
-      "title": "Junior Designer",
-      "company": "ð© ð ð¥ ð§ ð¥ ð ð¢",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-designer-v-i-r-t-r-i-o-1135327",
-      "source": "RemoteOK",
-      "location": "Time, ",
-      "remote": true,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "UFC GYM Jurnior Graphic Designer",
       "company": "UFC GYM",
@@ -42,6 +22,24 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Mediengestalter (m/w/d)",
+      "company": "Handball Magdeburg GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/handball-magdeburg-gmbh/mediengestalter-magdeburg-130856",
+      "source": "Arbeitnow",
+      "location": "Magdeburg",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UX DESIGNER",
@@ -125,7 +123,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer",
@@ -138,20 +136,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
       "age_days": 1,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Designer Retail & Interior (m/w/d)",
-      "company": "WESPRO Retail Design",
-      "url": "https://www.arbeitnow.com/jobs/companies/wespro-retail-design/designer-retail-interior-berlin-22786",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -169,7 +153,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Motion Designer",
