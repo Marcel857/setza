@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-24T21:35:52Z",
+  "updated": "2026-07-24T22:57:46Z",
   "threshold": 60,
-  "count": 16,
+  "count": 15,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -20,24 +20,6 @@
         "Junior"
       ],
       "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Mediengestalter (m/w/d)",
-      "company": "Handball Magdeburg GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/handball-magdeburg-gmbh/mediengestalter-magdeburg-130856",
-      "source": "Arbeitnow",
-      "location": "Magdeburg",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -117,7 +99,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -137,7 +119,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI Native Product Designer",
@@ -151,7 +133,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Motion Designer",
