@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-24T07:04:44Z",
+  "updated": "2026-07-24T09:42:38Z",
   "threshold": 60,
   "count": 15,
   "jobs": [
@@ -52,7 +52,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -223,7 +223,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -237,7 +237,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     }
