@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-24T17:03:02Z",
+  "updated": "2026-07-24T18:56:15Z",
   "threshold": 60,
-  "count": 15,
+  "count": 14,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -53,7 +53,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -88,24 +88,6 @@
         "Junior"
       ],
       "age_days": 10,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Sezzle",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-sezzle-1135192",
-      "source": "RemoteOK",
-      "location": "Ciudad de MÃ©xico, Ciudad de MÃ©xico, MÃ©xico",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
