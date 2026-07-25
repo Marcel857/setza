@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-25T20:45:06Z",
+  "updated": "2026-07-25T21:51:32Z",
   "threshold": 60,
   "count": 17,
   "jobs": [
@@ -88,7 +88,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer",
