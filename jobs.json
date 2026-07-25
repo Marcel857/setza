@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-24T22:57:46Z",
+  "updated": "2026-07-25T00:06:44Z",
   "threshold": 60,
   "count": 15,
   "jobs": [
@@ -105,10 +105,10 @@
     },
     {
       "title": "Creative Designer (DTC)",
-      "company": "name",
-      "url": "https://himalayas.app/companies/scalejet/jobs/creative-designer-dtc-7981181368",
+      "company": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/creative-designer-dtc-4143274508",
       "source": "Himalayas",
-      "location": "Portugal",
+      "location": "Ukraine",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
@@ -119,21 +119,25 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "AI Native Product Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/metalab/jobs/ai-native-product-designer",
+      "title": "Creative Designer (DTC)",
+      "company": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/creative-designer-dtc-8463255985",
       "source": "Himalayas",
-      "location": "Australia, Canada, Germany, India, United Kingdom, United States",
+      "location": "Serbia",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Motion Designer",
