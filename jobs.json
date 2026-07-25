@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-25T19:43:58Z",
+  "updated": "2026-07-25T20:45:06Z",
   "threshold": 60,
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -72,6 +72,23 @@
       "age_days": 11,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Brand Designer",
+      "company": "CoâStar",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-designer-co-star-1135383",
+      "source": "RemoteOK",
+      "location": "New York, New York, New York, United States",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer",
