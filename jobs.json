@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-25T03:46:50Z",
+  "updated": "2026-07-25T06:13:50Z",
   "threshold": 60,
-  "count": 16,
+  "count": 14,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -88,7 +88,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GRAPHIC DESIGNER",
@@ -117,42 +117,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
       "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Creative Designer (DTC)",
-      "company": "ScaleJet",
-      "url": "https://himalayas.app/companies/scalejet/jobs/creative-designer-dtc-4143274508",
-      "source": "Himalayas",
-      "location": "Ukraine",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Creative Designer (DTC)",
-      "company": "ScaleJet",
-      "url": "https://himalayas.app/companies/scalejet/jobs/creative-designer-dtc-8463255985",
-      "source": "Himalayas",
-      "location": "Serbia",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
