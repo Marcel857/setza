@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-25T22:51:26Z",
+  "updated": "2026-07-25T23:57:11Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -20,22 +20,6 @@
         "Junior"
       ],
       "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX DESIGNER",
-      "company": "Qaledon by Caledonia Financial Group",
-      "url": "https://remoteOK.com/remote-jobs/remote-ux-designer-qaledon-by-caledonia-financial-group-1135227",
-      "source": "RemoteOK",
-      "location": "Greater Edinburgh Area, ",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
