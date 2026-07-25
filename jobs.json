@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-25T08:28:54Z",
+  "updated": "2026-07-25T10:09:37Z",
   "threshold": 60,
   "count": 15,
   "jobs": [
@@ -51,7 +51,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 29,
+      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
@@ -134,7 +134,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Motion Designer",

@@ -413,3 +413,4 @@
 | 2026-07-25 03:46 | Arbeitnow+Remotive+RemoteOK+Himalayas+Jobicy+WeWorkRemotely+WorkingNomads | 385 | 1 | 1 |  |
 | 2026-07-25 06:13 | Arbeitnow+Remotive+RemoteOK+Jobicy+WeWorkRemotely+WorkingNomads | 365 | 0 | 0 |  |
 | 2026-07-25 08:28 | Arbeitnow+Remotive+RemoteOK+Himalayas+Jobicy+WeWorkRemotely+WorkingNomads | 384 | 1 | 1 |  |
+| 2026-07-25 10:09 | Arbeitnow+Remotive+RemoteOK+Himalayas+Jobicy+WeWorkRemotely+WorkingNomads | 384 | 0 | 0 |  |
