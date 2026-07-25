@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-25T00:06:44Z",
+  "updated": "2026-07-25T03:46:50Z",
   "threshold": 60,
-  "count": 15,
+  "count": 16,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -74,6 +74,23 @@
       "is_new": false
     },
     {
+      "title": "Product Designer",
+      "company": "Flint",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-flint-1135340",
+      "source": "RemoteOK",
+      "location": "New York, New York, New York, United States",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "GRAPHIC DESIGNER",
       "company": "NEW VINE LIMITED",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-new-vine-limited-1135316",
@@ -119,7 +136,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Creative Designer (DTC)",
@@ -137,7 +154,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Motion Designer",
@@ -181,7 +198,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
