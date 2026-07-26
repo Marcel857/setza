@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-26T18:31:26Z",
+  "updated": "2026-07-26T20:06:28Z",
   "threshold": 60,
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -109,6 +109,20 @@
       "is_new": false
     },
     {
+      "title": "Product Designer (w/m/d) eCommerce",
+      "company": "Holzland Becker",
+      "url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/product-designer-ecommerce-offenbach-am-main-263177",
+      "source": "Arbeitnow",
+      "location": "Offenbach am Main, Hessen, Deutschland",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "GRAPHIC DESIGNER",
       "company": "NEW VINE LIMITED",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-new-vine-limited-1135316",
@@ -123,6 +137,20 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Sr. UI/UX Designer (m/f/d)",
+      "company": "Holy",
+      "url": "https://www.arbeitnow.com/jobs/companies/holy/sr-ui-ux-designer-berlin-170642",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Marketing Designer",
@@ -194,7 +222,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -239,22 +267,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Kaufmännische:r Mitarbeiter:in - Kundenbetreuung Verpackungsdruck (m/w/d)",
-      "company": "oneflexo GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/oneflexo-gmbh/kaufmannischer-mitarbeiterin-kundenbetreuung-verpackungsdruck-blaubeuren-468440",
-      "source": "Arbeitnow",
-      "location": "Blaubeuren",
-      "remote": false,
-      "score": 67,
-      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 1,
       "is_match": true,
       "is_new": false
     }
