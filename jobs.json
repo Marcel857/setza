@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-26T14:48:07Z",
+  "updated": "2026-07-26T15:58:11Z",
   "threshold": 60,
-  "count": 14,
+  "count": 16,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -53,7 +53,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -134,6 +134,34 @@
         "Fotografie"
       ],
       "age_days": 1,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Conversational Designer",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/143763-conversational-designer",
+      "source": "Jobicy",
+      "location": "UK",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "UI/UX Designer",
+      "company": "ManTech",
+      "url": "https://jobicy.com/jobs/143624-ui-ux-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
