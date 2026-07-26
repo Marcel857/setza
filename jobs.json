@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-26T13:11:53Z",
+  "updated": "2026-07-26T14:48:07Z",
   "threshold": 60,
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -20,6 +20,22 @@
         "Junior"
       ],
       "age_days": 3,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Junior UI designer (Marketing team)",
+      "company": "TechMagic",
+      "url": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
+      "source": "Jobicy",
+      "location": "Ukraine",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -207,7 +223,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     }
