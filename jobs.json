@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-26T21:25:26Z",
+  "updated": "2026-07-26T22:28:54Z",
   "threshold": 60,
-  "count": 17,
+  "count": 18,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -137,6 +137,24 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Motion Designer (Mobile Game Marketing)",
+      "company": "name",
+      "url": "https://himalayas.app/companies/a-thinking-ape/jobs/motion-designer-mobile-game-marketing",
+      "source": "Himalayas",
+      "location": "Canada",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Sr. UI/UX Designer (m/f/d)",
