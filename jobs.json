@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-26T22:28:54Z",
+  "updated": "2026-07-26T23:31:44Z",
   "threshold": 60,
   "count": 18,
   "jobs": [
@@ -140,7 +140,7 @@
     },
     {
       "title": "Motion Designer (Mobile Game Marketing)",
-      "company": "name",
+      "company": "A Thinking Ape",
       "url": "https://himalayas.app/companies/a-thinking-ape/jobs/motion-designer-mobile-game-marketing",
       "source": "Himalayas",
       "location": "Canada",
@@ -154,7 +154,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Sr. UI/UX Designer (m/f/d)",
