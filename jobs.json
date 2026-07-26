@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-26T15:58:11Z",
+  "updated": "2026-07-26T17:06:50Z",
   "threshold": 60,
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -22,6 +22,23 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Architectural Interior Designer",
+      "company": "MyVA Support (MyVAS)",
+      "url": "https://remoteOK.com/remote-jobs/remote-architectural-interior-designer-myva-support-myvas-1135439",
+      "source": "RemoteOK",
+      "location": "Job, ",
+      "remote": true,
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -235,7 +252,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
