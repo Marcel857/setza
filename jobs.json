@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-26T17:06:50Z",
+  "updated": "2026-07-26T18:31:26Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
     {
       "title": "UFC GYM Jurnior Graphic Designer",
@@ -38,7 +38,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -125,20 +125,6 @@
       "is_new": false
     },
     {
-      "title": "Designer",
-      "company": "Digitalilusion S.L.",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-digitalilusion-s-l-1135360",
-      "source": "RemoteOK",
-      "location": "Granada, ",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Marketing Designer",
       "company": "albo",
       "url": "https://remoteOK.com/remote-jobs/remote-marketing-designer-albo-1135376",
@@ -150,7 +136,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
