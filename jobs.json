@@ -1,28 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-07-27T02:34:30Z",
+  "updated": "2026-07-27T06:25:40Z",
   "threshold": 60,
-  "count": 17,
+  "count": 15,
   "jobs": [
-    {
-      "title": "UFC GYM Jurnior Graphic Designer",
-      "company": "UFC GYM",
-      "url": "https://remoteOK.com/remote-jobs/remote-ufc-gym-jurnior-graphic-designer-ufc-gym-1135299",
-      "source": "RemoteOK",
-      "location": "Hollywood, Hollywood, Florida, United States",
-      "remote": true,
-      "score": 95,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Architectural Interior Designer",
       "company": "MyVA Support (MyVAS)",
@@ -109,36 +90,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer (w/m/d) eCommerce",
-      "company": "Holzland Becker",
-      "url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/product-designer-ecommerce-offenbach-am-main-263177",
-      "source": "Arbeitnow",
-      "location": "Offenbach am Main, Hessen, Deutschland",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "GRAPHIC DESIGNER",
-      "company": "NEW VINE LIMITED",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-new-vine-limited-1135316",
-      "source": "RemoteOK",
-      "location": "Oxford, ",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Sr. UI/UX Designer (m/f/d)",
       "company": "Holy",
       "url": "https://www.arbeitnow.com/jobs/companies/holy/sr-ui-ux-designer-berlin-170642",
@@ -151,6 +102,20 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Sr UX Designer",
+      "company": "beyondtrust",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/beyondtrust/sr-ux-designer-hybrid-tel-aviv-israel-442927",
+      "source": "Arbeitnow",
+      "location": "Hybrid Tel Aviv, Israel",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Marketing Designer",
@@ -238,7 +203,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
