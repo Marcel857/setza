@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-27T20:49:44Z",
+  "updated": "2026-07-27T22:03:12Z",
   "threshold": 60,
-  "count": 15,
+  "count": 16,
   "jobs": [
     {
       "title": "Architectural Interior Designer",
@@ -88,6 +88,22 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UI/UX Designer (f/m/d)",
+      "company": "Kolibrigames",
+      "url": "https://www.arbeitnow.com/jobs/companies/kolibrigames/ui-ux-designer-berlin-germany-308436",
+      "source": "Arbeitnow",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Digital Designer",
