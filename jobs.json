@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-27T13:24:44Z",
+  "updated": "2026-07-27T15:58:31Z",
   "threshold": 60,
   "count": 14,
   "jobs": [
@@ -51,7 +51,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -90,23 +90,6 @@
       "is_new": false
     },
     {
-      "title": "Instructional designer-contractor",
-      "company": "ESource Corp",
-      "url": "https://himalayas.app/companies/esource-corp/jobs/instructional-designer-contractor",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Marketing Designer",
       "company": "albo",
       "url": "https://remoteOK.com/remote-jobs/remote-marketing-designer-albo-1135376",
@@ -121,6 +104,20 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Game & Level Designer",
+      "company": "CommIT",
+      "url": "https://himalayas.app/companies/commit/jobs/game-level-designer-3247139084",
+      "source": "Himalayas",
+      "location": "Armenia",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Conversational Designer",
