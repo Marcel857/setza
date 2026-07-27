@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-27T15:58:31Z",
+  "updated": "2026-07-27T17:46:23Z",
   "threshold": 60,
   "count": 14,
   "jobs": [
@@ -17,7 +17,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -104,20 +104,6 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Game & Level Designer",
-      "company": "CommIT",
-      "url": "https://himalayas.app/companies/commit/jobs/game-level-designer-3247139084",
-      "source": "Himalayas",
-      "location": "Armenia",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Conversational Designer",
@@ -217,9 +203,25 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Web Designer",
+      "company": "REGEX SEO",
+      "url": "https://weworkremotely.com/remote-jobs/regex-seo-web-designer",
+      "source": "WeWorkRemotely",
+      "location": "Mexico City",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
