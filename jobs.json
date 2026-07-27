@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-27T06:25:40Z",
+  "updated": "2026-07-27T10:25:52Z",
   "threshold": 60,
-  "count": 15,
+  "count": 13,
   "jobs": [
     {
       "title": "Architectural Interior Designer",
@@ -90,34 +90,6 @@
       "is_new": false
     },
     {
-      "title": "Sr. UI/UX Designer (m/f/d)",
-      "company": "Holy",
-      "url": "https://www.arbeitnow.com/jobs/companies/holy/sr-ui-ux-designer-berlin-170642",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Sr UX Designer",
-      "company": "beyondtrust",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/beyondtrust/sr-ux-designer-hybrid-tel-aviv-israel-442927",
-      "source": "Arbeitnow",
-      "location": "Hybrid Tel Aviv, Israel",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Marketing Designer",
       "company": "albo",
       "url": "https://remoteOK.com/remote-jobs/remote-marketing-designer-albo-1135376",
@@ -173,7 +145,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
