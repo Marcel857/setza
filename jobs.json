@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-28T02:08:50Z",
+  "updated": "2026-07-28T05:28:52Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
     {
       "title": "Architectural Interior Designer",
@@ -136,20 +136,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/ethereum-community-fund/jobs/product-designer",
-      "source": "Himalayas",
-      "location": "Switzerland",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Conversational Designer",
       "company": "Cresta",
       "url": "https://jobicy.com/jobs/143763-conversational-designer",
@@ -219,7 +205,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
