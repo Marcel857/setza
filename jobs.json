@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-28T15:16:38Z",
+  "updated": "2026-07-28T16:57:18Z",
   "threshold": 60,
   "count": 15,
   "jobs": [
@@ -40,7 +40,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Architectural Interior Designer",
@@ -55,7 +55,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -89,7 +89,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -105,7 +105,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Digital Designer",
@@ -219,7 +219,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
@@ -235,7 +235,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     }
