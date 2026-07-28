@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-28T21:16:02Z",
+  "updated": "2026-07-28T22:32:55Z",
   "threshold": 60,
-  "count": 11,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior Graphic Designer",
@@ -36,6 +36,24 @@
         "Junior"
       ],
       "age_days": 2,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Junior Designer (Part-Time Contract)",
+      "company": "LooseGrip",
+      "url": "https://weworkremotely.com/remote-jobs/loosegrip-junior-designer-part-time-contract",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -166,6 +184,22 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 22,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Web Designer",
+      "company": "REGEX SEO",
+      "url": "https://weworkremotely.com/remote-jobs/regex-seo-web-designer",
+      "source": "WeWorkRemotely",
+      "location": "Mexico City",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     }
