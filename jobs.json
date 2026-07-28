@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-28T12:53:49Z",
+  "updated": "2026-07-28T15:16:38Z",
   "threshold": 60,
-  "count": 13,
+  "count": 15,
   "jobs": [
     {
       "title": "Grafikdesign / Art Direction bei SALZ // Werbeagentur Berlin",
@@ -20,6 +20,25 @@
         "Junior"
       ],
       "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Junior Graphic Designer",
+      "company": "Brand Hackers",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-brand-hackers-1135514",
+      "source": "RemoteOK",
+      "location": "London Area, London Area, United Kingdom",
+      "remote": true,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Junior"
+      ],
+      "age_days": 1,
       "is_match": true,
       "is_new": true
     },
@@ -73,6 +92,20 @@
       "age_days": 13,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Energieberater:in als Fachexperte & Produkt-Mitgestalter (m/w/d)",
+      "company": "EENetzwerk",
+      "url": "https://www.arbeitnow.com/jobs/companies/eenetzwerk/energieberaterin-als-fachexperte-produkt-mitgestalter-stuttgart-317701",
+      "source": "Arbeitnow",
+      "location": "Stuttgart",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Digital Designer",
