@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-28T05:28:52Z",
+  "updated": "2026-07-28T08:00:37Z",
   "threshold": 60,
-  "count": 16,
+  "count": 15,
   "jobs": [
     {
       "title": "Architectural Interior Designer",
@@ -69,23 +69,6 @@
         "Branding"
       ],
       "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Flint",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-flint-1135340",
-      "source": "RemoteOK",
-      "location": "New York, New York, New York, United States",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -175,7 +158,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
