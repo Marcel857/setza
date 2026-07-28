@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-28T08:00:37Z",
+  "updated": "2026-07-28T10:56:41Z",
   "threshold": 60,
-  "count": 15,
+  "count": 14,
   "jobs": [
     {
       "title": "Architectural Interior Designer",
@@ -99,22 +99,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Marketing Designer",
-      "company": "albo",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-designer-albo-1135376",
-      "source": "RemoteOK",
-      "location": "Ciudad Valles, Ciudad Valles, San Luis PotosÃ­, MÃ©xico",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
