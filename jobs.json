@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-29T11:22:12Z",
+  "updated": "2026-07-29T13:13:21Z",
   "threshold": 60,
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior Graphic Designer",
@@ -22,6 +22,23 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Grafikdesign",
+      "company": "Projektron GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/grafikdesign-berlin-476309",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -97,7 +114,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -111,7 +128,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -157,7 +174,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
