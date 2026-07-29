@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-29T13:13:21Z",
+  "updated": "2026-07-29T15:27:50Z",
   "threshold": 60,
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "title": "Junior Graphic Designer",
@@ -19,7 +19,7 @@
         "Social Media",
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -35,6 +35,22 @@
       "tags": [
         "Packaging/Print",
         "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Designer Salary",
+      "company": "US LBM",
+      "url": "https://himalayas.app/companies/us-lbm/jobs/designer-salary",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
       ],
       "age_days": 0,
       "is_match": true,
