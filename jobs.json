@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-29T05:35:56Z",
+  "updated": "2026-07-29T08:33:27Z",
   "threshold": 60,
-  "count": 13,
+  "count": 12,
   "jobs": [
     {
       "title": "Junior Graphic Designer",
@@ -58,20 +58,6 @@
       "is_new": false
     },
     {
-      "title": "Energieberater:in als Fachexperte & Produkt-Mitgestalter (m/w/d)",
-      "company": "EENetzwerk",
-      "url": "https://www.arbeitnow.com/jobs/companies/eenetzwerk/energieberaterin-als-fachexperte-produkt-mitgestalter-stuttgart-317701",
-      "source": "Arbeitnow",
-      "location": "Stuttgart",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Graphic Designer",
       "company": "Sundayy",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-sundayy-1135532",
@@ -83,7 +69,7 @@
       "tags": [],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Brand Designer",
@@ -141,7 +127,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
