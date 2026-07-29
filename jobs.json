@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-29T02:12:14Z",
+  "updated": "2026-07-29T05:35:56Z",
   "threshold": 60,
-  "count": 14,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior Graphic Designer",
@@ -72,6 +72,20 @@
       "is_new": false
     },
     {
+      "title": "Graphic Designer",
+      "company": "Sundayy",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-sundayy-1135532",
+      "source": "RemoteOK",
+      "location": "United States, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Brand Designer",
       "company": "Symbiotic",
       "url": "https://remoteOK.com/remote-jobs/remote-brand-designer-symbiotic-1135528",
@@ -84,20 +98,6 @@
         "Branding"
       ],
       "age_days": 1,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Digital Designer",
-      "company": "Revlytic",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-designer-revlytic-1135456",
-      "source": "RemoteOK",
-      "location": "Sydney, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -146,20 +146,6 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer - Marketing",
-      "company": "Truelogic",
-      "url": "https://jobicy.com/jobs/149177-graphic-designer-marketing",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 11,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Marketing AI Designer",
       "company": "Superside",
       "url": "https://jobicy.com/jobs/149181-marketing-ai-designer",
@@ -171,7 +157,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
