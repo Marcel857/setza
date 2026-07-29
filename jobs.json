@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-28T23:54:59Z",
+  "updated": "2026-07-29T02:12:14Z",
   "threshold": 60,
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "title": "Junior Graphic Designer",
@@ -70,6 +70,22 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Brand Designer",
+      "company": "Symbiotic",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-designer-symbiotic-1135528",
+      "source": "RemoteOK",
+      "location": "New York, New York, New York, United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Digital Designer",
