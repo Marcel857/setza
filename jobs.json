@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-29T15:27:50Z",
+  "updated": "2026-07-29T16:50:04Z",
   "threshold": 60,
-  "count": 14,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior Graphic Designer",
@@ -41,22 +41,6 @@
       "is_new": false
     },
     {
-      "title": "Designer Salary",
-      "company": "US LBM",
-      "url": "https://himalayas.app/companies/us-lbm/jobs/designer-salary",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
       "url": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
@@ -86,7 +70,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -204,7 +188,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -220,7 +204,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     }
