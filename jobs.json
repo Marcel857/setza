@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-30T00:04:13Z",
+  "updated": "2026-07-30T03:40:25Z",
   "threshold": 60,
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "title": "Junior Graphic Designer",
@@ -39,6 +39,25 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Miranda Creative, Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610",
+      "source": "RemoteOK",
+      "location": "Norwich, Norwich, Connecticut, United States",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -84,7 +103,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -100,7 +119,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -160,7 +179,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
