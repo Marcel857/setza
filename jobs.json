@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-07-30T09:11:29Z",
+  "updated": "2026-07-30T11:27:44Z",
   "threshold": 60,
   "count": 13,
   "jobs": [
@@ -54,7 +54,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
