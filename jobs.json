@@ -1,28 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-07-30T17:04:10Z",
+  "updated": "2026-07-30T18:54:15Z",
   "threshold": 60,
   "count": 13,
   "jobs": [
-    {
-      "title": "Mediengestalter (m/w/d) Digital und Print - Vollzeit",
-      "company": "SizzleBrothers GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/sizzlebrothers-gmbh/mediengestalter-digital-und-print-vollzeit-wedemark-132480",
-      "source": "Arbeitnow",
-      "location": "Wedemark",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Graphic Designer",
       "company": "Miranda Creative, Inc.",
@@ -105,6 +86,20 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Administrador de Dados (AD) – Oracle | PowerDesigner",
+      "company": "Certsys",
+      "url": "https://himalayas.app/companies/certsys/jobs/administrador-de-dados-ad-oracle-powerdesigner",
+      "source": "Himalayas",
+      "location": "Brazil",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Conversational Designer",
