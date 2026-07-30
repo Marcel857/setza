@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-30T03:40:25Z",
+  "updated": "2026-07-30T06:23:48Z",
   "threshold": 60,
-  "count": 14,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior Graphic Designer",
@@ -24,23 +24,6 @@
       "is_new": false
     },
     {
-      "title": "Grafikdesign",
-      "company": "Projektron GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/grafikdesign-berlin-476309",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Graphic Designer",
       "company": "Miranda Creative, Inc.",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610",
@@ -57,7 +40,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI designer (Marketing team)",
