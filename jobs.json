@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-07-31T20:16:29Z",
+  "updated": "2026-07-31T21:36:01Z",
   "threshold": 60,
   "count": 9,
   "jobs": [
+    {
+      "title": "Graphic Designer",
+      "company": "Miranda Creative, Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610",
+      "source": "RemoteOK",
+      "location": "Norwich, Norwich, Connecticut, United States",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": false
+    },
     {
       "title": "Junior UI designer (Marketing team)",
       "company": "TechMagic",
@@ -35,20 +54,6 @@
         "Junior"
       ],
       "age_days": 17,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Instructional Designer - LMS & Digital Learning",
-      "company": "RBGlobal",
-      "url": "https://himalayas.app/companies/rbauction/jobs/instructional-designer-lms-digital-learning",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
