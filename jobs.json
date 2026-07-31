@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-30T23:01:35Z",
+  "updated": "2026-07-31T01:02:53Z",
   "threshold": 60,
-  "count": 13,
+  "count": 12,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -84,20 +84,6 @@
         "Branding"
       ],
       "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Administrador de Dados (AD) – Oracle | PowerDesigner",
-      "company": "Certsys",
-      "url": "https://himalayas.app/companies/certsys/jobs/administrador-de-dados-ad-oracle-powerdesigner",
-      "source": "Himalayas",
-      "location": "Brazil",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
