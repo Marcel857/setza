@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-31T04:56:26Z",
+  "updated": "2026-07-31T07:49:22Z",
   "threshold": 60,
-  "count": 12,
+  "count": 11,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -72,22 +72,6 @@
       "is_new": false
     },
     {
-      "title": "Brand Designer",
-      "company": "Symbiotic",
-      "url": "https://remoteOK.com/remote-jobs/remote-brand-designer-symbiotic-1135528",
-      "source": "RemoteOK",
-      "location": "New York, New York, New York, United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Conversational Designer",
       "company": "Cresta",
       "url": "https://jobicy.com/jobs/143763-conversational-designer",
@@ -127,7 +111,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
