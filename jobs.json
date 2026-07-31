@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-31T15:15:57Z",
+  "updated": "2026-07-31T17:02:15Z",
   "threshold": 60,
-  "count": 10,
+  "count": 9,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -53,24 +53,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 16,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer (SMM)",
-      "company": "NEO GROUP",
-      "url": "https://himalayas.app/companies/neogroup-eu/jobs/graphic-designer-smm",
-      "source": "Himalayas",
-      "location": "Belarus",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -142,7 +125,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -158,7 +141,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     }
