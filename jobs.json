@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-31T10:34:29Z",
+  "updated": "2026-07-31T12:52:43Z",
   "threshold": 60,
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -35,7 +35,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -72,6 +72,23 @@
       "is_new": false
     },
     {
+      "title": "Graphic Designer (SMM)",
+      "company": "NEO GROUP",
+      "url": "https://himalayas.app/companies/neogroup-eu/jobs/graphic-designer-smm",
+      "source": "Himalayas",
+      "location": "Belarus",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Conversational Designer",
       "company": "Cresta",
       "url": "https://jobicy.com/jobs/143763-conversational-designer",
@@ -81,7 +98,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -95,7 +112,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -141,7 +158,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
