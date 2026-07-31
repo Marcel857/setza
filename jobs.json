@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-07-31T12:52:43Z",
+  "updated": "2026-07-31T15:15:57Z",
   "threshold": 60,
-  "count": 12,
+  "count": 10,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -58,20 +58,6 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer",
-      "company": "Sundayy",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-sundayy-1135532",
-      "source": "RemoteOK",
-      "location": "United States, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Graphic Designer (SMM)",
       "company": "NEO GROUP",
       "url": "https://himalayas.app/companies/neogroup-eu/jobs/graphic-designer-smm",
@@ -86,7 +72,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Conversational Designer",
@@ -113,22 +99,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Motion Designer",
-      "company": "StackAdapt",
-      "url": "https://jobicy.com/jobs/149685-motion-designer",
-      "source": "Jobicy",
-      "location": "Canada",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
