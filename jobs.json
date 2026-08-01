@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-01T21:23:26Z",
+  "updated": "2026-08-01T22:25:59Z",
   "threshold": 60,
-  "count": 10,
+  "count": 9,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -20,25 +20,6 @@
         "Fotografie"
       ],
       "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Miranda Creative, Inc.",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610",
-      "source": "RemoteOK",
-      "location": "Norwich, Norwich, Connecticut, United States",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
