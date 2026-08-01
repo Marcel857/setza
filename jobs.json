@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-08-01T06:35:48Z",
+  "updated": "2026-08-01T09:02:25Z",
   "threshold": 60,
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "title": "Graphic Designer",
+      "company": "Uchromatic",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-uchromatic-1135767",
+      "source": "RemoteOK",
+      "location": "Time, ",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Graphic Designer",
       "company": "Miranda Creative, Inc.",
