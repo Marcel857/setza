@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-02T07:29:05Z",
+  "updated": "2026-08-02T09:34:36Z",
   "threshold": 60,
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -22,6 +22,22 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Junior UI UX Designer",
+      "company": "Marmend",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-ui-ux-designer-marmend-1135902",
+      "source": "RemoteOK",
+      "location": "Tallinn, ",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
