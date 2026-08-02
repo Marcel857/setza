@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-02T22:26:40Z",
+  "updated": "2026-08-02T23:28:51Z",
   "threshold": 60,
-  "count": 13,
+  "count": 12,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -37,7 +37,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI UX Designer",
@@ -178,31 +178,14 @@
       "is_new": false
     },
     {
-      "title": "UX designer at HRtechX",
-      "company": "Hrtechx",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ux-designer-at-hrtechx-london-344430",
+      "title": "UX designer at CFO Insights",
+      "company": "Cfoinsights",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/ux-designer-at-cfo-insights-london-404151",
       "source": "Arbeitnow",
       "location": "London",
       "remote": false,
       "score": 47,
       "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "UX Designer at United Media",
-      "company": "Unitedmedia",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ux-designer-at-united-media-london-437411",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
       "tags": [
         "Branding",
         "Social Media"
