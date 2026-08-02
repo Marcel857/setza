@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-02T12:33:55Z",
+  "updated": "2026-08-02T14:26:11Z",
   "threshold": 60,
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -72,6 +72,40 @@
       "age_days": 18,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Photonics Circuit Designer (f/m/d)",
+      "company": "Black Semiconductor GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/photonics-circuit-designer-aachen-177823",
+      "source": "Arbeitnow",
+      "location": "Aachen, Germany",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Advanced Packaging Electrical / Signal Integrity Architect (f/m/d)",
+      "company": "Black Semiconductor GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/advanced-packaging-electrical-signal-integrity-architect-aachen-217738",
+      "source": "Arbeitnow",
+      "location": "Aachen, Germany",
+      "remote": false,
+      "score": 74,
+      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Conversational Designer",
@@ -159,23 +193,6 @@
       ],
       "age_days": 5,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand Designer (15m FTC)",
-      "company": "Checkout.com",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/brand-designer-15m-ftc-london-462677",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 52,
-      "reasons": "Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
