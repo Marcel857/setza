@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-02T15:37:06Z",
+  "updated": "2026-08-02T16:54:35Z",
   "threshold": 60,
-  "count": 12,
+  "count": 10,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -74,40 +74,6 @@
       "is_new": false
     },
     {
-      "title": "Photonics Circuit Designer (f/m/d)",
-      "company": "Black Semiconductor GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/photonics-circuit-designer-aachen-177823",
-      "source": "Arbeitnow",
-      "location": "Aachen, Germany",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Advanced Packaging Electrical / Signal Integrity Architect (f/m/d)",
-      "company": "Black Semiconductor GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/advanced-packaging-electrical-signal-integrity-architect-aachen-217738",
-      "source": "Arbeitnow",
-      "location": "Aachen, Germany",
-      "remote": false,
-      "score": 74,
-      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Conversational Designer",
       "company": "Cresta",
       "url": "https://jobicy.com/jobs/143763-conversational-designer",
@@ -175,7 +141,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -191,7 +157,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     }
