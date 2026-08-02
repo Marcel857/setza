@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-02T20:27:00Z",
+  "updated": "2026-08-02T21:25:10Z",
   "threshold": 60,
-  "count": 10,
+  "count": 12,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -159,6 +159,40 @@
       ],
       "age_days": 6,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "UX designer at HRtechX",
+      "company": "Hrtechx",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ux-designer-at-hrtechx-london-344430",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "UX Designer at United Media",
+      "company": "Unitedmedia",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ux-designer-at-united-media-london-437411",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
