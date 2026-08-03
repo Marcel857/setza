@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-03T22:04:53Z",
+  "updated": "2026-08-03T23:34:10Z",
   "threshold": 60,
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "title": "Junior Designer",
@@ -70,6 +70,23 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Brand Designer",
+      "company": "STGU",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-designer-stgu-1136064",
+      "source": "RemoteOK",
+      "location": "Warszawa, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Conversational Designer",
