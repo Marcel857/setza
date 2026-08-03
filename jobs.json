@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-03T12:18:15Z",
+  "updated": "2026-08-03T15:23:54Z",
   "threshold": 60,
-  "count": 10,
+  "count": 13,
   "jobs": [
     {
       "title": "Junior Designer",
@@ -18,22 +18,6 @@
         "Junior"
       ],
       "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Junior UI UX Designer",
-      "company": "Marmend",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-ui-ux-designer-marmend-1135902",
-      "source": "RemoteOK",
-      "location": "Tallinn, ",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -70,6 +54,55 @@
       "age_days": 19,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Ceartas",
+      "url": "https://www.arbeitnow.com/jobs/companies/ceartas/product-designer-berlin-189214",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Brand Design Partner | pdf.net",
+      "company": "Hirehire",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-brand-design-partner-pdfnet-157351",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "DESIGNER â¢ FUTURE NEED",
+      "company": "Favorite Records",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-o-future-need-favorite-records-1135920",
+      "source": "RemoteOK",
+      "location": "Indiana, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Conversational Designer",
@@ -142,6 +175,20 @@
       "age_days": 27,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Motion Graphic Artist",
+      "company": "Nagarro",
+      "url": "https://jobicy.com/jobs/150142-motion-graphic-artist",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Web Designer",
