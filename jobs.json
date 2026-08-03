@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-03T05:00:44Z",
+  "updated": "2026-08-03T08:46:46Z",
   "threshold": 60,
   "count": 12,
   "jobs": [
-    {
-      "title": "Product Designer",
-      "company": "Omnea",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/product-designer-london-449105",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Graphic Designer",
       "company": "Uchromatic",
@@ -35,7 +19,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -54,7 +38,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI UX Designer",
@@ -105,6 +89,23 @@
       "age_days": 19,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Performance Creative Designer:in (m/w/d) | Teilzeit · Vollzeit | Remote (Deutschland)",
+      "company": "NOELIE Deutschland Distribution GmbH & Co. KG",
+      "url": "https://www.arbeitnow.com/jobs/companies/noelie-deutschland-distribution-gmbh-co-kg/performance-creative-designerin-teilzeit-vollzeit-remote-deutschland-wiesbaden-231664",
+      "source": "Arbeitnow",
+      "location": "Wiesbaden",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Conversational Designer",
