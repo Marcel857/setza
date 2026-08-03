@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-03T19:04:36Z",
+  "updated": "2026-08-03T20:42:47Z",
   "threshold": 60,
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "title": "Junior Designer",
@@ -54,6 +54,22 @@
       "age_days": 20,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product DesignerProduct Designer at Aios Medical — Remote, $90k-$150k/yr inc equity",
+      "company": "AIOS (YC W20/S21)",
+      "url": "https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/product-designerproduct-designer-at-aios-medical-remote-90k-150k-yr-inc-equity-berlin-100752",
+      "source": "Arbeitnow",
+      "location": "Remote (EU)",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "DESIGNER â¢ FUTURE NEED",
