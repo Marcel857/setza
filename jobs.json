@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-08-03T01:07:49Z",
+  "updated": "2026-08-03T05:00:44Z",
   "threshold": 60,
-  "count": 14,
+  "count": 12,
   "jobs": [
+    {
+      "title": "Product Designer",
+      "company": "Omnea",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/product-designer-london-449105",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Graphic Designer",
       "company": "Uchromatic",
@@ -22,6 +38,23 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Junior Designer",
+      "company": "Haystack",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-designer-haystack-1135900",
+      "source": "RemoteOK",
+      "location": "Ohio, Ohio, United States",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Junior"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Junior UI UX Designer",
@@ -74,50 +107,6 @@
       "is_new": false
     },
     {
-      "title": "Mobile UI Designer",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/mobile-ui-designer-germany-327566",
-      "source": "Arbeitnow",
-      "location": "Germany",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Product Designer (UI/UX)",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-designer-ui-ux-germany-145444",
-      "source": "Arbeitnow",
-      "location": "Germany",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "UI Designer - AI Neobank App",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/ui-designer-ai-neobank-app-germany-455350",
-      "source": "Arbeitnow",
-      "location": "Germany",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Conversational Designer",
       "company": "Cresta",
       "url": "https://jobicy.com/jobs/143763-conversational-designer",
@@ -157,7 +146,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
@@ -203,23 +192,6 @@
       ],
       "age_days": 6,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX designer at CFO Insights",
-      "company": "Cfoinsights",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/ux-designer-at-cfo-insights-london-404151",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
