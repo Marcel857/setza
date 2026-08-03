@@ -1,28 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-03T08:46:46Z",
+  "updated": "2026-08-03T12:18:15Z",
   "threshold": 60,
-  "count": 12,
+  "count": 10,
   "jobs": [
-    {
-      "title": "Graphic Designer",
-      "company": "Uchromatic",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-uchromatic-1135767",
-      "source": "RemoteOK",
-      "location": "Time, ",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior Designer",
       "company": "Haystack",
@@ -52,7 +33,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -68,7 +49,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -91,23 +72,6 @@
       "is_new": false
     },
     {
-      "title": "Performance Creative Designer:in (m/w/d) | Teilzeit · Vollzeit | Remote (Deutschland)",
-      "company": "NOELIE Deutschland Distribution GmbH & Co. KG",
-      "url": "https://www.arbeitnow.com/jobs/companies/noelie-deutschland-distribution-gmbh-co-kg/performance-creative-designerin-teilzeit-vollzeit-remote-deutschland-wiesbaden-231664",
-      "source": "Arbeitnow",
-      "location": "Wiesbaden",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Conversational Designer",
       "company": "Cresta",
       "url": "https://jobicy.com/jobs/143763-conversational-designer",
@@ -117,7 +81,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -131,7 +95,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -161,7 +125,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
