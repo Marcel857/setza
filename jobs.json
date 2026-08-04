@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-03T23:34:10Z",
+  "updated": "2026-08-04T02:07:10Z",
   "threshold": 60,
-  "count": 12,
+  "count": 15,
   "jobs": [
     {
       "title": "Junior Designer",
@@ -17,9 +17,25 @@
         "Branding",
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "SR Product Designer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/arco-educacao/jobs/sr-product-designer",
+      "source": "Himalayas",
+      "location": "Brazil",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -56,6 +72,34 @@
       "is_new": false
     },
     {
+      "title": "Product Designer (AI x Greentech) (m/f/d)",
+      "company": "Reonic",
+      "url": "https://www.arbeitnow.com/jobs/companies/reonic/product-designer-ai-x-greentech-berlin-247619",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer",
+      "company": "Primer.io",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/primerio/product-designer-united-kingdom-257117",
+      "source": "Arbeitnow",
+      "location": "United Kingdom",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "DESIGNER â¢ FUTURE NEED",
       "company": "Favorite Records",
       "url": "https://remoteOK.com/remote-jobs/remote-designer-o-future-need-favorite-records-1135920",
@@ -86,7 +130,7 @@
       ],
       "age_days": 2,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Conversational Designer",
