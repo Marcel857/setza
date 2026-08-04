@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-04T19:25:51Z",
+  "updated": "2026-08-04T20:50:11Z",
   "threshold": 60,
-  "count": 23,
+  "count": 28,
   "jobs": [
     {
       "title": "Packaging Designer (all genders)",
@@ -16,6 +16,25 @@
       "tags": [
         "Packaging/Print",
         "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Creative Designer",
+      "company": "Air Apps",
+      "url": "https://weworkremotely.com/remote-jobs/air-apps-creative-designer",
+      "source": "WeWorkRemotely",
+      "location": "Helsinki",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
         "Fotografie"
       ],
       "age_days": 0,
@@ -53,7 +72,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior Designer",
@@ -89,6 +108,22 @@
       "is_new": false
     },
     {
+      "title": "UX Designer",
+      "company": "PressW",
+      "url": "https://weworkremotely.com/remote-jobs/pressw-ux-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Junior Designer (Part-Time Contract)",
       "company": "LooseGrip",
       "url": "https://weworkremotely.com/remote-jobs/loosegrip-junior-designer-part-time-contract",
@@ -117,6 +152,37 @@
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
         "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Design System Designer",
+      "company": "Mayflower",
+      "url": "https://weworkremotely.com/remote-jobs/mayflower-design-system-designer",
+      "source": "WeWorkRemotely",
+      "location": "Lemesos",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Graphic Design Executive",
+      "company": "Koin Limited",
+      "url": "https://weworkremotely.com/remote-jobs/koin-limited-graphic-design-executive",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
         "Branding",
         "Fotografie"
       ],
@@ -260,6 +326,34 @@
       "is_new": false
     },
     {
+      "title": "Product Designer - UX/UI & Design Systems (Remote)",
+      "company": "Pavago",
+      "url": "https://weworkremotely.com/remote-jobs/pavago-product-designer-ux-ui-design-systems-remote",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Remote Landscape Designer with LandFX experience",
+      "company": "Uptalent.io",
+      "url": "https://weworkremotely.com/remote-jobs/uptalent-io-remote-landscape-designer-with-landfx-experience-1",
+      "source": "WeWorkRemotely",
+      "location": "Distrito Nacional",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Remote Interior Designer - Revit & Design-Focused",
       "company": "Uptalent.io",
       "url": "https://weworkremotely.com/remote-jobs/uptalent-io-remote-interior-designer-revit-design-focused-2",
@@ -306,8 +400,8 @@
     },
     {
       "title": "Product Designer - UX/UI & Design Systems (Remote)",
-      "company": "Pavago",
-      "url": "https://weworkremotely.com/remote-jobs/pavago-product-designer-ux-ui-design-systems-remote",
+      "company": "WALTER",
+      "url": "https://weworkremotely.com/remote-jobs/walter-product-designer-ux-ui-design-systems-remote",
       "source": "WeWorkRemotely",
       "location": "Anywhere in the World",
       "remote": true,
@@ -316,7 +410,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Remote Landscape Designer with LandFX experience",
@@ -346,22 +440,6 @@
       ],
       "age_days": 8,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Foresightdatamachines",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/foresightdatamachines/product-designer-london-56877",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
