@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-08-04T17:43:03Z",
+  "updated": "2026-08-04T19:25:51Z",
   "threshold": 60,
-  "count": 22,
+  "count": 23,
   "jobs": [
+    {
+      "title": "Packaging Designer (all genders)",
+      "company": "Sunday Natural",
+      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/packaging-designer-all-genders-berlin-268526",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Syntropy Sculptor - B2B SaaS Brand Design",
       "company": "Kalungi Inc.",
@@ -20,6 +38,22 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Clera",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/product-designer-berlin-239317",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Junior Designer",
@@ -73,22 +107,22 @@
       "is_new": false
     },
     {
-      "title": "Mediengestalter Digital & Print (m/w/d)",
-      "company": "Heinrich Wietholt GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/heinrich-wietholt-gmbh/mediengestalter-digital-print-velen-245031",
+      "title": "Brand Designer (all genders)",
+      "company": "Sunday Natural",
+      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/brand-designer-all-genders-berlin-80761",
       "source": "Arbeitnow",
-      "location": "Velen",
+      "location": "Berlin",
       "remote": false,
       "score": 82,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
         "Packaging/Print",
-        "Social Media",
+        "Branding",
         "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Diseñador Gráfico con Motion Graphics | Remote | LATAM Only | 80010",
@@ -102,20 +136,6 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer HMI / Automotive Focus: UI (m/f/x)",
-      "company": "Appsfactory GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/appsfactory-gmbh/product-designer-hmi-automotive-focus-ui-munchen-494145",
-      "source": "Arbeitnow",
-      "location": "München",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": false
@@ -165,7 +185,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Conversational Designer",
