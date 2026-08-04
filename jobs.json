@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-04T22:07:55Z",
+  "updated": "2026-08-04T23:32:01Z",
   "threshold": 60,
-  "count": 28,
+  "count": 29,
   "jobs": [
     {
       "title": "Packaging Designer (all genders)",
@@ -440,6 +440,22 @@
       ],
       "age_days": 8,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer (UI/UX)",
+      "company": "Algo1",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/product-designer-ui-ux-london-250761",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
