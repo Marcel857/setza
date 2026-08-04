@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-04T15:53:06Z",
+  "updated": "2026-08-04T17:43:03Z",
   "threshold": 60,
-  "count": 23,
+  "count": 22,
   "jobs": [
     {
       "title": "Syntropy Sculptor - B2B SaaS Brand Design",
@@ -19,24 +19,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Graduate / Entry Level Mixed Signal IC Layout Designer",
-      "company": "Cirrus",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cirrus/graduate-entry-level-mixed-signal-ic-layout-designer-edinburgh-scotland-369580",
-      "source": "Arbeitnow",
-      "location": "Edinburgh, Scotland",
-      "remote": false,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior Designer",
@@ -105,7 +88,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Diseñador Gráfico con Motion Graphics | Remote | LATAM Only | 80010",
@@ -121,7 +104,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer HMI / Automotive Focus: UI (m/f/x)",
@@ -135,7 +118,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DESIGNER â¢ FUTURE NEED",
@@ -169,6 +152,20 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer, Shop Everything",
+      "company": "Meta",
+      "url": "https://jobicy.com/jobs/150188-product-designer-shop-everything",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Conversational Designer",
@@ -238,21 +235,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Motion Graphic Artist",
-      "company": "Nagarro",
-      "url": "https://jobicy.com/jobs/150142-motion-graphic-artist",
-      "source": "Jobicy",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 1,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -268,7 +251,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Remote Interior Designer - Revit & Design-Focused",
@@ -282,7 +265,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer (SMM)",
@@ -299,7 +282,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer - UX/UI & Design Systems (Remote)",
@@ -313,7 +296,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Remote Landscape Designer with LandFX experience",
@@ -327,7 +310,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Web Designer",
@@ -341,22 +324,21 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "UX designer at Retail Insights",
-      "company": "Retailinsights",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/ux-designer-at-retail-insights-london-348215",
+      "title": "Product Designer",
+      "company": "Foresightdatamachines",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/foresightdatamachines/product-designer-london-56877",
       "source": "Arbeitnow",
       "location": "London",
       "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Branding",
-        "Social Media"
+        "Branding"
       ],
       "age_days": 0,
       "is_match": false,
