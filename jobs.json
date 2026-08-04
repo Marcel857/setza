@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-04T20:50:11Z",
+  "updated": "2026-08-04T22:07:55Z",
   "threshold": 60,
   "count": 28,
   "jobs": [
@@ -27,7 +27,7 @@
       "company": "Air Apps",
       "url": "https://weworkremotely.com/remote-jobs/air-apps-creative-designer",
       "source": "WeWorkRemotely",
-      "location": "Helsinki",
+      "location": "Anywhere in the World",
       "remote": true,
       "score": 87,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
@@ -39,7 +39,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Syntropy Sculptor - B2B SaaS Brand Design",
@@ -121,7 +121,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior Designer (Part-Time Contract)",
@@ -164,14 +164,14 @@
       "company": "Mayflower",
       "url": "https://weworkremotely.com/remote-jobs/mayflower-design-system-designer",
       "source": "WeWorkRemotely",
-      "location": "Lemesos",
+      "location": "Anywhere in the World",
       "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Design Executive",
@@ -188,7 +188,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Diseñador Gráfico con Motion Graphics | Remote | LATAM Only | 80010",
@@ -351,7 +351,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Remote Interior Designer - Revit & Design-Focused",
@@ -410,7 +410,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Remote Landscape Designer with LandFX experience",
