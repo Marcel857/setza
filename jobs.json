@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-04T02:07:10Z",
+  "updated": "2026-08-04T05:29:18Z",
   "threshold": 60,
   "count": 15,
   "jobs": [
@@ -35,7 +35,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior UI designer (Marketing team)",
@@ -72,29 +72,19 @@
       "is_new": false
     },
     {
-      "title": "Product Designer (AI x Greentech) (m/f/d)",
-      "company": "Reonic",
-      "url": "https://www.arbeitnow.com/jobs/companies/reonic/product-designer-ai-x-greentech-berlin-247619",
+      "title": "Brand & Creative Designer",
+      "company": "0G",
+      "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-brand-creative-designer-313773",
       "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
+      "location": "Remote",
+      "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Product Designer",
-      "company": "Primer.io",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/primerio/product-designer-united-kingdom-257117",
-      "source": "Arbeitnow",
-      "location": "United Kingdom",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -172,7 +162,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -232,6 +222,20 @@
       ],
       "age_days": 7,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer (UX), HCI",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-designer-ux-hci-london-133768",
+      "source": "Arbeitnow",
+      "location": "United Kingdom",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
