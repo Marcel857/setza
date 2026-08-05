@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-05T20:36:19Z",
+  "updated": "2026-08-05T22:08:36Z",
   "threshold": 60,
-  "count": 25,
+  "count": 24,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -19,7 +19,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Creative Designer",
@@ -54,23 +54,6 @@
         "Branding"
       ],
       "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Junior Designer",
-      "company": "Haystack",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-designer-haystack-1135900",
-      "source": "RemoteOK",
-      "location": "Ohio, Ohio, United States",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Junior"
-      ],
-      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
