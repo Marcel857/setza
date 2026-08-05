@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-08-05T02:06:14Z",
+  "updated": "2026-08-05T05:28:24Z",
   "threshold": 60,
-  "count": 26,
+  "count": 27,
   "jobs": [
+    {
+      "title": "Web Designer/Technical Writer - DOJ ATR - Remote",
+      "company": "ITC Federal",
+      "url": "https://himalayas.app/companies/itc-federal/jobs/web-designer-technical-writer-doj-atr-remote",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 95,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -241,7 +258,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
