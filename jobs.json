@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-08-05T18:59:51Z",
+  "updated": "2026-08-05T20:36:19Z",
   "threshold": 60,
   "count": 25,
   "jobs": [
+    {
+      "title": "Creative Designer",
+      "company": "Lendable",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/creative-designer-london-255522",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -19,7 +36,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -69,7 +86,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -103,7 +120,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Design System Designer",
@@ -115,7 +132,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -132,7 +149,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -163,23 +180,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand Designer",
-      "company": "STGU",
-      "url": "https://remoteOK.com/remote-jobs/remote-brand-designer-stgu-1136064",
-      "source": "RemoteOK",
-      "location": "Warszawa, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -279,7 +279,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -293,7 +293,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
