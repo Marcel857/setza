@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-05T08:02:44Z",
+  "updated": "2026-08-05T10:58:42Z",
   "threshold": 60,
   "count": 27,
   "jobs": [
@@ -107,7 +107,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Design System Designer",
@@ -157,20 +157,6 @@
       "is_new": false
     },
     {
-      "title": "UI/UX DESIGNER (f/m/d)",
-      "company": "Omnisent",
-      "url": "https://www.arbeitnow.com/jobs/companies/omnisent/ui-ux-designer-munich-255206",
-      "source": "Arbeitnow",
-      "location": "Munich",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Graphic designer",
       "company": "Super Creative",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-super-creative-1136123",
@@ -182,7 +168,7 @@
       "tags": [],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DESIGNER â¢ FUTURE NEED",
@@ -418,6 +404,20 @@
       ],
       "age_days": 8,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Capitalontap",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capitalontap/product-designer-london-28008",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
