@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-05T10:58:42Z",
+  "updated": "2026-08-05T12:58:01Z",
   "threshold": 60,
-  "count": 27,
+  "count": 29,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -90,6 +90,24 @@
       "age_days": 21,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Kommunikationsdesigner:in Digital (m/w/d)",
+      "company": "FederhenSchneider",
+      "url": "https://www.arbeitnow.com/jobs/companies/federhenschneider/kommunikationsdesignerin-digital-cologne-302887",
+      "source": "Arbeitnow",
+      "location": "Cologne",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Mid-Weight Social Media Designer - Motion Design, Video Editing, Graphic Design (all genders)",
@@ -204,6 +222,22 @@
       "is_new": false
     },
     {
+      "title": "AI Creative Designer",
+      "company": "Acosta Group",
+      "url": "https://himalayas.app/companies/acosta-group/jobs/ai-creative-designer-315228856",
+      "source": "Himalayas",
+      "location": "Canada",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Product Designer, Shop Everything",
       "company": "Meta",
       "url": "https://jobicy.com/jobs/150188-product-designer-shop-everything",
@@ -227,7 +261,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -241,7 +275,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -271,7 +305,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
