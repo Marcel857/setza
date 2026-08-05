@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-05T17:00:15Z",
+  "updated": "2026-08-05T18:59:51Z",
   "threshold": 60,
   "count": 25,
   "jobs": [
@@ -92,6 +92,20 @@
       "is_new": false
     },
     {
+      "title": "Conversation Designer - Voice AI Agents (m/w/d)",
+      "company": "TENIOS GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/tenios-gmbh/conversation-designer-voice-ai-agents-cologne-42813",
+      "source": "Arbeitnow",
+      "location": "Cologne",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Design System Designer",
       "company": "Mayflower",
       "url": "https://weworkremotely.com/remote-jobs/mayflower-design-system-designer",
@@ -149,22 +163,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "DESIGNER â¢ FUTURE NEED",
-      "company": "Favorite Records",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-o-future-need-favorite-records-1135920",
-      "source": "RemoteOK",
-      "location": "Indiana, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
