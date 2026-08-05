@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-05T05:28:24Z",
+  "updated": "2026-08-05T08:02:44Z",
   "threshold": 60,
   "count": 27,
   "jobs": [
-    {
-      "title": "Web Designer/Technical Writer - DOJ ATR - Remote",
-      "company": "ITC Federal",
-      "url": "https://himalayas.app/companies/itc-federal/jobs/web-designer-technical-writer-doj-atr-remote",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 95,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -75,22 +58,6 @@
       "is_new": false
     },
     {
-      "title": "Junior UI designer (Marketing team)",
-      "company": "TechMagic",
-      "url": "https://jobicy.com/jobs/143375-junior-ui-designer-marketing-team",
-      "source": "Jobicy",
-      "location": "Ukraine",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 9,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "UX Designer",
       "company": "PressW",
       "url": "https://weworkremotely.com/remote-jobs/pressw-ux-designer",
@@ -123,6 +90,24 @@
       "age_days": 21,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Mid-Weight Social Media Designer - Motion Design, Video Editing, Graphic Design (all genders)",
+      "company": "Liganova Mash Ltd.",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/liganova-mash-ltd/mid-weight-social-media-designer-motion-design-video-editing-graphic-design-all-genders-london-238894",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Design System Designer",
@@ -170,6 +155,34 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UI/UX DESIGNER (f/m/d)",
+      "company": "Omnisent",
+      "url": "https://www.arbeitnow.com/jobs/companies/omnisent/ui-ux-designer-munich-255206",
+      "source": "Arbeitnow",
+      "location": "Munich",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Graphic designer",
+      "company": "Super Creative",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-super-creative-1136123",
+      "source": "RemoteOK",
+      "location": "Time, ",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "DESIGNER â¢ FUTURE NEED",
@@ -405,20 +418,6 @@
       ],
       "age_days": 8,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Design",
-      "company": "Axle Careers",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/product-design-london-197740",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
