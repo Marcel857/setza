@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-04T23:32:01Z",
+  "updated": "2026-08-05T02:06:14Z",
   "threshold": 60,
-  "count": 29,
+  "count": 26,
   "jobs": [
-    {
-      "title": "Packaging Designer (all genders)",
-      "company": "Sunday Natural",
-      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/packaging-designer-all-genders-berlin-268526",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -59,22 +41,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "Clera",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/product-designer-berlin-239317",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Junior Designer",
       "company": "Haystack",
       "url": "https://remoteOK.com/remote-jobs/remote-junior-designer-haystack-1135900",
@@ -87,7 +53,7 @@
         "Branding",
         "Junior"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -138,24 +104,6 @@
         "Junior"
       ],
       "age_days": 21,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand Designer (all genders)",
-      "company": "Sunday Natural",
-      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/brand-designer-all-genders-berlin-80761",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -443,17 +391,15 @@
       "is_new": false
     },
     {
-      "title": "Product Designer (UI/UX)",
-      "company": "Algo1",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/product-designer-ui-ux-london-250761",
+      "title": "Product Design",
+      "company": "Axle Careers",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/product-design-london-197740",
       "source": "Arbeitnow",
       "location": "London",
       "remote": false,
       "score": 47,
       "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": false,
       "is_new": false
