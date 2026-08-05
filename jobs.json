@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-05T15:17:06Z",
+  "updated": "2026-08-05T17:00:15Z",
   "threshold": 60,
-  "count": 29,
+  "count": 25,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -36,7 +36,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -87,43 +87,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 21,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Kommunikationsdesigner:in Digital (m/w/d)",
-      "company": "FederhenSchneider",
-      "url": "https://www.arbeitnow.com/jobs/companies/federhenschneider/kommunikationsdesignerin-digital-cologne-302887",
-      "source": "Arbeitnow",
-      "location": "Cologne",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Mid-Weight Social Media Designer - Motion Design, Video Editing, Graphic Design (all genders)",
-      "company": "Liganova Mash Ltd.",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/liganova-mash-ltd/mid-weight-social-media-designer-motion-design-video-editing-graphic-design-all-genders-london-238894",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
@@ -170,7 +134,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -218,22 +182,6 @@
         "Fotografie"
       ],
       "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "AI Creative Designer",
-      "company": "Acosta Group",
-      "url": "https://himalayas.app/companies/acosta-group/jobs/ai-creative-designer-315228856",
-      "source": "Himalayas",
-      "location": "Canada",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -319,7 +267,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 29,
+      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
@@ -361,7 +309,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -375,7 +323,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -392,7 +340,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -406,7 +354,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -420,7 +368,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -436,22 +384,8 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Capitalontap",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/capitalontap/product-designer-london-28008",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
