@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-06T04:08:13Z",
+  "updated": "2026-08-06T07:13:45Z",
   "threshold": 60,
-  "count": 23,
+  "count": 22,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -71,20 +71,6 @@
         "Junior"
       ],
       "age_days": 22,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX Designer (6 Months Fixed Term Contract)",
-      "company": "Dotmatics",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/ux-designer-6-months-fixed-term-contract-314506",
-      "source": "Arbeitnow",
-      "location": "",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
