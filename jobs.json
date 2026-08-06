@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-06T10:06:40Z",
+  "updated": "2026-08-06T12:24:19Z",
   "threshold": 60,
-  "count": 22,
+  "count": 24,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -75,6 +75,20 @@
       "is_new": false
     },
     {
+      "title": "Architectural Designer",
+      "company": "Sophie's Flats Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-architectural-designer-sophies-flats-inc-1136192",
+      "source": "RemoteOK",
+      "location": "Toronto, ",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Design System Designer",
       "company": "Mayflower",
       "url": "https://weworkremotely.com/remote-jobs/mayflower-design-system-designer",
@@ -122,6 +136,22 @@
       "is_new": false
     },
     {
+      "title": "Conceptual Designer",
+      "company": "Kayak",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kayak/conceptual-designer-london-63366",
+      "source": "Arbeitnow",
+      "location": "London Office",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Product Designer, Shop Everything",
       "company": "Meta",
       "url": "https://jobicy.com/jobs/150188-product-designer-shop-everything",
@@ -145,7 +175,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -159,7 +189,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -189,7 +219,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -336,7 +366,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
