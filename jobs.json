@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-06T12:24:19Z",
+  "updated": "2026-08-06T14:51:54Z",
   "threshold": 60,
   "count": 24,
   "jobs": [
@@ -86,7 +86,7 @@
       "tags": [],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Design System Designer",
@@ -136,6 +136,20 @@
       "is_new": false
     },
     {
+      "title": "Mediengestalter, E-Mail-Marketing (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/mediengestalter-e-mail-marketing-dusseldorf-482869",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Conceptual Designer",
       "company": "Kayak",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/kayak/conceptual-designer-london-63366",
@@ -149,7 +163,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer, Shop Everything",
@@ -161,7 +175,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -351,20 +365,6 @@
         "Branding"
       ],
       "age_days": 9,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (remote, Europe, 2-5 years of exp.)",
-      "company": "Spacelift",
-      "url": "https://himalayas.app/companies/spacelift/jobs/product-designer-remote-europe-2-5-years-of-exp",
-      "source": "Himalayas",
-      "location": "Poland",
-      "remote": true,
-      "score": 67,
-      "reasons": "100% Remote, Design-Fokus, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     }
