@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-06T07:13:45Z",
+  "updated": "2026-08-06T10:06:40Z",
   "threshold": 60,
   "count": 22,
   "jobs": [
@@ -118,20 +118,6 @@
         "Fotografie"
       ],
       "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic designer",
-      "company": "Super Creative",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-super-creative-1136123",
-      "source": "RemoteOK",
-      "location": "Time, ",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -337,6 +323,20 @@
       "age_days": 9,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer (remote, Europe, 2-5 years of exp.)",
+      "company": "Spacelift",
+      "url": "https://himalayas.app/companies/spacelift/jobs/product-designer-remote-europe-2-5-years-of-exp",
+      "source": "Himalayas",
+      "location": "Poland",
+      "remote": true,
+      "score": 67,
+      "reasons": "100% Remote, Design-Fokus, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
