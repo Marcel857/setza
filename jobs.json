@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-06T00:52:00Z",
+  "updated": "2026-08-06T04:08:13Z",
   "threshold": 60,
-  "count": 25,
+  "count": 23,
   "jobs": [
-    {
-      "title": "Creative Designer",
-      "company": "Lendable",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/creative-designer-london-255522",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -88,20 +71,6 @@
         "Junior"
       ],
       "age_days": 22,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Conversation Designer - Voice AI Agents (m/w/d)",
-      "company": "TENIOS GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/tenios-gmbh/conversation-designer-voice-ai-agents-cologne-42813",
-      "source": "Arbeitnow",
-      "location": "Cologne",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -234,7 +203,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
