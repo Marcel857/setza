@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-07T15:23:31Z",
+  "updated": "2026-08-07T16:22:25Z",
   "threshold": 60,
   "count": 22,
   "jobs": [
@@ -70,7 +70,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -149,7 +149,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer, Shop Everything",
@@ -336,7 +336,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     }
