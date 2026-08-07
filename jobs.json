@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-06T14:51:54Z",
+  "updated": "2026-08-07T00:22:11Z",
   "threshold": 60,
-  "count": 24,
+  "count": 22,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -19,7 +19,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -36,7 +36,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -52,7 +52,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -70,7 +70,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -98,7 +98,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -115,7 +115,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -131,37 +131,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Mediengestalter, E-Mail-Marketing (m/w/d)",
-      "company": "Rügamer & Steiner Consulting GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/mediengestalter-e-mail-marketing-dusseldorf-482869",
-      "source": "Arbeitnow",
-      "location": "Düsseldorf",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Conceptual Designer",
-      "company": "Kayak",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kayak/conceptual-designer-london-63366",
-      "source": "Arbeitnow",
-      "location": "London Office",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -238,20 +208,6 @@
       "is_new": false
     },
     {
-      "title": "Designer, Web Presence & Platform",
-      "company": "Stripe",
-      "url": "https://jobicy.com/jobs/145546-designer-web-presence-platform",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 30,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Product Designer - UX/UI & Design Systems (Remote)",
       "company": "Pavago",
       "url": "https://weworkremotely.com/remote-jobs/pavago-product-designer-ux-ui-design-systems-remote",
@@ -261,7 +217,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -275,7 +231,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -289,7 +245,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -303,7 +259,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -320,7 +276,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -334,7 +290,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -348,7 +304,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -364,9 +320,25 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Schichtleiter / Teamleiter Verpackung (m/w/d) für das BiFi Werk in Guben",
+      "company": "Ritter von Gral GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/schichtleiter-teamleiter-verpackung-fur-das-bifi-werk-in-guben-guben-303469",
+      "source": "Arbeitnow",
+      "location": "Guben , Brandenburg, Deutschland",
+      "remote": false,
+      "score": 67,
+      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
