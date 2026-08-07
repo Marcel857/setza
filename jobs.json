@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-07T06:43:32Z",
+  "updated": "2026-08-07T08:10:21Z",
   "threshold": 60,
-  "count": 24,
+  "count": 23,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -53,24 +53,6 @@
         "Branding"
       ],
       "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Grafikdesigner (m/w/d) mit Schwerpunkt Infografiken & Datenvisualisierung",
-      "company": "Tablemedia",
-      "url": "https://www.arbeitnow.com/jobs/companies/tablemedia/grafikdesigner-mit-schwerpunkt-infografiken-datenvisualisierung-berlin-412622",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Social Media",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
