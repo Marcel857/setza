@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-07T00:22:11Z",
+  "updated": "2026-08-07T03:25:57Z",
   "threshold": 60,
-  "count": 22,
+  "count": 24,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -39,6 +39,24 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Grafikdesigner (m/w/d) mit Schwerpunkt Infografiken & Datenvisualisierung",
+      "company": "Tablemedia",
+      "url": "https://www.arbeitnow.com/jobs/companies/tablemedia/grafikdesigner-mit-schwerpunkt-infografiken-datenvisualisierung-berlin-412622",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Social Media",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UX Designer",
@@ -189,7 +207,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
     },
@@ -338,7 +356,24 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "UX designer at SetSales",
+      "company": "Setsales",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/ux-designer-at-setsales-london-243068",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
     }
   ]
 }
