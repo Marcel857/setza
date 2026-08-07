@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-07T09:30:16Z",
+  "updated": "2026-08-07T10:48:27Z",
   "threshold": 60,
-  "count": 23,
+  "count": 22,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -338,23 +338,6 @@
       ],
       "age_days": 10,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX designer at SetSales",
-      "company": "Setsales",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/ux-designer-at-setsales-london-243068",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
