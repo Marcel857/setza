@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-07T18:09:33Z",
+  "updated": "2026-08-07T19:27:31Z",
   "threshold": 60,
-  "count": 22,
+  "count": 21,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -132,22 +132,6 @@
         "Fotografie"
       ],
       "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Grafikdesigner/ Mediengestalter (m/w/d) E-Commerce",
-      "company": "VALUEZON GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/valuezon-gmbh/grafikdesigner-mediengestalter-e-commerce-munchen-475986",
-      "source": "Arbeitnow",
-      "location": "München",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
