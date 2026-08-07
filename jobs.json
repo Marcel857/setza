@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-08-07T03:25:57Z",
+  "updated": "2026-08-07T05:12:57Z",
   "threshold": 60,
   "count": 24,
   "jobs": [
+    {
+      "title": "Junior Product Designer",
+      "company": "Clera",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/junior-product-designer-munich-441878",
+      "source": "Arbeitnow",
+      "location": "Munich",
+      "remote": false,
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -56,7 +72,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UX Designer",
@@ -339,22 +355,6 @@
         "Branding"
       ],
       "age_days": 10,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Schichtleiter / Teamleiter Verpackung (m/w/d) für das BiFi Werk in Guben",
-      "company": "Ritter von Gral GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/schichtleiter-teamleiter-verpackung-fur-das-bifi-werk-in-guben-guben-303469",
-      "source": "Arbeitnow",
-      "location": "Guben , Brandenburg, Deutschland",
-      "remote": false,
-      "score": 67,
-      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
