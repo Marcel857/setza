@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-08T23:27:50Z",
+  "updated": "2026-08-08T23:55:57Z",
   "threshold": 60,
-  "count": 22,
+  "count": 21,
   "jobs": [
-    {
-      "title": "Product Designer II",
-      "company": "Built Technologies",
-      "url": "https://himalayas.app/companies/built-technologies/jobs/product-designer-ii",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
