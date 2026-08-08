@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-07T23:57:10Z",
+  "updated": "2026-08-08T01:42:12Z",
   "threshold": 60,
-  "count": 21,
+  "count": 23,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -134,6 +134,40 @@
       "age_days": 3,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Web & Visual Designer (all genders)",
+      "company": "Lio",
+      "url": "https://www.arbeitnow.com/jobs/companies/lio/web-visual-designer-all-genders-munich-148875",
+      "source": "Arbeitnow",
+      "location": "Munich Office",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Web & Visual Designer (all genders)",
+      "company": "Lio",
+      "url": "https://www.arbeitnow.com/jobs/companies/lio/web-visual-designer-all-genders-munich-9849",
+      "source": "Arbeitnow",
+      "location": "Munich Office",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer, Shop Everything",
