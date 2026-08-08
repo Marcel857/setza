@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-08-08T15:35:02Z",
+  "updated": "2026-08-08T16:27:45Z",
   "threshold": 60,
   "count": 23,
   "jobs": [
+    {
+      "title": "Junior Product Designer",
+      "company": "Clera",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/junior-product-designer-munich-90817",
+      "source": "Arbeitnow",
+      "location": "Munich",
+      "remote": false,
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -75,6 +91,22 @@
       "is_new": false
     },
     {
+      "title": "Brand Designer",
+      "company": "Clera",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/brand-designer-berlin-86088",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Architectural Designer",
       "company": "Sophie's Flats Inc.",
       "url": "https://remoteOK.com/remote-jobs/remote-architectural-designer-sophies-flats-inc-1136192",
@@ -136,29 +168,12 @@
       "is_new": false
     },
     {
-      "title": "Web & Visual Designer (all genders)",
-      "company": "Lio",
-      "url": "https://www.arbeitnow.com/jobs/companies/lio/web-visual-designer-all-genders-munich-148875",
-      "source": "Arbeitnow",
-      "location": "Munich Office",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Web & Visual Designer (all genders)",
-      "company": "Lio",
-      "url": "https://www.arbeitnow.com/jobs/companies/lio/web-visual-designer-all-genders-munich-9849",
-      "source": "Arbeitnow",
-      "location": "Munich Office",
-      "remote": false,
+      "title": "Graphic Designer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/optinizers/jobs/graphic-designer",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
@@ -208,22 +223,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 13,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Marketing AI Designer",
-      "company": "Superside",
-      "url": "https://jobicy.com/jobs/149181-marketing-ai-designer",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -354,7 +353,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     }
