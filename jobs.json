@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-08T17:02:58Z",
+  "updated": "2026-08-08T17:56:00Z",
   "threshold": 60,
   "count": 23,
   "jobs": [
@@ -132,7 +132,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Design System Designer",
