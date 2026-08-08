@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-08T13:41:28Z",
+  "updated": "2026-08-08T14:27:48Z",
   "threshold": 60,
   "count": 24,
   "jobs": [
@@ -184,7 +184,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer, Shop Everything",
