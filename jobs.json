@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-08T12:38:31Z",
+  "updated": "2026-08-08T13:41:28Z",
   "threshold": 60,
   "count": 24,
   "jobs": [
@@ -170,21 +170,21 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer",
+      "title": "Designer Criativo Multimídia (Vídeo, Motion & Graphic Design)",
       "company": "name",
-      "url": "https://himalayas.app/companies/optinizers/jobs/graphic-designer",
+      "url": "https://himalayas.app/companies/kasper/jobs/designer-criativo-multimidia-video-motion-graphic-design",
       "source": "Himalayas",
-      "location": "Philippines",
+      "location": "United States",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
         "Branding",
-        "Social Media"
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Product Designer, Shop Everything",
@@ -196,7 +196,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
