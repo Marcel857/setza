@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-08T01:42:12Z",
+  "updated": "2026-08-08T03:21:07Z",
   "threshold": 60,
   "count": 23,
   "jobs": [
@@ -150,7 +150,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Web & Visual Designer (all genders)",
@@ -167,7 +167,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer, Shop Everything",
@@ -223,7 +223,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
