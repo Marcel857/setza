@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-08T09:33:14Z",
+  "updated": "2026-08-08T10:27:08Z",
   "threshold": 60,
-  "count": 23,
+  "count": 24,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -168,6 +168,23 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/optinizers/jobs/graphic-designer",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer, Shop Everything",
