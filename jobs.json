@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-09T17:58:57Z",
+  "updated": "2026-08-09T18:50:37Z",
   "threshold": 60,
-  "count": 22,
+  "count": 20,
   "jobs": [
     {
       "title": "Brand Designer, AI & Ops",
@@ -104,36 +104,6 @@
         "Branding"
       ],
       "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand Designer",
-      "company": "Clera",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/brand-designer-berlin-150660",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Architectural Designer",
-      "company": "Sophie's Flats Inc.",
-      "url": "https://remoteOK.com/remote-jobs/remote-architectural-designer-sophies-flats-inc-1136192",
-      "source": "RemoteOK",
-      "location": "Toronto, ",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
