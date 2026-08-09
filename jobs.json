@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-09T07:50:47Z",
+  "updated": "2026-08-09T08:37:00Z",
   "threshold": 60,
-  "count": 24,
+  "count": 23,
   "jobs": [
     {
       "title": "Brand Designer, AI & Ops",
@@ -19,7 +19,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Creative Designer",
@@ -181,22 +181,6 @@
         "Fotografie"
       ],
       "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/plan-a-technologies/jobs/ux-designer",
-      "source": "Himalayas",
-      "location": "Uruguay",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
