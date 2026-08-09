@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-08-09T06:49:33Z",
+  "updated": "2026-08-09T07:50:47Z",
   "threshold": 60,
-  "count": 22,
+  "count": 24,
   "jobs": [
+    {
+      "title": "Brand Designer, AI & Ops",
+      "company": "Lovable",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/brand-designer-ai-ops-london-283670",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -88,7 +105,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Brand Designer",
@@ -164,6 +181,22 @@
         "Fotografie"
       ],
       "age_days": 4,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "UX Designer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/plan-a-technologies/jobs/ux-designer",
+      "source": "Himalayas",
+      "location": "Uruguay",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
