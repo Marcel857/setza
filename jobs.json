@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-09T23:26:40Z",
+  "updated": "2026-08-09T23:58:40Z",
   "threshold": 60,
-  "count": 20,
+  "count": 19,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -134,22 +134,6 @@
         "Fotografie"
       ],
       "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Game Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/ixilix/jobs/game-designer",
-      "source": "Himalayas",
-      "location": "",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
