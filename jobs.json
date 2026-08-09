@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-09T05:43:23Z",
+  "updated": "2026-08-09T06:49:33Z",
   "threshold": 60,
   "count": 22,
   "jobs": [
@@ -73,6 +73,22 @@
       "age_days": 25,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer at AIOS Medical — Remote, $90k-$150k/yr inc equity",
+      "company": "Aios",
+      "url": "https://www.arbeitnow.com/jobs/companies/aios/product-designer-at-aios-medical-remote-90k-150k-yr-inc-equity-berlin-32045",
+      "source": "Arbeitnow",
+      "location": "Remote (EU)",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Brand Designer",
@@ -150,22 +166,6 @@
       "age_days": 4,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "UX Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/plan-a-technologies/jobs/ux-designer",
-      "source": "Himalayas",
-      "location": "Uruguay",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Product Designer, Shop Everything",
