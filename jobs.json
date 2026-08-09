@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-09T19:29:19Z",
+  "updated": "2026-08-09T19:59:16Z",
   "threshold": 60,
-  "count": 20,
+  "count": 19,
   "jobs": [
-    {
-      "title": "Brand Designer, AI & Ops",
-      "company": "Lovable",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/brand-designer-ai-ops-london-283670",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
