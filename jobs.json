@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-09T22:35:32Z",
+  "updated": "2026-08-09T23:26:40Z",
   "threshold": 60,
   "count": 20,
   "jobs": [
@@ -75,24 +75,6 @@
       "is_new": false
     },
     {
-      "title": "Business Presentation Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/alliant-insurance-services-inc/jobs/business-presentation-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Product Designer at AIOS Medical — Remote, $90k-$150k/yr inc equity",
       "company": "Aios",
       "url": "https://www.arbeitnow.com/jobs/companies/aios/product-designer-at-aios-medical-remote-90k-150k-yr-inc-equity-berlin-32045",
@@ -152,6 +134,22 @@
         "Fotografie"
       ],
       "age_days": 5,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Game Designer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/ixilix/jobs/game-designer",
+      "source": "Himalayas",
+      "location": "",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
