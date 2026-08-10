@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-10T15:56:37Z",
+  "updated": "2026-08-10T16:52:56Z",
   "threshold": 60,
   "count": 21,
   "jobs": [
@@ -75,21 +75,22 @@
       "is_new": false
     },
     {
-      "title": "Grafik Desinger",
-      "company": "Greif Concept",
-      "url": "https://www.arbeitnow.com/jobs/companies/greif-concept/grafik-desinger-hamburg-98436",
+      "title": "VOLONTÄR (M/W/D) Verlagsherstellung / Kommunikationsdesign",
+      "company": "Callwey GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/callwey-gmbh/volontar-verlagsherstellung-kommunikationsdesign-munich-491188",
       "source": "Arbeitnow",
-      "location": "Hamburg",
+      "location": "Munich",
       "remote": false,
       "score": 82,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
         "Packaging/Print",
+        "Social Media",
         "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Design System Designer",
@@ -150,7 +151,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Instructional Designer, Nebius Academy",
@@ -321,7 +322,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     }
