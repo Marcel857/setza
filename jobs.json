@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-10T10:15:05Z",
+  "updated": "2026-08-10T11:29:14Z",
   "threshold": 60,
-  "count": 19,
+  "count": 20,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -73,6 +73,23 @@
       "age_days": 26,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/north-american-bancard/jobs/product-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Design System Designer",
