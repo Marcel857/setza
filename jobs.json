@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-08-10T11:29:14Z",
+  "updated": "2026-08-10T12:10:24Z",
   "threshold": 60,
-  "count": 20,
+  "count": 21,
   "jobs": [
+    {
+      "title": "Marketing Designer, Penguin Young Readers (Open to Remote) (New York, United Sta",
+      "company": "name",
+      "url": "https://himalayas.app/companies/bertelsmann-se-co-kgaa/jobs/marketing-designer-penguin-young-readers-open-to-remote-new-york-united-sta",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -75,16 +94,16 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/north-american-bancard/jobs/product-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Grafik Desinger",
+      "company": "Greif Concept",
+      "url": "https://www.arbeitnow.com/jobs/companies/greif-concept/grafik-desinger-hamburg-98436",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Branding",
+        "Packaging/Print",
         "Fotografie"
       ],
       "age_days": 0,
@@ -176,7 +195,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -190,7 +209,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
