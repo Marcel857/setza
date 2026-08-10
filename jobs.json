@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-09T23:58:40Z",
+  "updated": "2026-08-10T02:10:05Z",
   "threshold": 60,
   "count": 19,
   "jobs": [
@@ -75,16 +75,18 @@
       "is_new": false
     },
     {
-      "title": "Product Designer at AIOS Medical — Remote, $90k-$150k/yr inc equity",
-      "company": "Aios",
-      "url": "https://www.arbeitnow.com/jobs/companies/aios/product-designer-at-aios-medical-remote-90k-150k-yr-inc-equity-berlin-32045",
-      "source": "Arbeitnow",
-      "location": "Remote (EU)",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Business Presentation Designer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/alliant-insurance-services-inc/jobs/business-presentation-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Branding"
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
