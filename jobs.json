@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-10T04:11:42Z",
+  "updated": "2026-08-10T05:53:45Z",
   "threshold": 60,
-  "count": 19,
+  "count": 18,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -73,24 +73,6 @@
       "age_days": 26,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Motion Designer - Remote - Octopus (Immediate Hire)",
-      "company": "name",
-      "url": "https://himalayas.app/companies/robusta/jobs/motion-designer-remote-octopus-immediate-hire",
-      "source": "Himalayas",
-      "location": "Egypt",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Design System Designer",
