@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-10T14:53:55Z",
+  "updated": "2026-08-10T15:56:37Z",
   "threshold": 60,
   "count": 21,
   "jobs": [
@@ -36,7 +36,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -70,7 +70,7 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -85,24 +85,6 @@
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
         "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Motion Designer - Remote - Octopus (Immediate Hire)",
-      "company": "name",
-      "url": "https://himalayas.app/companies/robusta/jobs/motion-designer-remote-octopus-immediate-hire",
-      "source": "Himalayas",
-      "location": "Egypt",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
         "Fotografie"
       ],
       "age_days": 0,
@@ -152,9 +134,23 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX Designer (m/w/d) – Design & KI",
+      "company": "Id1",
+      "url": "https://www.arbeitnow.com/jobs/companies/id1/remote-ux-designer-design-ki-59228",
+      "source": "Arbeitnow",
+      "location": "Remote (Deutschland)",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Instructional Designer, Nebius Academy",
@@ -250,7 +246,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -264,7 +260,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -281,7 +277,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -295,7 +291,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -309,7 +305,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
