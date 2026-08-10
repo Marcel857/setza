@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-10T02:10:05Z",
+  "updated": "2026-08-10T04:11:42Z",
   "threshold": 60,
   "count": 19,
   "jobs": [
@@ -75,22 +75,22 @@
       "is_new": false
     },
     {
-      "title": "Business Presentation Designer",
+      "title": "Motion Designer - Remote - Octopus (Immediate Hire)",
       "company": "name",
-      "url": "https://himalayas.app/companies/alliant-insurance-services-inc/jobs/business-presentation-designer",
+      "url": "https://himalayas.app/companies/robusta/jobs/motion-designer-remote-octopus-immediate-hire",
       "source": "Himalayas",
-      "location": "United States",
+      "location": "Egypt",
       "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Packaging/Print",
         "Branding",
+        "Social Media",
         "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Design System Designer",
