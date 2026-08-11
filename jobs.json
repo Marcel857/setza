@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-11T10:26:22Z",
+  "updated": "2026-08-11T11:15:14Z",
   "threshold": 60,
   "count": 20,
   "jobs": [
@@ -118,20 +118,6 @@
         "Fotografie"
       ],
       "age_days": 6,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (m/w/x)",
-      "company": "Doctorflix",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctorflix/product-designer-berlin-300993",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -306,6 +292,22 @@
       ],
       "age_days": 14,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "liberis",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/liberis/product-designer-london-65432",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 52,
+      "reasons": "Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
