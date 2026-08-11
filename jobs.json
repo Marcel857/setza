@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-10T23:30:53Z",
+  "updated": "2026-08-11T01:20:54Z",
   "threshold": 60,
   "count": 22,
   "jobs": [
@@ -104,7 +104,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Design System Designer",
@@ -154,18 +154,18 @@
       "is_new": false
     },
     {
-      "title": "UX Designer (m/w/d) – Design & KI",
-      "company": "Id1",
-      "url": "https://www.arbeitnow.com/jobs/companies/id1/remote-ux-designer-design-ki-59228",
+      "title": "Product Designer (m/w/x)",
+      "company": "Doctorflix",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctorflix/product-designer-berlin-300993",
       "source": "Arbeitnow",
-      "location": "Remote (Deutschland)",
+      "location": "Berlin",
       "remote": false,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Instructional Designer, Nebius Academy",
