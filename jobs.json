@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-11T22:10:24Z",
+  "updated": "2026-08-11T23:10:42Z",
   "threshold": 60,
-  "count": 22,
+  "count": 21,
   "jobs": [
     {
       "title": "Social Media Grafiker:in (gn)",
@@ -153,20 +153,6 @@
         "Fotografie"
       ],
       "age_days": 7,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX/UI Product Designer (AI Fluency)",
-      "company": "Koombea",
-      "url": "https://himalayas.app/companies/koombea/jobs/ux-ui-product-designer-ai-fluency",
-      "source": "Himalayas",
-      "location": "Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, Venezuela",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
