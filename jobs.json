@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-12T00:06:19Z",
+  "updated": "2026-08-12T03:03:19Z",
   "threshold": 60,
-  "count": 21,
+  "count": 20,
   "jobs": [
     {
       "title": "Social Media Grafiker:in (gn)",
@@ -89,23 +89,6 @@
         "Junior"
       ],
       "age_days": 28,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand Designer",
-      "company": "LemFi",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lemfi/brand-designer-london-341344",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
