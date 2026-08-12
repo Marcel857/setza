@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-08-12T12:59:35Z",
+  "updated": "2026-08-12T14:22:45Z",
   "threshold": 60,
-  "count": 19,
+  "count": 20,
   "jobs": [
+    {
+      "title": "(Junior) Designer / Motion Designer (m/w/d)",
+      "company": "Speekly",
+      "url": "https://www.arbeitnow.com/jobs/companies/speekly/junior-designer-motion-designer-cologne-395",
+      "source": "Arbeitnow",
+      "location": "Cologne",
+      "remote": false,
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Social Media",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -145,7 +163,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
