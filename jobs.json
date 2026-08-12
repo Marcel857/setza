@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-12T15:28:20Z",
+  "updated": "2026-08-12T16:26:37Z",
   "threshold": 60,
-  "count": 20,
+  "count": 26,
   "jobs": [
     {
       "title": "(Junior) Designer / Motion Designer (m/w/d)",
@@ -88,9 +88,25 @@
         "Fotografie",
         "Junior"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Mediengestalter Digital und Print (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/mediengestalter-digital-und-print-dusseldorf-399768",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Design System Designer",
@@ -138,6 +154,76 @@
       "age_days": 8,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Grafikdesigner Performance Marketing (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/grafikdesigner-performance-marketing-dusseldorf-290925",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Static Designer (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/static-designer-dusseldorf-43445",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Growth Designer (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/growth-designer-dusseldorf-18033",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Ad Creative Designer (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/ad-creative-designer-dusseldorf-5989",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Performance Designer (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/performance-designer-dusseldorf-16118",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Instructional Designer, Nebius Academy",
@@ -308,7 +394,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     }
