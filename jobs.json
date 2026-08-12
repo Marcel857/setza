@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-12T16:26:37Z",
+  "updated": "2026-08-12T17:28:13Z",
   "threshold": 60,
-  "count": 26,
+  "count": 25,
   "jobs": [
-    {
-      "title": "(Junior) Designer / Motion Designer (m/w/d)",
-      "company": "Speekly",
-      "url": "https://www.arbeitnow.com/jobs/companies/speekly/junior-designer-motion-designer-cologne-395",
-      "source": "Arbeitnow",
-      "location": "Cologne",
-      "remote": false,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -106,7 +88,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Design System Designer",
@@ -167,7 +149,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Static Designer (m/w/d)",
@@ -181,7 +163,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Growth Designer (m/w/d)",
@@ -195,7 +177,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Ad Creative Designer (m/w/d)",
@@ -209,7 +191,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Performance Designer (m/w/d)",
@@ -223,7 +205,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Instructional Designer, Nebius Academy",
