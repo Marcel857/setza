@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-08-12T18:27:14Z",
+  "updated": "2026-08-12T19:37:09Z",
   "threshold": 60,
-  "count": 25,
+  "count": 26,
   "jobs": [
+    {
+      "title": "Grafikdesigner/-in - Vollzeit (m/w/d)",
+      "company": "RE/MAX PRO Partner Rülzheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/remax-pro-partner-rulzheim/grafikdesigner-in-vollzeit-rulzheim-249787",
+      "source": "Arbeitnow",
+      "location": "Rülzheim",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
