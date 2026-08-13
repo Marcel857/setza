@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-12T23:35:55Z",
+  "updated": "2026-08-13T01:40:02Z",
   "threshold": 60,
-  "count": 21,
+  "count": 20,
   "jobs": [
     {
       "title": "Grafikdesigner/-in - Vollzeit (m/w/d)",
@@ -90,22 +90,6 @@
         "Junior"
       ],
       "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Sr. Motion Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/digitalfish-inc/jobs/sr-motion-designer",
-      "source": "Himalayas",
-      "location": "",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
