@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-13T08:49:37Z",
+  "updated": "2026-08-13T09:59:56Z",
   "threshold": 60,
-  "count": 19,
+  "count": 20,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -73,6 +73,23 @@
       "age_days": 29,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Digital Designer (m/w/d)",
+      "company": "benuta GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/benuta-gmbh/digital-designer-bonn-181678",
+      "source": "Arbeitnow",
+      "location": "Bonn",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Design System Designer",
