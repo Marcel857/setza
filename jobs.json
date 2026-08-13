@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-13T20:38:33Z",
+  "updated": "2026-08-13T21:40:25Z",
   "threshold": 60,
-  "count": 19,
+  "count": 20,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -118,6 +118,22 @@
         "Fotografie"
       ],
       "age_days": 9,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Video Editor & Motion Designer, Brand Studio",
+      "company": "name",
+      "url": "https://himalayas.app/companies/motive/jobs/video-editor-motion-designer-brand-studio",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
