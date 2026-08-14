@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-14T09:56:11Z",
+  "updated": "2026-08-14T10:56:20Z",
   "threshold": 60,
-  "count": 20,
+  "count": 19,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -118,23 +118,6 @@
         "Fotografie"
       ],
       "age_days": 9,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Webdesigner / WordPress & Elementor (m/w/d)",
-      "company": "Präsenzmacher",
-      "url": "https://www.arbeitnow.com/jobs/companies/prasenzmacher/webdesigner-wordpress-elementor-rostock-468284",
-      "source": "Arbeitnow",
-      "location": "Rostock",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
