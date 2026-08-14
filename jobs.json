@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-14T22:48:00Z",
+  "updated": "2026-08-14T23:17:17Z",
   "threshold": 60,
-  "count": 19,
+  "count": 20,
   "jobs": [
     {
       "title": "Mediengestalter (m/w/d)",
@@ -121,6 +121,20 @@
       "age_days": 10,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Technical Designer II - Social Systems",
+      "company": "name",
+      "url": "https://himalayas.app/companies/pipeworks-studios/jobs/technical-designer-ii-social-systems",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Instructional Designer, Nebius Academy",
