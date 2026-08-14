@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-14T07:18:16Z",
+  "updated": "2026-08-14T08:42:47Z",
   "threshold": 60,
   "count": 20,
   "jobs": [
@@ -136,7 +136,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Instructional Designer, Nebius Academy",
