@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-08-14T15:20:28Z",
+  "updated": "2026-08-14T16:14:02Z",
   "threshold": 60,
   "count": 19,
   "jobs": [
+    {
+      "title": "Mediengestalter (m/w/d)",
+      "company": "Innovationsraum GmbH & Co. KG",
+      "url": "https://www.arbeitnow.com/jobs/companies/innovationsraum-gmbh-co-kg/mediengestalter-hanau-467821",
+      "source": "Arbeitnow",
+      "location": "Hanau",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -53,24 +72,6 @@
         "Junior"
       ],
       "age_days": 9,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Junior Designer (Part-Time Contract)",
-      "company": "LooseGrip",
-      "url": "https://weworkremotely.com/remote-jobs/loosegrip-junior-designer-part-time-contract",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
@@ -290,7 +291,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     }
