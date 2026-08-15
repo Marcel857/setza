@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-15T17:16:27Z",
+  "updated": "2026-08-15T17:44:18Z",
   "threshold": 60,
-  "count": 19,
+  "count": 20,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -102,6 +102,22 @@
       "age_days": 11,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer – Content Solutions",
+      "company": "Fueled",
+      "url": "https://jobicy.com/jobs/150781-product-designer-content-solutions",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer",
