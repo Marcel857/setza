@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-15T02:16:09Z",
+  "updated": "2026-08-15T03:10:58Z",
   "threshold": 60,
   "count": 21,
   "jobs": [
@@ -38,7 +38,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UI/UX Designer",
@@ -55,7 +55,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Creative Designer",
