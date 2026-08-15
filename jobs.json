@@ -1,43 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-15T13:50:53Z",
+  "updated": "2026-08-15T14:17:47Z",
   "threshold": 60,
-  "count": 20,
+  "count": 18,
   "jobs": [
-    {
-      "title": "UI/UX Designer",
-      "company": "Rocketsciencegg",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/ui-ux-designer-cardiff-176382",
-      "source": "Arbeitnow",
-      "location": "Cardiff, Wales, UK",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI/UX Designer",
-      "company": "Rocketsciencegg",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/ui-ux-designer-brighton-413797",
-      "source": "Arbeitnow",
-      "location": "Brighton, UK",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
