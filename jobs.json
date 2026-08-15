@@ -1,28 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-15T03:10:58Z",
+  "updated": "2026-08-15T04:02:42Z",
   "threshold": 60,
-  "count": 21,
+  "count": 20,
   "jobs": [
-    {
-      "title": "Mediengestalter (m/w/d)",
-      "company": "Innovationsraum GmbH & Co. KG",
-      "url": "https://www.arbeitnow.com/jobs/companies/innovationsraum-gmbh-co-kg/mediengestalter-hanau-467821",
-      "source": "Arbeitnow",
-      "location": "Hanau",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "UI/UX Designer",
       "company": "Rocketsciencegg",
