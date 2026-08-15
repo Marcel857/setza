@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-08-15T18:22:08Z",
+  "updated": "2026-08-15T18:55:03Z",
   "threshold": 60,
-  "count": 20,
+  "count": 21,
   "jobs": [
+    {
+      "title": "Junior Product Designer - Accessories (m/f/d)",
+      "company": "Westwing",
+      "url": "https://www.arbeitnow.com/jobs/companies/westwing/junior-product-designer-accessories-munich-office-16116",
+      "source": "Arbeitnow",
+      "location": "Munich Office",
+      "remote": false,
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
