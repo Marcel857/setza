@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-15T14:17:47Z",
+  "updated": "2026-08-15T14:46:59Z",
   "threshold": 60,
-  "count": 18,
+  "count": 19,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -102,6 +102,20 @@
       "age_days": 10,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Maze",
+      "url": "https://jobicy.com/jobs/150739-product-designer",
+      "source": "Jobicy",
+      "location": "Europe",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Instructional Designer, Nebius Academy",
