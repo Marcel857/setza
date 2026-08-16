@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-16T16:49:01Z",
+  "updated": "2026-08-16T17:15:35Z",
   "threshold": 60,
   "count": 22,
   "jobs": [
@@ -17,7 +17,7 @@
         "Branding",
         "Junior"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -70,6 +70,20 @@
         "Junior"
       ],
       "age_days": 11,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Instructional Designer (Schwerpunkt ORBIS) (m/w/d)",
+      "company": "Dedalus",
+      "url": "https://himalayas.app/companies/dedalus-com/jobs/instructional-designer-schwerpunkt-orbis-m-w-d",
+      "source": "Himalayas",
+      "location": "Germany",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -322,22 +336,6 @@
       "age_days": 20,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Auditor, Food Packaging / BRCGS",
-      "company": "BSI",
-      "url": "https://himalayas.app/companies/bsi/jobs/auditor-food-packaging-brcgs",
-      "source": "Himalayas",
-      "location": "United Kingdom",
-      "remote": true,
-      "score": 67,
-      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     }
   ]
 }
