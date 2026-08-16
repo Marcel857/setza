@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-16T19:42:53Z",
+  "updated": "2026-08-16T20:16:25Z",
   "threshold": 60,
-  "count": 21,
+  "count": 20,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -19,7 +19,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -52,21 +52,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 11,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Instructional Designer (Schwerpunkt ORBIS) (m/w/d)",
-      "company": "Dedalus",
-      "url": "https://himalayas.app/companies/dedalus-com/jobs/instructional-designer-schwerpunkt-orbis-m-w-d",
-      "source": "Himalayas",
-      "location": "Germany",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -80,7 +66,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -97,7 +83,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -213,7 +199,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -227,7 +213,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
