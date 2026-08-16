@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-16T15:17:04Z",
+  "updated": "2026-08-16T15:44:31Z",
   "threshold": 60,
-  "count": 21,
+  "count": 22,
   "jobs": [
     {
       "title": "Junior Product Designer - Accessories (m/f/d)",
@@ -53,7 +53,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -70,6 +70,20 @@
         "Junior"
       ],
       "age_days": 11,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Instructional Designer (Schwerpunkt ORBIS) (m/w/d)",
+      "company": "Dedalus",
+      "url": "https://himalayas.app/companies/dedalus-com/jobs/instructional-designer-schwerpunkt-orbis-m-w-d",
+      "source": "Himalayas",
+      "location": "Germany",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -116,7 +130,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -244,7 +258,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -258,7 +272,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -275,7 +289,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -289,7 +303,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -303,7 +317,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
