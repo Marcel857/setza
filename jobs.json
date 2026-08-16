@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-16T18:21:53Z",
+  "updated": "2026-08-16T18:54:31Z",
   "threshold": 60,
   "count": 21,
   "jobs": [
-    {
-      "title": "Junior Product Designer - Accessories (m/f/d)",
-      "company": "Westwing",
-      "url": "https://www.arbeitnow.com/jobs/companies/westwing/junior-product-designer-accessories-munich-office-16116",
-      "source": "Arbeitnow",
-      "location": "Munich Office",
-      "remote": false,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Junior"
-      ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -320,6 +303,22 @@
         "Branding"
       ],
       "age_days": 20,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Auditor, Food Packaging / BRCGS",
+      "company": "BSI",
+      "url": "https://himalayas.app/companies/bsi/jobs/auditor-food-packaging-brcgs",
+      "source": "Himalayas",
+      "location": "United Kingdom",
+      "remote": true,
+      "score": 67,
+      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     }
