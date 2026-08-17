@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-17T02:39:00Z",
+  "updated": "2026-08-17T03:45:36Z",
   "threshold": 60,
-  "count": 21,
+  "count": 20,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -55,24 +55,6 @@
       "age_days": 12,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/yellow-social-interactive/jobs/graphic-designer",
-      "source": "Himalayas",
-      "location": "Malta",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Design System Designer",
