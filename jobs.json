@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-17T20:52:28Z",
+  "updated": "2026-08-17T21:21:22Z",
   "threshold": 60,
   "count": 24,
   "jobs": [
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Mediengestalter:in / Grafiker:in in Teilzeit (all genders)",
