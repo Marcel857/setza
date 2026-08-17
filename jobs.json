@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-17T23:18:23Z",
+  "updated": "2026-08-17T23:50:27Z",
   "threshold": 60,
-  "count": 25,
+  "count": 24,
   "jobs": [
     {
       "title": "UX / UI Designer",
@@ -86,20 +86,6 @@
         "Junior"
       ],
       "age_days": 13,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Media Designer (w/m/d)",
-      "company": "evolve+adapt GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/evolveadapt-gmbh/media-designer-essen-261427",
-      "source": "Arbeitnow",
-      "location": "Essen",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
