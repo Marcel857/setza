@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-08-17T20:20:45Z",
+  "updated": "2026-08-17T20:52:28Z",
   "threshold": 60,
-  "count": 23,
+  "count": 24,
   "jobs": [
+    {
+      "title": "Designer (w/m/d) Geschenkartikel & Print",
+      "company": "b.sonders GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/bsonders-gmbh/designer-geschenkartikel-print-erkrath-298741",
+      "source": "Arbeitnow",
+      "location": "Erkrath",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Mediengestalter:in / Grafiker:in in Teilzeit (all genders)",
       "company": "MERENTIS GmbH",
