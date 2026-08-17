@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-08-17T15:20:33Z",
+  "updated": "2026-08-17T15:48:11Z",
   "threshold": 60,
-  "count": 21,
+  "count": 22,
   "jobs": [
+    {
+      "title": "Mediengestalter:in / Grafiker:in in Teilzeit (all genders)",
+      "company": "MERENTIS GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/merentis-gmbh/mediengestalterin-grafikerin-in-teilzeit-all-genders-bremen-119780",
+      "source": "Arbeitnow",
+      "location": "Bremen",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
