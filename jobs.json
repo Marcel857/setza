@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-17T22:19:24Z",
+  "updated": "2026-08-17T22:48:48Z",
   "threshold": 60,
-  "count": 24,
+  "count": 25,
   "jobs": [
     {
       "title": "UX / UI Designer",
@@ -149,6 +149,23 @@
       "age_days": 13,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Conceptual Designer",
+      "company": "Kayak",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kayak/conceptual-designer-london-48981",
+      "source": "Arbeitnow",
+      "location": "London Office",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
