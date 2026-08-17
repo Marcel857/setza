@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-17T21:49:05Z",
+  "updated": "2026-08-17T22:19:24Z",
   "threshold": 60,
   "count": 24,
   "jobs": [
@@ -19,7 +19,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer (w/m/d) Geschenkartikel & Print",
