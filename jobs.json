@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-16T23:42:56Z",
+  "updated": "2026-08-17T01:00:43Z",
   "threshold": 60,
-  "count": 21,
+  "count": 20,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -303,22 +303,6 @@
         "Branding"
       ],
       "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Auditor, Food Packaging / BRCGS",
-      "company": "BSI",
-      "url": "https://himalayas.app/companies/bsi/jobs/auditor-food-packaging-brcgs",
-      "source": "Himalayas",
-      "location": "United Kingdom",
-      "remote": true,
-      "score": 67,
-      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     }
