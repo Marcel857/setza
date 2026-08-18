@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-18T20:18:02Z",
+  "updated": "2026-08-18T20:48:04Z",
   "threshold": 60,
-  "count": 23,
+  "count": 24,
   "jobs": [
     {
       "title": "Junior-Grafikdesigner (m/w/d)",
@@ -234,6 +234,22 @@
       "age_days": 23,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Thatch",
+      "url": "https://weworkremotely.com/remote-jobs/thatch-product-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer - UX/UI & Design Systems (Remote)",
