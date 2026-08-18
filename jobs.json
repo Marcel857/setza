@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-18T21:19:13Z",
+  "updated": "2026-08-18T21:46:25Z",
   "threshold": 60,
-  "count": 24,
+  "count": 23,
   "jobs": [
     {
       "title": "Junior-Grafikdesigner (m/w/d)",
@@ -118,20 +118,6 @@
         "Fotografie"
       ],
       "age_days": 14,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "CAD Designer (m/w/x) mechatronische Systeme",
-      "company": "K-tronik GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/cad-designer-mechatronische-systeme-nuremberg-277959",
-      "source": "Arbeitnow",
-      "location": "Nuremberg",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
