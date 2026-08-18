@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-18T19:23:39Z",
+  "updated": "2026-08-18T19:47:51Z",
   "threshold": 60,
-  "count": 24,
+  "count": 23,
   "jobs": [
     {
       "title": "Junior-Grafikdesigner (m/w/d)",
@@ -17,25 +17,6 @@
         "Packaging/Print",
         "Social Media",
         "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Full-Time Image Ad Designer",
-      "company": "Skinnify",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/skinnify/full-time-image-ad-designer-wigan-107455",
-      "source": "Arbeitnow",
-      "location": "Wigan",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
