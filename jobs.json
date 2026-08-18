@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-18T20:48:04Z",
+  "updated": "2026-08-18T21:19:13Z",
   "threshold": 60,
   "count": 24,
   "jobs": [
@@ -249,7 +249,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer - UX/UI & Design Systems (Remote)",
