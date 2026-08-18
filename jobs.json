@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-18T15:56:04Z",
+  "updated": "2026-08-18T16:28:31Z",
   "threshold": 60,
   "count": 24,
   "jobs": [
@@ -20,7 +20,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Full-Time Image Ad Designer",
@@ -367,7 +367,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     }
