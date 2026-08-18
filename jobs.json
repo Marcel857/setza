@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-18T03:22:02Z",
+  "updated": "2026-08-18T04:05:45Z",
   "threshold": 60,
-  "count": 24,
+  "count": 25,
   "jobs": [
     {
       "title": "UX / UI Designer",
@@ -152,6 +152,20 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "AR Game Designer — Mobile & WebAR",
+      "company": "name",
+      "url": "https://himalayas.app/companies/fs-studio/jobs/ar-game-designer-mobile-webar",
+      "source": "Himalayas",
+      "location": "Canada, United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
