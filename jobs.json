@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-18T17:30:45Z",
+  "updated": "2026-08-18T18:31:50Z",
   "threshold": 60,
-  "count": 25,
+  "count": 24,
   "jobs": [
     {
       "title": "Junior-Grafikdesigner (m/w/d)",
@@ -90,24 +90,6 @@
         "Junior"
       ],
       "age_days": 13,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer | REMOTE",
-      "company": "SupportNinja",
-      "url": "https://himalayas.app/companies/supportninja/jobs/graphic-designer-remote-7559399443",
-      "source": "Himalayas",
-      "location": "Philippines",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
