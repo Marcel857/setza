@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-18T04:05:45Z",
+  "updated": "2026-08-18T05:01:37Z",
   "threshold": 60,
   "count": 25,
   "jobs": [
@@ -36,6 +36,25 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Full-Time Image Ad Designer",
+      "company": "Skinnify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/skinnify/full-time-image-ad-designer-wigan-107455",
+      "source": "Arbeitnow",
+      "location": "Wigan",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Creative Designer",
@@ -154,20 +173,6 @@
       "is_new": false
     },
     {
-      "title": "AR Game Designer — Mobile & WebAR",
-      "company": "name",
-      "url": "https://himalayas.app/companies/fs-studio/jobs/ar-game-designer-mobile-webar",
-      "source": "Himalayas",
-      "location": "Canada, United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Graphic Designer",
       "company": "Instructure",
       "url": "https://jobicy.com/jobs/150915-graphic-designer",
@@ -221,7 +226,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
