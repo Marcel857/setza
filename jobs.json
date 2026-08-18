@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-18T09:27:47Z",
+  "updated": "2026-08-18T09:58:43Z",
   "threshold": 60,
-  "count": 24,
+  "count": 23,
   "jobs": [
     {
       "title": "Full-Time Image Ad Designer",
@@ -119,20 +119,6 @@
         "Fotografie"
       ],
       "age_days": 13,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (m/w/x)",
-      "company": "Doctorflix",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctorflix/product-designer-berlin-318313",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
