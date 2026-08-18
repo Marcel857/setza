@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-18T12:36:50Z",
+  "updated": "2026-08-18T13:38:14Z",
   "threshold": 60,
   "count": 23,
   "jobs": [
@@ -123,21 +123,18 @@
       "is_new": false
     },
     {
-      "title": "Conceptual Designer",
-      "company": "Kayak",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kayak/conceptual-designer-london-48981",
+      "title": "CAD Designer (m/w/x) mechatronische Systeme",
+      "company": "K-tronik GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/cad-designer-mechatronische-systeme-nuremberg-277959",
       "source": "Arbeitnow",
-      "location": "London Office",
+      "location": "Nuremberg",
       "remote": false,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -149,7 +146,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -207,7 +204,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
