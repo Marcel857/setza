@@ -1,42 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-18T06:35:41Z",
+  "updated": "2026-08-18T07:34:21Z",
   "threshold": 60,
-  "count": 25,
+  "count": 24,
   "jobs": [
-    {
-      "title": "UX / UI Designer",
-      "company": "Titanom Technologies",
-      "url": "https://www.arbeitnow.com/jobs/companies/titanom-technologies/ux-ui-designer-germering-344684",
-      "source": "Arbeitnow",
-      "location": "Germering, Germany",
-      "remote": false,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Designer (w/m/d) Geschenkartikel & Print",
-      "company": "b.sonders GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/bsonders-gmbh/designer-geschenkartikel-print-erkrath-298741",
-      "source": "Arbeitnow",
-      "location": "Erkrath",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Full-Time Image Ad Designer",
       "company": "Skinnify",
@@ -154,6 +121,20 @@
       "age_days": 13,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer (m/w/x)",
+      "company": "Doctorflix",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctorflix/product-designer-berlin-318313",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Conceptual Designer",
