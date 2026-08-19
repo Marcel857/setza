@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T16:28:57Z",
+  "updated": "2026-08-19T16:56:48Z",
   "threshold": 60,
-  "count": 26,
+  "count": 24,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -74,23 +74,6 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer – Navy Interactive Multimedia Instruction (IMI)",
-      "company": "Accelint",
-      "url": "https://himalayas.app/companies/accelint/jobs/graphic-designer-navy-interactive-multimedia-instruction-imi",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Design System Designer",
       "company": "Mayflower",
       "url": "https://weworkremotely.com/remote-jobs/mayflower-design-system-designer",
@@ -134,23 +117,6 @@
         "Fotografie"
       ],
       "age_days": 15,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Conceptual Designer",
-      "company": "KAYAK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kayak/conceptual-designer-london-316367",
-      "source": "Arbeitnow",
-      "location": "London Office",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
