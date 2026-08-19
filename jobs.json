@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T15:56:09Z",
+  "updated": "2026-08-19T16:28:57Z",
   "threshold": 60,
-  "count": 25,
+  "count": 26,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -70,6 +70,23 @@
         "Junior"
       ],
       "age_days": 14,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Graphic Designer – Navy Interactive Multimedia Instruction (IMI)",
+      "company": "Accelint",
+      "url": "https://himalayas.app/companies/accelint/jobs/graphic-designer-navy-interactive-multimedia-instruction-imi",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -380,7 +397,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     }
