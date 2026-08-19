@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T15:02:52Z",
+  "updated": "2026-08-19T15:56:09Z",
   "threshold": 60,
-  "count": 26,
+  "count": 25,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -36,7 +36,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -72,23 +72,6 @@
       "age_days": 14,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Graphic Designer – Navy Interactive Multimedia Instruction (IMI)",
-      "company": "Accelint",
-      "url": "https://himalayas.app/companies/accelint/jobs/graphic-designer-navy-interactive-multimedia-instruction-imi",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Design System Designer",
@@ -133,7 +116,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -322,7 +305,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -336,7 +319,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -353,7 +336,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -367,7 +350,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -381,7 +364,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
