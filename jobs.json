@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T05:01:57Z",
+  "updated": "2026-08-19T05:54:49Z",
   "threshold": 60,
   "count": 25,
   "jobs": [
@@ -118,7 +118,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer (UI/UX)",
@@ -148,7 +148,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
