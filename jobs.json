@@ -1,9 +1,29 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T18:28:03Z",
+  "updated": "2026-08-19T19:02:55Z",
   "threshold": 60,
   "count": 25,
   "jobs": [
+    {
+      "title": "Junior Graphic Designer (all genders)",
+      "company": "Sunday Natural",
+      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/junior-graphic-designer-all-genders-berlin-409225",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 95,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -70,23 +90,6 @@
         "Junior"
       ],
       "age_days": 14,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer – Navy Interactive Multimedia Instruction (IMI)",
-      "company": "Accelint",
-      "url": "https://himalayas.app/companies/accelint/jobs/graphic-designer-navy-interactive-multimedia-instruction-imi",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
