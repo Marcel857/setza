@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T01:00:10Z",
+  "updated": "2026-08-19T02:21:21Z",
   "threshold": 60,
-  "count": 22,
+  "count": 23,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -102,6 +102,20 @@
       "age_days": 14,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer (UI/UX)",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-designer-ui-ux-london-372515",
+      "source": "Arbeitnow",
+      "location": "United Kingdom",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
