@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T12:37:40Z",
+  "updated": "2026-08-19T13:40:25Z",
   "threshold": 60,
-  "count": 28,
+  "count": 25,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -74,38 +74,6 @@
       "is_new": false
     },
     {
-      "title": "Spezialist Qualitätssicherung Europa / Verpackungsindustrie  (m/w/d)",
-      "company": "RISSMANN GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/rissmann-gmbh/spezialist-qualitatssicherung-europa-verpackungsindustrie-nuremberg-384078",
-      "source": "Arbeitnow",
-      "location": "Nuremberg",
-      "remote": false,
-      "score": 79,
-      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Quality Assurance Specialist Europa / Packaging (m/w/d)",
-      "company": "RISSMANN GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/rissmann-gmbh/quality-assurance-specialist-europa-packaging-nuremberg-146126",
-      "source": "Arbeitnow",
-      "location": "Nuremberg",
-      "remote": false,
-      "score": 79,
-      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Design System Designer",
       "company": "Mayflower",
       "url": "https://weworkremotely.com/remote-jobs/mayflower-design-system-designer",
@@ -170,20 +138,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer (UI/UX)",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-designer-ui-ux-london-372515",
-      "source": "Arbeitnow",
-      "location": "United Kingdom",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Product Designer II",
       "company": "Built Technologies",
       "url": "https://jobicy.com/jobs/151073-product-designer-ii",
@@ -207,7 +161,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -265,7 +219,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
