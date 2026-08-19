@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T09:59:20Z",
+  "updated": "2026-08-19T10:35:29Z",
   "threshold": 60,
   "count": 28,
   "jobs": [
@@ -55,7 +55,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UX Designer",
@@ -87,7 +87,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Quality Assurance Specialist Europa / Packaging (m/w/d)",
@@ -103,7 +103,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Design System Designer",
@@ -195,7 +195,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
