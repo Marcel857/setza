@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T06:36:20Z",
+  "updated": "2026-08-19T07:34:02Z",
   "threshold": 60,
-  "count": 25,
+  "count": 24,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -130,22 +130,6 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Mobile UI Designer",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/mobile-ui-designer-6120670531",
-      "source": "Himalayas",
-      "location": "Switzerland",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
       "age_days": 0,
       "is_match": true,
       "is_new": false
