@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T20:21:12Z",
+  "updated": "2026-08-19T20:52:51Z",
   "threshold": 60,
-  "count": 25,
+  "count": 26,
   "jobs": [
     {
       "title": "Junior Graphic Designer (all genders)",
@@ -92,6 +92,22 @@
       "age_days": 15,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Design instructor - Project Based",
+      "company": "Ischool",
+      "url": "https://weworkremotely.com/remote-jobs/ischool-graphic-design-instructor-project-based",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Design System Designer",
@@ -266,7 +282,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
