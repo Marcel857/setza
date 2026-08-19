@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T02:21:21Z",
+  "updated": "2026-08-19T03:24:20Z",
   "threshold": 60,
-  "count": 23,
+  "count": 25,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -39,6 +39,23 @@
       "age_days": 14,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Solana PERP DEX: Superis Labs - Designer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/ergonia-business-solutions-sl/jobs/solana-perp-dex-superis-labs-designer",
+      "source": "Himalayas",
+      "location": "United Kingdom",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UX Designer",
@@ -110,6 +127,20 @@
       "source": "Arbeitnow",
       "location": "United Kingdom",
       "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Learning Designer - 12 Month Contract",
+      "company": "name",
+      "url": "https://himalayas.app/companies/sprypoint/jobs/learning-designer-12-month-contract-473648050",
+      "source": "Himalayas",
+      "location": "Canada",
+      "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
