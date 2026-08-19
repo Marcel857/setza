@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T22:19:31Z",
+  "updated": "2026-08-19T22:49:47Z",
   "threshold": 60,
-  "count": 26,
+  "count": 27,
   "jobs": [
     {
       "title": "Junior Graphic Designer (all genders)",
@@ -92,6 +92,22 @@
       "age_days": 15,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Designer, Brand and Marketing (Part-Time)",
+      "company": "Worldly",
+      "url": "https://jobicy.com/jobs/151138-designer-brand-and-marketing-part-time",
+      "source": "Jobicy",
+      "location": "France,  Italy,  Portugal,  Sweden,  UK,  USA",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Design instructor - Project Based",
