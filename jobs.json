@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T04:06:24Z",
+  "updated": "2026-08-19T05:01:57Z",
   "threshold": 60,
   "count": 25,
   "jobs": [
@@ -37,23 +37,6 @@
         "Branding"
       ],
       "age_days": 14,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Solana PERP DEX: Superis Labs - Designer",
-      "company": "name",
-      "url": "https://himalayas.app/companies/ergonia-business-solutions-sl/jobs/solana-perp-dex-superis-labs-designer",
-      "source": "Himalayas",
-      "location": "United Kingdom",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Junior"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -121,6 +104,23 @@
       "is_new": false
     },
     {
+      "title": "Conceptual Designer",
+      "company": "KAYAK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kayak/conceptual-designer-london-316367",
+      "source": "Arbeitnow",
+      "location": "London Office",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Product Designer (UI/UX)",
       "company": "Bjak",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-designer-ui-ux-london-372515",
@@ -135,18 +135,20 @@
       "is_new": false
     },
     {
-      "title": "Learning Designer - 12 Month Contract",
-      "company": "name",
-      "url": "https://himalayas.app/companies/sprypoint/jobs/learning-designer-12-month-contract-473648050",
+      "title": "Mobile UI Designer",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/mobile-ui-designer-6120670531",
       "source": "Himalayas",
-      "location": "Canada",
+      "location": "Switzerland",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
+      "tags": [
+        "Branding"
+      ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -202,7 +204,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
