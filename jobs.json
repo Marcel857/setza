@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-18T23:45:11Z",
+  "updated": "2026-08-19T01:00:10Z",
   "threshold": 60,
-  "count": 23,
+  "count": 22,
   "jobs": [
-    {
-      "title": "Junior-Grafikdesigner (m/w/d)",
-      "company": "talenthafen GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/talenthafen-gmbh/junior-grafikdesigner-hamburg-389122",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
