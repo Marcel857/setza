@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-19T09:28:46Z",
+  "updated": "2026-08-19T09:59:20Z",
   "threshold": 60,
-  "count": 24,
+  "count": 28,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -41,6 +41,23 @@
       "is_new": false
     },
     {
+      "title": "Junior Brand Designer",
+      "company": "Peerspace",
+      "url": "https://jobicy.com/jobs/151069-junior-brand-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "UX Designer",
       "company": "PressW",
       "url": "https://weworkremotely.com/remote-jobs/pressw-ux-designer",
@@ -55,6 +72,38 @@
       "age_days": 14,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Spezialist Qualitätssicherung Europa / Verpackungsindustrie  (m/w/d)",
+      "company": "RISSMANN GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rissmann-gmbh/spezialist-qualitatssicherung-europa-verpackungsindustrie-nuremberg-384078",
+      "source": "Arbeitnow",
+      "location": "Nuremberg",
+      "remote": false,
+      "score": 79,
+      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Quality Assurance Specialist Europa / Packaging (m/w/d)",
+      "company": "RISSMANN GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rissmann-gmbh/quality-assurance-specialist-europa-packaging-nuremberg-146126",
+      "source": "Arbeitnow",
+      "location": "Nuremberg",
+      "remote": false,
+      "score": 79,
+      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Design System Designer",
@@ -133,6 +182,20 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer II",
+      "company": "Built Technologies",
+      "url": "https://jobicy.com/jobs/151073-product-designer-ii",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
