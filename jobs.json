@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-20T05:55:29Z",
+  "updated": "2026-08-20T06:39:13Z",
   "threshold": 60,
-  "count": 28,
+  "count": 27,
   "jobs": [
     {
       "title": "Junior Graphic Designer (all genders)",
@@ -90,22 +90,6 @@
         "Junior"
       ],
       "age_days": 15,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI/UX Designer (m/w/d)",
-      "company": "Ess Energy Sales Services Gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/ess-energy-sales-services-gmbh/ui-ux-designer-berlin-hybrid-126194",
-      "source": "Arbeitnow",
-      "location": "Berlin - Hybrid",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
