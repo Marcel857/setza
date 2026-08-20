@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-20T20:23:53Z",
+  "updated": "2026-08-20T20:55:27Z",
   "threshold": 60,
   "count": 28,
   "jobs": [
@@ -117,7 +117,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -312,7 +312,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
