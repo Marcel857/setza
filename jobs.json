@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-20T16:00:23Z",
+  "updated": "2026-08-20T16:59:57Z",
   "threshold": 60,
-  "count": 28,
+  "count": 29,
   "jobs": [
     {
       "title": "Technischer Produktdesigner | Bautechnischer Konstrukteur | Bauzeichner (m/w/d) - im Fertighausbau",
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Creative Designer",
@@ -175,6 +175,24 @@
       "source": "Arbeitnow",
       "location": "Augsburg",
       "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Creative Designer (DTC)",
+      "company": "name",
+      "url": "https://himalayas.app/companies/scalejet/jobs/creative-designer-dtc-6226314560",
+      "source": "Himalayas",
+      "location": "Spain",
+      "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
@@ -429,7 +447,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     }
