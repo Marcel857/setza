@@ -1,27 +1,24 @@
 {
   "app": "Setza",
-  "updated": "2026-08-20T15:28:50Z",
+  "updated": "2026-08-20T16:00:23Z",
   "threshold": 60,
-  "count": 27,
+  "count": 28,
   "jobs": [
     {
-      "title": "Mediengestalter*in / Grafikdesigner*in (m/w/d)",
-      "company": "BSKP Dr. Broll · Schmitt · Kaufmann & Partner",
-      "url": "https://www.arbeitnow.com/jobs/companies/bskp-dr-broll-schmitt-kaufmann-partner/mediengestalterin-grafikdesignerin-dresden-88306",
+      "title": "Technischer Produktdesigner | Bautechnischer Konstrukteur | Bauzeichner (m/w/d) - im Fertighausbau",
+      "company": "ScanHaus Marlow GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/scanhaus-marlow-gmbh/technischer-produktdesigner-bautechnischer-konstrukteur-bauzeichner-im-fertighausbau-marlow-437757",
       "source": "Arbeitnow",
-      "location": "Dresden",
+      "location": "Marlow",
       "remote": false,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie",
         "Junior"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Creative Designer",
@@ -170,6 +167,24 @@
       "age_days": 16,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Grafikdesigner / Webdesigner (m/w/d)",
+      "company": "Klassik Radio",
+      "url": "https://www.arbeitnow.com/jobs/companies/klassik-radio/grafikdesigner-webdesigner-augsburg-413244",
+      "source": "Arbeitnow",
+      "location": "Augsburg",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer II",
