@@ -1,29 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-20T07:37:08Z",
+  "updated": "2026-08-20T08:32:45Z",
   "threshold": 60,
   "count": 27,
   "jobs": [
-    {
-      "title": "Junior Graphic Designer (all genders)",
-      "company": "Sunday Natural",
-      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/junior-graphic-designer-all-genders-berlin-409225",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 95,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -171,6 +151,23 @@
       "age_days": 15,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Content Marketing Designer (m/w/d)",
+      "company": "raphael GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/raphael-gmbh/content-marketing-designer-dortmund-206134",
+      "source": "Arbeitnow",
+      "location": "Dortmund",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer II",
