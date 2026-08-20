@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-08-20T10:01:55Z",
+  "updated": "2026-08-20T10:56:06Z",
   "threshold": 60,
-  "count": 27,
+  "count": 28,
   "jobs": [
+    {
+      "title": "Werkstudierende oder Werkstudierender Grafik- oder Kommunikationsdesign für 20 Wochenstunden",
+      "company": "BRANDFORCE GMBH",
+      "url": "https://www.arbeitnow.com/jobs/companies/brandforce-gmbh/werkstudierende-oder-werkstudierender-grafik-oder-kommunikationsdesign-fur-20-wochenstunden-hamburg-84246",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
