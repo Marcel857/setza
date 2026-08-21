@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-21T02:42:23Z",
+  "updated": "2026-08-21T03:46:17Z",
   "threshold": 60,
   "count": 28,
   "jobs": [
@@ -90,6 +90,20 @@
       "is_new": false
     },
     {
+      "title": "UI Designer (m/w/d)",
+      "company": "Financialcom",
+      "url": "https://www.arbeitnow.com/jobs/companies/financialcom/ui-designer-muc-munchen-de-278979",
+      "source": "Arbeitnow",
+      "location": "MUC - München (DE)",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
       "url": "https://jobicy.com/jobs/151138-designer-brand-and-marketing-part-time",
@@ -165,24 +179,6 @@
         "Fotografie"
       ],
       "age_days": 16,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Grafikdesigner / Webdesigner (m/w/d)",
-      "company": "Klassik Radio",
-      "url": "https://www.arbeitnow.com/jobs/companies/klassik-radio/grafikdesigner-webdesigner-augsburg-413244",
-      "source": "Arbeitnow",
-      "location": "Augsburg",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
