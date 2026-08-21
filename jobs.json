@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-21T18:30:32Z",
+  "updated": "2026-08-21T19:22:23Z",
   "threshold": 60,
-  "count": 27,
+  "count": 26,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -74,23 +74,6 @@
       "is_new": false
     },
     {
-      "title": "Video Ad Designer",
-      "company": "Kodify Media Group",
-      "url": "https://himalayas.app/companies/kodify-media-group/jobs/video-ad-designer",
-      "source": "Himalayas",
-      "location": "",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
       "url": "https://jobicy.com/jobs/151138-designer-brand-and-marketing-part-time",
@@ -102,7 +85,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
