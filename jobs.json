@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-21T12:38:01Z",
+  "updated": "2026-08-21T13:41:01Z",
   "threshold": 60,
-  "count": 27,
+  "count": 28,
   "jobs": [
     {
       "title": "UX Designer:in (m/w/d)",
@@ -88,6 +88,20 @@
       "age_days": 16,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Konstrukteur / Technischer Systemplaner / Technischer Produktdesigner (m/w/d)",
+      "company": "GALLER Lager- und Regaltechnik GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/galler-lager-und-regaltechnik-gmbh/konstrukteur-technischer-systemplaner-technischer-produktdesigner-kulmbach-38354",
+      "source": "Arbeitnow",
+      "location": "Kulmbach",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -192,7 +206,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -250,7 +264,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
