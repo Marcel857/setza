@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-21T17:23:59Z",
+  "updated": "2026-08-21T17:54:57Z",
   "threshold": 60,
-  "count": 27,
+  "count": 26,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -70,20 +70,6 @@
         "Junior"
       ],
       "age_days": 16,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Konstrukteur / Technischer Systemplaner / Technischer Produktdesigner (m/w/d)",
-      "company": "GALLER Lager- und Regaltechnik GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/galler-lager-und-regaltechnik-gmbh/konstrukteur-technischer-systemplaner-technischer-produktdesigner-kulmbach-38354",
-      "source": "Arbeitnow",
-      "location": "Kulmbach",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
