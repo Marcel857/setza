@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-21T23:18:47Z",
+  "updated": "2026-08-21T23:47:23Z",
   "threshold": 60,
-  "count": 26,
+  "count": 27,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -151,6 +151,20 @@
       "age_days": 17,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UI/UX Designer",
+      "company": "Codekeeper",
+      "url": "https://himalayas.app/companies/codekeeper/jobs/ui-ux-designer-7019512799",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer II",
