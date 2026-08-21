@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-21T19:46:46Z",
+  "updated": "2026-08-21T20:20:23Z",
   "threshold": 60,
-  "count": 27,
+  "count": 26,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -19,7 +19,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -69,24 +69,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 16,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Video Ad Designer",
-      "company": "Kodify Media Group",
-      "url": "https://himalayas.app/companies/kodify-media-group/jobs/video-ad-designer",
-      "source": "Himalayas",
-      "location": "",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -132,7 +115,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -149,7 +132,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -309,7 +292,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -323,7 +306,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
