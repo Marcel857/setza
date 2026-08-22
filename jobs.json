@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-22T15:15:48Z",
+  "updated": "2026-08-22T15:44:30Z",
   "threshold": 60,
   "count": 28,
   "jobs": [
@@ -36,7 +36,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -162,7 +162,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -180,7 +180,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer II",
@@ -350,7 +350,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -364,7 +364,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -381,7 +381,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -395,7 +395,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -409,7 +409,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
