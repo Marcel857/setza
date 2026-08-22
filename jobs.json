@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-22T19:44:41Z",
+  "updated": "2026-08-22T20:17:23Z",
   "threshold": 60,
   "count": 26,
   "jobs": [
@@ -19,7 +19,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -69,7 +69,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -115,7 +115,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -132,7 +132,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -292,7 +292,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -306,7 +306,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
