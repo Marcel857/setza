@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-22T21:17:08Z",
+  "updated": "2026-08-22T21:44:23Z",
   "threshold": 60,
   "count": 27,
   "jobs": [
@@ -72,6 +72,25 @@
       "age_days": 18,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "STERRY",
+      "url": "https://himalayas.app/companies/sterry/jobs/graphic-designer-7164143114",
+      "source": "Himalayas",
+      "location": "Indonesia",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -149,22 +168,6 @@
         "Fotografie"
       ],
       "age_days": 18,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Sr. Digital Product Designer",
-      "company": "Purple",
-      "url": "https://himalayas.app/companies/purple-com/jobs/sr-digital-product-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
