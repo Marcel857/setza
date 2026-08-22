@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-22T19:21:51Z",
+  "updated": "2026-08-22T19:44:41Z",
   "threshold": 60,
-  "count": 27,
+  "count": 26,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -70,20 +70,6 @@
         "Junior"
       ],
       "age_days": 17,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer - Core UX",
-      "company": "Hudl",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hudl/product-designer-core-ux-london-254574",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
