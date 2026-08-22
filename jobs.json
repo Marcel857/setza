@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-22T23:16:10Z",
+  "updated": "2026-08-22T23:43:45Z",
   "threshold": 60,
-  "count": 27,
+  "count": 26,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -72,20 +72,6 @@
       "age_days": 18,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "UX Designer - AI",
-      "company": "NetImpact Strategies",
-      "url": "https://himalayas.app/companies/netimpact-strategies/jobs/ux-designer-ai",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
