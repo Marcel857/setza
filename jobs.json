@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-22T22:46:30Z",
+  "updated": "2026-08-22T23:16:10Z",
   "threshold": 60,
   "count": 27,
   "jobs": [
@@ -74,23 +74,18 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer",
-      "company": "STERRY",
-      "url": "https://himalayas.app/companies/sterry/jobs/graphic-designer-7164143114",
+      "title": "UX Designer - AI",
+      "company": "NetImpact Strategies",
+      "url": "https://himalayas.app/companies/netimpact-strategies/jobs/ux-designer-ai",
       "source": "Himalayas",
-      "location": "Indonesia",
+      "location": "United States",
       "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
