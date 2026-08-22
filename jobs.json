@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-22T16:18:27Z",
+  "updated": "2026-08-22T16:48:13Z",
   "threshold": 60,
-  "count": 27,
+  "count": 28,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -163,6 +163,22 @@
         "Fotografie"
       ],
       "age_days": 18,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Sr. Digital Product Designer",
+      "company": "Purple",
+      "url": "https://himalayas.app/companies/purple-com/jobs/sr-digital-product-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
