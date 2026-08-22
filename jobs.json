@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-22T05:32:32Z",
+  "updated": "2026-08-22T06:32:34Z",
   "threshold": 60,
   "count": 30,
   "jobs": [
@@ -138,7 +138,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
