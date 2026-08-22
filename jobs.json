@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-22T04:58:59Z",
+  "updated": "2026-08-22T05:32:32Z",
   "threshold": 60,
-  "count": 29,
+  "count": 30,
   "jobs": [
     {
       "title": "Junior Grafikdesigner/in – Vollzeit (m/w/d)",
@@ -123,6 +123,22 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX Designer I (GA, US, 31999)",
+      "company": "Aflac",
+      "url": "https://himalayas.app/companies/aflac/jobs/ux-designer-i-ga-us-31999",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
