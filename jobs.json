@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-08-23T17:16:10Z",
+  "updated": "2026-08-23T17:44:09Z",
   "threshold": 60,
-  "count": 27,
+  "count": 28,
   "jobs": [
+    {
+      "title": "Technical UI/UX Designer",
+      "company": "High Voltage Software",
+      "url": "https://himalayas.app/companies/high-voltage-software/jobs/technical-ui-ux-designer",
+      "source": "Himalayas",
+      "location": "Mexico",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
