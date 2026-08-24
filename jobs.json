@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-24T15:34:36Z",
+  "updated": "2026-08-24T16:31:54Z",
   "threshold": 60,
-  "count": 28,
+  "count": 27,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -70,20 +70,6 @@
         "Junior"
       ],
       "age_days": 19,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX Designer (Figma)",
-      "company": "Market Cloud",
-      "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/ux-designer-figma-eschborn-378017",
-      "source": "Arbeitnow",
-      "location": "Eschborn",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -409,7 +395,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
