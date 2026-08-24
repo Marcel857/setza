@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-24T05:34:06Z",
+  "updated": "2026-08-24T06:49:35Z",
   "threshold": 60,
-  "count": 28,
+  "count": 29,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -70,20 +70,6 @@
         "Junior"
       ],
       "age_days": 19,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Sr UX Designer",
-      "company": "HealthEquity",
-      "url": "https://himalayas.app/companies/healthequity/jobs/sr-ux-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -165,6 +151,22 @@
       "age_days": 19,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX / UI Designer",
+      "company": "TechBiz Global GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/ux-ui-designer-berlin-489286",
+      "source": "Arbeitnow",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer II",
@@ -412,6 +414,20 @@
       "age_days": 27,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "DTP Operator",
+      "company": "JobTrade",
+      "url": "https://remoteOK.com/remote-jobs/remote-dtp-operator-jobtrade-1137099",
+      "source": "RemoteOK",
+      "location": "Guwahati, ",
+      "remote": true,
+      "score": 64,
+      "reasons": "100% Remote, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer (UX), HCI",
