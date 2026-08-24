@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-24T12:40:41Z",
+  "updated": "2026-08-24T13:46:59Z",
   "threshold": 60,
-  "count": 28,
+  "count": 29,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -86,6 +86,23 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Amazon Graphic Designer",
+      "company": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/amazon-graphic-designer-3075238451",
+      "source": "Himalayas",
+      "location": "Serbia",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -190,7 +207,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -248,7 +265,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
