@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-24T10:33:13Z",
+  "updated": "2026-08-24T11:22:58Z",
   "threshold": 60,
-  "count": 30,
+  "count": 29,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -236,7 +236,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -441,20 +441,6 @@
       "tags": [],
       "age_days": 2,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (UX), HCI",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-designer-ux-hci-london-272222",
-      "source": "Arbeitnow",
-      "location": "United Kingdom",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 1,
-      "is_match": false,
       "is_new": false
     }
   ]
