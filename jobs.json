@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-24T22:21:07Z",
+  "updated": "2026-08-24T22:52:13Z",
   "threshold": 60,
-  "count": 30,
+  "count": 29,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -166,20 +166,6 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Design Specialist - Fully Remote | Upto $150/hr",
-      "company": "mercor",
-      "url": "https://himalayas.app/companies/mercor/jobs/product-design-specialist-fully-remote-upto-150-hr-2873166232",
-      "source": "Himalayas",
-      "location": "India",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": false
