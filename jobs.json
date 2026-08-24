@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-24T03:50:49Z",
+  "updated": "2026-08-24T04:39:37Z",
   "threshold": 60,
   "count": 28,
   "jobs": [
@@ -72,6 +72,20 @@
       "age_days": 19,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Sr UX Designer",
+      "company": "HealthEquity",
+      "url": "https://himalayas.app/companies/healthequity/jobs/sr-ux-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -153,22 +167,6 @@
       "is_new": false
     },
     {
-      "title": "Designer II",
-      "company": "Fieldstone A&E",
-      "url": "https://himalayas.app/companies/fieldstone-a-e/jobs/designer-ii",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Product Designer II",
       "company": "Built Technologies",
       "url": "https://jobicy.com/jobs/151073-product-designer-ii",
@@ -236,7 +234,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
