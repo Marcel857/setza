@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-24T16:31:54Z",
+  "updated": "2026-08-24T17:26:38Z",
   "threshold": 60,
-  "count": 27,
+  "count": 28,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -151,6 +151,24 @@
       "age_days": 20,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer - London",
+      "company": "Plaud",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/plaud/graphic-designer-london-10925",
+      "source": "Arbeitnow",
+      "location": "London, United Kingdom",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer II",
