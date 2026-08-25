@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-25T17:56:40Z",
+  "updated": "2026-08-25T18:38:14Z",
   "threshold": 60,
-  "count": 28,
+  "count": 27,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -74,20 +74,6 @@
       "is_new": false
     },
     {
-      "title": "AV DESIGNER (Remote, NC, US, Remote)",
-      "company": "Compass Group USA",
-      "url": "https://himalayas.app/companies/compass-group-usa/jobs/av-designer-remote-nc-us-remote",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
       "url": "https://jobicy.com/jobs/151138-designer-brand-and-marketing-part-time",
@@ -99,7 +85,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
