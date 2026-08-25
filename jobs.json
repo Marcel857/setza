@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-25T05:58:17Z",
+  "updated": "2026-08-25T06:54:57Z",
   "threshold": 60,
-  "count": 28,
+  "count": 29,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -53,7 +53,7 @@
         "Branding",
         "Junior"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -153,6 +153,20 @@
       "is_new": false
     },
     {
+      "title": "Product Designer",
+      "company": "AMBOSS",
+      "url": "https://www.arbeitnow.com/jobs/companies/amboss/product-designer-berlin-449917",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Product Designer II",
       "company": "Built Technologies",
       "url": "https://jobicy.com/jobs/151073-product-designer-ii",
@@ -162,7 +176,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
