@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-08-25T10:26:51Z",
+  "updated": "2026-08-25T10:59:22Z",
   "threshold": 60,
   "count": 29,
   "jobs": [
+    {
+      "title": "Mediengestalter Digital und Print (m/w/d)",
+      "company": "PTR - Profi Talent Recruitment UG (haftungsbeschränkt)",
+      "url": "https://www.arbeitnow.com/jobs/companies/ptr-profi-talent-recruitment-ug-haftungsbeschrankt/mediengestalter-digital-und-print-wendelstein-174789",
+      "source": "Arbeitnow",
+      "location": "Wendelstein",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -70,20 +87,6 @@
         "Junior"
       ],
       "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "AV DESIGNER (Remote, NC, US, Remote)",
-      "company": "Compass Group USA",
-      "url": "https://himalayas.app/companies/compass-group-usa/jobs/av-designer-remote-nc-us-remote",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -234,7 +237,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
