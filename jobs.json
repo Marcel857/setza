@@ -1,62 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-25T13:44:55Z",
+  "updated": "2026-08-25T14:40:28Z",
   "threshold": 60,
-  "count": 28,
+  "count": 11,
   "jobs": [
-    {
-      "title": "Mediengestalter Digital und Print (m/w/d)",
-      "company": "PTR - Profi Talent Recruitment UG (haftungsbeschränkt)",
-      "url": "https://www.arbeitnow.com/jobs/companies/ptr-profi-talent-recruitment-ug-haftungsbeschrankt/mediengestalter-digital-und-print-wendelstein-174789",
-      "source": "Arbeitnow",
-      "location": "Wendelstein",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Creative Designer",
-      "company": "Air Apps",
-      "url": "https://weworkremotely.com/remote-jobs/air-apps-creative-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Syntropy Sculptor - B2B SaaS Brand Design",
-      "company": "Kalungi Inc.",
-      "url": "https://weworkremotely.com/remote-jobs/kalungi-inc-syntropy-sculptor-b2b-saas-brand-design",
-      "source": "WeWorkRemotely",
-      "location": "Pichincha",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior Brand Designer",
       "company": "Peerspace",
@@ -75,22 +22,6 @@
       "is_new": false
     },
     {
-      "title": "UX Designer",
-      "company": "PressW",
-      "url": "https://weworkremotely.com/remote-jobs/pressw-ux-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
       "url": "https://jobicy.com/jobs/151138-designer-brand-and-marketing-part-time",
@@ -103,69 +34,6 @@
         "Branding"
       ],
       "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Design instructor - Project Based",
-      "company": "Ischool",
-      "url": "https://weworkremotely.com/remote-jobs/ischool-graphic-design-instructor-project-based",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Design System Designer",
-      "company": "Mayflower",
-      "url": "https://weworkremotely.com/remote-jobs/mayflower-design-system-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Design Executive",
-      "company": "Koin Limited",
-      "url": "https://weworkremotely.com/remote-jobs/koin-limited-graphic-design-executive",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Diseñador Gráfico con Motion Graphics | Remote | LATAM Only | 80010",
-      "company": "Remote Talent LATAM",
-      "url": "https://weworkremotely.com/remote-jobs/remote-talent-latam-disenador-grafico-con-motion-graphics-remote-latam-only-80010",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
@@ -209,7 +77,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -280,139 +148,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 30,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Thatch",
-      "url": "https://weworkremotely.com/remote-jobs/thatch-product-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 6,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer - UX/UI & Design Systems (Remote)",
-      "company": "Pavago",
-      "url": "https://weworkremotely.com/remote-jobs/pavago-product-designer-ux-ui-design-systems-remote",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Remote Landscape Designer with LandFX experience",
-      "company": "Uptalent.io",
-      "url": "https://weworkremotely.com/remote-jobs/uptalent-io-remote-landscape-designer-with-landfx-experience-1",
-      "source": "WeWorkRemotely",
-      "location": "Distrito Nacional",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Remote Interior Designer - Revit & Design-Focused",
-      "company": "Uptalent.io",
-      "url": "https://weworkremotely.com/remote-jobs/uptalent-io-remote-interior-designer-revit-design-focused-2",
-      "source": "WeWorkRemotely",
-      "location": "Distrito Nacional",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Remote Interior Designer - Revit & Design-Focused",
-      "company": "Uptalent.io",
-      "url": "https://weworkremotely.com/remote-jobs/uptalent-io-remote-interior-designer-revit-design-focused-1",
-      "source": "WeWorkRemotely",
-      "location": "New Providence",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer (SMM)",
-      "company": "Neo Group",
-      "url": "https://weworkremotely.com/remote-jobs/neo-group-graphic-designer-smm",
-      "source": "WeWorkRemotely",
-      "location": "Minsk Region",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer - UX/UI & Design Systems (Remote)",
-      "company": "WALTER",
-      "url": "https://weworkremotely.com/remote-jobs/walter-product-designer-ux-ui-design-systems-remote",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Remote Landscape Designer with LandFX experience",
-      "company": "Uptalent.io",
-      "url": "https://weworkremotely.com/remote-jobs/uptalent-io-remote-landscape-designer-with-landfx-experience",
-      "source": "WeWorkRemotely",
-      "location": "San José Province",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Web Designer",
-      "company": "REGEX SEO",
-      "url": "https://weworkremotely.com/remote-jobs/regex-seo-web-designer",
-      "source": "WeWorkRemotely",
-      "location": "Mexico City",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
