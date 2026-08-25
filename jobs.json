@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-25T06:54:57Z",
+  "updated": "2026-08-25T07:40:16Z",
   "threshold": 60,
-  "count": 29,
+  "count": 28,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -164,7 +164,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer II",
@@ -425,23 +425,6 @@
       "tags": [],
       "age_days": 2,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand Identity Designer",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/brand-identity-designer-london-323338",
-      "source": "Arbeitnow",
-      "location": "United Kingdom",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
