@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-25T04:34:18Z",
+  "updated": "2026-08-25T05:27:14Z",
   "threshold": 60,
-  "count": 30,
+  "count": 28,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -149,41 +149,6 @@
         "Fotografie"
       ],
       "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer - London",
-      "company": "Plaud",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/plaud/graphic-designer-london-10925",
-      "source": "Arbeitnow",
-      "location": "London, United Kingdom",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand Identity Designer",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/brand-identity-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
