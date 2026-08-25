@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-25T21:23:17Z",
+  "updated": "2026-08-25T21:52:15Z",
   "threshold": 60,
-  "count": 29,
+  "count": 31,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -88,6 +88,38 @@
       "age_days": 21,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Sr. Product Designer",
+      "company": "Omnicell",
+      "url": "https://himalayas.app/companies/omnicell/jobs/sr-product-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UX/UI Designer  (all genders)",
+      "company": "Stark",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/ux-ui-designer-all-genders-berlin-223375",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 80,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Gehalt angegeben",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
