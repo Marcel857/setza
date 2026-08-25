@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-25T19:27:23Z",
+  "updated": "2026-08-25T19:55:41Z",
   "threshold": 60,
   "count": 29,
   "jobs": [
@@ -54,7 +54,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Junior Brand Designer",
@@ -86,20 +86,6 @@
         "Junior"
       ],
       "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "AV DESIGNER (Remote, NC, US, Remote)",
-      "company": "Compass Group USA",
-      "url": "https://himalayas.app/companies/compass-group-usa/jobs/av-designer-remote-nc-us-remote",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -441,6 +427,20 @@
       "tags": [],
       "age_days": 3,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Dwelly",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dwelly/product-designer-160574",
+      "source": "Arbeitnow",
+      "location": "",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
