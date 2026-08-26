@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-26T11:36:48Z",
+  "updated": "2026-08-26T12:42:24Z",
   "threshold": 60,
   "count": 30,
   "jobs": [
@@ -120,6 +120,22 @@
       "age_days": 6,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Education Designer: UX, UI, and AI",
+      "company": "IxDF - Interaction Design Foundation",
+      "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Design instructor - Project Based",
@@ -281,20 +297,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 21,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Conversational Designer",
-      "company": "Cresta",
-      "url": "https://jobicy.com/jobs/143763-conversational-designer",
-      "source": "Jobicy",
-      "location": "UK",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
