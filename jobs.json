@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-26T08:07:04Z",
+  "updated": "2026-08-26T09:10:14Z",
   "threshold": 60,
-  "count": 32,
+  "count": 33,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -120,7 +120,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -214,6 +214,20 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Digital & Motion Designer",
+      "company": "Wpromote",
+      "url": "https://jobicy.com/jobs/151680-digital-motion-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer II",
