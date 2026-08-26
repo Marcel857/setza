@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-26T10:04:47Z",
+  "updated": "2026-08-26T11:00:12Z",
   "threshold": 60,
-  "count": 33,
+  "count": 31,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -86,23 +86,6 @@
         "Junior"
       ],
       "age_days": 21,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Industrial Designer",
-      "company": "Sereact GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/industrial-designer-stuttgart-16420",
-      "source": "Arbeitnow",
-      "location": "Stuttgart Schockenriedstr. 17",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -202,20 +185,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer (m/f/d)",
-      "company": "Sereact GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-designer-stuttgart-59275",
-      "source": "Arbeitnow",
-      "location": "Stuttgart Schockenriedstr. 17",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Digital & Motion Designer",
       "company": "Wpromote",
       "url": "https://jobicy.com/jobs/151680-digital-motion-designer",
@@ -283,7 +252,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
