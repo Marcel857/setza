@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-26T11:00:12Z",
+  "updated": "2026-08-26T11:36:48Z",
   "threshold": 60,
-  "count": 31,
+  "count": 30,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -290,20 +290,6 @@
       "url": "https://jobicy.com/jobs/143763-conversational-designer",
       "source": "Jobicy",
       "location": "UK",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 30,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI/UX Designer",
-      "company": "ManTech",
-      "url": "https://jobicy.com/jobs/143624-ui-ux-designer",
-      "source": "Jobicy",
-      "location": "USA",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
