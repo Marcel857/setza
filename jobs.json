@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-26T02:44:56Z",
+  "updated": "2026-08-26T03:49:55Z",
   "threshold": 60,
-  "count": 31,
+  "count": 32,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -90,20 +90,21 @@
       "is_new": false
     },
     {
-      "title": "Sr. Product Designer",
-      "company": "Omnicell",
-      "url": "https://himalayas.app/companies/omnicell/jobs/sr-product-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
+      "title": "Industrial Designer",
+      "company": "Sereact GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/industrial-designer-stuttgart-16420",
+      "source": "Arbeitnow",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "remote": false,
       "score": 82,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print"
+        "Packaging/Print",
+        "Branding"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "UX/UI Designer  (all genders)",
@@ -199,6 +200,20 @@
       "age_days": 21,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer (m/f/d)",
+      "company": "Sereact GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-designer-stuttgart-59275",
+      "source": "Arbeitnow",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer II",
