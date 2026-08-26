@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-26T07:24:20Z",
+  "updated": "2026-08-26T08:07:04Z",
   "threshold": 60,
   "count": 32,
   "jobs": [
@@ -107,20 +107,20 @@
       "is_new": false
     },
     {
-      "title": "UX/UI Designer  (all genders)",
-      "company": "Stark",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/ux-ui-designer-all-genders-berlin-223375",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 80,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Gehalt angegeben",
+      "title": "Instructional Designer",
+      "company": "Fresh Prints",
+      "url": "https://jobicy.com/jobs/151656-instructional-designer-2",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Junior"
+        "Packaging/Print"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
