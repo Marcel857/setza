@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-26T09:10:14Z",
+  "updated": "2026-08-26T10:04:47Z",
   "threshold": 60,
   "count": 33,
   "jobs": [
@@ -227,7 +227,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer II",
@@ -486,7 +486,7 @@
       "score": 64,
       "reasons": "100% Remote, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
