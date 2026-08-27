@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-27T00:24:29Z",
+  "updated": "2026-08-27T10:05:41Z",
   "threshold": 60,
-  "count": 30,
+  "count": 31,
   "jobs": [
-    {
-      "title": "Mediengestalter/-in Digital und Print - Vollzeit (m/w/d)",
-      "company": "Vertranium GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/vertranium-gmbh/mediengestalter-in-digital-und-print-vollzeit-stuttgart-449084",
-      "source": "Arbeitnow",
-      "location": "Stuttgart",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -87,7 +69,7 @@
         "Branding",
         "Junior"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -119,7 +101,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -232,7 +214,35 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "UI/UX Designer",
+      "company": "ManTech",
+      "url": "https://jobicy.com/jobs/143624-ui-ux-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Conversational Designer",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/143763-conversational-designer",
+      "source": "Jobicy",
+      "location": "UK",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
     },
     {
       "title": "Digital & Motion Designer",
@@ -244,7 +254,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -258,7 +268,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -316,7 +326,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -461,7 +471,7 @@
       "score": 64,
       "reasons": "100% Remote, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     }
