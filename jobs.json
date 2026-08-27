@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-26T20:30:27Z",
+  "updated": "2026-08-27T00:24:29Z",
   "threshold": 60,
   "count": 30,
   "jobs": [
@@ -124,22 +124,6 @@
       "is_new": false
     },
     {
-      "title": "UI/UX Designer (m/w/d)",
-      "company": "Ess Energy Sales Services Gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/ess-energy-sales-services-gmbh/ui-ux-designer-berlin-hybrid-9739",
-      "source": "Arbeitnow",
-      "location": "Berlin - Hybrid",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
       "url": "https://jobicy.com/jobs/151138-designer-brand-and-marketing-part-time",
@@ -183,7 +167,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -233,6 +217,22 @@
       "age_days": 22,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "KevinRoot Medical",
+      "url": "https://himalayas.app/companies/kevinroot-medical/jobs/graphic-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Digital & Motion Designer",
@@ -346,7 +346,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
