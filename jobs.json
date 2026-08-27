@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-27T10:05:41Z",
+  "updated": "2026-08-27T20:39:02Z",
   "threshold": 60,
-  "count": 31,
+  "count": 34,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -19,7 +19,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -36,9 +36,25 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "(Junior) Grafikdesign / Mediengestaltung Für Silberthal Kitchenware",
+      "company": "premano GmbH & Co. KG",
+      "url": "https://www.arbeitnow.com/jobs/companies/premano-gmbh-co-kg/junior-grafikdesign-mediengestaltung-fur-silberthal-kitchenware-stuttgart-29158",
+      "source": "Arbeitnow",
+      "location": "Stuttgart",
+      "remote": false,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Junior Graphic Designer (Contract)",
@@ -52,7 +68,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -85,9 +101,27 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Grafikdesigner*in für Print und Digital",
+      "company": "Schach zu Dritt | Gesellschaft für Kommunikation mbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/schach-zu-dritt-gesellschaft-fur-kommunikation-mbh/grafikdesignerin-fur-print-und-digital-berlin-425014",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Instructional Designer",
@@ -106,6 +140,22 @@
       "is_new": false
     },
     {
+      "title": "Education Designer UX UI and AI",
+      "company": "Interaction Design Foundation",
+      "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
+      "source": "RemoteOK",
+      "location": "Remote",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Social Media"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
       "url": "https://jobicy.com/jobs/151138-designer-brand-and-marketing-part-time",
@@ -117,7 +167,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -133,7 +183,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -149,7 +199,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -163,7 +213,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -180,7 +230,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -196,25 +246,23 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Graphic Designer",
-      "company": "KevinRoot Medical",
-      "url": "https://himalayas.app/companies/kevinroot-medical/jobs/graphic-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
+      "title": "Grafiker / Mediengestalter (M/W/D)  Berufseinstieg Bei Silberthal",
+      "company": "premano GmbH & Co. KG",
+      "url": "https://www.arbeitnow.com/jobs/companies/premano-gmbh-co-kg/grafiker-mediengestalter-berufseinstieg-bei-silberthal-stuttgart-59633",
+      "source": "Arbeitnow",
+      "location": "Stuttgart",
+      "remote": false,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "UI/UX Designer",
@@ -282,7 +330,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -298,7 +346,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -312,7 +360,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -340,7 +388,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -356,7 +404,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -370,7 +418,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -384,7 +432,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -398,7 +446,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -412,7 +460,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -429,7 +477,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -443,7 +491,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -457,7 +505,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
