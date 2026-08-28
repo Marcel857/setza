@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-28T05:04:12Z",
+  "updated": "2026-08-28T17:34:05Z",
   "threshold": 60,
   "count": 32,
   "jobs": [
@@ -36,7 +36,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -52,7 +52,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -69,7 +69,7 @@
         "Branding",
         "Junior"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -106,20 +106,6 @@
       "is_new": false
     },
     {
-      "title": "Grafikdesigner:in mit Schwerpunkt Shopify und E-Commerce (m/w/d)",
-      "company": "Abihome GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/abihome-gmbh/grafikdesignerin-mit-schwerpunkt-shopify-und-e-commerce-essen-309144",
-      "source": "Arbeitnow",
-      "location": "Essen",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Education Designer UX UI and AI",
       "company": "Interaction Design Foundation",
       "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
@@ -131,7 +117,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -163,7 +149,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -226,9 +212,25 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Sr. Product Designer - Data Management",
+      "company": "Addepar1",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/remote-sr-product-designer-data-management-20132",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UI/UX Designer",
@@ -282,21 +284,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Instructure",
-      "url": "https://jobicy.com/jobs/150915-graphic-designer",
-      "source": "Jobicy",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 10,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -312,7 +300,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -326,7 +314,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -354,9 +342,25 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "iGaming UI/UX Designer",
+      "company": "Ondeckglobal",
+      "url": "https://weworkremotely.com/remote-jobs/ondeckglobal-igaming-ui-ux-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer",
@@ -412,7 +416,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -426,7 +430,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -443,7 +447,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -457,7 +461,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -471,7 +475,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -485,7 +489,7 @@
       "score": 64,
       "reasons": "100% Remote, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     }
