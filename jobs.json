@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-29T13:59:57Z",
+  "updated": "2026-08-29T17:28:59Z",
   "threshold": 60,
   "count": 31,
   "jobs": [
@@ -36,7 +36,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -52,7 +52,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -212,7 +212,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -284,7 +284,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -400,7 +400,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -414,7 +414,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -431,7 +431,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -445,7 +445,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -459,7 +459,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
