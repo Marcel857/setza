@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-08-29T19:57:07Z",
+  "updated": "2026-08-29T22:27:01Z",
   "threshold": 60,
-  "count": 31,
+  "count": 32,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -19,7 +19,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -85,7 +85,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -165,7 +165,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -179,7 +179,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -196,7 +196,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -215,6 +215,20 @@
       "age_days": 25,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Sr. Project Designer",
+      "company": "Cushman & Wakefield",
+      "url": "https://himalayas.app/companies/cushman-wakefield/jobs/sr-project-designer-3657199498",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UI/UX Designer",
@@ -358,7 +372,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -372,7 +386,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -386,7 +400,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
