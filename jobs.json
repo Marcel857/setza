@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-08-29T08:03:39Z",
+  "updated": "2026-08-29T13:59:57Z",
   "threshold": 60,
-  "count": 33,
+  "count": 31,
   "jobs": [
-    {
-      "title": "Mediengestalter/Grafikdesigner (m/w/d)",
-      "company": "Bäcker Görtz GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/backer-gortz-gmbh/mediengestalter-grafikdesigner-ludwigshafen-21185",
-      "source": "Arbeitnow",
-      "location": "Ludwigshafen, Rheinland-Pfalz, Deutschland",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -135,7 +117,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -167,7 +149,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -231,22 +213,6 @@
         "Fotografie"
       ],
       "age_days": 24,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Sr. Product Designer - Data Management",
-      "company": "Addepar1",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/remote-sr-product-designer-data-management-20132",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Social Media"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -332,7 +298,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -360,7 +326,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -376,7 +342,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -507,7 +473,7 @@
       "score": 64,
       "reasons": "100% Remote, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     }
