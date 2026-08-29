@@ -1,9 +1,45 @@
 {
   "app": "Setza",
-  "updated": "2026-08-28T17:34:05Z",
+  "updated": "2026-08-29T01:24:55Z",
   "threshold": 60,
-  "count": 32,
+  "count": 34,
   "jobs": [
+    {
+      "title": "Mediengestalter/Grafikdesigner (m/w/d)",
+      "company": "Bäcker Görtz GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/backer-gortz-gmbh/mediengestalter-grafikdesigner-ludwigshafen-21185",
+      "source": "Arbeitnow",
+      "location": "Ludwigshafen, Rheinland-Pfalz, Deutschland",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Grafikdesigner (m/w/d) in Vollzeit",
+      "company": "Immo-Marketer",
+      "url": "https://www.arbeitnow.com/jobs/companies/immo-marketer/grafikdesigner-in-vollzeit-bochum-239365",
+      "source": "Arbeitnow",
+      "location": "Bochum",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -19,7 +55,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -85,7 +121,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -133,7 +169,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -165,7 +201,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -179,7 +215,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -196,7 +232,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -230,7 +266,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UI/UX Designer",
@@ -360,7 +396,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer",
@@ -374,7 +410,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -388,7 +424,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -402,7 +438,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
