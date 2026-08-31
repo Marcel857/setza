@@ -1,21 +1,20 @@
 {
   "app": "Setza",
-  "updated": "2026-08-31T14:47:40Z",
+  "updated": "2026-08-31T20:36:55Z",
   "threshold": 60,
-  "count": 33,
+  "count": 34,
   "jobs": [
     {
-      "title": "Mediengestalter/in Digital und Print mit Schwerpunkt Kundenberatung (mwd)",
-      "company": "Bugaga Werbeagentur e.K.",
-      "url": "https://www.arbeitnow.com/jobs/companies/bugaga-werbeagentur-ek/mediengestalter-in-digital-und-print-mit-schwerpunkt-kundenberatung-mwd-hamburg-284699",
+      "title": "Graphic Designer (m/f/x)",
+      "company": "nuggit GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/nuggit-gmbh/graphic-designer-berlin-582",
       "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": true,
+      "location": "Berlin",
+      "remote": false,
       "score": 87,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Packaging/Print",
-        "Fotografie"
+        "Packaging/Print"
       ],
       "age_days": 0,
       "is_match": true,
@@ -36,7 +35,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -53,7 +52,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -69,7 +68,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -102,7 +101,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -121,22 +120,6 @@
       "age_days": 5,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "UX/UI Designer  (all genders)",
-      "company": "Stark",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/ux-ui-designer-all-genders-berlin-286173",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 80,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Gehalt angegeben",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Education Designer UX UI and AI",
@@ -166,7 +149,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -198,7 +181,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -212,7 +195,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -229,7 +212,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -245,9 +228,53 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Kundenbetreuung & Grafikdesign (m/w/d)",
+      "company": "Abihome GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/abihome-gmbh/kundenbetreuung-grafikdesign-essen-110260",
+      "source": "Arbeitnow",
+      "location": "Essen",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Learning Media Designer (Remote - Argentina Only)",
+      "company": "Varicent",
+      "url": "https://jobicy.com/jobs/152188-learning-media-designer-remote-argentina-only",
+      "source": "Jobicy",
+      "location": "Argentina",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Instructional Multimedia Designer (Remote - Mexico Only)",
+      "company": "Varicent",
+      "url": "https://jobicy.com/jobs/152183-instructional-multimedia-designer-remote-mexico-only",
+      "source": "Jobicy",
+      "location": "Mexico",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UI/UX Designer",
@@ -350,20 +377,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer, Shop Everything",
-      "company": "Meta",
-      "url": "https://jobicy.com/jobs/150188-product-designer-shop-everything",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 27,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "iGaming UI/UX Designer",
       "company": "Ondeckglobal",
       "url": "https://weworkremotely.com/remote-jobs/ondeckglobal-igaming-ui-ux-designer",
@@ -391,7 +404,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -405,7 +418,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -419,7 +432,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -433,7 +446,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -447,7 +460,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -464,7 +477,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -478,7 +491,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -492,7 +505,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
