@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-08-31T06:36:31Z",
+  "updated": "2026-08-31T14:47:40Z",
   "threshold": 60,
-  "count": 31,
+  "count": 33,
   "jobs": [
+    {
+      "title": "Mediengestalter/in Digital und Print mit Schwerpunkt Kundenberatung (mwd)",
+      "company": "Bugaga Werbeagentur e.K.",
+      "url": "https://www.arbeitnow.com/jobs/companies/bugaga-werbeagentur-ek/mediengestalter-in-digital-und-print-mit-schwerpunkt-kundenberatung-mwd-hamburg-284699",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -69,7 +86,7 @@
         "Branding",
         "Junior"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -106,6 +123,22 @@
       "is_new": false
     },
     {
+      "title": "UX/UI Designer  (all genders)",
+      "company": "Stark",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/ux-ui-designer-all-genders-berlin-286173",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 80,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Gehalt angegeben",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Education Designer UX UI and AI",
       "company": "Interaction Design Foundation",
       "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
@@ -117,7 +150,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -149,7 +182,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -268,7 +301,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -284,7 +317,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
@@ -298,7 +331,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
@@ -326,7 +359,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -342,7 +375,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -473,7 +506,7 @@
       "score": 64,
       "reasons": "100% Remote, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     }
