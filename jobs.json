@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-08-31T20:36:55Z",
+  "updated": "2026-09-01T00:20:49Z",
   "threshold": 60,
   "count": 34,
   "jobs": [
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Creative Designer",
@@ -246,7 +246,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Learning Media Designer (Remote - Argentina Only)",
@@ -260,7 +260,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Instructional Multimedia Designer (Remote - Mexico Only)",
@@ -274,7 +274,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UI/UX Designer",
