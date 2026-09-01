@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-09-01T10:19:40Z",
+  "updated": "2026-09-01T15:02:22Z",
   "threshold": 60,
-  "count": 32,
+  "count": 33,
   "jobs": [
+    {
+      "title": "VOLONTÄR (M/W/D) Verlagsherstellung / Kommunikationsdesign",
+      "company": "Callwey GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/callwey-gmbh/volontar-verlagsherstellung-kommunikationsdesign-munich-169211",
+      "source": "Arbeitnow",
+      "location": "Munich",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -52,7 +70,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -117,7 +135,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -149,7 +167,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -217,6 +235,20 @@
       "is_new": false
     },
     {
+      "title": "Corporate Designer - Aesthetics Specialist",
+      "company": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/corporate-designer-aesthetics-specialist",
+      "source": "Himalayas",
+      "location": "Germany",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Learning Media Designer (Remote - Argentina Only)",
       "company": "Varicent",
       "url": "https://jobicy.com/jobs/152188-learning-media-designer-remote-argentina-only",
@@ -226,7 +258,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -240,7 +272,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -312,7 +344,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -326,7 +358,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -356,7 +388,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -474,20 +506,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 27,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "DTP Operator",
-      "company": "JobTrade",
-      "url": "https://remoteOK.com/remote-jobs/remote-dtp-operator-jobtrade-1137099",
-      "source": "RemoteOK",
-      "location": "Guwahati, ",
-      "remote": true,
-      "score": 64,
-      "reasons": "100% Remote, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 10,
       "is_match": true,
       "is_new": false
     }
