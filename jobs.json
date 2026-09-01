@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-01T05:26:08Z",
+  "updated": "2026-09-01T10:19:40Z",
   "threshold": 60,
-  "count": 34,
+  "count": 32,
   "jobs": [
-    {
-      "title": "Graphic Designer (m/f/x)",
-      "company": "nuggit GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/nuggit-gmbh/graphic-designer-berlin-582",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Creative Designer",
       "company": "Air Apps",
@@ -85,7 +69,7 @@
         "Branding",
         "Junior"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -233,22 +217,6 @@
       "is_new": false
     },
     {
-      "title": "Kundenbetreuung & Grafikdesign (m/w/d)",
-      "company": "Abihome GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/abihome-gmbh/kundenbetreuung-grafikdesign-essen-110260",
-      "source": "Arbeitnow",
-      "location": "Essen",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Learning Media Designer (Remote - Argentina Only)",
       "company": "Varicent",
       "url": "https://jobicy.com/jobs/152188-learning-media-designer-remote-argentina-only",
@@ -328,7 +296,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -519,7 +487,7 @@
       "score": 64,
       "reasons": "100% Remote, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     }
