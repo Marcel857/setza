@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-02T07:34:19Z",
+  "updated": "2026-09-02T12:29:32Z",
   "threshold": 60,
-  "count": 33,
+  "count": 32,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -165,7 +165,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -342,21 +342,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Instructional Designer, Nebius Academy",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/149045-instructional-designer-nebius-academy",
-      "source": "Jobicy",
-      "location": "Europe",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 23,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
