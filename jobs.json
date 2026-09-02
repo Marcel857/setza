@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-01T23:45:10Z",
+  "updated": "2026-09-02T02:38:52Z",
   "threshold": 60,
-  "count": 32,
+  "count": 33,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -119,7 +119,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer UX UI and AI",
@@ -491,6 +491,24 @@
       "tags": [],
       "age_days": 28,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Brand Designer",
+      "company": "Metaview",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/metaview/brand-designer-london-361435",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 52,
+      "reasons": "Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
