@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-02T19:36:54Z",
+  "updated": "2026-09-02T22:18:12Z",
   "threshold": 60,
   "count": 32,
   "jobs": [
@@ -19,7 +19,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -85,7 +85,7 @@
       "tags": [
         "Junior"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -117,7 +117,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -181,7 +181,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -195,7 +195,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -212,7 +212,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -374,7 +374,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -388,7 +388,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -402,7 +402,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
