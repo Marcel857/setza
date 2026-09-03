@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-03T09:24:57Z",
+  "updated": "2026-09-03T13:44:48Z",
   "threshold": 60,
-  "count": 29,
+  "count": 30,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -117,7 +117,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -149,7 +149,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -215,6 +215,22 @@
       "age_days": 29,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "AI Creative Designer (m/w/d)",
+      "company": "Advertical",
+      "url": "https://www.arbeitnow.com/jobs/companies/advertical/ai-creative-designer-cologne-190049",
+      "source": "Arbeitnow",
+      "location": "Cologne",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Learning Media Designer (Remote - Argentina Only)",
@@ -312,7 +328,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
@@ -328,7 +344,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
