@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-02T22:18:12Z",
+  "updated": "2026-09-03T00:28:18Z",
   "threshold": 60,
-  "count": 32,
+  "count": 31,
   "jobs": [
     {
       "title": "Creative Designer",
@@ -102,22 +102,6 @@
         "Packaging/Print"
       ],
       "age_days": 7,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Content Designer (Contract)",
-      "company": "Lovable",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/content-designer-contract-london-244148",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
