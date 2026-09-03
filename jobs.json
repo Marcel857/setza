@@ -1,28 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-03T20:04:04Z",
+  "updated": "2026-09-03T22:42:27Z",
   "threshold": 60,
-  "count": 22,
+  "count": 17,
   "jobs": [
-    {
-      "title": "Creative Designer",
-      "company": "Air Apps",
-      "url": "https://weworkremotely.com/remote-jobs/air-apps-creative-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Junior Graphic Designer (Contract)",
       "company": "Five9",
@@ -53,22 +34,6 @@
         "Junior"
       ],
       "age_days": 15,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX Designer",
-      "company": "PressW",
-      "url": "https://weworkremotely.com/remote-jobs/pressw-ux-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -148,40 +113,25 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Design System Designer",
-      "company": "Mayflower",
-      "url": "https://weworkremotely.com/remote-jobs/mayflower-design-system-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
+      "title": "Brand Designer",
+      "company": "Tailscale",
+      "url": "https://jobicy.com/jobs/152442-brand-designer",
+      "source": "Jobicy",
+      "location": "USA",
       "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Design Executive",
-      "company": "Koin Limited",
-      "url": "https://weworkremotely.com/remote-jobs/koin-limited-graphic-design-executive",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Branding",
-        "Fotografie"
+        "Branding"
       ],
-      "age_days": 29,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Learning Media Designer (Remote - Argentina Only)",
@@ -311,35 +261,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 15,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer - UX/UI & Design Systems (Remote)",
-      "company": "Pavago",
-      "url": "https://weworkremotely.com/remote-jobs/pavago-product-designer-ux-ui-design-systems-remote",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Remote Landscape Designer with LandFX experience",
-      "company": "Uptalent.io",
-      "url": "https://weworkremotely.com/remote-jobs/uptalent-io-remote-landscape-designer-with-landfx-experience-1",
-      "source": "WeWorkRemotely",
-      "location": "Distrito Nacional",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 29,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     }
