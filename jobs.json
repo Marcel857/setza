@@ -1,46 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-04T05:25:14Z",
+  "updated": "2026-09-04T09:50:19Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
-    {
-      "title": "Junior Grafikdesigner/in – Vollzeit (m/w/d)",
-      "company": "Cordes Consulting GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/junior-grafikdesigner-in-vollzeit-hamburg-179289",
-      "source": "Arbeitnow",
-      "location": "Hamburg, Hamburg, Deutschland",
-      "remote": false,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Grafikdesigner/in – Vollzeit (m/w/d)",
-      "company": "Cordes Consulting GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/grafikdesigner-in-vollzeit-hamburg-148296",
-      "source": "Arbeitnow",
-      "location": "Hamburg, Hamburg, Deutschland",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Junior Brand Designer",
       "company": "Peerspace",
@@ -54,7 +17,7 @@
         "Branding",
         "Junior"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
@@ -121,6 +84,23 @@
       "age_days": 15,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Design Specialist (Philippines, Remote)",
+      "company": "Raycon Inc.",
+      "url": "https://himalayas.app/companies/raycon-inc/jobs/graphic-design-specialist-philippines-remote",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Brand Designer",
@@ -204,7 +184,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
