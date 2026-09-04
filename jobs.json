@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-04T17:26:28Z",
+  "updated": "2026-09-04T19:46:53Z",
   "threshold": 60,
-  "count": 15,
+  "count": 16,
   "jobs": [
     {
       "title": "Junior Brand Designer",
@@ -49,7 +49,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
@@ -231,6 +231,22 @@
       ],
       "age_days": 16,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product & Brand Designer",
+      "company": "V7Labs.com",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/v7labscom/product-brand-designer-london-376325",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
