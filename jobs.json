@@ -1,24 +1,45 @@
 {
   "app": "Setza",
-  "updated": "2026-09-04T00:41:44Z",
+  "updated": "2026-09-04T05:25:14Z",
   "threshold": 60,
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
-      "title": "Junior Graphic Designer (Contract)",
-      "company": "Five9",
-      "url": "https://jobicy.com/jobs/151637-junior-graphic-designer-contract",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "title": "Junior Grafikdesigner/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/junior-grafikdesigner-in-vollzeit-hamburg-179289",
+      "source": "Arbeitnow",
+      "location": "Hamburg, Hamburg, Deutschland",
+      "remote": false,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie",
         "Junior"
       ],
-      "age_days": 9,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "Grafikdesigner/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/grafikdesigner-in-vollzeit-hamburg-148296",
+      "source": "Arbeitnow",
+      "location": "Hamburg, Hamburg, Deutschland",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Junior Brand Designer",
@@ -49,7 +70,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -155,7 +176,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -169,7 +190,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
