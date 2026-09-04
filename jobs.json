@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-04T09:50:19Z",
+  "updated": "2026-09-04T13:57:42Z",
   "threshold": 60,
-  "count": 16,
+  "count": 15,
   "jobs": [
     {
       "title": "Junior Brand Designer",
@@ -65,7 +65,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -84,23 +84,6 @@
       "age_days": 15,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Graphic Design Specialist (Philippines, Remote)",
-      "company": "Raycon Inc.",
-      "url": "https://himalayas.app/companies/raycon-inc/jobs/graphic-design-specialist-philippines-remote",
-      "source": "Himalayas",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Brand Designer",
@@ -128,7 +111,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -142,7 +125,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -214,7 +197,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
@@ -230,7 +213,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
