@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-05T00:14:58Z",
+  "updated": "2026-09-05T04:46:36Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
-    {
-      "title": "Junior Brand Designer",
-      "company": "Peerspace",
-      "url": "https://jobicy.com/jobs/151069-junior-brand-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Junior"
-      ],
-      "age_days": 16,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -33,9 +16,25 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX/UI Designer  (all genders)",
+      "company": "Stark",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/ux-ui-designer-all-genders-berlin-428818",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 80,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Gehalt angegeben",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -139,7 +138,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -243,22 +242,6 @@
       "score": 47,
       "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "Product & Brand Designer",
-      "company": "V7Labs.com",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/v7labscom/product-brand-designer-london-376325",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
       "age_days": 0,
       "is_match": false,
       "is_new": false
