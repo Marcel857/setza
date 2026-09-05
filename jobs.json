@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-04T22:03:33Z",
+  "updated": "2026-09-05T00:14:58Z",
   "threshold": 60,
   "count": 17,
   "jobs": [
-    {
-      "title": "Graphic Designer - Health Data Dissemination (Job 1367)",
-      "company": "DLH Corporation",
-      "url": "https://himalayas.app/companies/dlh-corporation/jobs/graphic-designer-health-data-dissemination-job-1367-91218178",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Junior Brand Designer",
       "company": "Peerspace",
@@ -248,6 +231,20 @@
       ],
       "age_days": 17,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Design",
+      "company": "Axle Careers",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/product-design-london-321345",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     },
     {
