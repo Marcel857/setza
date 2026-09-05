@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-05T04:46:36Z",
+  "updated": "2026-09-05T08:46:40Z",
   "threshold": 60,
   "count": 16,
   "jobs": [
@@ -32,6 +32,20 @@
       "tags": [
         "Junior"
       ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform",
+      "company": "Headsquare Gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/headsquare-gmbh/product-designer-ux-ui-digitale-gesundheitsplattform-munchen-383536",
+      "source": "Arbeitnow",
+      "location": "München",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -152,7 +166,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -166,7 +180,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -230,20 +244,6 @@
       ],
       "age_days": 17,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Design",
-      "company": "Axle Careers",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/product-design-london-321345",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
