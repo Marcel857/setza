@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-05T15:24:48Z",
+  "updated": "2026-09-05T17:26:42Z",
   "threshold": 60,
   "count": 17,
   "jobs": [
@@ -94,7 +94,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer, Shop Everything",
@@ -122,7 +122,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
