@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-05T17:26:42Z",
+  "updated": "2026-09-05T19:16:32Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -21,20 +21,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform",
-      "company": "Headsquare Gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/headsquare-gmbh/product-designer-ux-ui-digitale-gesundheitsplattform-munchen-383536",
-      "source": "Arbeitnow",
-      "location": "München",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
       "url": "https://jobicy.com/jobs/151138-designer-brand-and-marketing-part-time",
@@ -46,7 +32,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
