@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-05T08:46:40Z",
+  "updated": "2026-09-05T12:19:37Z",
   "threshold": 60,
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -48,7 +48,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -78,7 +78,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -95,6 +95,20 @@
         "Fotografie"
       ],
       "age_days": 16,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer, Shop Everything",
+      "company": "Meta",
+      "url": "https://jobicy.com/jobs/150188-product-designer-shop-everything",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -210,7 +224,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
