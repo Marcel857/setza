@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-06T01:10:54Z",
+  "updated": "2026-09-06T06:15:11Z",
   "threshold": 60,
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -16,7 +16,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -92,7 +92,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -150,7 +150,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -164,7 +164,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -242,6 +242,20 @@
       ],
       "age_days": 18,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Consultant.e Product Designer",
+      "company": "Thiga",
+      "url": "https://www.arbeitnow.fr/jobs/companies/thiga/consultante-product-designer-paris-484928",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
