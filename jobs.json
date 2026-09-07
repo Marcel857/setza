@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-07T18:03:57Z",
+  "updated": "2026-09-07T21:40:43Z",
   "threshold": 60,
-  "count": 23,
+  "count": 24,
   "jobs": [
     {
       "title": "Mediengestalter Digital und Print (m/w/d)",
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Instructional Designer",
@@ -50,6 +50,20 @@
       ],
       "age_days": 0,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Comand Ai",
+      "url": "https://www.arbeitnow.fr/jobs/companies/comand-ai/product-designer-paris-395351",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
       "is_new": true
     },
     {
@@ -64,7 +78,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
@@ -96,7 +110,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
@@ -112,7 +126,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Performance Designer (m/w/d)",
@@ -126,7 +140,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Ad Creative Designer (m/w/d)",
@@ -140,7 +154,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Growth Designer (m/w/d)",
@@ -154,7 +168,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Static Designer (m/w/d)",
@@ -168,7 +182,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Grafikdesigner Performance Marketing (m/w/d)",
@@ -182,7 +196,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Multimedia Designer / Learning Experience (Remote - Costa Rica Only)",
@@ -342,7 +356,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     }
