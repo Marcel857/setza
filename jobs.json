@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-07T06:23:23Z",
+  "updated": "2026-09-07T12:53:17Z",
   "threshold": 60,
   "count": 16,
   "jobs": [
@@ -19,6 +19,23 @@
       "age_days": 12,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Sr. Designer",
+      "company": "Adobe",
+      "url": "https://himalayas.app/companies/adobe/jobs/sr-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -48,7 +65,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -78,7 +95,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -178,7 +195,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
@@ -194,20 +211,6 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 22,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Maze",
-      "url": "https://jobicy.com/jobs/150739-product-designer",
-      "source": "Jobicy",
-      "location": "Europe",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
       "age_days": 22,
       "is_match": true,
       "is_new": false
