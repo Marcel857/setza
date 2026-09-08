@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-09-08T08:14:56Z",
+  "updated": "2026-09-08T12:58:13Z",
   "threshold": 60,
-  "count": 16,
+  "count": 20,
   "jobs": [
+    {
+      "title": "Grafikdesigner/- in Vollzeit (m/w/d)",
+      "company": "Lang Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/lang-consulting-gmbh/grafikdesigner-in-vollzeit-freiburg-im-breisgau-119655",
+      "source": "Arbeitnow",
+      "location": "Freiburg im Breisgau",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -19,6 +37,50 @@
       "age_days": 13,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer (Experimentation) (f/m/d)",
+      "company": "Good Hood Gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/good-hood-gmbh/product-designer-experimentation-berlin-47004",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer (m/f/d)",
+      "company": "raisin",
+      "url": "https://www.arbeitnow.com/jobs/companies/raisin/product-designer-berlin-berlin-327953",
+      "source": "Arbeitnow",
+      "location": "Berlin, Berlin",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer (Experimentation) (f/m/d)",
+      "company": "Good Hood GmbH / nebenan.de",
+      "url": "https://www.arbeitnow.com/jobs/companies/good-hood-gmbh-nebenande/product-designer-experimentation-berlin-467911",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer",
@@ -62,7 +124,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -92,7 +154,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
