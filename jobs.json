@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-08T03:07:45Z",
+  "updated": "2026-09-08T08:14:56Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -16,23 +16,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 12,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Grafik- & Web-Designer:in (m/w/d) in Teilzeit",
-      "company": "Enter by baupal GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/enter-by-baupal-gmbh/grafik-web-designerin-in-teilzeit-berlin-26913",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media"
-      ],
-      "age_days": 0,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -122,7 +106,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -180,7 +164,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -194,7 +178,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -208,7 +192,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
