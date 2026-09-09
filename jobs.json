@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-09-09T06:18:46Z",
+  "updated": "2026-09-09T11:40:16Z",
   "threshold": 60,
-  "count": 16,
+  "count": 17,
   "jobs": [
+    {
+      "title": "(Junior) Grafikdesigner E-Commerce (m/w/d)",
+      "company": "RM COMMERCE GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rm-commerce-gmbh/junior-grafikdesigner-e-commerce-dusseldorf-242856",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -21,18 +39,18 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "Comand Ai",
-      "url": "https://www.arbeitnow.fr/jobs/companies/comand-ai/product-designer-paris-395351",
+      "title": "Colour Material Experience Designer im Bereich Bus-Design (m/w/d)",
+      "company": "Actana Consulting Services GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/actana-consulting-services-gmbh/colour-material-experience-designer-im-bereich-bus-design-munich-131986",
       "source": "Arbeitnow",
-      "location": "Paris",
+      "location": "Munich",
       "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 1,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -92,7 +110,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -192,7 +210,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
