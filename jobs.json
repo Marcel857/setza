@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-09T19:01:51Z",
+  "updated": "2026-09-09T21:47:59Z",
   "threshold": 60,
   "count": 17,
   "jobs": [
@@ -37,19 +37,15 @@
       "is_new": false
     },
     {
-      "title": "Visual Designer (for Paid Advertising Campaigns) - LATAM",
-      "company": "Right Hook Digital",
-      "url": "https://himalayas.app/companies/right-hook-digital/jobs/visual-designer-for-paid-advertising-campaigns-latam",
-      "source": "Himalayas",
-      "location": "Brazil",
-      "remote": true,
+      "title": "Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform",
+      "company": "Headsquare Gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/headsquare-gmbh/product-designer-ux-ui-digitale-gesundheitsplattform-munchen-389562",
+      "source": "Arbeitnow",
+      "location": "München",
+      "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -98,9 +94,23 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Visual Designer, Web",
+      "company": "Vercel",
+      "url": "https://jobicy.com/jobs/152942-visual-designer-web",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Multimedia Designer / Learning Experience (Remote - Costa Rica Only)",
@@ -217,22 +227,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer – Content Solutions",
-      "company": "Fueled",
-      "url": "https://jobicy.com/jobs/150781-product-designer-content-solutions",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 25,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "iGaming UI/UX Designer",
       "company": "Ondeckglobal",
       "url": "https://weworkremotely.com/remote-jobs/ondeckglobal-igaming-ui-ux-designer",
@@ -260,7 +254,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     }
