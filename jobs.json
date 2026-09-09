@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-09-09T21:47:59Z",
+  "updated": "2026-09-09T23:47:32Z",
   "threshold": 60,
-  "count": 17,
+  "count": 18,
   "jobs": [
+    {
+      "title": "Instructional Designer",
+      "company": "KPA",
+      "url": "https://himalayas.app/companies/kpa/jobs/instructional-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -48,7 +64,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -110,7 +126,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Multimedia Designer / Learning Experience (Remote - Costa Rica Only)",
