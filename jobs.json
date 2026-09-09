@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-09T15:50:31Z",
+  "updated": "2026-09-09T19:01:51Z",
   "threshold": 60,
   "count": 17,
   "jobs": [
-    {
-      "title": "UX Designer für digitale Produkte (m/w/d)",
-      "company": "Mittwald CM Service GmbH & Co. KG",
-      "url": "https://www.arbeitnow.com/jobs/companies/mittwald-cm-service-gmbh-co-kg/ux-designer-fur-digitale-produkte-espelkamp-369131",
-      "source": "Arbeitnow",
-      "location": "Espelkamp",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -50,6 +34,24 @@
       ],
       "age_days": 0,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Visual Designer (for Paid Advertising Campaigns) - LATAM",
+      "company": "Right Hook Digital",
+      "url": "https://himalayas.app/companies/right-hook-digital/jobs/visual-designer-for-paid-advertising-campaigns-latam",
+      "source": "Himalayas",
+      "location": "Brazil",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
       "is_new": true
     },
     {
@@ -64,7 +66,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -140,7 +142,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
