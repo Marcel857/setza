@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-10T02:52:53Z",
+  "updated": "2026-09-10T07:49:29Z",
   "threshold": 60,
-  "count": 18,
+  "count": 17,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -16,7 +16,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -33,20 +33,6 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform",
-      "company": "Headsquare Gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/headsquare-gmbh/product-designer-ux-ui-digitale-gesundheitsplattform-munchen-389562",
-      "source": "Arbeitnow",
-      "location": "München",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": false
@@ -153,7 +139,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -211,7 +197,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -225,7 +211,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -239,7 +225,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
