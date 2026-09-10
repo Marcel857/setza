@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-09-10T21:44:42Z",
+  "updated": "2026-09-10T23:39:40Z",
   "threshold": 60,
   "count": 19,
   "jobs": [
+    {
+      "title": "Product Designer",
+      "company": "WorkWave",
+      "url": "https://himalayas.app/companies/workwave/jobs/product-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -37,36 +53,16 @@
       "is_new": false
     },
     {
-      "title": "Social Media Video Editor & Designer",
-      "company": "CapsLock",
-      "url": "https://himalayas.app/companies/capslock/jobs/social-media-video-editor-designer-5175029639",
+      "title": "Contact Center Solution Designer (m/f/n)",
+      "company": "InPost",
+      "url": "https://himalayas.app/companies/inpost/jobs/contact-center-solution-designer-m-f-n",
       "source": "Himalayas",
-      "location": "Belgium",
+      "location": "Poland",
       "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Social Media Video Editor & Designer",
-      "company": "CapsLock",
-      "url": "https://himalayas.app/companies/capslock/jobs/social-media-video-editor-designer-5782506204",
-      "source": "Himalayas",
-      "location": "Czechia",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
+        "Social Media"
       ],
       "age_days": 0,
       "is_match": true,
@@ -132,7 +128,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Visual Designer, Web",
