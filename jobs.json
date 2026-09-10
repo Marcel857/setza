@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-10T12:39:44Z",
+  "updated": "2026-09-10T16:52:02Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
-    {
-      "title": "Instructional Designer",
-      "company": "KPA",
-      "url": "https://himalayas.app/companies/kpa/jobs/instructional-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -48,7 +32,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -168,7 +152,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -182,7 +166,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -240,7 +224,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
