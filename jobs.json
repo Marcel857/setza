@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-10T19:26:24Z",
+  "updated": "2026-09-10T21:44:42Z",
   "threshold": 60,
-  "count": 16,
+  "count": 19,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -35,6 +35,42 @@
       "age_days": 15,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Social Media Video Editor & Designer",
+      "company": "CapsLock",
+      "url": "https://himalayas.app/companies/capslock/jobs/social-media-video-editor-designer-5175029639",
+      "source": "Himalayas",
+      "location": "Belgium",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Social Media Video Editor & Designer",
+      "company": "CapsLock",
+      "url": "https://himalayas.app/companies/capslock/jobs/social-media-video-editor-designer-5782506204",
+      "source": "Himalayas",
+      "location": "Czechia",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -80,9 +116,23 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer (m/w/d)",
+      "company": "Lpe Immobilien Management Gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-designer-munchen-81407",
+      "source": "Arbeitnow",
+      "location": "München",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Visual Designer, Web",
@@ -240,7 +290,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     }
