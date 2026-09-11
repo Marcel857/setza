@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-10T23:39:40Z",
+  "updated": "2026-09-11T02:47:00Z",
   "threshold": 60,
-  "count": 19,
+  "count": 18,
   "jobs": [
-    {
-      "title": "Product Designer",
-      "company": "WorkWave",
-      "url": "https://himalayas.app/companies/workwave/jobs/product-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -51,22 +35,6 @@
       "age_days": 15,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Contact Center Solution Designer (m/f/n)",
-      "company": "InPost",
-      "url": "https://himalayas.app/companies/inpost/jobs/contact-center-solution-designer-m-f-n",
-      "source": "Himalayas",
-      "location": "Poland",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -255,6 +223,22 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 22,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer – Content Solutions",
+      "company": "Fueled",
+      "url": "https://jobicy.com/jobs/150781-product-designer-content-solutions",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 26,
       "is_match": true,
       "is_new": false
     },
