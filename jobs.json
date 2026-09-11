@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-11T19:24:55Z",
+  "updated": "2026-09-11T21:50:25Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -33,24 +33,6 @@
         "Social Media"
       ],
       "age_days": 16,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Social Media Video Editor & Designer",
-      "company": "CapsLock",
-      "url": "https://himalayas.app/companies/capslock/jobs/social-media-video-editor-designer-7587099158",
-      "source": "Himalayas",
-      "location": "Bosnia and Herzegovina",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -98,9 +80,23 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX/UI Designer | Intch",
+      "company": "Hirehire",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-ux-ui-designer-intch-383599",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Visual Designer, Web",
@@ -244,23 +240,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 23,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Teamleiter Einkauf - Verpackung, Logistik, Technische Gase etc.",
-      "company": "4Chain Consulting",
-      "url": "https://www.arbeitnow.com/jobs/companies/4chain-consulting/teamleiter-einkauf-verpackung-logistik-technische-gase-etc-augsburg-423238",
-      "source": "Arbeitnow",
-      "location": "Augsburg, Germany",
-      "remote": false,
-      "score": 67,
-      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     }
