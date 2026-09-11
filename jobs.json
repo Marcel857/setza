@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-09-11T07:43:59Z",
+  "updated": "2026-09-11T12:32:56Z",
   "threshold": 60,
-  "count": 18,
+  "count": 27,
   "jobs": [
+    {
+      "title": "Visual Content Creator / Multimedia Designer (m/w/d) in Teilzeit",
+      "company": "HOLZRICHTER Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/holzrichter-berlin/visual-content-creator-multimedia-designer-in-teilzeit-berlin-196991",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -21,6 +40,118 @@
       "is_new": false
     },
     {
+      "title": "Marketing Designer - E-Mail & Content (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/marketing-designer-e-mail-content-dusseldorf-154498",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "E-Mail Designer mit Textkompetenz (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/e-mail-designer-mit-textkompetenz-dusseldorf-225177",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI / UX Designer TEAMBOX (m/w/d) - Hamburg",
+      "company": "everii Group GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/everii-group-gmbh/ui-ux-designer-teambox-hamburg-312888",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI / UX Designer untermStrich (m/w/d) - Hamburg",
+      "company": "everii Group GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/everii-group-gmbh/ui-ux-designer-untermstrich-hamburg-403191",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Newsletter Content Designer (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/newsletter-content-designer-dusseldorf-431936",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI/UX Designer als E-Mail Marketer (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/ui-ux-designer-als-e-mail-marketer-dusseldorf-273882",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Mediengestalter / E-Mail-Designer - Inklusive Copywriting (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/mediengestalter-e-mail-designer-inklusive-copywriting-dusseldorf-493385",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Copywriter für E-Mail-Kampagnen & Layouts (m/w/d)",
+      "company": "Rügamer & Steiner Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/copywriter-fur-e-mail-kampagnen-layouts-dusseldorf-157363",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Education Designer UX UI and AI",
       "company": "Interaction Design Foundation",
       "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
@@ -35,6 +166,24 @@
       "age_days": 15,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Social Media Video Editor & Designer",
+      "company": "CapsLock",
+      "url": "https://himalayas.app/companies/capslock/jobs/social-media-video-editor-designer-7587099158",
+      "source": "Himalayas",
+      "location": "Bosnia and Herzegovina",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -64,7 +213,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
@@ -81,20 +230,6 @@
         "Fotografie"
       ],
       "age_days": 22,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (m/w/d)",
-      "company": "Lpe Immobilien Management Gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-designer-munchen-81407",
-      "source": "Arbeitnow",
-      "location": "München",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -122,7 +257,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
