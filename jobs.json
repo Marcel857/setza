@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-12T20:06:51Z",
+  "updated": "2026-09-12T22:27:09Z",
   "threshold": 60,
-  "count": 23,
+  "count": 22,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -32,7 +32,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UI / UX Designer TEAMBOX (m/w/d) – Hamburg",
@@ -46,7 +46,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer (1-year FTC)",
@@ -154,7 +154,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -179,20 +179,6 @@
       "source": "Arbeitnow",
       "location": "Remote",
       "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Storyous Product Designer (UX/UI)",
-      "company": "Teya",
-      "url": "https://himalayas.app/companies/teya/jobs/storyous-product-designer-ux-ui",
-      "source": "Himalayas",
-      "location": "Czechia",
-      "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
@@ -342,7 +328,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     }
