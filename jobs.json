@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-12T07:41:02Z",
+  "updated": "2026-09-12T11:56:18Z",
   "threshold": 60,
   "count": 19,
   "jobs": [
@@ -80,7 +80,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -94,7 +94,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -126,7 +126,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Storyous Product Designer (UX/UI)",
@@ -140,7 +140,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Visual Designer, Web",
@@ -166,7 +166,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
