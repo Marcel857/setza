@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-12T17:46:35Z",
+  "updated": "2026-09-12T20:06:51Z",
   "threshold": 60,
-  "count": 20,
+  "count": 23,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -21,6 +21,34 @@
       "is_new": false
     },
     {
+      "title": "UI / UX Designer untermStrich (m/w/d) – Hamburg",
+      "company": "Everii Germany Gmbh 3",
+      "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-untermstrich-hamburg-226368",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI / UX Designer TEAMBOX (m/w/d) – Hamburg",
+      "company": "Everii Germany Gmbh 3",
+      "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-teambox-hamburg-16461",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Product Designer (1-year FTC)",
       "company": "Fe Fundinfo",
       "url": "https://www.arbeitnow.com/jobs/companies/fe-fundinfo/remote-product-designer-1-year-ftc-germany-253732",
@@ -34,7 +62,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Motion Graphic Designer",
@@ -80,7 +108,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
@@ -156,7 +184,21 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Storyous Product Designer (UX/UI)",
+      "company": "Teya",
+      "url": "https://himalayas.app/companies/teya/jobs/storyous-product-designer-ux-ui",
+      "source": "Himalayas",
+      "location": "Czechia",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
     },
     {
       "title": "Visual Designer, Web",
