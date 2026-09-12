@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-12T02:55:55Z",
+  "updated": "2026-09-12T07:41:02Z",
   "threshold": 60,
-  "count": 17,
+  "count": 19,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -16,7 +16,7 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -34,7 +34,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer UX UI and AI",
@@ -67,6 +67,20 @@
       "age_days": 23,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Content Designer II, Personalization",
+      "company": "Pinterest",
+      "url": "https://weworkremotely.com/remote-jobs/pinterest-content-designer-ii-personalization",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -103,16 +117,30 @@
     {
       "title": "UX/UI Designer | Intch",
       "company": "Hirehire",
-      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-ux-ui-designer-intch-383599",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-ux-ui-designer-intch-188753",
       "source": "Arbeitnow",
       "location": "Remote",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Storyous Product Designer (UX/UI)",
+      "company": "Teya",
+      "url": "https://himalayas.app/companies/teya/jobs/storyous-product-designer-ux-ui",
+      "source": "Himalayas",
+      "location": "Czechia",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Visual Designer, Web",
@@ -152,7 +180,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -210,7 +238,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -224,7 +252,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
     },
