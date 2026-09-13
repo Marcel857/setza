@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-13T20:13:55Z",
+  "updated": "2026-09-13T22:31:59Z",
   "threshold": 60,
   "count": 22,
   "jobs": [
@@ -51,9 +51,9 @@
       "is_new": false
     },
     {
-      "title": "Sr. Learning Experience Designer (Mountain/Central/West Coast) - ILT/VILT",
-      "company": "General Assembly",
-      "url": "https://himalayas.app/companies/general-assembly/jobs/sr-learning-experience-designer-mountain-central-west-coast-ilt-vilt",
+      "title": "REMOTE - Truss Designer",
+      "company": "UFP Industries",
+      "url": "https://himalayas.app/companies/ufp-industries/jobs/remote-truss-designer",
       "source": "Himalayas",
       "location": "United States",
       "remote": true,
@@ -62,7 +62,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -122,7 +122,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -282,7 +282,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
     },
