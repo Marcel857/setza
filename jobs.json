@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-13T10:27:10Z",
+  "updated": "2026-09-13T14:33:47Z",
   "threshold": 60,
   "count": 19,
   "jobs": [
@@ -46,26 +46,9 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Video Editor & Graphic Designer",
-      "company": "Winning Assistants",
-      "url": "https://himalayas.app/companies/winning-assistants/jobs/video-editor-graphic-designer",
-      "source": "Himalayas",
-      "location": "Philippines",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -109,7 +92,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -153,7 +136,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -197,7 +180,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -211,7 +194,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -255,7 +238,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
@@ -287,6 +270,23 @@
       "tags": [
         "Branding",
         "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Senior Manager, Internal Communications - Greenhouse",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/senior-manager-internal-communications-greenhouse/product-designer-102646",
+      "source": "Arbeitnow",
+      "location": "",
+      "remote": false,
+      "score": 60,
+      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Junior"
       ],
       "age_days": 0,
       "is_match": true,
