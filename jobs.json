@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-13T14:33:47Z",
+  "updated": "2026-09-13T17:53:23Z",
   "threshold": 60,
-  "count": 19,
+  "count": 21,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -113,6 +113,20 @@
       "is_new": false
     },
     {
+      "title": "Marketing Designer, Web",
+      "company": "PolicyMe",
+      "url": "https://jobicy.com/jobs/153166-marketing-designer-web",
+      "source": "Jobicy",
+      "location": "Canada",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Visual Designer, Web",
       "company": "Vercel",
       "url": "https://jobicy.com/jobs/152942-visual-designer-web",
@@ -122,7 +136,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -166,7 +180,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -277,20 +291,31 @@
     },
     {
       "title": "Product Designer",
-      "company": "Senior Manager, Internal Communications - Greenhouse",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/senior-manager-internal-communications-greenhouse/product-designer-102646",
+      "company": "Scarlet",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/product-designer-london-12265",
       "source": "Arbeitnow",
-      "location": "",
+      "location": "London Office",
       "remote": false,
-      "score": 60,
-      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Junior"
-      ],
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
       "age_days": 0,
-      "is_match": true,
-      "is_new": true
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Conduct",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/product-designer-london-297655",
+      "source": "Arbeitnow",
+      "location": "London, UK",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
     }
   ]
 }
