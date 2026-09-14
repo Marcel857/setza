@@ -1,43 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-14T17:34:11Z",
+  "updated": "2026-09-14T21:23:10Z",
   "threshold": 60,
-  "count": 19,
+  "count": 17,
   "jobs": [
-    {
-      "title": "Mediengestalter (m/w/d)",
-      "company": "p-s-design Petra Schmidt",
-      "url": "https://www.arbeitnow.com/jobs/companies/p-s-design-petra-schmidt/mediengestalter-kulmbach-119674",
-      "source": "Arbeitnow",
-      "location": "Kulmbach",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Amazon Listings Graphic Designer",
-      "company": "Texas Hotel Management",
-      "url": "https://himalayas.app/companies/texas-hotel-management/jobs/amazon-listings-graphic-designer",
-      "source": "Himalayas",
-      "location": "Philippines",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -51,20 +17,6 @@
         "Packaging/Print"
       ],
       "age_days": 19,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Anaplan",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/product-designer-manchester-332315",
-      "source": "Arbeitnow",
-      "location": "Manchester",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -126,7 +78,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
     },
@@ -286,8 +238,22 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer, Risk",
+      "company": "stripe",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/stripe/product-designer-risk-238964",
+      "source": "Arbeitnow",
+      "location": "",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
