@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-13T22:31:59Z",
+  "updated": "2026-09-14T00:39:39Z",
   "threshold": 60,
-  "count": 22,
+  "count": 21,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -17,20 +17,6 @@
         "Packaging/Print"
       ],
       "age_days": 18,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (w/m/d) eCommerce",
-      "company": "Holzland Becker",
-      "url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/product-designer-ecommerce-offenbach-am-main-361859",
-      "source": "Arbeitnow",
-      "location": "Offenbach am Main, Hessen, Deutschland",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -51,18 +37,21 @@
       "is_new": false
     },
     {
-      "title": "REMOTE - Truss Designer",
-      "company": "UFP Industries",
-      "url": "https://himalayas.app/companies/ufp-industries/jobs/remote-truss-designer",
+      "title": "Digital Design Coordinator (Philippines)",
+      "company": "Intrinsic Digital Brands",
+      "url": "https://himalayas.app/companies/intrinsic-digital-brands/jobs/digital-design-coordinator-philippines",
       "source": "Himalayas",
-      "location": "United States",
+      "location": "Philippines",
       "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
