@@ -1,9 +1,45 @@
 {
   "app": "Setza",
-  "updated": "2026-09-14T05:43:20Z",
+  "updated": "2026-09-14T11:39:40Z",
   "threshold": 60,
-  "count": 20,
+  "count": 23,
   "jobs": [
+    {
+      "title": "Grafikdesigner:in Digital & Print in Teilzeit 50-75% (m/w/d)",
+      "company": "gold&kind Art Direction",
+      "url": "https://www.arbeitnow.com/jobs/companies/goldkind-art-direction/grafikdesignerin-digital-print-in-teilzeit-50-75-lindau-324182",
+      "source": "Arbeitnow",
+      "location": "Lindau",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Grafikdesigner (m/w/d)",
+      "company": "bildbrauerei GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/bildbrauerei-gmbh/grafikdesigner-heidelberg-494702",
+      "source": "Arbeitnow",
+      "location": "Heidelberg",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -19,6 +55,34 @@
       "age_days": 19,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform",
+      "company": "Headsquare Gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/headsquare-gmbh/product-designer-ux-ui-digitale-gesundheitsplattform-munchen-160201",
+      "source": "Arbeitnow",
+      "location": "München",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer",
+      "company": "Anaplan",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/product-designer-manchester-332315",
+      "source": "Arbeitnow",
+      "location": "Manchester",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Education Designer UX UI and AI",
@@ -62,7 +126,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -97,6 +161,20 @@
       "age_days": 25,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Marketing Designer",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/153230-marketing-designer",
+      "source": "Jobicy",
+      "location": "Europe",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Marketing Designer, Web",
@@ -136,7 +214,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -213,20 +291,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer II",
-      "company": "Built Technologies",
-      "url": "https://jobicy.com/jobs/151073-product-designer-ii",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 25,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "iGaming UI/UX Designer",
       "company": "Ondeckglobal",
       "url": "https://weworkremotely.com/remote-jobs/ondeckglobal-igaming-ui-ux-designer",
@@ -255,23 +319,6 @@
         "Branding"
       ],
       "age_days": 26,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand Designer, AI + Ops",
-      "company": "Gladia",
-      "url": "https://www.arbeitnow.fr/jobs/companies/gladia/brand-designer-ai-ops-paris-409728",
-      "source": "Arbeitnow",
-      "location": "Paris",
-      "remote": false,
-      "score": 67,
-      "reasons": "100% Remote, Design-Fokus, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
