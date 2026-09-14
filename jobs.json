@@ -1,39 +1,37 @@
 {
   "app": "Setza",
-  "updated": "2026-09-14T11:39:40Z",
+  "updated": "2026-09-14T17:34:11Z",
   "threshold": 60,
-  "count": 23,
+  "count": 19,
   "jobs": [
     {
-      "title": "Grafikdesigner:in Digital & Print in Teilzeit 50-75% (m/w/d)",
-      "company": "gold&kind Art Direction",
-      "url": "https://www.arbeitnow.com/jobs/companies/goldkind-art-direction/grafikdesignerin-digital-print-in-teilzeit-50-75-lindau-324182",
+      "title": "Mediengestalter (m/w/d)",
+      "company": "p-s-design Petra Schmidt",
+      "url": "https://www.arbeitnow.com/jobs/companies/p-s-design-petra-schmidt/mediengestalter-kulmbach-119674",
       "source": "Arbeitnow",
-      "location": "Lindau",
+      "location": "Kulmbach",
       "remote": false,
       "score": 82,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
+        "Packaging/Print"
       ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
     },
     {
-      "title": "Grafikdesigner (m/w/d)",
-      "company": "bildbrauerei GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/bildbrauerei-gmbh/grafikdesigner-heidelberg-494702",
-      "source": "Arbeitnow",
-      "location": "Heidelberg",
-      "remote": false,
+      "title": "Amazon Listings Graphic Designer",
+      "company": "Texas Hotel Management",
+      "url": "https://himalayas.app/companies/texas-hotel-management/jobs/amazon-listings-graphic-designer",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
       "score": 82,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
         "Packaging/Print",
+        "Branding",
         "Fotografie"
       ],
       "age_days": 0,
@@ -57,20 +55,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform",
-      "company": "Headsquare Gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/headsquare-gmbh/product-designer-ux-ui-digitale-gesundheitsplattform-munchen-160201",
-      "source": "Arbeitnow",
-      "location": "München",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Product Designer",
       "company": "Anaplan",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/product-designer-manchester-332315",
@@ -82,7 +66,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer UX UI and AI",
@@ -96,23 +80,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 18,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Designer, Brand and Marketing (Part-Time)",
-      "company": "Worldly",
-      "url": "https://jobicy.com/jobs/151138-designer-brand-and-marketing-part-time",
-      "source": "Jobicy",
-      "location": "France,  Italy,  Portugal,  Sweden,  UK,  USA",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 25,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
@@ -142,7 +110,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
@@ -174,7 +142,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Marketing Designer, Web",
@@ -186,7 +154,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -200,7 +168,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -244,7 +212,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -258,7 +226,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -272,7 +240,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -302,7 +270,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -320,34 +288,6 @@
       ],
       "age_days": 26,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Scarlet",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/product-designer-london-12265",
-      "source": "Arbeitnow",
-      "location": "London Office",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Conduct",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/product-designer-london-297655",
-      "source": "Arbeitnow",
-      "location": "London, UK",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
