@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-14T23:55:59Z",
+  "updated": "2026-09-15T03:25:59Z",
   "threshold": 60,
-  "count": 18,
+  "count": 17,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -81,22 +81,6 @@
       "age_days": 26,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Website Designer",
-      "company": "Pavago",
-      "url": "https://himalayas.app/companies/pavago/jobs/website-designer-3321739934",
-      "source": "Himalayas",
-      "location": "Colombia",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Marketing Designer",
