@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-15T14:07:20Z",
+  "updated": "2026-09-15T18:21:03Z",
   "threshold": 60,
   "count": 19,
   "jobs": [
@@ -21,15 +21,17 @@
       "is_new": false
     },
     {
-      "title": "Product Designer - Germany (m/w/d)",
-      "company": "Pennylane",
-      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/remote-product-designer-germany-173291",
+      "title": "Product Designer",
+      "company": "Samacoaching",
+      "url": "https://www.arbeitnow.com/jobs/companies/samacoaching/remote-product-designer-germany-344392",
       "source": "Arbeitnow",
-      "location": "Germany (remote)",
-      "remote": false,
+      "location": "Germany",
+      "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
+      "tags": [
+        "Branding"
+      ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -97,12 +99,12 @@
       "is_new": false
     },
     {
-      "title": "Product Designer (m/w/d)",
-      "company": "Lpe Immobilien Management Gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-designer-munchen-286640",
-      "source": "Arbeitnow",
-      "location": "München",
-      "remote": false,
+      "title": "Digital Designer",
+      "company": "Who Gives A Crap",
+      "url": "https://jobicy.com/jobs/153327-digital-designer",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
@@ -164,7 +166,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -208,7 +210,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
