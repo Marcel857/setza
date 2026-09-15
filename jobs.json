@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-15T18:21:03Z",
+  "updated": "2026-09-15T21:35:34Z",
   "threshold": 60,
-  "count": 19,
+  "count": 20,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -32,6 +32,20 @@
       "tags": [
         "Branding"
       ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Game Designer (Gameplay Modes) - Paper.io 2",
+      "company": "Voodoo",
+      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-designer-gameplay-modes-paperio-2-paris-25744",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -94,7 +108,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -110,7 +124,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer – Content Solutions",
@@ -284,7 +298,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     }
