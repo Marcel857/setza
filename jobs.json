@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-15T23:56:00Z",
+  "updated": "2026-09-16T03:23:57Z",
   "threshold": 60,
   "count": 20,
   "jobs": [
@@ -21,11 +21,11 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "Samacoaching",
-      "url": "https://www.arbeitnow.com/jobs/companies/samacoaching/remote-product-designer-germany-344392",
+      "title": "Endear - Product Designer",
+      "company": "Eleve Talent",
+      "url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-designer-432321",
       "source": "Arbeitnow",
-      "location": "Germany",
+      "location": "Remote",
       "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
@@ -34,7 +34,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Game Designer (Gameplay Modes) - Paper.io 2",
