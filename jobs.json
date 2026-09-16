@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-09-16T08:45:25Z",
+  "updated": "2026-09-16T13:59:46Z",
   "threshold": 60,
-  "count": 20,
+  "count": 22,
   "jobs": [
+    {
+      "title": "Mediengestalter Digital & Print / Grafikdesigner / Webdesigner (m/w/d)",
+      "company": "CTK Gesellschaft für Computertechnologie mbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/ctk-gesellschaft-fur-computertechnologie-mbh/mediengestalter-digital-print-grafikdesigner-webdesigner-greding-178173",
+      "source": "Arbeitnow",
+      "location": "Greding",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -21,20 +39,35 @@
       "is_new": false
     },
     {
-      "title": "Endear - Product Designer",
-      "company": "Eleve Talent",
-      "url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-designer-432321",
+      "title": "Social Media Grafiker:in (m/w/d)",
+      "company": "likeyaa GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/likeyaa-gmbh/social-media-grafikerin-dortmund-73086",
       "source": "Arbeitnow",
-      "location": "Remote",
-      "remote": true,
+      "location": "Dortmund",
+      "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Branding"
+        "Social Media",
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "Product Designer",
+      "company": "Waracle",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waracle/product-designer-glasgow-443691",
+      "source": "Arbeitnow",
+      "location": "Glasgow, Scotland, United Kingdom",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Game Designer (Gameplay Modes) - Paper.io 2",
@@ -62,7 +95,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -92,7 +125,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -166,7 +199,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -194,7 +227,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -238,7 +271,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
@@ -252,7 +285,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
@@ -282,7 +315,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
