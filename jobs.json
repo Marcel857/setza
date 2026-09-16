@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-16T18:06:41Z",
+  "updated": "2026-09-16T21:30:44Z",
   "threshold": 60,
   "count": 21,
   "jobs": [
@@ -21,18 +21,20 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "Waracle",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waracle/product-designer-glasgow-443691",
+      "title": "Endear - Product Designer",
+      "company": "Eleve Talent",
+      "url": "https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-endear-product-designer-96787",
       "source": "Arbeitnow",
-      "location": "Glasgow, Scotland, United Kingdom",
+      "location": "Remote",
       "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
+      "tags": [
+        "Branding"
+      ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Game Designer (Gameplay Modes) - Paper.io 2",
@@ -44,7 +46,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -106,7 +108,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -122,7 +124,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Digital Designer",
@@ -310,7 +312,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     }
