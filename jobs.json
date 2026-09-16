@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-16T13:59:46Z",
+  "updated": "2026-09-16T18:06:41Z",
   "threshold": 60,
-  "count": 22,
+  "count": 21,
   "jobs": [
-    {
-      "title": "Mediengestalter Digital & Print / Grafikdesigner / Webdesigner (m/w/d)",
-      "company": "CTK Gesellschaft für Computertechnologie mbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/ctk-gesellschaft-fur-computertechnologie-mbh/mediengestalter-digital-print-grafikdesigner-webdesigner-greding-178173",
-      "source": "Arbeitnow",
-      "location": "Greding",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Instructional Designer",
       "company": "Fresh Prints",
@@ -39,23 +21,6 @@
       "is_new": false
     },
     {
-      "title": "Social Media Grafiker:in (m/w/d)",
-      "company": "likeyaa GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/likeyaa-gmbh/social-media-grafikerin-dortmund-73086",
-      "source": "Arbeitnow",
-      "location": "Dortmund",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Product Designer",
       "company": "Waracle",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/waracle/product-designer-glasgow-443691",
@@ -67,7 +32,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Game Designer (Gameplay Modes) - Paper.io 2",
@@ -146,6 +111,20 @@
       "is_new": false
     },
     {
+      "title": "Product Designer (Multiple levels)",
+      "company": "UpGuard",
+      "url": "https://jobicy.com/jobs/153430-product-designer-multiple-levels",
+      "source": "Jobicy",
+      "location": "Australia",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Digital Designer",
       "company": "Who Gives A Crap",
       "url": "https://jobicy.com/jobs/153327-digital-designer",
@@ -155,7 +134,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -213,7 +192,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -257,7 +236,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
