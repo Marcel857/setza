@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-17T10:13:55Z",
+  "updated": "2026-09-17T15:08:51Z",
   "threshold": 60,
-  "count": 20,
+  "count": 21,
   "jobs": [
     {
       "title": "UX/UI Designer M/W/X",
@@ -48,7 +48,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
@@ -78,7 +78,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
@@ -99,9 +99,9 @@
       "is_new": false
     },
     {
-      "title": "Product Designer, Roundtripping (London, United Kingdom)",
-      "company": "figma",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/figma/product-designer-roundtripping-london-united-kingdom-228027",
+      "title": "Product Designer, Global Public Sector",
+      "company": "scaleai",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/product-designer-global-public-sector-london-499993",
       "source": "Arbeitnow",
       "location": "London",
       "remote": false,
@@ -113,6 +113,20 @@
       "is_new": true
     },
     {
+      "title": "Product Designer, Roundtripping (London, United Kingdom)",
+      "company": "figma",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/figma/product-designer-roundtripping-london-united-kingdom-228027",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
       "title": "Product Designer (Multiple levels)",
       "company": "UpGuard",
       "url": "https://jobicy.com/jobs/153430-product-designer-multiple-levels",
@@ -122,7 +136,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -136,7 +150,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -180,7 +194,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -208,7 +222,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -252,7 +266,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -266,7 +280,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -282,7 +296,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
