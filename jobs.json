@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-16T21:30:44Z",
+  "updated": "2026-09-17T00:02:11Z",
   "threshold": 60,
-  "count": 21,
+  "count": 23,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -23,7 +23,7 @@
     {
       "title": "Endear - Product Designer",
       "company": "Eleve Talent",
-      "url": "https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-endear-product-designer-96787",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/eleve-talent/remote-endear-product-designer-103021",
       "source": "Arbeitnow",
       "location": "Remote",
       "remote": false,
@@ -35,6 +35,38 @@
       "age_days": 0,
       "is_match": true,
       "is_new": true
+    },
+    {
+      "title": "UX/UI Designer M/W/X",
+      "company": "Veepee",
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/ux-ui-designer-saint-denis-489634",
+      "source": "Arbeitnow",
+      "location": "Saint-Denis",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Endear - Product Designer",
+      "company": "Eleve Talent",
+      "url": "https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-endear-product-designer-96787",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
     },
     {
       "title": "Game Designer (Gameplay Modes) - Paper.io 2",
