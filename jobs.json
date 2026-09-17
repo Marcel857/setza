@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-17T00:02:11Z",
+  "updated": "2026-09-17T05:05:45Z",
   "threshold": 60,
-  "count": 23,
+  "count": 22,
   "jobs": [
     {
       "title": "Instructional Designer",
@@ -16,25 +16,9 @@
       "tags": [
         "Packaging/Print"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Endear - Product Designer",
-      "company": "Eleve Talent",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/eleve-talent/remote-endear-product-designer-103021",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "UX/UI Designer M/W/X",
@@ -50,7 +34,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Endear - Product Designer",
@@ -184,7 +168,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -312,7 +296,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
