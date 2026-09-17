@@ -1,9 +1,43 @@
 {
   "app": "Setza",
-  "updated": "2026-09-17T15:08:51Z",
+  "updated": "2026-09-17T19:09:10Z",
   "threshold": 60,
-  "count": 21,
+  "count": 22,
   "jobs": [
+    {
+      "title": "Graphic Designer (m/w/d)",
+      "company": "BrainersHub GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/brainershub-gmbh/graphic-designer-hamburg-138321",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Creative Designer (m/w/d)",
+      "company": "Neolymp",
+      "url": "https://www.arbeitnow.com/jobs/companies/neolymp/creative-designer-berlin-164745",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "UX/UI Designer M/W/X",
       "company": "Veepee",
@@ -110,20 +144,6 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Product Designer, Roundtripping (London, United Kingdom)",
-      "company": "figma",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/figma/product-designer-roundtripping-london-united-kingdom-228027",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
       "is_new": false
     },
     {
@@ -208,7 +228,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -252,7 +272,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
