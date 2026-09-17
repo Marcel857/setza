@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-17T19:09:10Z",
+  "updated": "2026-09-17T22:19:22Z",
   "threshold": 60,
   "count": 22,
   "jobs": [
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Creative Designer (m/w/d)",
@@ -36,7 +36,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UX/UI Designer M/W/X",
@@ -66,7 +66,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -128,7 +128,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -145,6 +145,20 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Game Designer - Castle Busters",
+      "company": "Voodoo",
+      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-designer-castle-busters-paris-311751",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer (Multiple levels)",
@@ -317,22 +331,6 @@
         "Branding"
       ],
       "age_days": 20,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Thatch",
-      "url": "https://weworkremotely.com/remote-jobs/thatch-product-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 29,
       "is_match": true,
       "is_new": false
     }
