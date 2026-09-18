@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-18T14:36:14Z",
+  "updated": "2026-09-18T18:02:03Z",
   "threshold": 60,
-  "count": 18,
+  "count": 17,
   "jobs": [
     {
       "title": "Education Designer UX UI and AI",
@@ -67,19 +67,15 @@
       "is_new": false
     },
     {
-      "title": "Motion Designer",
-      "company": "Paintgun",
-      "url": "https://www.arbeitnow.com/jobs/companies/paintgun/motion-designer-berlin-209101",
-      "source": "Arbeitnow",
-      "location": "Berlin",
+      "title": "Product Designer",
+      "company": "WorkWave",
+      "url": "https://jobicy.com/jobs/153554-product-designer-2",
+      "source": "Jobicy",
+      "location": "UK",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -166,7 +162,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -210,7 +206,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -256,23 +252,6 @@
       ],
       "age_days": 21,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Sr. Creative Designer (Performance Marketing) - Static & Motion",
-      "company": "Kraken",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/sr-creative-designer-performance-marketing-static-motion-london-266455",
-      "source": "Arbeitnow",
-      "location": "United Kingdom",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
