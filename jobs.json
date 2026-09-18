@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-17T22:19:22Z",
+  "updated": "2026-09-18T00:35:05Z",
   "threshold": 60,
-  "count": 22,
+  "count": 20,
   "jobs": [
     {
       "title": "Graphic Designer (m/w/d)",
@@ -35,38 +35,6 @@
         "Fotografie"
       ],
       "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX/UI Designer M/W/X",
-      "company": "Veepee",
-      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/ux-ui-designer-saint-denis-489634",
-      "source": "Arbeitnow",
-      "location": "Saint-Denis",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Endear - Product Designer",
-      "company": "Eleve Talent",
-      "url": "https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-endear-product-designer-96787",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -158,7 +126,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer (Multiple levels)",
