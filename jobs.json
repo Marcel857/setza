@@ -1,9 +1,64 @@
 {
   "app": "Setza",
-  "updated": "2026-09-18T18:02:03Z",
+  "updated": "2026-09-18T21:05:07Z",
   "threshold": 60,
-  "count": 17,
+  "count": 20,
   "jobs": [
+    {
+      "title": "Junior Grafikdesigner/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/junior-grafikdesigner-in-vollzeit-hamburg-427627",
+      "source": "Arbeitnow",
+      "location": "Hamburg, Hamburg, Deutschland",
+      "remote": false,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Grafikdesigner/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/grafikdesigner-in-vollzeit-hamburg-450770",
+      "source": "Arbeitnow",
+      "location": "Hamburg, Hamburg, Deutschland",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Grafikdesigner (m/w/d) in Vollzeit",
+      "company": "Immo-Marketer",
+      "url": "https://www.arbeitnow.com/jobs/companies/immo-marketer/grafikdesigner-in-vollzeit-bochum-445808",
+      "source": "Arbeitnow",
+      "location": "Bochum",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Education Designer UX UI and AI",
       "company": "Interaction Design Foundation",
@@ -51,20 +106,18 @@
       "is_new": false
     },
     {
-      "title": "Graphic Design instructor - Project Based",
-      "company": "Ischool",
-      "url": "https://weworkremotely.com/remote-jobs/ischool-graphic-design-instructor-project-based",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 29,
+      "title": "UI-Designer Schwerpunkt E-Commerce mit einer Prise UX (m/w/d)",
+      "company": "Webmatch GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/webmatch-gmbh/ui-designer-schwerpunkt-e-commerce-mit-einer-prise-ux-cologne-338411",
+      "source": "Arbeitnow",
+      "location": "Cologne",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Product Designer",
@@ -78,7 +131,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer (Multiple levels)",
