@@ -1,21 +1,39 @@
 {
   "app": "Setza",
-  "updated": "2026-09-18T23:27:10Z",
+  "updated": "2026-09-19T01:25:30Z",
   "threshold": 60,
-  "count": 15,
+  "count": 16,
   "jobs": [
     {
-      "title": "Brand Designer, Web",
-      "company": "Lovable",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/brand-designer-web-london-76887",
+      "title": "Retail Graphic Designer (all genders)",
+      "company": "Maniko Nails GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/maniko-nails-gmbh/remote-retail-graphic-designer-all-genders-berlin-426966",
       "source": "Arbeitnow",
-      "location": "London",
+      "location": "Homeoffice",
+      "remote": true,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform",
+      "company": "Headsquare Gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/headsquare-gmbh/product-designer-ux-ui-digitale-gesundheitsplattform-munchen-19347",
+      "source": "Arbeitnow",
+      "location": "München",
       "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -35,6 +53,22 @@
       "age_days": 23,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Sama",
+      "url": "https://himalayas.app/companies/sama-io/jobs/product-designer",
+      "source": "Himalayas",
+      "location": "Portugal",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Content Designer II, Personalization",
@@ -163,20 +197,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 9,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Multimedia Designer / Learning Experience (Remote - Costa Rica Only)",
-      "company": "Varicent",
-      "url": "https://jobicy.com/jobs/152584-multimedia-designer-learning-experience-remote-costa-rica-only",
-      "source": "Jobicy",
-      "location": "Costa Rica",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
