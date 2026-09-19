@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-19T06:15:22Z",
+  "updated": "2026-09-19T11:18:38Z",
   "threshold": 60,
-  "count": 16,
+  "count": 13,
   "jobs": [
     {
       "title": "Education Designer UX UI and AI",
@@ -30,7 +30,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -49,23 +49,6 @@
       "age_days": 23,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Cdi - Knitwear Designer - Menswear & Womenswear",
-      "company": "JACQUEMUS",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-knitwear-designer-menswear-womenswear-paris-37580",
-      "source": "Arbeitnow",
-      "location": "Paris",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Product Designer",
@@ -135,7 +118,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -211,38 +194,6 @@
       ],
       "age_days": 21,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "STAGE - ASSISTANT(E) VISUAL DESIGN CREATION (H/F) - NOVEMBRE 2026 (6 MOIS)",
-      "company": "JACQUEMUS",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/stage-assistante-visual-design-creation-h-f-novembre-2026-6-mois-paris-hq-ile-de-france-203749",
-      "source": "Arbeitnow",
-      "location": "Paris HQ, Île de France",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "Cdi - Designer Maroquinerie (H/F)",
-      "company": "JACQUEMUS",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-designer-maroquinerie-h-f-paris-40459",
-      "source": "Arbeitnow",
-      "location": "Paris",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
