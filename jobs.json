@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-20T13:57:20Z",
+  "updated": "2026-09-20T17:19:37Z",
   "threshold": 60,
-  "count": 15,
+  "count": 17,
   "jobs": [
     {
       "title": "Education Designer UX UI and AI",
@@ -104,7 +104,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -118,7 +118,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -224,6 +224,38 @@
       ],
       "age_days": 23,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "AI Designer— Motion & Génératif (H/F) - CDI - Paris",
+      "company": "Artefactlinkedin",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/ai-designer-motion-generatif-h-f-cdi-paris-9th-arrondissement-of-paris-75009-paris-45469",
+      "source": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "AI Designer— Motion & Génératif (H/F) - CDI - Paris",
+      "company": "Artefact",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/ai-designer-motion-generatif-h-f-cdi-paris-9th-arrondissement-of-paris-75009-paris-318978",
+      "source": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
