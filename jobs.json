@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-20T00:13:28Z",
+  "updated": "2026-09-20T05:09:30Z",
   "threshold": 60,
-  "count": 15,
+  "count": 18,
   "jobs": [
     {
       "title": "Education Designer UX UI and AI",
@@ -62,7 +62,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer",
@@ -118,7 +118,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -224,7 +224,57 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Multimedia designer at Retail Insights",
+      "company": "Retailinsights",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/multimedia-designer-at-retail-insights-london-136407",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "Graphic Designer at Retail Insights",
+      "company": "Retailinsights",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/graphic-designer-at-retail-insights-london-299581",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "AI Designer— Motion & Génératif (H/F) - CDI - Paris",
+      "company": "Artefactjobs",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/ai-designer-motion-generatif-h-f-cdi-paris-9th-arrondissement-of-paris-75009-paris-183726",
+      "source": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
     }
   ]
 }
