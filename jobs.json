@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-19T22:15:22Z",
+  "updated": "2026-09-20T00:13:28Z",
   "threshold": 60,
-  "count": 13,
+  "count": 15,
   "jobs": [
     {
       "title": "Education Designer UX UI and AI",
@@ -49,6 +49,20 @@
       "age_days": 24,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer (m/w/d)",
+      "company": "Lpe Immobilien Management Gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-designer-munchen-332772",
+      "source": "Arbeitnow",
+      "location": "München",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer",
@@ -195,6 +209,22 @@
       "age_days": 22,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Associate UX Designer",
+      "company": "dataiku",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/associate-ux-designer-paris-2141",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 60,
+      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
