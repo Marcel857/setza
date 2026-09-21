@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-21T00:22:51Z",
+  "updated": "2026-09-21T05:14:35Z",
   "threshold": 60,
-  "count": 18,
+  "count": 20,
   "jobs": [
     {
       "title": "Education Designer UX UI and AI",
@@ -21,22 +21,6 @@
       "is_new": false
     },
     {
-      "title": "Cybersecurity UI/UX & Brand Designer (100 % remote) (m/f/d)",
-      "company": "EWOR GmbH",
-      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/cybersecurity-ui-ux-brand-designer-100-remote-m-f-d",
-      "source": "Himalayas",
-      "location": "",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
       "url": "https://jobicy.com/jobs/151138-designer-brand-and-marketing-part-time",
@@ -48,7 +32,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -83,6 +67,50 @@
       "is_new": false
     },
     {
+      "title": "Mobile UI Designer",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/mobile-ui-designer-germany-48282",
+      "source": "Arbeitnow",
+      "location": "Germany",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer (UI/UX)",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-designer-ui-ux-germany-167362",
+      "source": "Arbeitnow",
+      "location": "Germany",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI Designer - AI Neobank App",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/ui-designer-ai-neobank-app-germany-459648",
+      "source": "Arbeitnow",
+      "location": "Germany",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Product Designer II",
       "company": "Built Technologies",
       "url": "https://jobicy.com/jobs/151073-product-designer-ii",
@@ -92,7 +120,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -150,7 +178,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
