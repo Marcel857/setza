@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-20T22:08:57Z",
+  "updated": "2026-09-21T00:22:51Z",
   "threshold": 60,
-  "count": 17,
+  "count": 18,
   "jobs": [
     {
       "title": "Education Designer UX UI and AI",
@@ -19,6 +19,22 @@
       "age_days": 25,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Cybersecurity UI/UX & Brand Designer (100 % remote) (m/f/d)",
+      "company": "EWOR GmbH",
+      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/cybersecurity-ui-ux-brand-designer-100-remote-m-f-d",
+      "source": "Himalayas",
+      "location": "",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
