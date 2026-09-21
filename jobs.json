@@ -1,26 +1,53 @@
 {
   "app": "Setza",
-  "updated": "2026-09-21T20:45:37Z",
+  "updated": "2026-09-21T23:47:20Z",
   "threshold": 60,
-  "count": 18,
+  "count": 20,
   "jobs": [
     {
-      "title": "Produktdesigner / Industriedesigner (m/d/w) - Home & Living",
-      "company": "Sayano Deutschland GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/sayano-deutschland-gmbh/produktdesigner-industriedesigner-home-living-stuttgart-83995",
+      "title": "Photonics Circuit Designer (f/m/d)",
+      "company": "Black Semiconductor GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/photonics-circuit-designer-aachen-352053",
       "source": "Arbeitnow",
-      "location": "Stuttgart",
+      "location": "Aachen, Germany",
       "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
         "Packaging/Print",
-        "Branding",
         "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "UI / UX Designer untermStrich (m/w/d) – Hamburg",
+      "company": "Everii Germany Gmbh 3",
+      "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-untermstrich-hamburg-209970",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI / UX Designer TEAMBOX (m/w/d) – Hamburg",
+      "company": "Everii Germany Gmbh 3",
+      "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-teambox-hamburg-373651",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Education Designer UX UI and AI",
@@ -85,6 +112,23 @@
       "is_new": false
     },
     {
+      "title": "Advanced Packaging Electrical / Signal Integrity Architect (f/m/d)",
+      "company": "Black Semiconductor GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/advanced-packaging-electrical-signal-integrity-architect-aachen-88687",
+      "source": "Arbeitnow",
+      "location": "Aachen, Germany",
+      "remote": false,
+      "score": 74,
+      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Creative (Graphic Designer)",
       "company": "Superside",
       "url": "https://jobicy.com/jobs/153808-creative-graphic-designer",
@@ -98,7 +142,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer II",
@@ -257,22 +301,6 @@
       "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
       "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "AI Designer— Motion & Génératif (H/F) - CDI - Paris",
-      "company": "Artefactlinkedin",
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/ai-designer-motion-generatif-h-f-cdi-paris-9th-arrondissement-of-paris-75009-paris-45469",
-      "source": "Arbeitnow",
-      "location": "9th arrondissement of Paris, 75009, Paris",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 1,
       "is_match": false,
       "is_new": false
     }
