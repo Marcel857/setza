@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-21T23:47:20Z",
+  "updated": "2026-09-22T03:05:42Z",
   "threshold": 60,
-  "count": 20,
+  "count": 19,
   "jobs": [
     {
       "title": "Photonics Circuit Designer (f/m/d)",
@@ -19,32 +19,21 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "UI / UX Designer untermStrich (m/w/d) – Hamburg",
-      "company": "Everii Germany Gmbh 3",
-      "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-untermstrich-hamburg-209970",
+      "title": "Brand Visual Designer",
+      "company": "Sierra",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sierra/brand-visual-designer-london-202931",
       "source": "Arbeitnow",
-      "location": "Hamburg",
+      "location": "London",
       "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "UI / UX Designer TEAMBOX (m/w/d) – Hamburg",
-      "company": "Everii Germany Gmbh 3",
-      "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-teambox-hamburg-373651",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -126,7 +115,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Creative (Graphic Designer)",
