@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-22T20:49:20Z",
+  "updated": "2026-09-22T23:27:05Z",
   "threshold": 60,
-  "count": 16,
+  "count": 15,
   "jobs": [
     {
       "title": "Education Designer UX UI and AI",
@@ -226,20 +226,6 @@
       ],
       "age_days": 25,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Fyxer",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/product-designer-london-298960",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
