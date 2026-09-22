@@ -1,28 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-22T08:42:50Z",
+  "updated": "2026-09-22T13:51:45Z",
   "threshold": 60,
-  "count": 20,
+  "count": 19,
   "jobs": [
-    {
-      "title": "Grafikdesigner E-Commerce mit AI-Erfahrung Minijob Basis (m/w/d)",
-      "company": "Thiru GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/thiru-gmbh/grafikdesigner-e-commerce-mit-ai-erfahrung-minijob-basis-olpe-207092",
-      "source": "Arbeitnow",
-      "location": "Olpe",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Education Designer UX UI and AI",
       "company": "Interaction Design Foundation",
@@ -35,7 +16,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -81,31 +62,17 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Product Designer (AI x Greentech) (m/f/d)",
-      "company": "Reonic",
-      "url": "https://www.arbeitnow.com/jobs/companies/reonic/product-designer-ai-x-greentech-berlin-284899",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Mobile UI Designer",
       "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/mobile-ui-designer-638803637",
-      "source": "Himalayas",
-      "location": "Singapore",
-      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/mobile-ui-designer-london-52335",
+      "source": "Arbeitnow",
+      "location": "United Kingdom",
+      "remote": false,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
@@ -155,7 +122,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -213,7 +180,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -273,7 +240,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -292,18 +259,29 @@
       "is_new": false
     },
     {
-      "title": "UX Designer at United Media",
-      "company": "Unitedmedia",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ux-designer-at-united-media-london-142470",
+      "title": "UX Designer, AI App",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/ux-designer-ai-app-london-110621",
       "source": "Arbeitnow",
-      "location": "London",
+      "location": "United Kingdom",
       "remote": false,
       "score": 42,
       "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "UX Designer",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/ux-designer-london-108075",
+      "source": "Arbeitnow",
+      "location": "United Kingdom",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
       "age_days": 0,
       "is_match": false,
       "is_new": false
