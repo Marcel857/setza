@@ -1,37 +1,22 @@
 {
   "app": "Setza",
-  "updated": "2026-09-22T03:05:42Z",
+  "updated": "2026-09-22T08:42:50Z",
   "threshold": 60,
-  "count": 19,
+  "count": 20,
   "jobs": [
     {
-      "title": "Photonics Circuit Designer (f/m/d)",
-      "company": "Black Semiconductor GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/photonics-circuit-designer-aachen-352053",
+      "title": "Grafikdesigner E-Commerce mit AI-Erfahrung Minijob Basis (m/w/d)",
+      "company": "Thiru GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/thiru-gmbh/grafikdesigner-e-commerce-mit-ai-erfahrung-minijob-basis-olpe-207092",
       "source": "Arbeitnow",
-      "location": "Aachen, Germany",
-      "remote": false,
+      "location": "Olpe",
+      "remote": true,
       "score": 82,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
         "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand Visual Designer",
-      "company": "Sierra",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sierra/brand-visual-designer-london-202931",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
         "Branding",
+        "Social Media",
         "Fotografie"
       ],
       "age_days": 0,
@@ -66,7 +51,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -80,7 +65,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -101,21 +86,34 @@
       "is_new": false
     },
     {
-      "title": "Advanced Packaging Electrical / Signal Integrity Architect (f/m/d)",
-      "company": "Black Semiconductor GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/advanced-packaging-electrical-signal-integrity-architect-aachen-88687",
+      "title": "Product Designer (AI x Greentech) (m/f/d)",
+      "company": "Reonic",
+      "url": "https://www.arbeitnow.com/jobs/companies/reonic/product-designer-ai-x-greentech-berlin-284899",
       "source": "Arbeitnow",
-      "location": "Aachen, Germany",
+      "location": "Berlin",
       "remote": false,
-      "score": 74,
-      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend",
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Mobile UI Designer",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/mobile-ui-designer-638803637",
+      "source": "Himalayas",
+      "location": "Singapore",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print",
-        "Fotografie"
+        "Branding"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Creative (Graphic Designer)",
@@ -143,7 +141,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -187,7 +185,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -201,7 +199,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -243,7 +241,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -289,6 +287,23 @@
       "score": 47,
       "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "UX Designer at United Media",
+      "company": "Unitedmedia",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ux-designer-at-united-media-london-142470",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
       "age_days": 0,
       "is_match": false,
       "is_new": false
