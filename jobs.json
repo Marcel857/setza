@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-23T17:40:33Z",
+  "updated": "2026-09-23T21:00:46Z",
   "threshold": 60,
-  "count": 17,
+  "count": 16,
   "jobs": [
     {
       "title": "Education Designer UX UI and AI",
@@ -63,20 +63,6 @@
         "Social Media"
       ],
       "age_days": 28,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (UX), HCI",
-      "company": "Bjak",
-      "url": "https://himalayas.app/companies/bjak/jobs/product-designer-ux-hci-3878794993",
-      "source": "Himalayas",
-      "location": "Sweden",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
