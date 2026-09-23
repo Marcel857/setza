@@ -1,55 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-23T12:52:27Z",
+  "updated": "2026-09-23T17:40:33Z",
   "threshold": 60,
-  "count": 19,
+  "count": 17,
   "jobs": [
-    {
-      "title": "Mediengestalter (m/w/d)",
-      "company": "ORANGE Immobilienagentur",
-      "url": "https://www.arbeitnow.com/jobs/companies/orange-immobilienagentur/mediengestalter-regensburg-84997",
-      "source": "Arbeitnow",
-      "location": "Regensburg",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform",
-      "company": "Headsquare Gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/headsquare-gmbh/product-designer-ux-ui-digitale-gesundheitsplattform-munchen-116805",
-      "source": "Arbeitnow",
-      "location": "München",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Product Designer (m/f/x)",
-      "company": "UP42 GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/up42-gmbh/product-designer-berlin-107244",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Education Designer UX UI and AI",
       "company": "Interaction Design Foundation",
@@ -124,7 +78,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Creative (Graphic Designer)",
@@ -138,7 +92,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -180,7 +134,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -238,7 +192,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -268,7 +222,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
@@ -284,8 +238,22 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer - Mobile",
+      "company": "Kpler",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/product-designer-mobile-united-kingdom-18664",
+      "source": "Arbeitnow",
+      "location": "United Kingdom",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
