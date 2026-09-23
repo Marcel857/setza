@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-23T01:39:47Z",
+  "updated": "2026-09-23T07:15:52Z",
   "threshold": 60,
-  "count": 15,
+  "count": 16,
   "jobs": [
     {
       "title": "Education Designer UX UI and AI",
@@ -32,7 +32,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -67,6 +67,20 @@
       "is_new": false
     },
     {
+      "title": "Figma Designer - UX Specialist",
+      "company": "mercor",
+      "url": "https://himalayas.app/companies/mercor/jobs/figma-designer-ux-specialist-5547137072",
+      "source": "Himalayas",
+      "location": "Australia",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Creative (Graphic Designer)",
       "company": "Superside",
       "url": "https://jobicy.com/jobs/153808-creative-graphic-designer",
@@ -92,7 +106,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -136,7 +150,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -150,7 +164,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -192,7 +206,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
