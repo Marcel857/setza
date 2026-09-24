@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-09-24T02:56:57Z",
+  "updated": "2026-09-24T08:12:01Z",
   "threshold": 60,
-  "count": 14,
+  "count": 15,
   "jobs": [
+    {
+      "title": "Marketing- & Grafikdesigner (m/w/d)",
+      "company": "Alte Försterei /1. FC Union Berlin e.V.",
+      "url": "https://www.arbeitnow.com/jobs/companies/alte-forsterei-1-fc-union-berlin-ev/marketing-grafikdesigner-berlin-180087",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Education Designer UX UI and AI",
       "company": "Interaction Design Foundation",
@@ -32,7 +48,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -46,7 +62,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -92,7 +108,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -136,7 +152,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -150,7 +166,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -178,7 +194,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
