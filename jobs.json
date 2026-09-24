@@ -1,20 +1,22 @@
 {
   "app": "Setza",
-  "updated": "2026-09-24T18:07:19Z",
+  "updated": "2026-09-24T21:39:28Z",
   "threshold": 60,
-  "count": 17,
+  "count": 15,
   "jobs": [
     {
-      "title": "Product Designer",
-      "company": "Healf",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/healf/product-designer-london-50005",
+      "title": "(Junior) Graphic Designer (m/f/d)",
+      "company": "Statista",
+      "url": "https://www.arbeitnow.com/jobs/companies/statista/junior-graphic-designer-hamburg-322187",
       "source": "Arbeitnow",
-      "location": "London Office",
+      "location": "Hamburg",
       "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "score": 95,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Branding"
+        "Packaging/Print",
+        "Branding",
+        "Junior"
       ],
       "age_days": 0,
       "is_match": true,
@@ -81,20 +83,6 @@
       "age_days": 29,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Product Designer (m/w/d)",
-      "company": "Lpe Immobilien Management Gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-designer-munchen-303767",
-      "source": "Arbeitnow",
-      "location": "München",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Creative (Graphic Designer)",
@@ -242,24 +230,6 @@
       ],
       "age_days": 27,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "ECommerce Designer",
-      "company": "Luzern eCommerce Group",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/luzern-ecommerce-group/ecommerce-designer-london-360033",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 50,
-      "reasons": "Junior/Einsteiger, Design-Fokus, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
