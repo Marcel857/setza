@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-09-24T21:39:28Z",
+  "updated": "2026-09-25T00:14:15Z",
   "threshold": 60,
   "count": 15,
   "jobs": [
@@ -20,7 +20,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer UX UI and AI",
