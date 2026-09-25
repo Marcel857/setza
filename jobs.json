@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-25T19:23:52Z",
+  "updated": "2026-09-25T22:37:09Z",
   "threshold": 60,
-  "count": 15,
+  "count": 14,
   "jobs": [
-    {
-      "title": "Grafikdesigner (m/w/d) in Vollzeit",
-      "company": "Immo-Marketer",
-      "url": "https://www.arbeitnow.com/jobs/companies/immo-marketer/grafikdesigner-in-vollzeit-bochum-232662",
-      "source": "Arbeitnow",
-      "location": "Bochum",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Product Designer | SimpleStudy",
       "company": "Hirehire",
@@ -36,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer UX UI and AI",
