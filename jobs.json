@@ -1,21 +1,38 @@
 {
   "app": "Setza",
-  "updated": "2026-09-25T15:23:50Z",
+  "updated": "2026-09-25T19:23:52Z",
   "threshold": 60,
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
-      "title": "Mediengestalter / Video Editor & Kameramann (m/w/d)",
-      "company": "Cinebites Media",
-      "url": "https://www.arbeitnow.com/jobs/companies/cinebites-media/mediengestalter-video-editor-kameramann-cologne-478295",
+      "title": "Grafikdesigner (m/w/d) in Vollzeit",
+      "company": "Immo-Marketer",
+      "url": "https://www.arbeitnow.com/jobs/companies/immo-marketer/grafikdesigner-in-vollzeit-bochum-232662",
       "source": "Arbeitnow",
-      "location": "Cologne",
+      "location": "Bochum",
       "remote": false,
       "score": 87,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
+        "Social Media",
         "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer | SimpleStudy",
+      "company": "Hirehire",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-product-designer-simplestudy-338113",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
       ],
       "age_days": 0,
       "is_match": true,
@@ -195,7 +212,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
