@@ -1,27 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-09-25T10:22:33Z",
+  "updated": "2026-09-25T15:23:50Z",
   "threshold": 60,
-  "count": 15,
+  "count": 14,
   "jobs": [
     {
-      "title": "2D Graphic/Product Designer (Softlines & Kids Accessories) (all genders)",
-      "company": "Tonies",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tonies/2d-graphic-product-designer-softlines-kids-accessories-all-genders-london-254118",
+      "title": "Mediengestalter / Video Editor & Kameramann (m/w/d)",
+      "company": "Cinebites Media",
+      "url": "https://www.arbeitnow.com/jobs/companies/cinebites-media/mediengestalter-video-editor-kameramann-cologne-478295",
       "source": "Arbeitnow",
-      "location": "London",
+      "location": "Cologne",
       "remote": false,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
-        "Branding",
-        "Fotografie",
-        "Junior"
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Education Designer UX UI and AI",
@@ -35,7 +33,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 29,
+      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
@@ -70,22 +68,6 @@
       "is_new": false
     },
     {
-      "title": "Education Designer: UX, UI, and AI",
-      "company": "IxDF - Interaction Design Foundation",
-      "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media"
-      ],
-      "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Creative (Graphic Designer)",
       "company": "Superside",
       "url": "https://jobicy.com/jobs/153808-creative-graphic-designer",
@@ -97,7 +79,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -125,7 +107,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -139,7 +121,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -183,7 +165,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -229,7 +211,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     }
