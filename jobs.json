@@ -1,69 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-26T11:38:41Z",
+  "updated": "2026-09-26T15:40:09Z",
   "threshold": 60,
-  "count": 18,
+  "count": 13,
   "jobs": [
-    {
-      "title": "Product Designer | SimpleStudy",
-      "company": "Hirehire",
-      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-product-designer-simplestudy-388362",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI / UX Designer untermStrich (m/w/d) – Hamburg",
-      "company": "Everii Germany Gmbh 3",
-      "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-untermstrich-hamburg-181376",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI / UX Designer TEAMBOX (m/w/d) – Hamburg",
-      "company": "Everii Germany Gmbh 3",
-      "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-teambox-hamburg-85844",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Education Designer UX UI and AI",
-      "company": "Interaction Design Foundation",
-      "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
-      "source": "RemoteOK",
-      "location": "Remote",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media"
-      ],
-      "age_days": 30,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
@@ -95,24 +35,6 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer (f/m/d)",
-      "company": "Zeal Network",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/graphic-designer-norwich-44968",
-      "source": "Arbeitnow",
-      "location": "Norwich, United Kingdom",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Creative (Graphic Designer)",
       "company": "Superside",
       "url": "https://jobicy.com/jobs/153808-creative-graphic-designer",
@@ -124,7 +46,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -152,7 +74,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -166,7 +88,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -210,7 +132,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -229,22 +151,6 @@
       "is_new": false
     },
     {
-      "title": "Brand Designer",
-      "company": "Tailscale",
-      "url": "https://jobicy.com/jobs/152442-brand-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 22,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "iGaming UI/UX Designer",
       "company": "Ondeckglobal",
       "url": "https://weworkremotely.com/remote-jobs/ondeckglobal-igaming-ui-ux-designer",
@@ -256,16 +162,32 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Product Designer, Design Systems",
-      "company": "Devrev",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/devrev/product-designer-design-systems-london-145173",
+      "title": "Schichtleiter / Teamleiter Verpackung (m/w/d) für das BiFi Werk in Guben",
+      "company": "Ritter von Gral GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/schichtleiter-teamleiter-verpackung-fur-das-bifi-werk-in-guben-guben-357349",
       "source": "Arbeitnow",
-      "location": "London",
+      "location": "Guben , Brandenburg, Deutschland",
+      "remote": false,
+      "score": 67,
+      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Interaction Designer, HCI",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/interaction-designer-hci-london-388884",
+      "source": "Arbeitnow",
+      "location": "United Kingdom",
       "remote": false,
       "score": 42,
       "reasons": "Design-Fokus, Deutsch ausreichend",
