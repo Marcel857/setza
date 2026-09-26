@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-26T18:57:21Z",
+  "updated": "2026-09-26T21:53:27Z",
   "threshold": 60,
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "title": "Visiting Brand Designer",
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Endear - Product Designer",
@@ -34,7 +34,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -197,6 +197,23 @@
       "age_days": 29,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Junior Product Designer",
+      "company": "Quantum",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/junior-product-designer-london-103856",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 60,
+      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UX designer at SetSales",
