@@ -1,9 +1,41 @@
 {
   "app": "Setza",
-  "updated": "2026-09-26T15:40:09Z",
+  "updated": "2026-09-26T18:57:21Z",
   "threshold": 60,
-  "count": 13,
+  "count": 14,
   "jobs": [
+    {
+      "title": "Visiting Brand Designer",
+      "company": "Peec AI",
+      "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/visiting-brand-designer-berlin-222994",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Endear - Product Designer",
+      "company": "Eleve Talent",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eleve-talent/remote-endear-product-designer-492752",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
@@ -167,31 +199,18 @@
       "is_new": false
     },
     {
-      "title": "Schichtleiter / Teamleiter Verpackung (m/w/d) für das BiFi Werk in Guben",
-      "company": "Ritter von Gral GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/schichtleiter-teamleiter-verpackung-fur-das-bifi-werk-in-guben-guben-357349",
+      "title": "UX designer at SetSales",
+      "company": "Setsales",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/ux-designer-at-setsales-london-85093",
       "source": "Arbeitnow",
-      "location": "Guben , Brandenburg, Deutschland",
+      "location": "London",
       "remote": false,
-      "score": 67,
-      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Packaging/Print"
+        "Branding",
+        "Social Media"
       ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Interaction Designer, HCI",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/interaction-designer-hci-london-388884",
-      "source": "Arbeitnow",
-      "location": "United Kingdom",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [],
       "age_days": 0,
       "is_match": false,
       "is_new": false
