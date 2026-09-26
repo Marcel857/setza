@@ -1,16 +1,16 @@
 {
   "app": "Setza",
-  "updated": "2026-09-26T01:08:57Z",
+  "updated": "2026-09-26T06:21:31Z",
   "threshold": 60,
-  "count": 14,
+  "count": 18,
   "jobs": [
     {
       "title": "Product Designer | SimpleStudy",
       "company": "Hirehire",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-product-designer-simplestudy-338113",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-product-designer-simplestudy-388362",
       "source": "Arbeitnow",
       "location": "Remote",
-      "remote": false,
+      "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
@@ -18,7 +18,35 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "UI / UX Designer untermStrich (m/w/d) – Hamburg",
+      "company": "Everii Germany Gmbh 3",
+      "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-untermstrich-hamburg-181376",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI / UX Designer TEAMBOX (m/w/d) – Hamburg",
+      "company": "Everii Germany Gmbh 3",
+      "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-teambox-hamburg-85844",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Education Designer UX UI and AI",
@@ -48,7 +76,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -65,6 +93,24 @@
       "age_days": 13,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer (f/m/d)",
+      "company": "Zeal Network",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/graphic-designer-norwich-44968",
+      "source": "Arbeitnow",
+      "location": "Norwich, United Kingdom",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Creative (Graphic Designer)",
@@ -92,7 +138,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -136,7 +182,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -150,7 +196,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -178,7 +224,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -212,6 +258,20 @@
       ],
       "age_days": 28,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer, Design Systems",
+      "company": "Devrev",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/devrev/product-designer-design-systems-london-145173",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
