@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-26T21:53:27Z",
+  "updated": "2026-09-27T00:10:11Z",
   "threshold": 60,
-  "count": 15,
+  "count": 16,
   "jobs": [
     {
       "title": "Visiting Brand Designer",
@@ -19,6 +19,22 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer | SimpleStudy",
+      "company": "Hirehire",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hirehire/remote-product-designer-simplestudy-12262",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Endear - Product Designer",
@@ -213,7 +229,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UX designer at SetSales",
