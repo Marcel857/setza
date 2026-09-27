@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-27T00:10:11Z",
+  "updated": "2026-09-27T05:31:44Z",
   "threshold": 60,
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
       "title": "Visiting Brand Designer",
@@ -34,12 +34,12 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Endear - Product Designer",
-      "company": "Eleve Talent",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eleve-talent/remote-endear-product-designer-492752",
+      "title": "Product Designer | SimpleStudy",
+      "company": "Hirehire",
+      "url": "https://www.arbeitnow.ch/jobs/companies/hirehire/remote-product-designer-simplestudy-149962",
       "source": "Arbeitnow",
       "location": "Remote",
       "remote": true,
@@ -50,7 +50,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -64,7 +64,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -81,6 +81,20 @@
       "age_days": 14,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX/UI Designer | Intch",
+      "company": "Hirehire",
+      "url": "https://www.arbeitnow.ch/jobs/companies/hirehire/remote-ux-ui-designer-intch-6052",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Creative (Graphic Designer)",
@@ -108,7 +122,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -152,7 +166,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -232,18 +246,15 @@
       "is_new": false
     },
     {
-      "title": "UX designer at SetSales",
-      "company": "Setsales",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/ux-designer-at-setsales-london-85093",
+      "title": "Product Designer",
+      "company": "Sonarsource",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/product-designer-geneva-9090",
       "source": "Arbeitnow",
-      "location": "London",
+      "location": "Geneva",
       "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
       "age_days": 0,
       "is_match": false,
       "is_new": false
