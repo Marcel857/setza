@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-27T19:29:31Z",
+  "updated": "2026-09-27T22:31:17Z",
   "threshold": 60,
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "title": "Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform",
@@ -14,6 +14,22 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Industrial Tech UI/UX & Brand Designer (100 % remote) (m/f/d)",
+      "company": "EWOR GmbH",
+      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/industrial-tech-ui-ux-brand-designer-100-remote-m-f-d",
+      "source": "Himalayas",
+      "location": "",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
