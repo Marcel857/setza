@@ -1,43 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-27T11:18:16Z",
+  "updated": "2026-09-27T15:44:07Z",
   "threshold": 60,
-  "count": 15,
+  "count": 9,
   "jobs": [
-    {
-      "title": "Digital Designer",
-      "company": "Ragan Communications",
-      "url": "https://himalayas.app/companies/ragan-communications/jobs/digital-designer-1301917418",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Mobile Product Designer",
-      "company": "Yubo",
-      "url": "https://www.arbeitnow.fr/jobs/companies/yubo/mobile-product-designer-paris-315602",
-      "source": "Arbeitnow",
-      "location": "Paris - Full Remote",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
@@ -69,24 +35,6 @@
       "is_new": false
     },
     {
-      "title": "Creative Designer (DTC)",
-      "company": "ScaleJet",
-      "url": "https://himalayas.app/companies/scalejet/jobs/creative-designer-dtc-6610137161",
-      "source": "Himalayas",
-      "location": "Croatia",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Creative (Graphic Designer)",
       "company": "Superside",
       "url": "https://jobicy.com/jobs/153808-creative-graphic-designer",
@@ -98,7 +46,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -126,7 +74,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -140,7 +88,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -184,57 +132,8 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "iGaming UI/UX Designer",
-      "company": "Ondeckglobal",
-      "url": "https://weworkremotely.com/remote-jobs/ondeckglobal-igaming-ui-ux-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Junior Product Designer",
-      "company": "Quantum",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/junior-product-designer-london-103856",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 60,
-      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer - BeReal",
-      "company": "BeReal",
-      "url": "https://www.arbeitnow.fr/jobs/companies/bereal/product-designer-bereal-paris-163275",
-      "source": "Arbeitnow",
-      "location": "Paris",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
