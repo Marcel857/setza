@@ -1,48 +1,34 @@
 {
   "app": "Setza",
-  "updated": "2026-09-27T05:31:44Z",
+  "updated": "2026-09-27T11:18:16Z",
   "threshold": 60,
-  "count": 17,
+  "count": 15,
   "jobs": [
     {
-      "title": "Visiting Brand Designer",
-      "company": "Peec AI",
-      "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/visiting-brand-designer-berlin-222994",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer | SimpleStudy",
-      "company": "Hirehire",
-      "url": "https://www.arbeitnow.fr/jobs/companies/hirehire/remote-product-designer-simplestudy-12262",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer | SimpleStudy",
-      "company": "Hirehire",
-      "url": "https://www.arbeitnow.ch/jobs/companies/hirehire/remote-product-designer-simplestudy-149962",
-      "source": "Arbeitnow",
-      "location": "Remote",
+      "title": "Digital Designer",
+      "company": "Ragan Communications",
+      "url": "https://himalayas.app/companies/ragan-communications/jobs/digital-designer-1301917418",
+      "source": "Himalayas",
+      "location": "United States",
       "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Mobile Product Designer",
+      "company": "Yubo",
+      "url": "https://www.arbeitnow.fr/jobs/companies/yubo/mobile-product-designer-paris-315602",
+      "source": "Arbeitnow",
+      "location": "Paris - Full Remote",
+      "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
@@ -78,20 +64,24 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "UX/UI Designer | Intch",
-      "company": "Hirehire",
-      "url": "https://www.arbeitnow.ch/jobs/companies/hirehire/remote-ux-ui-designer-intch-6052",
-      "source": "Arbeitnow",
-      "location": "Remote",
+      "title": "Creative Designer (DTC)",
+      "company": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/creative-designer-dtc-6610137161",
+      "source": "Himalayas",
+      "location": "Croatia",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -180,7 +170,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -195,20 +185,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 13,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer, Shop Everything",
-      "company": "Meta",
-      "url": "https://jobicy.com/jobs/150188-product-designer-shop-everything",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -246,15 +222,17 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "Sonarsource",
-      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/product-designer-geneva-9090",
+      "title": "Product Designer - BeReal",
+      "company": "BeReal",
+      "url": "https://www.arbeitnow.fr/jobs/companies/bereal/product-designer-bereal-paris-163275",
       "source": "Arbeitnow",
-      "location": "Geneva",
+      "location": "Paris",
       "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [],
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Social Media"
+      ],
       "age_days": 0,
       "is_match": false,
       "is_new": false
