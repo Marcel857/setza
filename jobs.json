@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-27T22:31:17Z",
+  "updated": "2026-09-28T01:21:59Z",
   "threshold": 60,
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "title": "Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform",
@@ -19,16 +19,17 @@
       "is_new": false
     },
     {
-      "title": "Industrial Tech UI/UX & Brand Designer (100 % remote) (m/f/d)",
-      "company": "EWOR GmbH",
-      "url": "https://himalayas.app/companies/ewor-gmbh/jobs/industrial-tech-ui-ux-brand-designer-100-remote-m-f-d",
+      "title": "Instructional Designer",
+      "company": "BerryDunn",
+      "url": "https://himalayas.app/companies/berrydunn/jobs/instructional-designer",
       "source": "Himalayas",
-      "location": "",
+      "location": "United States",
       "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Branding"
+        "Branding",
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
@@ -164,6 +165,20 @@
       "tags": [],
       "age_days": 14,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "The Flex",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/the-flex/product-designer-london-42782",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
