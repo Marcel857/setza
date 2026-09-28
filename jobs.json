@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-09-28T15:43:54Z",
+  "updated": "2026-09-28T21:33:33Z",
   "threshold": 60,
   "count": 12,
   "jobs": [
+    {
+      "title": "Brand Designer, AI & Ops",
+      "company": "Lovable",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/brand-designer-ai-ops-london-179577",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
@@ -34,7 +50,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Content Designer II, Personalization",
@@ -49,20 +65,6 @@
       "age_days": 16,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Product Designer (m/f/d)",
-      "company": "Impower",
-      "url": "https://www.arbeitnow.com/jobs/companies/impower/remote-product-designer-449265",
-      "source": "Arbeitnow",
-      "location": "Remote Germany",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Creative (Graphic Designer)",
@@ -167,18 +169,18 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "The Flex",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/the-flex/product-designer-london-42782",
+      "title": "3D & Motion Designer | Robotics",
+      "company": "Cell Labs",
+      "url": "https://www.arbeitnow.com/jobs/companies/cell-labs/3d-motion-designer-robotics-berlin-288774",
       "source": "Arbeitnow",
-      "location": "London",
+      "location": "Berlin",
       "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
       "tags": [],
       "age_days": 0,
-      "is_match": false,
-      "is_new": false
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
