@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-29T07:15:50Z",
+  "updated": "2026-09-29T14:12:26Z",
   "threshold": 60,
-  "count": 12,
+  "count": 11,
   "jobs": [
-    {
-      "title": "Brand Designer, AI & Ops",
-      "company": "Lovable",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/brand-designer-ai-ops-london-179577",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
@@ -48,7 +32,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -62,7 +46,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -78,7 +62,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Creative (Graphic Designer)",
@@ -92,7 +76,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
@@ -120,7 +104,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -178,7 +162,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     }
