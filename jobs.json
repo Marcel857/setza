@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-29T01:26:04Z",
+  "updated": "2026-09-29T07:15:50Z",
   "threshold": 60,
-  "count": 13,
+  "count": 12,
   "jobs": [
     {
       "title": "Brand Designer, AI & Ops",
@@ -32,7 +32,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -67,12 +67,12 @@
       "is_new": false
     },
     {
-      "title": "Product Designer (m/w/d)",
-      "company": "Lpe Immobilien Management Gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-designer-munchen-189917",
-      "source": "Arbeitnow",
-      "location": "München",
-      "remote": false,
+      "title": "Altium Designer Specialist",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/altium-designer-specialist",
+      "source": "Himalayas",
+      "location": "",
+      "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
@@ -106,7 +106,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -150,7 +150,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -164,7 +164,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -179,20 +179,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 15,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "3D & Motion Designer | Robotics",
-      "company": "Cell Labs",
-      "url": "https://www.arbeitnow.com/jobs/companies/cell-labs/3d-motion-designer-robotics-berlin-288774",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     }
