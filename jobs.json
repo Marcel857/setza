@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-09-29T14:12:26Z",
+  "updated": "2026-09-29T19:32:18Z",
   "threshold": 60,
-  "count": 11,
+  "count": 14,
   "jobs": [
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
@@ -118,7 +118,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
@@ -153,18 +153,68 @@
       "is_new": false
     },
     {
-      "title": "Marketing Designer, Web",
-      "company": "PolicyMe",
-      "url": "https://jobicy.com/jobs/153166-marketing-designer-web",
-      "source": "Jobicy",
-      "location": "Canada",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 16,
+      "title": "AI-Native Static Ad Designer",
+      "company": "Uplane",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/uplane/remote-ai-native-static-ad-designer-206300",
+      "source": "Arbeitnow",
+      "location": "remote",
+      "remote": false,
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "AI-Native Landing Page Designer",
+      "company": "Uplane",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/uplane/remote-ai-native-landing-page-designer-22244",
+      "source": "Arbeitnow",
+      "location": "remote",
+      "remote": false,
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "AI-Native Static Ad Designer",
+      "company": "Uplane",
+      "url": "https://www.arbeitnow.ch/jobs/companies/uplane/remote-ai-native-static-ad-designer-209081",
+      "source": "Arbeitnow",
+      "location": "remote",
+      "remote": false,
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "AI-Native Landing Page Designer",
+      "company": "Uplane",
+      "url": "https://www.arbeitnow.ch/jobs/companies/uplane/remote-ai-native-landing-page-designer-99931",
+      "source": "Arbeitnow",
+      "location": "remote",
+      "remote": false,
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
