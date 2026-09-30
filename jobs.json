@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-09-30T02:15:26Z",
+  "updated": "2026-09-30T08:49:59Z",
   "threshold": 60,
-  "count": 17,
+  "count": 13,
   "jobs": [
+    {
+      "title": "Graphic Designer (m/w/d) – Social Media & YouTube Thumbnails (Minijob)",
+      "company": "Hildebrandt Personal Brand",
+      "url": "https://www.arbeitnow.com/jobs/companies/hildebrandt-personal-brand/graphic-designer-social-media-youtube-thumbnails-minijob-frankfurt-am-main-352209",
+      "source": "Arbeitnow",
+      "location": "Frankfurt am Main",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
@@ -16,7 +34,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -46,21 +64,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 17,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Altium Designer Specialist",
-      "company": "micro1",
-      "url": "https://himalayas.app/companies/micro1/jobs/altium-designer-specialist",
-      "source": "Himalayas",
-      "location": "",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -90,7 +94,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -134,7 +138,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -148,7 +152,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
@@ -165,70 +169,6 @@
       "age_days": 16,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "AI-Native Static Ad Designer",
-      "company": "Uplane",
-      "url": "https://www.arbeitnow.com/jobs/companies/uplane/remote-ai-native-static-ad-designer-462542",
-      "source": "Arbeitnow",
-      "location": "remote",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "AI-Native Landing Page Designer",
-      "company": "Uplane",
-      "url": "https://www.arbeitnow.com/jobs/companies/uplane/remote-ai-native-landing-page-designer-336719",
-      "source": "Arbeitnow",
-      "location": "remote",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "AI-Native Static Ad Designer",
-      "company": "Uplane",
-      "url": "https://www.arbeitnow.com/jobs/companies/uplane/ai-native-static-ad-designer-berlin-497780",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "AI-Native Landing Page Designer",
-      "company": "Uplane",
-      "url": "https://www.arbeitnow.com/jobs/companies/uplane/ai-native-landing-page-designer-berlin-178959",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "AI-Native Static Ad Designer",
