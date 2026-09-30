@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-09-30T08:49:59Z",
+  "updated": "2026-09-30T15:33:49Z",
   "threshold": 60,
   "count": 13,
   "jobs": [
-    {
-      "title": "Graphic Designer (m/w/d) – Social Media & YouTube Thumbnails (Minijob)",
-      "company": "Hildebrandt Personal Brand",
-      "url": "https://www.arbeitnow.com/jobs/companies/hildebrandt-personal-brand/graphic-designer-social-media-youtube-thumbnails-minijob-frankfurt-am-main-352209",
-      "source": "Arbeitnow",
-      "location": "Frankfurt am Main",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Designer, Brand and Marketing (Part-Time)",
       "company": "Worldly",
@@ -50,7 +32,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -80,7 +62,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -108,7 +90,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -122,7 +104,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -166,9 +148,23 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Sr. UX Designer, Security",
+      "company": "Cribl",
+      "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "AI-Native Static Ad Designer",
