@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-01T19:14:02Z",
+  "updated": "2026-10-01T23:19:08Z",
   "threshold": 60,
-  "count": 8,
+  "count": 5,
   "jobs": [
-    {
-      "title": "DIGITAL BRAND DESIGNER (m/w/d)",
-      "company": "SugarShape GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/sugarshape-gmbh/digital-brand-designer-hamburg-407175",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Education Designer: UX, UI, and AI",
       "company": "IxDF - Interaction Design Foundation",
@@ -62,38 +45,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "AI-Native Static Ad Designer",
-      "company": "Uplane",
-      "url": "https://www.arbeitnow.fr/jobs/companies/uplane/remote-ai-native-static-ad-designer-297361",
-      "source": "Arbeitnow",
-      "location": "remote",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "AI-Native Landing Page Designer",
-      "company": "Uplane",
-      "url": "https://www.arbeitnow.fr/jobs/companies/uplane/remote-ai-native-landing-page-designer-360536",
-      "source": "Arbeitnow",
-      "location": "remote",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
