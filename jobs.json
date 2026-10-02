@@ -1,19 +1,22 @@
 {
   "app": "Setza",
-  "updated": "2026-10-02T08:47:35Z",
+  "updated": "2026-10-02T15:18:23Z",
   "threshold": 60,
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
-      "title": "Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform",
-      "company": "Headsquare Gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/headsquare-gmbh/product-designer-ux-ui-digitale-gesundheitsplattform-munchen-429488",
+      "title": "Sr. Product Designer",
+      "company": "Hims And Hers",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/sr-product-designer-london-486171",
       "source": "Arbeitnow",
-      "location": "München",
+      "location": "London, England",
       "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -30,7 +33,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -49,6 +52,20 @@
       "is_new": false
     },
     {
+      "title": "Technischer Produktdesigner / Konstrukteur (m/w/d)",
+      "company": "Robel Mobil Fahrzeugbau GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/robel-mobil-fahrzeugbau-gmbh/technischer-produktdesigner-konstrukteur-emsburen-127198",
+      "source": "Arbeitnow",
+      "location": "Emsbüren",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -58,7 +75,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
