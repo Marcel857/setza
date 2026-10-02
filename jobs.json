@@ -1,42 +1,19 @@
 {
   "app": "Setza",
-  "updated": "2026-10-02T02:24:57Z",
+  "updated": "2026-10-02T08:47:35Z",
   "threshold": 60,
-  "count": 7,
+  "count": 6,
   "jobs": [
     {
-      "title": "Junior Grafikdesigner/in – Vollzeit (m/w/d)",
-      "company": "Cordes Consulting GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/junior-grafikdesigner-in-vollzeit-hamburg-141860",
+      "title": "Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform",
+      "company": "Headsquare Gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/headsquare-gmbh/product-designer-ux-ui-digitale-gesundheitsplattform-munchen-429488",
       "source": "Arbeitnow",
-      "location": "Hamburg, Hamburg, Deutschland",
+      "location": "München",
       "remote": false,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Grafikdesigner/in – Vollzeit (m/w/d)",
-      "company": "Cordes Consulting GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/grafikdesigner-in-vollzeit-hamburg-154862",
-      "source": "Arbeitnow",
-      "location": "Hamburg, Hamburg, Deutschland",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -67,7 +44,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
