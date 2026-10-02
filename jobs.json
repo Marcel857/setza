@@ -1,42 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-02T20:03:29Z",
+  "updated": "2026-10-02T23:55:26Z",
   "threshold": 60,
-  "count": 5,
+  "count": 4,
   "jobs": [
-    {
-      "title": "Sr. Product Designer",
-      "company": "Hims And Hers",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/sr-product-designer-london-486171",
-      "source": "Arbeitnow",
-      "location": "London, England",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Lendable",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/product-designer-london-361477",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Education Designer: UX, UI, and AI",
       "company": "IxDF - Interaction Design Foundation",
@@ -66,6 +33,22 @@
       "age_days": 20,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer - UK (Remote)",
+      "company": "Immersivelabs",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/product-designer-uk-remote-united-kingdom-261305",
+      "source": "Arbeitnow",
+      "location": "United Kingdom",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
