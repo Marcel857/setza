@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-03T03:41:56Z",
+  "updated": "2026-10-03T09:37:38Z",
   "threshold": 60,
-  "count": 5,
+  "count": 4,
   "jobs": [
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -16,7 +16,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -30,23 +30,9 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Product Designer (m/f/d)",
-      "company": "Impower",
-      "url": "https://www.arbeitnow.com/jobs/companies/impower/remote-product-designer-212213",
-      "source": "Arbeitnow",
-      "location": "Remote Germany",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Brand Designer",
@@ -62,7 +48,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Sr. UX Designer, Security",
