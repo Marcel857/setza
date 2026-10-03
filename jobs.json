@@ -1,9 +1,45 @@
 {
   "app": "Setza",
-  "updated": "2026-10-03T09:37:38Z",
+  "updated": "2026-10-03T14:32:01Z",
   "threshold": 60,
-  "count": 4,
+  "count": 7,
   "jobs": [
+    {
+      "title": "Graphic Designer 100% (a)",
+      "company": "Brandleadership",
+      "url": "https://www.arbeitnow.ch/jobs/companies/brandleadership/graphic-designer-100-a-steinhausen-474329",
+      "source": "Arbeitnow",
+      "location": "Steinhausen",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Graphic Designer 100% (a)",
+      "company": "Brandleadership",
+      "url": "https://www.arbeitnow.ch/jobs/companies/brandleadership/graphic-designer-100-a-steinhausen-223954",
+      "source": "Arbeitnow",
+      "location": "Steinhausen",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Education Designer: UX, UI, and AI",
       "company": "IxDF - Interaction Design Foundation",
@@ -33,6 +69,20 @@
       "age_days": 21,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer (m/w/d)",
+      "company": "Lpe Immobilien Management Gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-designer-munchen-422369",
+      "source": "Arbeitnow",
+      "location": "München",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Brand Designer",
