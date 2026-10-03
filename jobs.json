@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-02T23:55:26Z",
+  "updated": "2026-10-03T03:41:56Z",
   "threshold": 60,
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -35,11 +35,25 @@
       "is_new": false
     },
     {
-      "title": "Product Designer - UK (Remote)",
-      "company": "Immersivelabs",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/product-designer-uk-remote-united-kingdom-261305",
+      "title": "Product Designer (m/f/d)",
+      "company": "Impower",
+      "url": "https://www.arbeitnow.com/jobs/companies/impower/remote-product-designer-212213",
       "source": "Arbeitnow",
-      "location": "United Kingdom",
+      "location": "Remote Germany",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Brand Designer",
+      "company": "Blablacar",
+      "url": "https://www.arbeitnow.fr/jobs/companies/blablacar/brand-designer-paris-france-178035",
+      "source": "Arbeitnow",
+      "location": "Paris, France",
       "remote": false,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
