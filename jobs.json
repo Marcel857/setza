@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-10-04T00:23:02Z",
+  "updated": "2026-10-04T06:09:26Z",
   "threshold": 60,
   "count": 7,
   "jobs": [
+    {
+      "title": "Marketplace Creative Strategist/Amazon Graphic Designer",
+      "company": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/marketplace-creative-strategist-amazon-graphic-designer-1228749712",
+      "source": "Himalayas",
+      "location": "Serbia",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Graphic Designer 100% (a)",
       "company": "Brandleadership",
@@ -35,25 +54,6 @@
         "Packaging/Print",
         "Branding",
         "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Temporary Designer, Delish",
-      "company": "FDB",
-      "url": "https://himalayas.app/companies/fdb/jobs/temporary-designer-delish",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
@@ -101,7 +101,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
