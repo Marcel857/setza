@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-04T06:09:26Z",
+  "updated": "2026-10-04T12:41:45Z",
   "threshold": 60,
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "title": "Marketplace Creative Strategist/Amazon Graphic Designer",
@@ -21,7 +21,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer 100% (a)",
@@ -37,7 +37,7 @@
         "Branding",
         "Social Media"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -55,7 +55,7 @@
         "Branding",
         "Social Media"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -71,7 +71,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -85,7 +85,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
@@ -102,6 +102,22 @@
         "Branding"
       ],
       "age_days": 1,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Brand Designer",
+      "company": "Tailscale",
+      "url": "https://jobicy.com/jobs/152442-brand-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
