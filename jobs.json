@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-04T17:15:34Z",
+  "updated": "2026-10-04T20:18:55Z",
   "threshold": 60,
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "title": "Product Designer (m/f/d) — Energy Insights",
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer 100% (a)",
@@ -130,7 +130,21 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Web Designer | UX/UI",
+      "company": "Arkane Cloud",
+      "url": "https://www.arbeitnow.fr/jobs/companies/arkane-cloud/web-designer-ux-ui-lyon-50128",
+      "source": "Arbeitnow",
+      "location": "Lyon",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
     }
   ]
 }
