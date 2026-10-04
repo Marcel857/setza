@@ -1,27 +1,24 @@
 {
   "app": "Setza",
-  "updated": "2026-10-04T12:41:45Z",
+  "updated": "2026-10-04T17:15:34Z",
   "threshold": 60,
   "count": 8,
   "jobs": [
     {
-      "title": "Marketplace Creative Strategist/Amazon Graphic Designer",
-      "company": "ScaleJet",
-      "url": "https://himalayas.app/companies/scalejet/jobs/marketplace-creative-strategist-amazon-graphic-designer-1228749712",
-      "source": "Himalayas",
-      "location": "Serbia",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Product Designer (m/f/d) — Energy Insights",
+      "company": "Ecoplanet Green Operations Gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecoplanet-green-operations-gmbh/product-designer-energy-insights-munchen-28953",
+      "source": "Arbeitnow",
+      "location": "München",
+      "remote": false,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
+        "Junior"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer 100% (a)",
@@ -91,22 +88,6 @@
     },
     {
       "title": "Brand Designer",
-      "company": "Blablacar",
-      "url": "https://www.arbeitnow.fr/jobs/companies/blablacar/brand-designer-paris-france-178035",
-      "source": "Arbeitnow",
-      "location": "Paris, France",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 1,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand Designer",
       "company": "Tailscale",
       "url": "https://jobicy.com/jobs/152442-brand-designer",
       "source": "Jobicy",
@@ -131,9 +112,25 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer (m/f/d)- Physical Products & AI - home decor brand - 100% remote - part-/fulltime",
+      "company": "Time to hire",
+      "url": "https://www.arbeitnow.com/jobs/companies/time-to-hire/product-designer-physical-products-ai-home-decor-brand-100-remote-part-fulltime-marktbreit-415474",
+      "source": "Arbeitnow",
+      "location": "Marktbreit",
+      "remote": true,
+      "score": 67,
+      "reasons": "100% Remote, Design-Fokus, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
