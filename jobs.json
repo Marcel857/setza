@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-05T09:24:35Z",
+  "updated": "2026-10-05T18:42:13Z",
   "threshold": 60,
-  "count": 10,
+  "count": 8,
   "jobs": [
     {
       "title": "Graphic Designer 100% (a)",
@@ -41,32 +41,22 @@
       "is_new": false
     },
     {
-      "title": "UI / UX Designer untermStrich (m/w/d) – Hamburg",
-      "company": "Everii Germany Gmbh 3",
-      "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-untermstrich-hamburg-146098",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
+      "title": "Graphic Designer",
+      "company": "Work Better Now",
+      "url": "https://himalayas.app/companies/work-better-now/jobs/graphic-designer-788362985",
+      "source": "Himalayas",
+      "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+      "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI / UX Designer TEAMBOX (m/w/d) – Hamburg",
-      "company": "Everii Germany Gmbh 3",
-      "url": "https://www.arbeitnow.com/jobs/companies/everii-germany-gmbh-3/ui-ux-designer-teambox-hamburg-265345",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -99,34 +89,21 @@
       "is_new": false
     },
     {
-      "title": "Costume Designer / Stylist — Client Project",
-      "company": "Aru Labs",
-      "url": "https://himalayas.app/companies/aru-labs/jobs/costume-designer-stylist-client-project",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
+      "title": "UI/UX Designer",
+      "company": "BlueBranch GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/bluebranch-gmbh/ui-ux-designer-furth-228665",
+      "source": "Arbeitnow",
+      "location": "Fürth",
+      "remote": false,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
+        "Social Media",
         "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
-    },
-    {
-      "title": "Motion Graphic Artist",
-      "company": "Nagarro",
-      "url": "https://jobicy.com/jobs/150142-motion-graphic-artist",
-      "source": "Jobicy",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
     },
     {
       "title": "Sr. UX Designer, Security",
@@ -138,7 +115,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -152,7 +129,7 @@
       "score": 47,
       "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": false,
       "is_new": false
     }
