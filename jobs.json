@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-05T02:14:31Z",
+  "updated": "2026-10-05T09:24:35Z",
   "threshold": 60,
-  "count": 11,
+  "count": 10,
   "jobs": [
     {
       "title": "Graphic Designer 100% (a)",
@@ -18,7 +18,7 @@
         "Branding",
         "Social Media"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -36,7 +36,7 @@
         "Branding",
         "Social Media"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -52,7 +52,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UI / UX Designer TEAMBOX (m/w/d) – Hamburg",
@@ -66,7 +66,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -80,7 +80,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -94,36 +94,36 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Learning Experience Designer",
-      "company": "RPM Living",
-      "url": "https://himalayas.app/companies/rpm-living/jobs/learning-experience-designer-141732312",
+      "title": "Costume Designer / Stylist — Client Project",
+      "company": "Aru Labs",
+      "url": "https://himalayas.app/companies/aru-labs/jobs/costume-designer-stylist-client-project",
       "source": "Himalayas",
       "location": "United States",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
+      "tags": [
+        "Fotografie"
+      ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
     },
     {
-      "title": "Brand Designer",
-      "company": "Tailscale",
-      "url": "https://jobicy.com/jobs/152442-brand-designer",
+      "title": "Motion Graphic Artist",
+      "company": "Nagarro",
+      "url": "https://jobicy.com/jobs/150142-motion-graphic-artist",
       "source": "Jobicy",
-      "location": "USA",
+      "location": "Philippines",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": false
@@ -139,22 +139,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (m/f/d)- Physical Products & AI - home decor brand - 100% remote - part-/fulltime",
-      "company": "Time to hire",
-      "url": "https://www.arbeitnow.com/jobs/companies/time-to-hire/product-designer-physical-products-ai-home-decor-brand-100-remote-part-fulltime-marktbreit-415474",
-      "source": "Arbeitnow",
-      "location": "Marktbreit",
-      "remote": true,
-      "score": 67,
-      "reasons": "100% Remote, Design-Fokus, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
