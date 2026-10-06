@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-10-06T00:33:32Z",
+  "updated": "2026-10-06T07:08:15Z",
   "threshold": 60,
   "count": 8,
   "jobs": [
+    {
+      "title": "2D Graphic/Product Designer (Softlines & Kids Accessories) (all genders)",
+      "company": "Tonies",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tonies/2d-graphic-product-designer-softlines-kids-accessories-all-genders-london-126910",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Graphic Designer 100% (a)",
       "company": "Brandleadership",
@@ -71,22 +90,6 @@
       "is_new": false
     },
     {
-      "title": "Costume Designer / Stylist — Client Project",
-      "company": "Aru Labs",
-      "url": "https://himalayas.app/companies/aru-labs/jobs/costume-designer-stylist-client-project",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -115,7 +118,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Web Designer | UX/UI",
