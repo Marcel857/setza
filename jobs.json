@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-06T14:20:40Z",
+  "updated": "2026-10-06T19:39:52Z",
   "threshold": 60,
-  "count": 12,
+  "count": 9,
   "jobs": [
-    {
-      "title": "Grafikdesigner/in (m/w/d) für Papier- & Geschenkprodukte",
-      "company": "Depesche Vertrieb GmbH & Co. KG",
-      "url": "https://www.arbeitnow.com/jobs/companies/depesche-vertrieb-gmbh-co-kg/grafikdesigner-in-fur-papier-geschenkprodukte-geesthacht-493580",
-      "source": "Arbeitnow",
-      "location": "Geesthacht",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Graphic Designer 100% (a)",
       "company": "Brandleadership",
@@ -88,20 +71,6 @@
       "is_new": false
     },
     {
-      "title": "UX/UI Designer (m/w/d) SaaS & digitale Produkte",
-      "company": "Cannaleo Digital GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/cannaleo-digital-gmbh/ux-ui-designer-saas-digitale-produkte-saarbrucken-2207",
-      "source": "Arbeitnow",
-      "location": "Saarbrücken",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Product Designer",
       "company": "Wayve",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/product-designer-london-united-kingdom-444174",
@@ -115,7 +84,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer, Shop Everything",
@@ -141,7 +110,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -173,20 +142,6 @@
       "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
       "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "Web Designer | UX/UI",
-      "company": "Arkane Cloud",
-      "url": "https://www.arbeitnow.fr/jobs/companies/arkane-cloud/web-designer-ux-ui-lyon-50128",
-      "source": "Arbeitnow",
-      "location": "Lyon",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 1,
       "is_match": false,
       "is_new": false
     }
