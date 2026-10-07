@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-10-06T23:31:46Z",
+  "updated": "2026-10-07T04:04:06Z",
   "threshold": 60,
   "count": 5,
   "jobs": [
+    {
+      "title": "Junior Designer",
+      "company": "Goodlord",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/junior-designer-london-366886",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Education Designer: UX, UI, and AI",
       "company": "IxDF - Interaction Design Foundation",
@@ -62,23 +80,6 @@
         "Junior"
       ],
       "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "CDI - DESIGNER JUNIOR JERSEY (H/F)",
-      "company": "JACQUEMUS",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-designer-junior-jersey-h-f-paris-hq-ile-de-france-184126",
-      "source": "Arbeitnow",
-      "location": "Paris HQ, Île de France",
-      "remote": false,
-      "score": 60,
-      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 1,
       "is_match": true,
       "is_new": false
     }
