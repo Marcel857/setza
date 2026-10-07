@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-07T17:53:08Z",
+  "updated": "2026-10-07T22:36:39Z",
   "threshold": 60,
-  "count": 6,
+  "count": 9,
   "jobs": [
     {
       "title": "Designer, Creative Services",
@@ -22,16 +22,16 @@
       "is_new": false
     },
     {
-      "title": "Listing Grafiker (m/w/d)",
-      "company": "Neolymp",
-      "url": "https://www.arbeitnow.com/jobs/companies/neolymp/listing-grafiker-berlin-467745",
+      "title": "Klaviyo Marketing Designer (m/w/d)",
+      "company": "Bendt Brothers",
+      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/klaviyo-marketing-designer-elsdorf-272292",
       "source": "Arbeitnow",
-      "location": "Berlin",
+      "location": "Elsdorf",
       "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Fotografie"
+        "Branding"
       ],
       "age_days": 0,
       "is_match": true,
@@ -68,6 +68,52 @@
       "is_new": false
     },
     {
+      "title": "Graphic Designer - AI-focus (m/f/d)",
+      "company": "Statista",
+      "url": "https://www.arbeitnow.com/jobs/companies/statista/graphic-designer-ai-focus-hamburg-or-berlin-231976",
+      "source": "Arbeitnow",
+      "location": "Hamburg or Berlin",
+      "remote": false,
+      "score": 75,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer (m/w/d)",
+      "company": "Lpe Immobilien Management Gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-designer-munchen-477252",
+      "source": "Arbeitnow",
+      "location": "München",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Digital & Motion Designer",
+      "company": "Wpromote",
+      "url": "https://jobicy.com/jobs/154789-digital-motion-designer-2",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Content Designer II, Personalization",
       "company": "Pinterest",
       "url": "https://jobicy.com/jobs/154776-content-designer-ii-personalization",
@@ -79,7 +125,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Sr. UX Designer, Security",
