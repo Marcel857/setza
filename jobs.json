@@ -1,9 +1,42 @@
 {
   "app": "Setza",
-  "updated": "2026-10-07T04:04:06Z",
+  "updated": "2026-10-07T11:13:36Z",
   "threshold": 60,
-  "count": 5,
+  "count": 7,
   "jobs": [
+    {
+      "title": "UI/UX Designer (m/w/d) Medizintechnik | Interaction & Usability | regelm. Präsenz in Dresden",
+      "company": "Connected Consumables",
+      "url": "https://www.arbeitnow.com/jobs/companies/connected-consumables/ui-ux-designer-medizintechnik-interaction-usability-regelm-prasenz-in-dresden-249764",
+      "source": "Arbeitnow",
+      "location": "Dresden",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Designer, Creative Services",
+      "company": "Abnormal",
+      "url": "https://weworkremotely.com/remote-jobs/abnormal-designer-creative-services",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Junior Designer",
       "company": "Goodlord",
@@ -20,7 +53,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -34,7 +67,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -48,9 +81,23 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UI/UX Designer",
+      "company": "Turbalance",
+      "url": "https://www.arbeitnow.com/jobs/companies/turbalance/ui-ux-designer-heidelberg-ger-41753",
+      "source": "Arbeitnow",
+      "location": "Heidelberg, GER",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
@@ -63,23 +110,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 6,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Junior Product Designer",
-      "company": "Quantum",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/junior-product-designer-london-127541",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 60,
-      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Junior"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     }
