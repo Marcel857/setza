@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-08T02:26:17Z",
+  "updated": "2026-10-08T09:18:56Z",
   "threshold": 60,
-  "count": 14,
+  "count": 11,
   "jobs": [
     {
       "title": "Designer, Creative Services",
@@ -17,7 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -37,7 +37,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer 100% (a)",
@@ -55,7 +55,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Motion Designer (DanceBit)",
@@ -71,14 +71,14 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Klaviyo Marketing Designer (m/w/d)",
-      "company": "Bendt Brothers",
-      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/klaviyo-marketing-designer-elsdorf-272292",
+      "title": "Motion Designer (DanceBit)",
+      "company": "Gismart",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-motion-designer-dancebit-169389",
       "source": "Arbeitnow",
-      "location": "Elsdorf",
+      "location": "Remote",
       "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
@@ -87,7 +87,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -101,7 +101,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -115,57 +115,9 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Graphic Designer - AI-focus (m/f/d)",
-      "company": "Statista",
-      "url": "https://www.arbeitnow.com/jobs/companies/statista/graphic-designer-ai-focus-hamburg-or-berlin-231976",
-      "source": "Arbeitnow",
-      "location": "Hamburg or Berlin",
-      "remote": false,
-      "score": 75,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (m/w/d)",
-      "company": "Lpe Immobilien Management Gmbh",
-      "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-designer-munchen-477252",
-      "source": "Arbeitnow",
-      "location": "München",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Email Designer, eCommerce Lifecycle Marketing",
-      "company": "UN/COMMON",
-      "url": "https://himalayas.app/companies/un-common/jobs/email-designer-ecommerce-lifecycle-marketing",
-      "source": "Himalayas",
-      "location": "Brazil",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Digital & Motion Designer",
