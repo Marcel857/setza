@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-10-08T16:44:38Z",
+  "updated": "2026-10-08T21:47:00Z",
   "threshold": 60,
-  "count": 9,
+  "count": 8,
   "jobs": [
+    {
+      "title": "Junior Product Designer",
+      "company": "Midnite",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/junior-product-designer-united-kingdom-386455",
+      "source": "Arbeitnow",
+      "location": "United Kingdom",
+      "remote": false,
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Designer, Creative Services",
       "company": "Abnormal",
@@ -56,23 +73,6 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Video Editor & Motion Designer (all genders)",
-      "company": "JustPlay GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/video-editor-motion-designer-all-genders-berlin-426239",
-      "source": "Arbeitnow",
-      "location": "Berlin (Hybrid)",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Motion Designer (DanceBit)",
@@ -132,22 +132,6 @@
       "tags": [],
       "age_days": 8,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Stage - Designer Digital (F/H/X) - Janvier 2027",
-      "company": "Veepee",
-      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-designer-digital-janvier-2027-saint-denis-7862",
-      "source": "Arbeitnow",
-      "location": "Saint-Denis",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
