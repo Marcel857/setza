@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-07T22:36:39Z",
+  "updated": "2026-10-08T02:26:17Z",
   "threshold": 60,
-  "count": 9,
+  "count": 14,
   "jobs": [
     {
       "title": "Designer, Creative Services",
@@ -22,6 +22,58 @@
       "is_new": false
     },
     {
+      "title": "Graphic Designer 100% (a)",
+      "company": "Brandleadership",
+      "url": "https://www.arbeitnow.ch/jobs/companies/brandleadership/graphic-designer-100-a-steinhausen-444791",
+      "source": "Arbeitnow",
+      "location": "Steinhausen",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Graphic Designer 100% (a)",
+      "company": "Brandleadership",
+      "url": "https://www.arbeitnow.ch/jobs/companies/brandleadership/graphic-designer-100-a-steinhausen-295330",
+      "source": "Arbeitnow",
+      "location": "Steinhausen",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Motion Designer (DanceBit)",
+      "company": "Gismart",
+      "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-motion-designer-dancebit-287210",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Klaviyo Marketing Designer (m/w/d)",
       "company": "Bendt Brothers",
       "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/klaviyo-marketing-designer-elsdorf-272292",
@@ -35,7 +87,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -83,7 +135,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer (m/w/d)",
@@ -95,6 +147,22 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Email Designer, eCommerce Lifecycle Marketing",
+      "company": "UN/COMMON",
+      "url": "https://himalayas.app/companies/un-common/jobs/email-designer-ecommerce-lifecycle-marketing",
+      "source": "Himalayas",
+      "location": "Brazil",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -111,7 +179,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Content Designer II, Personalization",
@@ -139,6 +207,22 @@
       "tags": [],
       "age_days": 7,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Stage - Designer Digital (F/H/X) - Janvier 2027",
+      "company": "Veepee",
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-designer-digital-janvier-2027-saint-denis-7862",
+      "source": "Arbeitnow",
+      "location": "Saint-Denis",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
