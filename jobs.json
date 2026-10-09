@@ -1,25 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-10-09T01:42:14Z",
+  "updated": "2026-10-09T08:25:03Z",
   "threshold": 60,
-  "count": 9,
+  "count": 8,
   "jobs": [
     {
-      "title": "Junior Product Designer",
-      "company": "Midnite",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/junior-product-designer-united-kingdom-386455",
+      "title": "Junior Graphic Designer (all genders)",
+      "company": "Sunday Natural",
+      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/junior-graphic-designer-all-genders-berlin-214322",
       "source": "Arbeitnow",
-      "location": "United Kingdom",
+      "location": "Berlin",
       "remote": false,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "score": 95,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
+        "Packaging/Print",
         "Branding",
+        "Social Media",
+        "Fotografie",
         "Junior"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Designer, Creative Services",
@@ -34,7 +37,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -75,24 +78,6 @@
       "is_new": false
     },
     {
-      "title": "Virtual Employment: Remote Graphic Designer",
-      "company": "Siegen HR Solutions, Inc.",
-      "url": "https://himalayas.app/companies/siegen-hr-solutions-inc/jobs/virtual-employment-remote-graphic-designer-5861716492",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Motion Designer (DanceBit)",
       "company": "Gismart",
       "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-motion-designer-dancebit-169389",
@@ -104,7 +89,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -134,7 +119,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
