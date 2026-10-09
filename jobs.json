@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-08T21:47:00Z",
+  "updated": "2026-10-09T01:42:14Z",
   "threshold": 60,
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "title": "Junior Product Designer",
@@ -19,7 +19,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Designer, Creative Services",
@@ -52,7 +52,7 @@
         "Branding",
         "Social Media"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -70,9 +70,27 @@
         "Branding",
         "Social Media"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Virtual Employment: Remote Graphic Designer",
+      "company": "Siegen HR Solutions, Inc.",
+      "url": "https://himalayas.app/companies/siegen-hr-solutions-inc/jobs/virtual-employment-remote-graphic-designer-5861716492",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Motion Designer (DanceBit)",
