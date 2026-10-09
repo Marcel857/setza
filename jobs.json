@@ -1,29 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-09T08:25:03Z",
+  "updated": "2026-10-09T15:27:34Z",
   "threshold": 60,
-  "count": 8,
+  "count": 11,
   "jobs": [
-    {
-      "title": "Junior Graphic Designer (all genders)",
-      "company": "Sunday Natural",
-      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/junior-graphic-designer-all-genders-berlin-214322",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 95,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Designer, Creative Services",
       "company": "Abnormal",
@@ -105,7 +85,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -124,6 +104,34 @@
       "is_new": false
     },
     {
+      "title": "AI Product Builder (m/w/d) - Product Design & AI Development",
+      "company": "ProviPanda GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/ai-product-builder-product-design-ai-development-hamburg-38270",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "AI Product Builder (m/w/d) - Product Design & AI Development",
+      "company": "Metanoia IT Solutions GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/metanoia-it-solutions-gmbh/ai-product-builder-product-design-ai-development-hamburg-199118",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -133,8 +141,41 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "CDI - CREATIVE DESIGNER (H/F)",
+      "company": "JACQUEMUS",
+      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-creative-designer-h-f-paris-hq-ile-de-france-27399",
+      "source": "Arbeitnow",
+      "location": "Paris HQ, Île de France",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Geordie AI",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/geordie-ai/product-designer-united-kingdom-420425",
+      "source": "Arbeitnow",
+      "location": "United Kingdom Remote",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
