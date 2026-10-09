@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-09T15:27:34Z",
+  "updated": "2026-10-09T20:14:30Z",
   "threshold": 60,
-  "count": 11,
+  "count": 9,
   "jobs": [
     {
       "title": "Designer, Creative Services",
@@ -102,34 +102,6 @@
       "age_days": 27,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "AI Product Builder (m/w/d) - Product Design & AI Development",
-      "company": "ProviPanda GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/ai-product-builder-product-design-ai-development-hamburg-38270",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "AI Product Builder (m/w/d) - Product Design & AI Development",
-      "company": "Metanoia IT Solutions GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/metanoia-it-solutions-gmbh/ai-product-builder-product-design-ai-development-hamburg-199118",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
