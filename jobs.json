@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-10-10T12:50:39Z",
+  "updated": "2026-10-10T17:37:01Z",
   "threshold": 60,
   "count": 6,
   "jobs": [
@@ -68,6 +68,22 @@
       "is_new": false
     },
     {
+      "title": "Sr. UX Designer",
+      "company": "AutoNation",
+      "url": "https://himalayas.app/companies/autonation/jobs/sr-ux-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -77,23 +93,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 9,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Field Service Technician - Pharma Solid Filling & Packaging Systems",
-      "company": "SYNTEGON",
-      "url": "https://himalayas.app/companies/syntegon/jobs/field-service-technician-pharma-solid-filling-packaging-systems",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 67,
-      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     }
