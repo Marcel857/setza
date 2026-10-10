@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-10-09T20:14:30Z",
+  "updated": "2026-10-10T00:11:28Z",
   "threshold": 60,
   "count": 9,
   "jobs": [
@@ -35,7 +35,7 @@
         "Branding",
         "Social Media"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -53,7 +53,7 @@
         "Branding",
         "Social Media"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -104,6 +104,24 @@
       "is_new": false
     },
     {
+      "title": "Graphic Designer for a Creative Agency (SG-based/Remote)",
+      "company": "Paired",
+      "url": "https://himalayas.app/companies/paired-so/jobs/graphic-designer-for-a-creative-agency-sg-based-remote",
+      "source": "Himalayas",
+      "location": "Indonesia",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -129,22 +147,6 @@
       "tags": [
         "Branding",
         "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Geordie AI",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/geordie-ai/product-designer-united-kingdom-420425",
-      "source": "Arbeitnow",
-      "location": "United Kingdom Remote",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
       ],
       "age_days": 0,
       "is_match": false,
