@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-10T00:11:28Z",
+  "updated": "2026-10-10T06:10:36Z",
   "threshold": 60,
-  "count": 9,
+  "count": 8,
   "jobs": [
     {
       "title": "Designer, Creative Services",
@@ -69,7 +69,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -104,24 +104,6 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer for a Creative Agency (SG-based/Remote)",
-      "company": "Paired",
-      "url": "https://himalayas.app/companies/paired-so/jobs/graphic-designer-for-a-creative-agency-sg-based-remote",
-      "source": "Himalayas",
-      "location": "Indonesia",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -136,21 +118,20 @@
       "is_new": false
     },
     {
-      "title": "CDI - CREATIVE DESIGNER (H/F)",
-      "company": "JACQUEMUS",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-creative-designer-h-f-paris-hq-ile-de-france-27399",
-      "source": "Arbeitnow",
-      "location": "Paris HQ, Île de France",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Field Service Technician - Pharma Solid Filling & Packaging Systems",
+      "company": "SYNTEGON",
+      "url": "https://himalayas.app/companies/syntegon/jobs/field-service-technician-pharma-solid-filling-packaging-systems",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 67,
+      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Branding",
-        "Fotografie"
+        "Packaging/Print"
       ],
       "age_days": 0,
-      "is_match": false,
-      "is_new": false
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
