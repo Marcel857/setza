@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-10T17:37:01Z",
+  "updated": "2026-10-10T21:05:06Z",
   "threshold": 60,
-  "count": 6,
+  "count": 4,
   "jobs": [
     {
       "title": "Designer, Creative Services",
@@ -18,22 +18,6 @@
         "Branding"
       ],
       "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Motion Designer (DanceBit)",
-      "company": "Gismart",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-motion-designer-dancebit-169389",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -66,22 +50,6 @@
       "age_days": 28,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Sr. UX Designer",
-      "company": "AutoNation",
-      "url": "https://himalayas.app/companies/autonation/jobs/sr-ux-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
