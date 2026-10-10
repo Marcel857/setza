@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-10T06:10:36Z",
+  "updated": "2026-10-10T12:50:39Z",
   "threshold": 60,
-  "count": 8,
+  "count": 6,
   "jobs": [
     {
       "title": "Designer, Creative Services",
@@ -17,43 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer 100% (a)",
-      "company": "Brandleadership",
-      "url": "https://www.arbeitnow.ch/jobs/companies/brandleadership/graphic-designer-100-a-steinhausen-444791",
-      "source": "Arbeitnow",
-      "location": "Steinhausen",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer 100% (a)",
-      "company": "Brandleadership",
-      "url": "https://www.arbeitnow.ch/jobs/companies/brandleadership/graphic-designer-100-a-steinhausen-295330",
-      "source": "Arbeitnow",
-      "location": "Steinhausen",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -85,7 +49,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -99,7 +63,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -131,7 +95,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
