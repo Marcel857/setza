@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-10T21:05:06Z",
+  "updated": "2026-10-11T00:18:49Z",
   "threshold": 60,
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "title": "Designer, Creative Services",
@@ -48,6 +48,22 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
       "age_days": 28,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Sr. UX Designer",
+      "company": "AutoNation",
+      "url": "https://himalayas.app/companies/autonation/jobs/sr-ux-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
