@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-10-11T00:18:49Z",
+  "updated": "2026-10-11T06:08:07Z",
   "threshold": 60,
   "count": 5,
   "jobs": [
@@ -52,20 +52,20 @@
       "is_new": false
     },
     {
-      "title": "Sr. UX Designer",
-      "company": "AutoNation",
-      "url": "https://himalayas.app/companies/autonation/jobs/sr-ux-designer",
+      "title": "Interior Designer 2020 Design Software",
+      "company": "Virtual Construction Assistants",
+      "url": "https://himalayas.app/companies/virtual-construction-assistants/jobs/interior-designer-2020-design-software",
       "source": "Himalayas",
-      "location": "United States",
+      "location": "Philippines",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Branding"
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
