@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-12T01:30:38Z",
+  "updated": "2026-10-12T08:31:06Z",
   "threshold": 60,
-  "count": 8,
+  "count": 5,
   "jobs": [
     {
       "title": "2D Graphic/Product Designer (Softlines & Kids Accessories) (all genders)",
@@ -36,39 +36,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX/UI Designer (All Genders)",
-      "company": "Skdse",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/ux-ui-designer-all-genders-berlin-24307",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 80,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Gehalt angegeben",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Simulation Product Designer (All Genders)",
-      "company": "Skdse",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/simulation-product-designer-all-genders-433418",
-      "source": "Arbeitnow",
-      "location": "",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -89,32 +57,20 @@
       "is_new": false
     },
     {
-      "title": "Content Designer II, Personalization",
-      "company": "Pinterest",
-      "url": "https://weworkremotely.com/remote-jobs/pinterest-content-designer-ii-personalization",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
+      "title": "UX Designer",
+      "company": "Antit",
+      "url": "https://himalayas.app/companies/antit/jobs/ux-designer",
+      "source": "Himalayas",
+      "location": "United States",
       "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (m/f/d)",
-      "company": "Impower",
-      "url": "https://www.arbeitnow.com/jobs/companies/impower/remote-product-designer-35263",
-      "source": "Arbeitnow",
-      "location": "Remote Germany",
-      "remote": false,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
+      "tags": [
+        "Fotografie"
+      ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
