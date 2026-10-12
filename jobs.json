@@ -1,27 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-10-12T08:31:06Z",
+  "updated": "2026-10-12T18:31:44Z",
   "threshold": 60,
   "count": 5,
   "jobs": [
     {
-      "title": "2D Graphic/Product Designer (Softlines & Kids Accessories) (all genders)",
-      "company": "Tonies",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tonies/2d-graphic-product-designer-softlines-kids-accessories-all-genders-london-398714",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Presentation & Customer-facing Assets Designer",
+      "company": "Nebius",
+      "url": "https://himalayas.app/companies/nebius/jobs/presentation-customer-facing-assets-designer-1681240658",
+      "source": "Himalayas",
+      "location": "",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
         "Branding",
-        "Fotografie",
-        "Junior"
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Designer, Creative Services",
@@ -41,6 +40,22 @@
       "is_new": false
     },
     {
+      "title": "Web Designer at AIOS — Remote, $75k-$150k/yr (including equity)",
+      "company": "AIOS (YC W20/S21)",
+      "url": "https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-37512",
+      "source": "Arbeitnow",
+      "location": "Remote (EU)",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Education Designer: UX, UI, and AI",
       "company": "IxDF - Interaction Design Foundation",
       "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai-1",
@@ -52,25 +67,9 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "UX Designer",
-      "company": "Antit",
-      "url": "https://himalayas.app/companies/antit/jobs/ux-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
@@ -82,7 +81,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     }
