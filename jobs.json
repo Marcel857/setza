@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-10-13T08:02:09Z",
+  "updated": "2026-10-13T16:12:56Z",
   "threshold": 60,
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "title": "Industrial Designer",
+      "company": "Alta Ares",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/industrial-designer-paris-39277",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Designer, Creative Services",
       "company": "Abnormal",
@@ -22,15 +38,17 @@
       "is_new": false
     },
     {
-      "title": "UI Designer [NovelAI]",
-      "company": "Anlatan",
-      "url": "https://himalayas.app/companies/anlatan/jobs/ui-designer-novelai-3832079768",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
+      "title": "Talent Pool : Instructional Designer Learning Trajectories Care System",
+      "company": "War Child Alliance",
+      "url": "https://www.arbeitnow.nl/jobs/companies/war-child-alliance/remote-talent-pool-instructional-designer-learning-trajectories-care-system-20865",
+      "source": "Arbeitnow",
+      "location": "Netherlands (Remote)",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -47,9 +65,23 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Conversational Designer, APAC",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/155177-conversational-designer-apac",
+      "source": "Jobicy",
+      "location": "Australia",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
@@ -61,7 +93,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -74,20 +106,6 @@
       "remote": false,
       "score": 47,
       "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer - Paris",
-      "company": "Hcompany",
-      "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/product-designer-paris-48389",
-      "source": "Arbeitnow",
-      "location": "Hybrid Paris",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 0,
       "is_match": false,
