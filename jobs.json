@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-13T16:12:56Z",
+  "updated": "2026-10-13T21:23:50Z",
   "threshold": 60,
   "count": 7,
   "jobs": [
-    {
-      "title": "Industrial Designer",
-      "company": "Alta Ares",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/industrial-designer-paris-39277",
-      "source": "Arbeitnow",
-      "location": "Paris",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Designer, Creative Services",
       "company": "Abnormal",
@@ -38,16 +22,16 @@
       "is_new": false
     },
     {
-      "title": "Talent Pool : Instructional Designer Learning Trajectories Care System",
-      "company": "War Child Alliance",
-      "url": "https://www.arbeitnow.nl/jobs/companies/war-child-alliance/remote-talent-pool-instructional-designer-learning-trajectories-care-system-20865",
+      "title": "Junior / Regular UX/UI Designer (m/w/d)",
+      "company": "Slash Digital",
+      "url": "https://www.arbeitnow.com/jobs/companies/slash-digital/junior-regular-ux-ui-designer-munchen-378200",
       "source": "Arbeitnow",
-      "location": "Netherlands (Remote)",
+      "location": "München",
       "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print"
+        "Junior"
       ],
       "age_days": 0,
       "is_match": true,
@@ -81,7 +65,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Sr. UX Designer, Security",
@@ -95,6 +79,23 @@
       "tags": [],
       "age_days": 13,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "CDI - CREATIVE DESIGNER - BRAND CONCEPTS (H/F)",
+      "company": "JACQUEMUS",
+      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-creative-designer-brand-concepts-h-f-paris-hq-ile-de-france-134547",
+      "source": "Arbeitnow",
+      "location": "Paris HQ, Île de France",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     },
     {
