@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-14T00:27:00Z",
+  "updated": "2026-10-14T05:12:37Z",
   "threshold": 60,
-  "count": 9,
+  "count": 11,
   "jobs": [
     {
       "title": "Designer, Creative Services",
@@ -22,20 +22,18 @@
       "is_new": false
     },
     {
-      "title": "Junior / Regular UX/UI Designer (m/w/d)",
-      "company": "Slash Digital",
-      "url": "https://www.arbeitnow.com/jobs/companies/slash-digital/junior-regular-ux-ui-designer-munchen-378200",
+      "title": "Product Designer - Mobile App",
+      "company": "Teampicnic",
+      "url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/product-designer-mobile-app-amsterdam-213253",
       "source": "Arbeitnow",
-      "location": "München",
+      "location": "Amsterdam",
       "remote": false,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -67,7 +65,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -84,7 +82,7 @@
       ],
       "age_days": 1,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Content Designer | LATAM",
@@ -100,7 +98,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Conversational Designer, APAC",
@@ -142,6 +140,36 @@
       "tags": [
         "Branding",
         "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer - Web",
+      "company": "Teampicnic",
+      "url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/product-designer-web-amsterdam-227115",
+      "source": "Arbeitnow",
+      "location": "Amsterdam",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "Sr. Web Designer - Growth Foundations",
+      "company": "Kraken",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/sr-web-designer-growth-foundations-london-455219",
+      "source": "Arbeitnow",
+      "location": "United Kingdom",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
       ],
       "age_days": 0,
       "is_match": false,
