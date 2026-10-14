@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-13T21:23:50Z",
+  "updated": "2026-10-14T00:27:00Z",
   "threshold": 60,
-  "count": 7,
+  "count": 9,
   "jobs": [
     {
       "title": "Designer, Creative Services",
@@ -35,7 +35,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -52,6 +52,55 @@
       "age_days": 15,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX / UI Designer",
+      "company": "TechBiz Global GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/ux-ui-designer-berlin-389286",
+      "source": "Arbeitnow",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Graphic Designer & Video Editor",
+      "company": "BlueTuskr",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
+      "source": "RemoteOK",
+      "location": "Remote",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Content Designer | LATAM",
+      "company": "Fueled",
+      "url": "https://jobicy.com/jobs/155227-content-designer-latam",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Conversational Designer, APAC",
@@ -94,20 +143,6 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "UI/UX Designer B2B SaaS - 80% (m/w/d)",
-      "company": "Smino",
-      "url": "https://www.arbeitnow.ch/jobs/companies/smino/ui-ux-designer-b2b-saas-80-zurich-380117",
-      "source": "Arbeitnow",
-      "location": "Zürich",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
       "age_days": 0,
       "is_match": false,
       "is_new": false
