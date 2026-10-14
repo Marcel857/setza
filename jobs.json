@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-10-14T10:24:53Z",
+  "updated": "2026-10-14T19:33:20Z",
   "threshold": 60,
-  "count": 10,
+  "count": 9,
   "jobs": [
+    {
+      "title": "UX Designer/Researcher",
+      "company": "Bixal",
+      "url": "https://himalayas.app/companies/bixal/jobs/ux-designer-researcher",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Designer, Creative Services",
       "company": "Abnormal",
@@ -22,19 +38,17 @@
       "is_new": false
     },
     {
-      "title": "(PH & SA) Graphic Designer & Social Media Specialist (Project-Based)",
-      "company": "The OE Agency",
-      "url": "https://himalayas.app/companies/the-oe-agency/jobs/ph-sa-graphic-designer-social-media-specialist-project-based",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "title": "Mediengestalter / Reinzeichner (m/w/d) Druckvorstufe Etiketten",
+      "company": "ZeinPharma Germany GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/zeinpharma-germany-gmbh/mediengestalter-reinzeichner-druckvorstufe-etiketten-russelsheim-208154",
+      "source": "Arbeitnow",
+      "location": "Rüsselsheim",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie",
-        "Junior"
+        "Packaging/Print",
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
@@ -88,22 +102,6 @@
       "is_new": false
     },
     {
-      "title": "Content Designer | LATAM",
-      "company": "Fueled",
-      "url": "https://jobicy.com/jobs/155227-content-designer-latam",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -113,25 +111,8 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "CDI - CREATIVE DESIGNER - BRAND CONCEPTS (H/F)",
-      "company": "JACQUEMUS",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-creative-designer-brand-concepts-h-f-paris-hq-ile-de-france-134547",
-      "source": "Arbeitnow",
-      "location": "Paris HQ, Île de France",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     },
     {
