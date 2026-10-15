@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-15T16:13:00Z",
+  "updated": "2026-10-15T19:57:39Z",
   "threshold": 60,
-  "count": 6,
+  "count": 3,
   "jobs": [
-    {
-      "title": "Junior Grafikdesigner / Mediengestalter (m/w/d)",
-      "company": "Smilodox GmbH & Co.KG",
-      "url": "https://www.arbeitnow.com/jobs/companies/smilodox-gmbh-cokg/junior-grafikdesigner-mediengestalter-hamburg-277201",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Education Designer: UX, UI, and AI",
       "company": "IxDF - Interaction Design Foundation",
@@ -52,37 +34,6 @@
         "Fotografie"
       ],
       "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer (Promo)",
-      "company": "NEO GROUP",
-      "url": "https://himalayas.app/companies/neogroup-eu/jobs/graphic-designer-promo-320512834",
-      "source": "Himalayas",
-      "location": "Serbia",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Marketing Designer",
-      "company": "Playson",
-      "url": "https://jobicy.com/jobs/153230-marketing-designer",
-      "source": "Jobicy",
-      "location": "Europe",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
