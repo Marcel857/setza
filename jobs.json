@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-15T01:13:45Z",
+  "updated": "2026-10-15T06:08:57Z",
   "threshold": 60,
-  "count": 6,
+  "count": 8,
   "jobs": [
     {
       "title": "Designer, Creative Services",
@@ -52,7 +52,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -84,6 +84,36 @@
         "Fotografie"
       ],
       "age_days": 2,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "UX/UI Designer – User-Centered Web Design",
+      "company": "EyeCarePro",
+      "url": "https://himalayas.app/companies/eyecarepro/jobs/ux-ui-designer-user-centered-web-design",
+      "source": "Himalayas",
+      "location": "South Africa",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Marketing Designer",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/153230-marketing-designer",
+      "source": "Jobicy",
+      "location": "Europe",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
