@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-15T11:52:36Z",
+  "updated": "2026-10-15T16:13:00Z",
   "threshold": 60,
-  "count": 7,
+  "count": 6,
   "jobs": [
     {
       "title": "Junior Grafikdesigner / Mediengestalter (m/w/d)",
@@ -20,24 +20,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Industrial Designer",
-      "company": "Sereact GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/industrial-designer-stuttgart-254854",
-      "source": "Arbeitnow",
-      "location": "Stuttgart Schockenriedstr. 17",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -56,20 +39,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer (m/f/d)",
-      "company": "Sereact GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-designer-stuttgart-477328",
-      "source": "Arbeitnow",
-      "location": "Stuttgart Schockenriedstr. 17",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Graphic Designer & Video Editor",
       "company": "BlueTuskr",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
@@ -85,6 +54,23 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer (Promo)",
+      "company": "NEO GROUP",
+      "url": "https://himalayas.app/companies/neogroup-eu/jobs/graphic-designer-promo-320512834",
+      "source": "Himalayas",
+      "location": "Serbia",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Marketing Designer",
@@ -110,7 +96,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     }
