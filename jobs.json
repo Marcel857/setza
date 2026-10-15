@@ -1,58 +1,43 @@
 {
   "app": "Setza",
-  "updated": "2026-10-15T06:08:57Z",
+  "updated": "2026-10-15T11:52:36Z",
   "threshold": 60,
-  "count": 8,
+  "count": 7,
   "jobs": [
     {
-      "title": "Designer, Creative Services",
-      "company": "Abnormal",
-      "url": "https://weworkremotely.com/remote-jobs/abnormal-designer-creative-services",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Junior Grafikdesigner / Mediengestalter (m/w/d)",
+      "company": "Smilodox GmbH & Co.KG",
+      "url": "https://www.arbeitnow.com/jobs/companies/smilodox-gmbh-cokg/junior-grafikdesigner-mediengestalter-hamburg-277201",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Packaging/Print",
-        "Branding"
+        "Social Media",
+        "Fotografie",
+        "Junior"
       ],
-      "age_days": 7,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Mediengestalter / Reinzeichner (m/w/d) Druckvorstufe Etiketten",
-      "company": "ZeinPharma Germany GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/zeinpharma-germany-gmbh/mediengestalter-reinzeichner-druckvorstufe-etiketten-russelsheim-208154",
+      "title": "Industrial Designer",
+      "company": "Sereact GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/industrial-designer-stuttgart-254854",
       "source": "Arbeitnow",
-      "location": "Rüsselsheim",
+      "location": "Stuttgart Schockenriedstr. 17",
       "remote": false,
       "score": 82,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
         "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Getscope",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/getscope/product-designer-london-496474",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
         "Branding"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -66,9 +51,23 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer (m/f/d)",
+      "company": "Sereact GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-designer-stuttgart-477328",
+      "source": "Arbeitnow",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -86,22 +85,6 @@
       "age_days": 2,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "UX/UI Designer – User-Centered Web Design",
-      "company": "EyeCarePro",
-      "url": "https://himalayas.app/companies/eyecarepro/jobs/ux-ui-designer-user-centered-web-design",
-      "source": "Himalayas",
-      "location": "South Africa",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Marketing Designer",
