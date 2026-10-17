@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-17T18:41:58Z",
+  "updated": "2026-10-17T21:12:24Z",
   "threshold": 60,
-  "count": 8,
+  "count": 6,
   "jobs": [
     {
       "title": "Early career Product Designer - Mobile App",
@@ -35,20 +35,6 @@
       "is_new": false
     },
     {
-      "title": "UX Product Designer",
-      "company": "Archer56",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/archer56/ux-product-designer-south-east-hampshire-174993",
-      "source": "Arbeitnow",
-      "location": "South East Hampshire",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Graphic Designer & Video Editor",
       "company": "BlueTuskr",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
@@ -64,24 +50,6 @@
       "age_days": 4,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Creative Designer (BBS879)",
-      "company": "Hire Overseas",
-      "url": "https://himalayas.app/companies/hire-overseas/jobs/creative-designer-bbs879",
-      "source": "Himalayas",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Sr. Motion Designer",
