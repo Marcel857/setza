@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-10-17T08:59:04Z",
+  "updated": "2026-10-17T12:51:58Z",
   "threshold": 60,
   "count": 8,
   "jobs": [
@@ -14,7 +14,7 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -30,23 +30,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 18,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Weiterbildung zum Visual & Audio Designer (m/w/d) – (100 % förderbar)",
-      "company": "velpTEC GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/velptec-gmbh/weiterbildung-zum-visual-audio-designer-100-forderbar-berlin-457366",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
@@ -62,7 +46,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -80,6 +64,20 @@
       "age_days": 4,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Sr. Motion Designer",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/155561-sr-motion-designer",
+      "source": "Jobicy",
+      "location": "EMEA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
@@ -113,21 +111,20 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "Creativex",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/creativex/product-designer-london-105391",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 60,
-      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Desktop Publishing Specialist (DTP)",
+      "company": "Apertera",
+      "url": "https://himalayas.app/companies/apertera/jobs/desktop-publishing-specialist-dtp",
+      "source": "Himalayas",
+      "location": "Tunisia",
+      "remote": true,
+      "score": 64,
+      "reasons": "100% Remote, Deutsch ausreichend",
       "tags": [
-        "Branding",
-        "Junior"
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
