@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-17T12:51:58Z",
+  "updated": "2026-10-17T16:06:28Z",
   "threshold": 60,
-  "count": 8,
+  "count": 7,
   "jobs": [
     {
       "title": "Early career Product Designer - Mobile App",
@@ -77,7 +77,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Sr. UX Designer, Security",
@@ -89,7 +89,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
@@ -109,22 +109,6 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Desktop Publishing Specialist (DTP)",
-      "company": "Apertera",
-      "url": "https://himalayas.app/companies/apertera/jobs/desktop-publishing-specialist-dtp",
-      "source": "Himalayas",
-      "location": "Tunisia",
-      "remote": true,
-      "score": 64,
-      "reasons": "100% Remote, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     }
   ]
 }
