@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-17T00:07:33Z",
+  "updated": "2026-10-17T04:47:48Z",
   "threshold": 60,
-  "count": 5,
+  "count": 7,
   "jobs": [
     {
       "title": "Early career Product Designer - Mobile App",
@@ -80,6 +80,40 @@
       "age_days": 16,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Junior Product Designer - UI/UX",
+      "company": "Ethon",
+      "url": "https://www.arbeitnow.ch/jobs/companies/ethon/junior-product-designer-ui-ux-zurich-299042",
+      "source": "Arbeitnow",
+      "location": "Zürich",
+      "remote": false,
+      "score": 65,
+      "reasons": "Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer",
+      "company": "Creativex",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/creativex/product-designer-london-105391",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 60,
+      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
