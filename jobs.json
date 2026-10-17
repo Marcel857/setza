@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-17T16:06:28Z",
+  "updated": "2026-10-17T18:41:58Z",
   "threshold": 60,
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "title": "Early career Product Designer - Mobile App",
@@ -64,6 +64,24 @@
       "age_days": 4,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Creative Designer (BBS879)",
+      "company": "Hire Overseas",
+      "url": "https://himalayas.app/companies/hire-overseas/jobs/creative-designer-bbs879",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Sr. Motion Designer",
