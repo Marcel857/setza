@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-10-18T20:56:32Z",
+  "updated": "2026-10-18T22:47:39Z",
   "threshold": 60,
   "count": 6,
   "jobs": [
+    {
+      "title": "Grafikdesigner Mode & Siebdruck (m/w/d)",
+      "company": "BEAHATER Clothing",
+      "url": "https://www.arbeitnow.com/jobs/companies/beahater-clothing/grafikdesigner-mode-siebdruck-augsburg-423328",
+      "source": "Arbeitnow",
+      "location": "Augsburg",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Education Designer: UX, UI, and AI",
       "company": "IxDF - Interaction Design Foundation",
@@ -36,20 +53,6 @@
       "age_days": 5,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Synthlane Technologies Private Limited",
-      "url": "https://himalayas.app/companies/synthlane-technologies-private-limited/jobs/product-designer",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
