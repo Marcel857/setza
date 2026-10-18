@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-10-18T11:31:32Z",
+  "updated": "2026-10-18T15:18:25Z",
   "threshold": 60,
-  "count": 6,
+  "count": 8,
   "jobs": [
+    {
+      "title": "Designer im Online-Marketing und Webdesign (m/w/d)",
+      "company": "TaxIt Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/taxit-consulting-gmbh/designer-im-online-marketing-und-webdesign-stuttgart-304930",
+      "source": "Arbeitnow",
+      "location": "Stuttgart",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Mediengestalter/Grafikdesigner (m/w/d)",
       "company": "Bäcker Görtz GmbH",
@@ -15,6 +32,25 @@
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Amazon Graphic Designer",
+      "company": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/amazon-graphic-designer-8263898952",
+      "source": "Himalayas",
+      "location": "Poland",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
         "Social Media",
         "Fotografie"
       ],
@@ -65,7 +101,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
