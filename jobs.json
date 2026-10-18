@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-18T18:14:04Z",
+  "updated": "2026-10-18T20:56:32Z",
   "threshold": 60,
-  "count": 5,
+  "count": 6,
   "jobs": [
-    {
-      "title": "Designer im Online-Marketing und Webdesign (m/w/d)",
-      "company": "TaxIt Consulting GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxit-consulting-gmbh/designer-im-online-marketing-und-webdesign-stuttgart-304930",
-      "source": "Arbeitnow",
-      "location": "Stuttgart",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Education Designer: UX, UI, and AI",
       "company": "IxDF - Interaction Design Foundation",
@@ -55,6 +38,20 @@
       "is_new": false
     },
     {
+      "title": "Product Designer",
+      "company": "Synthlane Technologies Private Limited",
+      "url": "https://himalayas.app/companies/synthlane-technologies-private-limited/jobs/product-designer",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -66,6 +63,20 @@
       "tags": [],
       "age_days": 18,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "UX/UI Designer",
+      "company": "O'CD",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-336129",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     },
     {
