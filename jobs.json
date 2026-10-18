@@ -1,22 +1,45 @@
 {
   "app": "Setza",
-  "updated": "2026-10-18T01:20:47Z",
+  "updated": "2026-10-18T06:17:52Z",
   "threshold": 60,
-  "count": 6,
+  "count": 8,
   "jobs": [
     {
-      "title": "Early career Product Designer - Mobile App",
-      "company": "Teampicnic",
-      "url": "https://www.arbeitnow.nl/jobs/companies/teampicnic/early-career-product-designer-mobile-app-amsterdam-414520",
+      "title": "Junior Grafikdesigner/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/junior-grafikdesigner-in-vollzeit-hamburg-484150",
       "source": "Arbeitnow",
-      "location": "Amsterdam",
+      "location": "Hamburg, Hamburg, Deutschland",
       "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 1,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "Grafikdesigner/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/grafikdesigner-in-vollzeit-hamburg-66965",
+      "source": "Arbeitnow",
+      "location": "Hamburg, Hamburg, Deutschland",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -92,8 +115,22 @@
         "Packaging/Print",
         "Junior"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "UX Designer",
+      "company": "Handpicked",
+      "url": "https://www.arbeitnow.nl/jobs/companies/handpicked/ux-designer-rotterdam-346557",
+      "source": "Arbeitnow",
+      "location": "Rotterdam, Zuid-Holland, Nederland",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
