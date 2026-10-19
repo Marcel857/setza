@@ -1,9 +1,41 @@
 {
   "app": "Setza",
-  "updated": "2026-10-19T11:59:18Z",
+  "updated": "2026-10-19T18:38:09Z",
   "threshold": 60,
   "count": 7,
   "jobs": [
+    {
+      "title": "Creative Designer (m/w/d) mit KI-Fokus (Social Media)",
+      "company": "Markentrainer Werbeagentur GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/markentrainer-werbeagentur-gmbh/creative-designer-mit-ki-fokus-social-media-karlsruhe-468627",
+      "source": "Arbeitnow",
+      "location": "Karlsruhe",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "AI Expert & Instructional Designer",
+      "company": "Bots and People Product GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/bots-and-people-product-gmbh/ai-expert-instructional-designer-berlin-468777",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Education Designer: UX, UI, and AI",
       "company": "IxDF - Interaction Design Foundation",
@@ -21,6 +53,20 @@
       "is_new": false
     },
     {
+      "title": "Industriedesigner/In (W/M/D) In Vollzeit",
+      "company": "BUDDE INDUSTRIE DESIGN GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/budde-industrie-design-gmbh/industriedesigner-in-in-vollzeit-munster-194792",
+      "source": "Arbeitnow",
+      "location": "Münster",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Grafikdesigner Amazon Visual Content (m/w/d)",
       "company": "Marketplace Maniacs GmbH",
       "url": "https://www.arbeitnow.com/jobs/companies/marketplace-maniacs-gmbh/grafikdesigner-amazon-visual-content-munich-141183",
@@ -35,21 +81,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Mentor:in Product Design UX/UI Bootcamp (m/w/d)",
-      "company": "Digitale Leute School",
-      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/mentorin-product-design-ux-ui-bootcamp-cologne-18890",
-      "source": "Arbeitnow",
-      "location": "Cologne",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -69,20 +101,6 @@
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "WorkWave",
-      "url": "https://jobicy.com/jobs/153554-product-designer-2",
-      "source": "Jobicy",
-      "location": "UK",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -92,22 +110,8 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX/UI Designer",
-      "company": "O'CD",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-336129",
-      "source": "Arbeitnow",
-      "location": "Paris",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
