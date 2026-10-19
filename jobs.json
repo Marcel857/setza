@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-18T22:47:39Z",
+  "updated": "2026-10-19T00:44:46Z",
   "threshold": 60,
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "title": "Grafikdesigner Mode & Siebdruck (m/w/d)",
@@ -15,6 +15,22 @@
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Sr. UI/UX Designer",
+      "company": "Riseup Labs",
+      "url": "https://himalayas.app/companies/riseup-labs/jobs/sr-ui-ux-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
         "Fotografie"
       ],
       "age_days": 0,
@@ -50,7 +66,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
