@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-19T00:44:46Z",
+  "updated": "2026-10-19T05:39:35Z",
   "threshold": 60,
-  "count": 7,
+  "count": 5,
   "jobs": [
     {
       "title": "Grafikdesigner Mode & Siebdruck (m/w/d)",
@@ -20,22 +20,6 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Sr. UI/UX Designer",
-      "company": "Riseup Labs",
-      "url": "https://himalayas.app/companies/riseup-labs/jobs/sr-ui-ux-designer?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -90,20 +74,6 @@
       "url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-336129",
       "source": "Arbeitnow",
       "location": "Paris",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "UX Designer",
-      "company": "Handpicked",
-      "url": "https://www.arbeitnow.nl/jobs/companies/handpicked/ux-designer-rotterdam-346557",
-      "source": "Arbeitnow",
-      "location": "Rotterdam, Zuid-Holland, Nederland",
       "remote": false,
       "score": 47,
       "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
