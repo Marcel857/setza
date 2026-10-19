@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-19T18:38:09Z",
+  "updated": "2026-10-19T22:47:10Z",
   "threshold": 60,
-  "count": 7,
+  "count": 6,
   "jobs": [
-    {
-      "title": "Creative Designer (m/w/d) mit KI-Fokus (Social Media)",
-      "company": "Markentrainer Werbeagentur GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/markentrainer-werbeagentur-gmbh/creative-designer-mit-ki-fokus-social-media-karlsruhe-468627",
-      "source": "Arbeitnow",
-      "location": "Karlsruhe",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "AI Expert & Instructional Designer",
       "company": "Bots and People Product GmbH",
@@ -34,7 +16,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -64,23 +46,6 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Grafikdesigner Amazon Visual Content (m/w/d)",
-      "company": "Marketplace Maniacs GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/marketplace-maniacs-gmbh/grafikdesigner-amazon-visual-content-munich-141183",
-      "source": "Arbeitnow",
-      "location": "Munich",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
       "is_new": false
     },
     {
@@ -99,6 +64,20 @@
       "age_days": 6,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Instructional Designer, TRM Academy (Compliance)",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/155918-instructional-designer-trm-academy-compliance",
+      "source": "Jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
