@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-19T05:39:35Z",
+  "updated": "2026-10-19T11:59:18Z",
   "threshold": 60,
-  "count": 5,
+  "count": 7,
   "jobs": [
-    {
-      "title": "Grafikdesigner Mode & Siebdruck (m/w/d)",
-      "company": "BEAHATER Clothing",
-      "url": "https://www.arbeitnow.com/jobs/companies/beahater-clothing/grafikdesigner-mode-siebdruck-augsburg-423328",
-      "source": "Arbeitnow",
-      "location": "Augsburg",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Education Designer: UX, UI, and AI",
       "company": "IxDF - Interaction Design Foundation",
@@ -33,9 +16,40 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Grafikdesigner Amazon Visual Content (m/w/d)",
+      "company": "Marketplace Maniacs GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/marketplace-maniacs-gmbh/grafikdesigner-amazon-visual-content-munich-141183",
+      "source": "Arbeitnow",
+      "location": "Munich",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Mentor:in Product Design UX/UI Bootcamp (m/w/d)",
+      "company": "Digitale Leute School",
+      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/mentorin-product-design-ux-ui-bootcamp-cologne-18890",
+      "source": "Arbeitnow",
+      "location": "Cologne",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -51,6 +65,20 @@
         "Fotografie"
       ],
       "age_days": 6,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "WorkWave",
+      "url": "https://jobicy.com/jobs/153554-product-designer-2",
+      "source": "Jobicy",
+      "location": "UK",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
