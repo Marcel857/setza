@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-10-20T17:44:28Z",
+  "updated": "2026-10-20T21:11:28Z",
   "threshold": 60,
   "count": 8,
   "jobs": [
@@ -19,7 +19,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UX/UI Designer (m/w/d) – Schwerpunkt E-Commerce",
@@ -35,7 +35,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Brand Visual & Performance Designer [all genders]",
@@ -53,7 +53,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Copy of Visiting Brand Designer",
@@ -69,7 +69,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -116,7 +116,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Sr. UX Designer, Security",
