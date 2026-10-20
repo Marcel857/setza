@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-10-20T07:05:05Z",
+  "updated": "2026-10-20T12:50:14Z",
   "threshold": 60,
-  "count": 6,
+  "count": 5,
   "jobs": [
+    {
+      "title": "Trading Card & Produkt Designer",
+      "company": "Ultimate Dropz GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/ultimate-dropz-gmbh/trading-card-produkt-designer-dortmund-266930",
+      "source": "Arbeitnow",
+      "location": "Dortmund",
+      "remote": false,
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Education Designer: UX, UI, and AI",
       "company": "IxDF - Interaction Design Foundation",
@@ -16,23 +35,23 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Industriedesigner/In (W/M/D) In Vollzeit",
-      "company": "BUDDE INDUSTRIE DESIGN GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/budde-industrie-design-gmbh/industriedesigner-in-in-vollzeit-munster-194792",
+      "title": "Webdesigner (w/m/d)",
+      "company": "Migrando GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/webdesigner-cottbus-270829",
       "source": "Arbeitnow",
-      "location": "Münster",
+      "location": "Cottbus",
       "remote": false,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -48,36 +67,6 @@
         "Fotografie"
       ],
       "age_days": 7,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI/UX Designer",
-      "company": "Shift Boolean",
-      "url": "https://himalayas.app/companies/shift-boolean/jobs/ui-ux-designer?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Instructional Designer, TRM Academy (Compliance)",
-      "company": "TRM Labs",
-      "url": "https://jobicy.com/jobs/155918-instructional-designer-trm-academy-compliance",
-      "source": "Jobicy",
-      "location": "EMEA,  LATAM,  Canada,  USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
