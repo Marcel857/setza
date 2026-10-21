@@ -1,37 +1,21 @@
 {
   "app": "Setza",
-  "updated": "2026-10-21T09:30:17Z",
+  "updated": "2026-10-21T14:49:08Z",
   "threshold": 60,
   "count": 7,
   "jobs": [
     {
-      "title": "Junior / Middle Graphic Designer",
-      "company": "ScaleJet",
-      "url": "https://himalayas.app/companies/scalejet/jobs/junior-middle-graphic-designer?utm_source=api",
-      "source": "Himalayas",
-      "location": "Ukraine",
+      "title": "Graphic Designer",
+      "company": "Cata-Kor",
+      "url": "https://weworkremotely.com/remote-jobs/cata-kor-graphic-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
       "remote": true,
-      "score": 95,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
         "Packaging/Print",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Listing Grafiker (m/w/d)",
-      "company": "Neolymp",
-      "url": "https://www.arbeitnow.com/jobs/companies/neolymp/listing-grafiker-berlin-135963",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
+        "Branding",
         "Fotografie"
       ],
       "age_days": 0,
@@ -70,6 +54,20 @@
       "age_days": 8,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer - Visual Craft & AI",
+      "company": "Envato",
+      "url": "https://jobicy.com/jobs/156135-product-designer-visual-craft-ai",
+      "source": "Jobicy",
+      "location": "Australia,  New Zealand",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
