@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-21T14:49:08Z",
+  "updated": "2026-10-21T19:04:55Z",
   "threshold": 60,
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -17,6 +17,41 @@
         "Packaging/Print",
         "Branding",
         "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Creative Designer (m/w/d)",
+      "company": "Neolymp",
+      "url": "https://www.arbeitnow.com/jobs/companies/neolymp/creative-designer-berlin-23343",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer",
+      "company": "Mlabs",
+      "url": "https://www.arbeitnow.com/jobs/companies/mlabs/remote-product-designer-germany-348547",
+      "source": "Arbeitnow",
+      "location": "Germany",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media"
       ],
       "age_days": 0,
       "is_match": true,
@@ -67,7 +102,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Sr. UX Designer, Security",
@@ -79,22 +114,8 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Design",
-      "company": "Axle Careers",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/product-design-london-182345",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     },
     {
