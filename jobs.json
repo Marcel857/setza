@@ -1,42 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-21T00:00:01Z",
+  "updated": "2026-10-21T04:28:27Z",
   "threshold": 60,
-  "count": 7,
+  "count": 6,
   "jobs": [
-    {
-      "title": "Grafikdesigner / Mediengestalter (m/w/d) – Print & Digital",
-      "company": "Kopp Verlag e.K.",
-      "url": "https://www.arbeitnow.com/jobs/companies/kopp-verlag-ek/grafikdesigner-mediengestalter-print-digital-rottenburg-297511",
-      "source": "Arbeitnow",
-      "location": "Rottenburg",
-      "remote": false,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX/UI Designer (m/w/d) – Schwerpunkt E-Commerce",
-      "company": "Kopp Verlag e.K.",
-      "url": "https://www.arbeitnow.com/jobs/companies/kopp-verlag-ek/ux-ui-designer-schwerpunkt-e-commerce-rottenburg-350089",
-      "source": "Arbeitnow",
-      "location": "Rottenburg",
-      "remote": false,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Brand Visual & Performance Designer [all genders]",
       "company": "yummy",
@@ -100,9 +67,25 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Industrial / Product Designer",
+      "company": "MicroSourcing",
+      "url": "https://himalayas.app/companies/microsourcing/jobs/industrial-product-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
