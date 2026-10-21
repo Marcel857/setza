@@ -1,42 +1,42 @@
 {
   "app": "Setza",
-  "updated": "2026-10-21T04:28:27Z",
+  "updated": "2026-10-21T09:30:17Z",
   "threshold": 60,
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
-      "title": "Brand Visual & Performance Designer [all genders]",
-      "company": "yummy",
-      "url": "https://www.arbeitnow.com/jobs/companies/yummy/brand-visual-performance-designer-all-genders-munich-332202",
-      "source": "Arbeitnow",
-      "location": "Munich",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "title": "Junior / Middle Graphic Designer",
+      "company": "ScaleJet",
+      "url": "https://himalayas.app/companies/scalejet/jobs/junior-middle-graphic-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "Ukraine",
+      "remote": true,
+      "score": 95,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
         "Packaging/Print",
-        "Branding",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Listing Grafiker (m/w/d)",
+      "company": "Neolymp",
+      "url": "https://www.arbeitnow.com/jobs/companies/neolymp/listing-grafiker-berlin-135963",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
         "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Copy of Visiting Brand Designer",
-      "company": "Peec AI",
-      "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/copy-of-visiting-brand-designer-berlin-184822",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -50,7 +50,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
     },
@@ -72,22 +72,6 @@
       "is_new": false
     },
     {
-      "title": "Industrial / Product Designer",
-      "company": "MicroSourcing",
-      "url": "https://himalayas.app/companies/microsourcing/jobs/industrial-product-designer?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -99,6 +83,36 @@
       "tags": [],
       "age_days": 20,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Design",
+      "company": "Axle Careers",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/product-design-london-182345",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "Polygraf:in oder Mediamatiker:in (60-100%)",
+      "company": "ANDERHUB DRUCK-SERVICE AG",
+      "url": "https://www.arbeitnow.ch/jobs/companies/anderhub-druck-service-ag/polygrafin-oder-mediamatikerin-60-100-risch-rotkreuz-474724",
+      "source": "Arbeitnow",
+      "location": "Risch-Rotkreuz",
+      "remote": false,
+      "score": 44,
+      "reasons": "Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
