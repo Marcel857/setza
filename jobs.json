@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-21T19:04:55Z",
+  "updated": "2026-10-21T22:34:18Z",
   "threshold": 60,
-  "count": 8,
+  "count": 7,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -38,7 +38,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer",
@@ -55,7 +55,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -87,20 +87,6 @@
         "Fotografie"
       ],
       "age_days": 8,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer - Visual Craft & AI",
-      "company": "Envato",
-      "url": "https://jobicy.com/jobs/156135-product-designer-visual-craft-ai",
-      "source": "Jobicy",
-      "location": "Australia,  New Zealand",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
