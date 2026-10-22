@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-22T20:42:32Z",
+  "updated": "2026-10-22T23:51:14Z",
   "threshold": 60,
-  "count": 10,
+  "count": 6,
   "jobs": [
     {
       "title": "Sr. Marketing Designer",
@@ -19,7 +19,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -40,38 +40,6 @@
       "is_new": false
     },
     {
-      "title": "Digital Designer (m/w/d)",
-      "company": "Moby Digg GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/moby-digg-gmbh/digital-designer-munich-34926",
-      "source": "Arbeitnow",
-      "location": "Munich",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Performance Creative Designer (m/w/d)",
-      "company": "Moby Digg GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/moby-digg-gmbh/performance-creative-designer-munich-172795",
-      "source": "Arbeitnow",
-      "location": "Munich",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Education Designer: UX, UI, and AI",
       "company": "IxDF - Interaction Design Foundation",
       "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai-1",
@@ -84,20 +52,6 @@
         "Social Media"
       ],
       "age_days": 24,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Technischer Produktdesigner / Konstrukteur (m/w/d)",
-      "company": "Robel Mobil Fahrzeugbau GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/robel-mobil-fahrzeugbau-gmbh/technischer-produktdesigner-konstrukteur-emsburen-161949",
-      "source": "Arbeitnow",
-      "location": "Emsbüren",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -117,20 +71,6 @@
       "age_days": 9,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Instructional Designer / Train-the-Trainer Specialist (Journeyman)",
-      "company": "DecisionPoint Corporation",
-      "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/instructional-designer-train-the-trainer-specialist-journeyman?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
