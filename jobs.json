@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-10-22T06:20:43Z",
+  "updated": "2026-10-22T12:13:01Z",
   "threshold": 60,
-  "count": 6,
+  "count": 9,
   "jobs": [
+    {
+      "title": "Grafikdesigner – Vollzeit (m/w/d)",
+      "company": "DIGIHEADS GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/digiheads-gmbh/grafikdesigner-vollzeit-dortmund-30782",
+      "source": "Arbeitnow",
+      "location": "Dortmund",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Graphic Designer",
       "company": "Cata-Kor",
@@ -23,22 +42,21 @@
       "is_new": false
     },
     {
-      "title": "Creative Designer (m/w/d)",
-      "company": "Neolymp",
-      "url": "https://www.arbeitnow.com/jobs/companies/neolymp/creative-designer-berlin-23343",
+      "title": "Product Designer",
+      "company": "Mlabs",
+      "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-product-designer-netherlands-77442",
       "source": "Arbeitnow",
-      "location": "Berlin",
+      "location": "Netherlands",
       "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Branding",
-        "Social Media",
-        "Fotografie"
+        "Social Media"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -52,9 +70,25 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Grafikdesigner / Mediengestalter (m/w/d) mit Social-Media-Kenntnissen",
+      "company": "p-Beauty",
+      "url": "https://www.arbeitnow.com/jobs/companies/p-beauty/grafikdesigner-mediengestalter-mit-social-media-kenntnissen-biberach-381100",
+      "source": "Arbeitnow",
+      "location": "Biberach",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -70,6 +104,22 @@
         "Fotografie"
       ],
       "age_days": 9,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Creative (Graphic Designer)",
+      "company": "Superside",
+      "url": "https://jobicy.com/jobs/153808-creative-graphic-designer",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
