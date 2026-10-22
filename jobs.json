@@ -1,16 +1,16 @@
 {
   "app": "Setza",
-  "updated": "2026-10-22T12:13:01Z",
+  "updated": "2026-10-22T17:26:58Z",
   "threshold": 60,
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
-      "title": "Grafikdesigner – Vollzeit (m/w/d)",
-      "company": "DIGIHEADS GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/digiheads-gmbh/grafikdesigner-vollzeit-dortmund-30782",
+      "title": "Grafikdesigner/-in – Remote (m/w/d)",
+      "company": "Roman Mayer GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/roman-mayer-gmbh/grafikdesigner-in-remote-frankfurt-am-main-121413",
       "source": "Arbeitnow",
-      "location": "Dortmund",
-      "remote": false,
+      "location": "Homeoffice",
+      "remote": true,
       "score": 87,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
@@ -18,6 +18,22 @@
         "Branding",
         "Social Media",
         "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer",
+      "company": "Discovery Education",
+      "url": "https://himalayas.app/companies/discoveryeducation/jobs/product-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
       ],
       "age_days": 0,
       "is_match": true,
@@ -37,22 +53,37 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "Mlabs",
-      "url": "https://www.arbeitnow.nl/jobs/companies/mlabs/remote-product-designer-netherlands-77442",
+      "title": "Digital Designer (f/m/d)",
+      "company": "Moby Digg GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/moby-digg-gmbh/digital-designer-munich-34926",
       "source": "Arbeitnow",
-      "location": "Netherlands",
-      "remote": true,
+      "location": "Munich",
+      "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Branding",
-        "Social Media"
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Performance Creative Designer (f/m/d)",
+      "company": "Moby Digg GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/moby-digg-gmbh/performance-creative-designer-munich-172795",
+      "source": "Arbeitnow",
+      "location": "Munich",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
       ],
       "age_days": 0,
       "is_match": true,
@@ -75,17 +106,15 @@
       "is_new": false
     },
     {
-      "title": "Grafikdesigner / Mediengestalter (m/w/d) mit Social-Media-Kenntnissen",
-      "company": "p-Beauty",
-      "url": "https://www.arbeitnow.com/jobs/companies/p-beauty/grafikdesigner-mediengestalter-mit-social-media-kenntnissen-biberach-381100",
+      "title": "Technischer Produktdesigner / Konstrukteur (m/w/d)",
+      "company": "Robel Mobil Fahrzeugbau GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/robel-mobil-fahrzeugbau-gmbh/technischer-produktdesigner-konstrukteur-emsburen-161949",
       "source": "Arbeitnow",
-      "location": "Biberach",
+      "location": "Emsbüren",
       "remote": false,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Social Media"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -108,22 +137,6 @@
       "is_new": false
     },
     {
-      "title": "Creative (Graphic Designer)",
-      "company": "Superside",
-      "url": "https://jobicy.com/jobs/153808-creative-graphic-designer",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -133,25 +146,25 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Polygraf:in oder Mediamatiker:in (60-100%)",
-      "company": "ANDERHUB DRUCK-SERVICE AG",
-      "url": "https://www.arbeitnow.ch/jobs/companies/anderhub-druck-service-ag/polygrafin-oder-mediamatikerin-60-100-risch-rotkreuz-474724",
+      "title": "Embedded Software Designer",
+      "company": "GradeMatch",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/embedded-software-designer-eindhoven-21636",
       "source": "Arbeitnow",
-      "location": "Risch-Rotkreuz",
+      "location": "Eindhoven, Noord-Brabant, Nederland",
       "remote": false,
-      "score": 44,
-      "reasons": "Packaging/Print, Deutsch ausreichend",
+      "score": 60,
+      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Packaging/Print"
+        "Junior"
       ],
-      "age_days": 1,
-      "is_match": false,
-      "is_new": false
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
