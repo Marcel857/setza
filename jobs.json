@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-23T03:11:14Z",
+  "updated": "2026-10-23T08:44:17Z",
   "threshold": 60,
-  "count": 7,
+  "count": 6,
   "jobs": [
-    {
-      "title": "Entry-Level Structural Designer",
-      "company": "My VA Support, Inc.",
-      "url": "https://himalayas.app/companies/my-va-support-inc/jobs/entry-level-structural-designer?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Sr. Marketing Designer",
       "company": "Imprint",
@@ -54,6 +38,24 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Motion & Graphic Designer (f/m/x)",
+      "company": "Patronus",
+      "url": "https://www.arbeitnow.com/jobs/companies/patronus/motion-graphic-designer-berlin-138875",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -99,22 +101,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 22,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Embedded Software Designer",
-      "company": "GradeMatch",
-      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/embedded-software-designer-eindhoven-21636",
-      "source": "Arbeitnow",
-      "location": "Eindhoven, Noord-Brabant, Nederland",
-      "remote": false,
-      "score": 60,
-      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     }
