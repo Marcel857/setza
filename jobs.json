@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-10-22T23:51:14Z",
+  "updated": "2026-10-23T03:11:14Z",
   "threshold": 60,
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "title": "Entry-Level Structural Designer",
+      "company": "My VA Support, Inc.",
+      "url": "https://himalayas.app/companies/my-va-support-inc/jobs/entry-level-structural-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Sr. Marketing Designer",
       "company": "Imprint",
@@ -68,7 +84,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
