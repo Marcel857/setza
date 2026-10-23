@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-23T08:44:17Z",
+  "updated": "2026-10-23T14:01:33Z",
   "threshold": 60,
-  "count": 6,
+  "count": 4,
   "jobs": [
-    {
-      "title": "Sr. Marketing Designer",
-      "company": "Imprint",
-      "url": "https://jobicy.com/jobs/156423-sr-marketing-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Graphic Designer",
       "company": "Cata-Kor",
@@ -35,27 +18,9 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Motion & Graphic Designer (f/m/x)",
-      "company": "Patronus",
-      "url": "https://www.arbeitnow.com/jobs/companies/patronus/motion-graphic-designer-berlin-138875",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -69,7 +34,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
