@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-10-24T04:52:38Z",
+  "updated": "2026-10-24T09:16:11Z",
   "threshold": 60,
   "count": 6,
   "jobs": [
@@ -72,20 +72,6 @@
       "is_new": false
     },
     {
-      "title": "Content Designer II (Remote Eligible - Costa Rica)",
-      "company": "Smartsheet",
-      "url": "https://jobicy.com/jobs/156653-content-designer-ii-remote-eligible-costa-rica",
-      "source": "Jobicy",
-      "location": "Costa Rica",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -97,6 +83,22 @@
       "tags": [],
       "age_days": 23,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product & Brand Designer",
+      "company": "V7Labs.com",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/v7labscom/product-brand-designer-london-122025",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
