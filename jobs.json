@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-24T09:16:11Z",
+  "updated": "2026-10-24T13:27:15Z",
   "threshold": 60,
-  "count": 6,
+  "count": 4,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -18,23 +18,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 2,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "HOPn UG",
-      "url": "https://www.arbeitnow.com/jobs/companies/hopn-ug/graphic-designer-puchheim-347117",
-      "source": "Arbeitnow",
-      "location": "Puchheim",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -50,7 +34,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
     },
@@ -83,22 +67,6 @@
       "tags": [],
       "age_days": 23,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product & Brand Designer",
-      "company": "V7Labs.com",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/v7labscom/product-brand-designer-london-122025",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     }
   ]
