@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-25T08:54:54Z",
+  "updated": "2026-10-25T13:31:54Z",
   "threshold": 60,
-  "count": 6,
+  "count": 11,
   "jobs": [
     {
       "title": "Industrial Designer",
@@ -35,7 +35,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -51,7 +51,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
@@ -68,6 +68,42 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "2D Designer",
+      "company": "Jobgether",
+      "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/2d-designer-france-231615",
+      "source": "Arbeitnow",
+      "location": "France",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "2D Designer",
+      "company": "Jobgether",
+      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/2d-designer-switzerland-376650",
+      "source": "Arbeitnow",
+      "location": "Switzerland",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -98,6 +134,50 @@
       "tags": [],
       "age_days": 24,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "UX/UI Designer (H/F)",
+      "company": "WINAMAX",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/ux-ui-designer-h-f-paris-302617",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "STAGE - UX/UI Designer (H/F)",
+      "company": "WINAMAX",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-ux-ui-designer-h-f-paris-477970",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "Vacature: Stagiair Illustrator / Designer",
+      "company": "Bigfish.nl",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-64598",
+      "source": "Arbeitnow",
+      "location": "Eindhoven",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
