@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-10-24T23:57:36Z",
+  "updated": "2026-10-25T03:46:58Z",
   "threshold": 60,
-  "count": 4,
+  "count": 6,
   "jobs": [
+    {
+      "title": "Industrial Designer",
+      "company": "Sereact GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/industrial-designer-stuttgart-370962",
+      "source": "Arbeitnow",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Graphic Designer",
       "company": "Cata-Kor",
@@ -39,6 +56,20 @@
       "is_new": false
     },
     {
+      "title": "Product Designer (m/f/d)",
+      "company": "Sereact GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/product-designer-stuttgart-52023",
+      "source": "Arbeitnow",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Graphic Designer & Video Editor",
       "company": "BlueTuskr",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
@@ -51,7 +82,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
