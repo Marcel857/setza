@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-10-25T03:46:58Z",
+  "updated": "2026-10-25T08:54:54Z",
   "threshold": 60,
   "count": 6,
   "jobs": [
@@ -19,7 +19,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -67,7 +67,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer & Video Editor",
