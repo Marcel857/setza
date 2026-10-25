@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-10-25T17:22:33Z",
+  "updated": "2026-10-25T19:50:23Z",
   "threshold": 60,
   "count": 7,
   "jobs": [
@@ -85,7 +85,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Sr. UX Designer, Security",
