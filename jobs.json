@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-10-26T00:31:40Z",
+  "updated": "2026-10-26T05:43:56Z",
   "threshold": 60,
-  "count": 7,
+  "count": 9,
   "jobs": [
+    {
+      "title": "Grafiker (m/w/d)",
+      "company": "Zet B Werbung und Marketing GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/zet-b-werbung-und-marketing-gmbh/grafiker-stuttgart-323170",
+      "source": "Arbeitnow",
+      "location": "Stuttgart",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Graphic Designer",
       "company": "Cata-Kor",
@@ -99,6 +116,20 @@
       "tags": [],
       "age_days": 25,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Stage de 6 mois UX/UI Designer (H/F/N) – PARIS",
+      "company": "Ekimetrics",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-de-6-mois-ux-ui-designer-paris-295393",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     },
     {
