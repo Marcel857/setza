@@ -1,43 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-26T12:10:20Z",
+  "updated": "2026-10-26T18:46:41Z",
   "threshold": 60,
-  "count": 8,
+  "count": 10,
   "jobs": [
-    {
-      "title": "Web Designer für E-Mail Marketing (Klaviyo) (m/w/d)",
-      "company": "Bendt Brothers",
-      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/web-designer-fur-e-mail-marketing-klaviyo-elsdorf-160869",
-      "source": "Arbeitnow",
-      "location": "Elsdorf",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Grafiker (m/w/d)",
-      "company": "Zet B Werbung und Marketing GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/zet-b-werbung-und-marketing-gmbh/grafiker-stuttgart-323170",
-      "source": "Arbeitnow",
-      "location": "Stuttgart",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Graphic Designer",
       "company": "Cata-Kor",
@@ -52,9 +18,25 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Location Designer",
+      "company": "Guru Studio",
+      "url": "https://himalayas.app/companies/guru-studio/jobs/location-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "Canada",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -108,6 +90,20 @@
       "is_new": false
     },
     {
+      "title": "Motion Designer (Permanent work from home)",
+      "company": "Lightspeed Commerce",
+      "url": "https://jobicy.com/jobs/157142-motion-designer-permanent-work-from-home",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -117,8 +113,36 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "CDI - UX/AI Designer - Artefact 3000 - Paris",
+      "company": "Artefact",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-ux-ai-designer-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-29277",
+      "source": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "CDI - UX/AI Designer - Artefact 3000 - Paris",
+      "company": "Artefactlinkedin",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-ux-ai-designer-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-449143",
+      "source": "Arbeitnow",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     },
     {
