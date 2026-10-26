@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-10-26T05:43:56Z",
+  "updated": "2026-10-26T12:10:20Z",
   "threshold": 60,
-  "count": 9,
+  "count": 8,
   "jobs": [
+    {
+      "title": "Web Designer für E-Mail Marketing (Klaviyo) (m/w/d)",
+      "company": "Bendt Brothers",
+      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/web-designer-fur-e-mail-marketing-klaviyo-elsdorf-160869",
+      "source": "Arbeitnow",
+      "location": "Elsdorf",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Grafiker (m/w/d)",
       "company": "Zet B Werbung und Marketing GmbH",
@@ -19,7 +36,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer",
@@ -51,7 +68,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     },
@@ -69,7 +86,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -91,20 +108,6 @@
       "is_new": false
     },
     {
-      "title": "Learning Experience Designer",
-      "company": "Dropbox",
-      "url": "https://jobicy.com/jobs/156932-learning-experience-designer-3",
-      "source": "Jobicy",
-      "location": "Ireland",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -119,20 +122,6 @@
       "is_new": false
     },
     {
-      "title": "Stage de 6 mois UX/UI Designer (H/F/N) – PARIS",
-      "company": "Ekimetrics",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-de-6-mois-ux-ui-designer-paris-295393",
-      "source": "Arbeitnow",
-      "location": "Paris",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
       "title": "Vacature: Stagiair Illustrator / Designer",
       "company": "Bigfish.nl",
       "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-64598",
@@ -144,7 +133,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": false,
       "is_new": false
     }
