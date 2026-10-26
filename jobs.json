@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-26T18:46:41Z",
+  "updated": "2026-10-26T22:59:57Z",
   "threshold": 60,
-  "count": 10,
+  "count": 9,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -23,17 +23,29 @@
       "is_new": false
     },
     {
-      "title": "Location Designer",
-      "company": "Guru Studio",
-      "url": "https://himalayas.app/companies/guru-studio/jobs/location-designer?utm_source=api",
-      "source": "Himalayas",
-      "location": "Canada",
+      "title": "Nageldesigner*in & Fußpfleger*in (evtl. auch Wimpernstylist*in)",
+      "company": "Jessica Marciniak Skin & more",
+      "url": "https://www.arbeitnow.com/jobs/companies/jessica-marciniak-skin-more/nageldesignerin-fusspflegerin-evtl-auch-wimpernstylistin-dusseldorf-498655",
+      "source": "Arbeitnow",
+      "location": "Düsseldorf",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer-Builder | StellarTech",
+      "company": "Hirehire",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-product-designer-builder-stellartech-47148",
+      "source": "Arbeitnow",
+      "location": "Remote",
       "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -90,20 +102,6 @@
       "is_new": false
     },
     {
-      "title": "Motion Designer (Permanent work from home)",
-      "company": "Lightspeed Commerce",
-      "url": "https://jobicy.com/jobs/157142-motion-designer-permanent-work-from-home",
-      "source": "Jobicy",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -119,22 +117,8 @@
     },
     {
       "title": "CDI - UX/AI Designer - Artefact 3000 - Paris",
-      "company": "Artefact",
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-ux-ai-designer-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-29277",
-      "source": "Arbeitnow",
-      "location": "9th arrondissement of Paris, 75009, Paris",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "CDI - UX/AI Designer - Artefact 3000 - Paris",
-      "company": "Artefactlinkedin",
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-ux-ai-designer-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-449143",
+      "company": "Artefactjobs",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-ux-ai-designer-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-113496",
       "source": "Arbeitnow",
       "location": "9th arrondissement of Paris, 75009, Paris",
       "remote": false,
