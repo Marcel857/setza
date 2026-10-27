@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-26T22:59:57Z",
+  "updated": "2026-10-27T01:58:03Z",
   "threshold": 60,
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -23,6 +23,22 @@
       "is_new": false
     },
     {
+      "title": "Product Designer",
+      "company": "Swarmaero",
+      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-product-designer-15490",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Nageldesigner*in & Fußpfleger*in (evtl. auch Wimpernstylist*in)",
       "company": "Jessica Marciniak Skin & more",
       "url": "https://www.arbeitnow.com/jobs/companies/jessica-marciniak-skin-more/nageldesignerin-fusspflegerin-evtl-auch-wimpernstylistin-dusseldorf-498655",
@@ -34,7 +50,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Product Designer-Builder | StellarTech",
@@ -48,7 +64,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Education Designer: UX, UI, and AI",
@@ -97,7 +113,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
