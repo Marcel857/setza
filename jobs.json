@@ -1,21 +1,20 @@
 {
   "app": "Setza",
-  "updated": "2026-10-27T19:10:44Z",
+  "updated": "2026-10-27T23:02:37Z",
   "threshold": 60,
-  "count": 7,
+  "count": 6,
   "jobs": [
     {
-      "title": "Designer - Part-Time - Print Hub",
-      "company": "Newsquest Media Group",
-      "url": "https://himalayas.app/companies/newsquest-media-group/jobs/designer-part-time-print-hub?utm_source=api",
-      "source": "Himalayas",
-      "location": "United Kingdom",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "title": "UX Product Designer",
+      "company": "Attendi",
+      "url": "https://www.arbeitnow.nl/jobs/companies/attendi/ux-product-designer-amsterdam-466511",
+      "source": "Arbeitnow",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Packaging/Print",
-        "Fotografie"
+        "Packaging/Print"
       ],
       "age_days": 0,
       "is_match": true,
@@ -102,22 +101,6 @@
       "tags": [],
       "age_days": 27,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Vacature: Stagiair Illustrator / Designer",
-      "company": "Bigfish.nl",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-64598",
-      "source": "Arbeitnow",
-      "location": "Eindhoven",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 2,
-      "is_match": false,
       "is_new": false
     }
   ]
