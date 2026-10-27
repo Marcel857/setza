@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-10-27T13:53:36Z",
+  "updated": "2026-10-27T19:10:44Z",
   "threshold": 60,
-  "count": 8,
+  "count": 7,
   "jobs": [
+    {
+      "title": "Designer - Part-Time - Print Hub",
+      "company": "Newsquest Media Group",
+      "url": "https://himalayas.app/companies/newsquest-media-group/jobs/designer-part-time-print-hub?utm_source=api",
+      "source": "Himalayas",
+      "location": "United Kingdom",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Graphic Designer",
       "company": "Cata-Kor",
@@ -74,22 +91,6 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer (Permanent work from home)",
-      "company": "Lightspeed Commerce",
-      "url": "https://jobicy.com/jobs/157296-graphic-designer-permanent-work-from-home",
-      "source": "Jobicy",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -99,22 +100,8 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "CDI - UX/AI Designer - Artefact 3000 - Paris",
-      "company": "Artefactjobs",
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-ux-ai-designer-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-113496",
-      "source": "Arbeitnow",
-      "location": "9th arrondissement of Paris, 75009, Paris",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     },
     {
