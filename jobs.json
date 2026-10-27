@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-27T07:31:12Z",
+  "updated": "2026-10-27T13:53:36Z",
   "threshold": 60,
-  "count": 10,
+  "count": 8,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -18,51 +18,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Swarmaero",
-      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-product-designer-15490",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Nageldesigner*in & Fußpfleger*in (evtl. auch Wimpernstylist*in)",
-      "company": "Jessica Marciniak Skin & more",
-      "url": "https://www.arbeitnow.com/jobs/companies/jessica-marciniak-skin-more/nageldesignerin-fusspflegerin-evtl-auch-wimpernstylistin-dusseldorf-498655",
-      "source": "Arbeitnow",
-      "location": "Düsseldorf",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer-Builder | StellarTech",
-      "company": "Hirehire",
-      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-product-designer-builder-stellartech-47148",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -78,7 +34,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
     },
@@ -96,7 +52,7 @@
         "Social Media",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -116,6 +72,22 @@
       "age_days": 14,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer (Permanent work from home)",
+      "company": "Lightspeed Commerce",
+      "url": "https://jobicy.com/jobs/157296-graphic-designer-permanent-work-from-home",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
@@ -157,7 +129,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": false,
       "is_new": false
     }
