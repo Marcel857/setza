@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-28T02:29:19Z",
+  "updated": "2026-10-28T08:54:43Z",
   "threshold": 60,
-  "count": 6,
+  "count": 5,
   "jobs": [
     {
       "title": "UX Product Designer",
@@ -51,24 +51,6 @@
         "Social Media"
       ],
       "age_days": 29,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "2D Designer",
-      "company": "Jobgether",
-      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/2d-designer-switzerland-376650",
-      "source": "Arbeitnow",
-      "location": "Switzerland",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
