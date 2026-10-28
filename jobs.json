@@ -1,24 +1,24 @@
 {
   "app": "Setza",
-  "updated": "2026-10-28T15:41:27Z",
+  "updated": "2026-10-28T20:44:28Z",
   "threshold": 60,
   "count": 6,
   "jobs": [
     {
-      "title": "UX Product Designer",
-      "company": "Attendi",
-      "url": "https://www.arbeitnow.nl/jobs/companies/attendi/ux-product-designer-amsterdam-466511",
-      "source": "Arbeitnow",
-      "location": "Amsterdam, Noord-Holland, Netherlands",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Remote Itinerary Designer – Entry Level",
+      "company": "Beths Beautiful Destinations",
+      "url": "https://himalayas.app/companies/beths-beautiful-destinations/jobs/remote-itinerary-designer-entry-level?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print"
+        "Junior"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer",
@@ -39,36 +39,6 @@
       "is_new": false
     },
     {
-      "title": "CRO & E-Commerce Designer:in (m/w/d)",
-      "company": "we-site GmbH - Shopify Agentur",
-      "url": "https://www.arbeitnow.com/jobs/companies/we-site-gmbh-shopify-agentur/cro-e-commerce-designerin-hamburg-83841",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "UX/UI Designer (m/w/d) mit Projektverantwortung",
-      "company": "Liftric GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/liftric-gmbh/ux-ui-designer-mit-projektverantwortung-mannheim-394075",
-      "source": "Arbeitnow",
-      "location": "Mannheim",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Graphic Designer & Video Editor",
       "company": "BlueTuskr",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
@@ -86,6 +56,22 @@
       "is_new": false
     },
     {
+      "title": "Brand Experience Designer, Consumer",
+      "company": "Toast",
+      "url": "https://jobicy.com/jobs/157650-brand-experience-designer-consumer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -97,6 +83,22 @@
       "tags": [],
       "age_days": 28,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Vacature: Stagiair Illustrator / Designer",
+      "company": "Bigfish.nl",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-160982",
+      "source": "Arbeitnow",
+      "location": "Eindhoven",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
