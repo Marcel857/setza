@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-28T08:54:43Z",
+  "updated": "2026-10-28T15:41:27Z",
   "threshold": 60,
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "title": "UX Product Designer",
@@ -34,25 +34,39 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Education Designer: UX, UI, and AI",
-      "company": "IxDF - Interaction Design Foundation",
-      "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai-1",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
+      "title": "CRO & E-Commerce Designer:in (m/w/d)",
+      "company": "we-site GmbH - Shopify Agentur",
+      "url": "https://www.arbeitnow.com/jobs/companies/we-site-gmbh-shopify-agentur/cro-e-commerce-designerin-hamburg-83841",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Social Media"
+        "Branding"
       ],
-      "age_days": 29,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "UX/UI Designer (m/w/d) mit Projektverantwortung",
+      "company": "Liftric GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/liftric-gmbh/ux-ui-designer-mit-projektverantwortung-mannheim-394075",
+      "source": "Arbeitnow",
+      "location": "Mannheim",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -81,7 +95,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 27,
+      "age_days": 28,
       "is_match": true,
       "is_new": false
     }
