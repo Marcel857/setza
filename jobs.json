@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-10-29T19:23:25Z",
+  "updated": "2026-10-29T23:28:26Z",
   "threshold": 60,
   "count": 9,
   "jobs": [
+    {
+      "title": "Brand Designer",
+      "company": "Thatch",
+      "url": "https://weworkremotely.com/remote-jobs/thatch-brand-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Graphic Designer",
       "company": "Cata-Kor",
@@ -21,34 +38,6 @@
       "age_days": 8,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Instructional Designer",
-      "company": "Quantexa",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/instructional-designer-london-30502",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Learning Designer",
-      "company": "Quantexa",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/learning-designer-london-50878",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Product Design stage",
@@ -79,7 +68,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -97,6 +86,20 @@
       "age_days": 16,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "2D Graphic and Motion Designer",
+      "company": "Ruby Labs",
+      "url": "https://jobicy.com/jobs/157876-2d-graphic-and-motion-designer",
+      "source": "Jobicy",
+      "location": "Europe",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Sr. UX Designer, Security",
@@ -124,7 +127,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UI/UX Designer B2B SaaS - 80% (m/w/d)",
