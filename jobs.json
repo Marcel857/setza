@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-29T06:42:58Z",
+  "updated": "2026-10-29T13:54:31Z",
   "threshold": 60,
-  "count": 6,
+  "count": 5,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -18,23 +18,23 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Technischer Grafikdesigner (m/w/d) Möbel",
-      "company": "Bela Living GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/bela-living-gmbh/technischer-grafikdesigner-mobel-berlin-110552",
+      "title": "Product Design stage",
+      "company": "Crisp",
+      "url": "https://www.arbeitnow.nl/jobs/companies/crisp/product-design-stage-amsterdam-90806",
       "source": "Arbeitnow",
-      "location": "Berlin",
+      "location": "Amsterdam",
       "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -77,22 +77,6 @@
       "score": 47,
       "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "Vacature: Stagiair Illustrator / Designer",
-      "company": "Bigfish.nl",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-160982",
-      "source": "Arbeitnow",
-      "location": "Eindhoven",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
       "age_days": 0,
       "is_match": false,
       "is_new": false
