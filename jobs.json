@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-29T13:54:31Z",
+  "updated": "2026-10-29T19:23:25Z",
   "threshold": 60,
-  "count": 5,
+  "count": 9,
   "jobs": [
     {
       "title": "Graphic Designer",
@@ -23,6 +23,34 @@
       "is_new": false
     },
     {
+      "title": "Instructional Designer",
+      "company": "Quantexa",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/instructional-designer-london-30502",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Learning Designer",
+      "company": "Quantexa",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/learning-designer-london-50878",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Product Design stage",
       "company": "Crisp",
       "url": "https://www.arbeitnow.nl/jobs/companies/crisp/product-design-stage-amsterdam-90806",
@@ -32,6 +60,23 @@
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Polygraf:in / Media Publisher:in mit Fokus Bildbearbeitung",
+      "company": "Inhalt&Form Kommunikations AG",
+      "url": "https://www.arbeitnow.ch/jobs/companies/inhaltform-kommunikations-ag/polygrafin-media-publisherin-mit-fokus-bildbearbeitung-zurich-416182",
+      "source": "Arbeitnow",
+      "location": "Zürich",
+      "remote": false,
+      "score": 74,
+      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Social Media"
+      ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -63,9 +108,23 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX Designer - Research Participants - United Kingdom",
+      "company": "Prolificacademicltd",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prolificacademicltd/ux-designer-research-participants-united-kingdom-254875",
+      "source": "Arbeitnow",
+      "location": "",
+      "remote": false,
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UI/UX Designer B2B SaaS - 80% (m/w/d)",
