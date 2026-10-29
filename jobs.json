@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-28T20:44:28Z",
+  "updated": "2026-10-29T00:34:10Z",
   "threshold": 60,
   "count": 6,
   "jobs": [
-    {
-      "title": "Remote Itinerary Designer – Entry Level",
-      "company": "Beths Beautiful Destinations",
-      "url": "https://himalayas.app/companies/beths-beautiful-destinations/jobs/remote-itinerary-designer-entry-level?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Graphic Designer",
       "company": "Cata-Kor",
@@ -39,6 +23,20 @@
       "is_new": false
     },
     {
+      "title": "Technischer Grafikdesigner (m/w/d) Möbel",
+      "company": "Bela Living GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/bela-living-gmbh/technischer-grafikdesigner-mobel-berlin-110552",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Graphic Designer & Video Editor",
       "company": "BlueTuskr",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
@@ -51,7 +49,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
@@ -69,7 +67,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Sr. UX Designer, Security",
