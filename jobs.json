@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-10-29T00:34:10Z",
+  "updated": "2026-10-29T06:42:58Z",
   "threshold": 60,
   "count": 6,
   "jobs": [
@@ -34,7 +34,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -54,22 +54,6 @@
       "is_new": false
     },
     {
-      "title": "Brand Experience Designer, Consumer",
-      "company": "Toast",
-      "url": "https://jobicy.com/jobs/157650-brand-experience-designer-consumer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Sr. UX Designer, Security",
       "company": "Cribl",
       "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
@@ -81,6 +65,20 @@
       "tags": [],
       "age_days": 28,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "UI/UX Designer B2B SaaS - 80% (m/w/d)",
+      "company": "Smino",
+      "url": "https://www.arbeitnow.ch/jobs/companies/smino/ui-ux-designer-b2b-saas-80-zurich-309469",
+      "source": "Arbeitnow",
+      "location": "Zürich",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     },
     {
