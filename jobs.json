@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-30T02:49:19Z",
+  "updated": "2026-10-30T09:32:13Z",
   "threshold": 60,
-  "count": 7,
+  "count": 12,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -19,7 +19,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Brand Designer",
@@ -98,6 +98,80 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Brand Experience Designer, Consumer",
+      "company": "Toast",
+      "url": "https://jobicy.com/jobs/157650-brand-experience-designer-consumer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Graphic Designer (Permanent work from home)",
+      "company": "Lightspeed Commerce",
+      "url": "https://jobicy.com/jobs/157296-graphic-designer-permanent-work-from-home",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 3,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Motion Designer (Permanent work from home)",
+      "company": "Lightspeed Commerce",
+      "url": "https://jobicy.com/jobs/157142-motion-designer-permanent-work-from-home",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 3,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Learning Experience Designer",
+      "company": "Dropbox",
+      "url": "https://jobicy.com/jobs/156932-learning-experience-designer-3",
+      "source": "Jobicy",
+      "location": "Ireland",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 4,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Content Designer II (Remote Eligible - Costa Rica)",
+      "company": "Smartsheet",
+      "url": "https://jobicy.com/jobs/156653-content-designer-ii-remote-eligible-costa-rica",
+      "source": "Jobicy",
+      "location": "Costa Rica",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
