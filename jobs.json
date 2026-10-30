@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-10-30T09:32:13Z",
+  "updated": "2026-10-30T16:30:12Z",
   "threshold": 60,
-  "count": 12,
+  "count": 13,
   "jobs": [
-    {
-      "title": "Brand Designer",
-      "company": "Black Forest Labs",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-forest-labs/brand-designer-freiburg-48693",
-      "source": "Arbeitnow",
-      "location": "Freiburg (Germany)",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -52,23 +35,25 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Product Design stage",
-      "company": "Crisp",
-      "url": "https://www.arbeitnow.nl/jobs/companies/crisp/product-design-stage-amsterdam-90806",
+      "title": "Graphic Designer - Maternity Cover FTC",
+      "company": "Leovegasgroup",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/graphic-designer-maternity-cover-ftc-newcastle-upon-tyne-285117",
       "source": "Arbeitnow",
-      "location": "Amsterdam",
+      "location": "Newcastle Upon Tyne, UK",
       "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -97,7 +82,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
@@ -113,7 +98,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -143,7 +128,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -157,7 +142,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -185,8 +170,42 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 29,
+      "age_days": 30,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Brand Designer H/F",
+      "company": "N2JSoft",
+      "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/brand-designer-h-f-lyon-338874",
+      "source": "Arbeitnow",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France",
+      "remote": false,
+      "score": 57,
+      "reasons": "Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Parallel",
+      "url": "https://www.arbeitnow.fr/jobs/companies/parallel/product-designer-paris-74148",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
