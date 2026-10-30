@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-10-30T16:30:12Z",
+  "updated": "2026-10-30T20:59:37Z",
   "threshold": 60,
-  "count": 13,
+  "count": 14,
   "jobs": [
+    {
+      "title": "Technical Designer",
+      "company": "Fresh Prints",
+      "url": "https://jobicy.com/jobs/158084-technical-designer",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -40,16 +56,17 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer - Maternity Cover FTC",
-      "company": "Leovegasgroup",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/graphic-designer-maternity-cover-ftc-newcastle-upon-tyne-285117",
+      "title": "Product Designer",
+      "company": "Knowunity GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/knowunity-gmbh/product-designer-berlin-371892",
       "source": "Arbeitnow",
-      "location": "Newcastle Upon Tyne, UK",
+      "location": "Berlin",
       "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Branding"
+        "Branding",
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
@@ -71,6 +88,20 @@
       "age_days": 17,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Intermediate Graphic Designer",
+      "company": "Kaseya",
+      "url": "https://jobicy.com/jobs/158096-intermediate-graphic-designer",
+      "source": "Jobicy",
+      "location": "Canada",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "2D Graphic and Motion Designer",
@@ -143,20 +174,6 @@
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Content Designer II (Remote Eligible - Costa Rica)",
-      "company": "Smartsheet",
-      "url": "https://jobicy.com/jobs/156653-content-designer-ii-remote-eligible-costa-rica",
-      "source": "Jobicy",
-      "location": "Costa Rica",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
