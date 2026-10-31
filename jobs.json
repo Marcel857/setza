@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-10-31T06:35:05Z",
+  "updated": "2026-10-31T13:15:55Z",
   "threshold": 60,
   "count": 14,
   "jobs": [
@@ -51,7 +51,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -128,7 +128,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -142,7 +142,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -156,7 +156,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -189,7 +189,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI Product Concept Designer & Interior Stylist – Home Décor (Part-/Full-time)",
@@ -206,7 +206,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI Product Concept Designer & Interior Stylist – Home Décor (Part-/Full-time)",
@@ -223,7 +223,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
