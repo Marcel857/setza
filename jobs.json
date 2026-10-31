@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-31T00:37:20Z",
+  "updated": "2026-10-31T06:35:05Z",
   "threshold": 60,
-  "count": 15,
+  "count": 14,
   "jobs": [
     {
       "title": "Technical Designer",
@@ -54,37 +54,6 @@
       "age_days": 9,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Knowunity GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/knowunity-gmbh/product-designer-berlin-371892",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Wave",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wave/product-designer-london-179184",
-      "source": "Arbeitnow",
-      "location": "London, England, United Kingdom",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -206,38 +175,55 @@
       "is_new": false
     },
     {
-      "title": "Brand Designer H/F",
-      "company": "N2JSoft",
-      "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/brand-designer-h-f-lyon-338874",
+      "title": "AI Product Concept Designer & Interior Stylist – Home Décor (Part-/Full-time)",
+      "company": "Jobgether",
+      "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/ai-product-concept-designer-interior-stylist-home-decor-part-full-time-france-497953",
       "source": "Arbeitnow",
-      "location": "Lyon, Auvergne-Rhône-Alpes, France",
+      "location": "France",
       "remote": false,
-      "score": 57,
-      "reasons": "Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
       "tags": [
-        "Packaging/Print",
         "Branding",
         "Fotografie"
       ],
       "age_days": 0,
-      "is_match": false,
-      "is_new": false
+      "is_match": true,
+      "is_new": true
     },
     {
-      "title": "Product Designer",
-      "company": "Parallel",
-      "url": "https://www.arbeitnow.fr/jobs/companies/parallel/product-designer-paris-74148",
+      "title": "AI Product Concept Designer & Interior Stylist – Home Décor (Part-/Full-time)",
+      "company": "Jobgether",
+      "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/ai-product-concept-designer-interior-stylist-home-decor-part-full-time-france-121153",
       "source": "Arbeitnow",
-      "location": "Paris",
+      "location": "France",
       "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
       "tags": [
-        "Branding"
+        "Branding",
+        "Fotografie"
       ],
       "age_days": 0,
-      "is_match": false,
-      "is_new": false
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "AI Product Concept Designer & Interior Stylist – Home Décor (Part-/Full-time)",
+      "company": "Jobgether",
+      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-product-concept-designer-interior-stylist-home-decor-part-full-time-switzerland-324141",
+      "source": "Arbeitnow",
+      "location": "Switzerland",
+      "remote": false,
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
