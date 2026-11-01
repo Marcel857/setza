@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-11-01T11:25:59Z",
+  "updated": "2026-11-01T17:12:29Z",
   "threshold": 60,
   "count": 11,
   "jobs": [
@@ -51,16 +51,16 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Product Designer",
-      "company": "Bigblue",
-      "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/product-designer-paris-75685",
+      "title": "Motion Designer",
+      "company": "Wordsmith",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wordsmith/motion-designer-london-380114",
       "source": "Arbeitnow",
-      "location": "Paris",
+      "location": "London",
       "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
@@ -69,7 +69,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -112,7 +112,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
@@ -128,7 +128,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
