@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-10-31T23:55:57Z",
+  "updated": "2026-11-01T04:27:24Z",
   "threshold": 60,
-  "count": 14,
+  "count": 13,
   "jobs": [
     {
       "title": "Technical Designer",
@@ -56,6 +56,22 @@
       "is_new": false
     },
     {
+      "title": "Product Designer",
+      "company": "Bigblue",
+      "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/product-designer-paris-75685",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "UX Designer (f/m/d)",
       "company": "Zeal Network",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/ux-designer-norwich-63719",
@@ -69,7 +85,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -84,7 +100,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
@@ -179,40 +195,6 @@
     {
       "title": "AI Product Concept Designer & Interior Stylist – Home Décor (Part-/Full-time)",
       "company": "Jobgether",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/ai-product-concept-designer-interior-stylist-home-decor-part-full-time-france-497953",
-      "source": "Arbeitnow",
-      "location": "France",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "AI Product Concept Designer & Interior Stylist – Home Décor (Part-/Full-time)",
-      "company": "Jobgether",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/ai-product-concept-designer-interior-stylist-home-decor-part-full-time-france-121153",
-      "source": "Arbeitnow",
-      "location": "France",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "AI Product Concept Designer & Interior Stylist – Home Décor (Part-/Full-time)",
-      "company": "Jobgether",
       "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-product-concept-designer-interior-stylist-home-decor-part-full-time-switzerland-324141",
       "source": "Arbeitnow",
       "location": "Switzerland",
@@ -223,7 +205,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     }
