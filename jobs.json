@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-01T04:27:24Z",
+  "updated": "2026-11-01T11:25:59Z",
   "threshold": 60,
-  "count": 13,
+  "count": 11,
   "jobs": [
     {
       "title": "Technical Designer",
@@ -64,22 +64,6 @@
       "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "UX Designer (f/m/d)",
-      "company": "Zeal Network",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/ux-designer-norwich-63719",
-      "source": "Arbeitnow",
-      "location": "Norwich, United Kingdom",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
         "Branding"
       ],
@@ -160,7 +144,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -170,20 +154,6 @@
       "url": "https://jobicy.com/jobs/157142-motion-designer-permanent-work-from-home",
       "source": "Jobicy",
       "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Learning Experience Designer",
-      "company": "Dropbox",
-      "url": "https://jobicy.com/jobs/156932-learning-experience-designer-3",
-      "source": "Jobicy",
-      "location": "Ireland",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
