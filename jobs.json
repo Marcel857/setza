@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-11-02T00:57:18Z",
+  "updated": "2026-11-02T07:23:30Z",
   "threshold": 60,
-  "count": 11,
+  "count": 13,
   "jobs": [
+    {
+      "title": "Graphic Designer",
+      "company": "Performing Arts Consultants",
+      "url": "https://himalayas.app/companies/performing-arts-consultants/jobs/graphic-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Technical Designer",
       "company": "Fresh Prints",
@@ -69,7 +88,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -175,8 +194,22 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Consultant.e Product Designer",
+      "company": "Thiga",
+      "url": "https://www.arbeitnow.fr/jobs/companies/thiga/consultante-product-designer-paris-491667",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
