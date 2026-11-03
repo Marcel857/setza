@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-03T05:59:45Z",
+  "updated": "2026-11-03T14:00:00Z",
   "threshold": 60,
-  "count": 10,
+  "count": 9,
   "jobs": [
-    {
-      "title": "Fashion & Graphic Designer (m/f/d)",
-      "company": "MORE MONEY MORE LOVE",
-      "url": "https://www.arbeitnow.com/jobs/companies/more-money-more-love/fashion-graphic-designer-dusseldorf-460668",
-      "source": "Arbeitnow",
-      "location": "Düsseldorf",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Technical Designer",
       "company": "Fresh Prints",
@@ -69,7 +51,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -151,19 +133,17 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer (Permanent work from home)",
-      "company": "Lightspeed Commerce",
-      "url": "https://jobicy.com/jobs/157296-graphic-designer-permanent-work-from-home",
-      "source": "Jobicy",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 6,
-      "is_match": true,
+      "title": "Product Designer",
+      "company": "Scarlet",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/product-designer-london-232870",
+      "source": "Arbeitnow",
+      "location": "UK - London Office",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
