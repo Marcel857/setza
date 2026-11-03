@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-03T14:00:00Z",
+  "updated": "2026-11-03T20:28:03Z",
   "threshold": 60,
-  "count": 9,
+  "count": 5,
   "jobs": [
-    {
-      "title": "Technical Designer",
-      "company": "Fresh Prints",
-      "url": "https://jobicy.com/jobs/158084-technical-designer",
-      "source": "Jobicy",
-      "location": "Philippines",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -56,20 +40,21 @@
       "is_new": false
     },
     {
-      "title": "UX Designer | EMEA | Contract",
-      "company": "Fueled",
-      "url": "https://jobicy.com/jobs/158378-ux-designer-emea-contract",
-      "source": "Jobicy",
-      "location": "EMEA",
+      "title": "Performance Creative Designer",
+      "company": "Flipper",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/flipper/remote-performance-creative-designer-423203",
+      "source": "Arbeitnow",
+      "location": "Remote",
       "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Branding"
+        "Branding",
+        "Fotografie"
       ],
-      "age_days": 1,
+      "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -89,59 +74,17 @@
       "is_new": false
     },
     {
-      "title": "Intermediate Graphic Designer",
-      "company": "Kaseya",
-      "url": "https://jobicy.com/jobs/158096-intermediate-graphic-designer",
-      "source": "Jobicy",
-      "location": "Canada",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "2D Graphic and Motion Designer",
-      "company": "Ruby Labs",
-      "url": "https://jobicy.com/jobs/157876-2d-graphic-and-motion-designer",
-      "source": "Jobicy",
-      "location": "Europe",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand Experience Designer, Consumer",
-      "company": "Toast",
-      "url": "https://jobicy.com/jobs/157650-brand-experience-designer-consumer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "title": "Brand & Web Designer",
+      "company": "Feedbackfruits",
+      "url": "https://www.arbeitnow.nl/jobs/companies/feedbackfruits/brand-web-designer-amsterdam-118014",
+      "source": "Arbeitnow",
+      "location": "Amsterdam",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Branding"
       ],
-      "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Scarlet",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/product-designer-london-232870",
-      "source": "Arbeitnow",
-      "location": "UK - London Office",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [],
       "age_days": 0,
       "is_match": false,
       "is_new": false
