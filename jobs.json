@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-02T23:58:26Z",
+  "updated": "2026-11-03T05:59:45Z",
   "threshold": 60,
-  "count": 11,
+  "count": 10,
   "jobs": [
     {
       "title": "Fashion & Graphic Designer (m/f/d)",
@@ -102,7 +102,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -163,23 +163,6 @@
         "Branding"
       ],
       "age_days": 6,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "AI Product Concept Designer & Interior Stylist – Home Décor (Part-/Full-time)",
-      "company": "Jobgether",
-      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-product-concept-designer-interior-stylist-home-decor-part-full-time-switzerland-324141",
-      "source": "Arbeitnow",
-      "location": "Switzerland",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 2,
       "is_match": true,
       "is_new": false
     }
