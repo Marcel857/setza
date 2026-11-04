@@ -1,57 +1,22 @@
 {
   "app": "Setza",
-  "updated": "2026-11-04T15:39:21Z",
+  "updated": "2026-11-04T21:41:47Z",
   "threshold": 60,
-  "count": 8,
+  "count": 10,
   "jobs": [
     {
-      "title": "(Junior) UX/UI Designer (m/w/d)",
-      "company": "ABRIO GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-ux-ui-designer-frankfurt-499240",
+      "title": "Brand & Graphic Designer",
+      "company": "Cell Labs",
+      "url": "https://www.arbeitnow.com/jobs/companies/cell-labs/brand-graphic-designer-berlin-342992",
       "source": "Arbeitnow",
-      "location": "Frankfurt, Hessen, Deutschland",
-      "remote": false,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "(Junior) UX/UI Designer (m/w/d)",
-      "company": "ABRIO GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-ux-ui-designer-frankfurt-497148",
-      "source": "Arbeitnow",
-      "location": "Frankfurt",
-      "remote": false,
-      "score": 90,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Visual Designer (Events, Print & Campaign)",
-      "company": "Omnea",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/visual-designer-events-print-campaign-london-253876",
-      "source": "Arbeitnow",
-      "location": "London",
+      "location": "Berlin",
       "remote": false,
       "score": 87,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
         "Branding",
+        "Social Media",
         "Fotografie"
       ],
       "age_days": 0,
@@ -94,6 +59,64 @@
       "is_new": false
     },
     {
+      "title": "Grafik- & Motion Designer (m/w/d)",
+      "company": "W3 digital brands GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/w3-digital-brands-gmbh/grafik-motion-designer-konstanz-227473",
+      "source": "Arbeitnow",
+      "location": "Konstanz",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Sr. Product Designer",
+      "company": "databricks",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-product-designer-berlin-93670",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Sr. Product Designer",
+      "company": "databricks",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-product-designer-london-243622",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Sr. Product Designer",
+      "company": "databricks",
+      "url": "https://www.arbeitnow.nl/jobs/companies/databricks/sr-product-designer-amsterdam-292883",
+      "source": "Arbeitnow",
+      "location": "Amsterdam",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Graphic Designer & Video Editor",
       "company": "BlueTuskr",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
@@ -111,17 +134,15 @@
       "is_new": false
     },
     {
-      "title": "Marketing Designer",
-      "company": "AppSamurai",
-      "url": "https://jobicy.com/jobs/158854-marketing-designer-2",
-      "source": "Jobicy",
-      "location": "Türkiye",
+      "title": "UX Designer",
+      "company": "Rapinno Tech",
+      "url": "https://himalayas.app/companies/rapinno-tech/jobs/ux-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
