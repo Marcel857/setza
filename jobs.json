@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-04T00:47:39Z",
+  "updated": "2026-11-04T07:12:14Z",
   "threshold": 60,
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "title": "UX/UI Designer (m/w/d) – AI-powered",
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Brand Designer",
@@ -70,6 +70,34 @@
       ],
       "age_days": 0,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Anaplan",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/product-designer-manchester-171926",
+      "source": "Arbeitnow",
+      "location": "Manchester",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Atlassian Instructional Designer Level III",
+      "company": "Logistics Management Institute",
+      "url": "https://himalayas.app/companies/logistics-management-institute/jobs/atlassian-instructional-designer-level-iii?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
       "is_new": true
     },
     {
@@ -88,20 +116,6 @@
       "age_days": 22,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Product Designer, Analytics",
-      "company": "OEC",
-      "url": "https://himalayas.app/companies/oec/jobs/product-designer-analytics?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Brand & Web Designer",
