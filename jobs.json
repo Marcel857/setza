@@ -1,24 +1,62 @@
 {
   "app": "Setza",
-  "updated": "2026-11-04T07:12:14Z",
+  "updated": "2026-11-04T15:39:21Z",
   "threshold": 60,
   "count": 8,
   "jobs": [
     {
-      "title": "UX/UI Designer (m/w/d) – AI-powered",
-      "company": "Digitale Leute School",
-      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/ux-ui-designer-ai-powered-cologne-30977",
+      "title": "(Junior) UX/UI Designer (m/w/d)",
+      "company": "ABRIO GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-ux-ui-designer-frankfurt-499240",
       "source": "Arbeitnow",
-      "location": "Cologne",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "location": "Frankfurt, Hessen, Deutschland",
+      "remote": false,
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
+        "Branding",
+        "Fotografie",
         "Junior"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "(Junior) UX/UI Designer (m/w/d)",
+      "company": "ABRIO GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-ux-ui-designer-frankfurt-497148",
+      "source": "Arbeitnow",
+      "location": "Frankfurt",
+      "remote": false,
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Visual Designer (Events, Print & Campaign)",
+      "company": "Omnea",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/visual-designer-events-print-campaign-london-253876",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Brand Designer",
@@ -51,54 +89,9 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Creative Designer (m/w/d)",
-      "company": "likeyaa GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/likeyaa-gmbh/creative-designer-dortmund-33905",
-      "source": "Arbeitnow",
-      "location": "Dortmund",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Anaplan",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/product-designer-manchester-171926",
-      "source": "Arbeitnow",
-      "location": "Manchester",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Atlassian Instructional Designer Level III",
-      "company": "Logistics Management Institute",
-      "url": "https://himalayas.app/companies/logistics-management-institute/jobs/atlassian-instructional-designer-level-iii?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Graphic Designer & Video Editor",
@@ -118,16 +111,32 @@
       "is_new": false
     },
     {
-      "title": "Brand & Web Designer",
-      "company": "Feedbackfruits",
-      "url": "https://www.arbeitnow.nl/jobs/companies/feedbackfruits/brand-web-designer-amsterdam-118014",
-      "source": "Arbeitnow",
-      "location": "Amsterdam",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Marketing Designer",
+      "company": "AppSamurai",
+      "url": "https://jobicy.com/jobs/158854-marketing-designer-2",
+      "source": "Jobicy",
+      "location": "Türkiye",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
         "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Vacature: Stagiair Illustrator / Designer",
+      "company": "Bigfish.nl",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-54479",
+      "source": "Arbeitnow",
+      "location": "Eindhoven",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": false,
