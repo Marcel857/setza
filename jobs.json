@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-11-03T20:28:03Z",
+  "updated": "2026-11-04T00:47:39Z",
   "threshold": 60,
-  "count": 5,
+  "count": 7,
   "jobs": [
+    {
+      "title": "UX/UI Designer (m/w/d) – AI-powered",
+      "company": "Digitale Leute School",
+      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/ux-ui-designer-ai-powered-cologne-30977",
+      "source": "Arbeitnow",
+      "location": "Cologne",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -17,7 +33,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -40,16 +56,16 @@
       "is_new": false
     },
     {
-      "title": "Performance Creative Designer",
-      "company": "Flipper",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flipper/remote-performance-creative-designer-423203",
+      "title": "Creative Designer (m/w/d)",
+      "company": "likeyaa GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/likeyaa-gmbh/creative-designer-dortmund-33905",
       "source": "Arbeitnow",
-      "location": "Remote",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "location": "Dortmund",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Branding",
+        "Social Media",
         "Fotografie"
       ],
       "age_days": 0,
@@ -69,9 +85,23 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer, Analytics",
+      "company": "OEC",
+      "url": "https://himalayas.app/companies/oec/jobs/product-designer-analytics?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Brand & Web Designer",
