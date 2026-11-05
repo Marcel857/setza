@@ -1,27 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-11-05T01:58:00Z",
+  "updated": "2026-11-05T09:10:35Z",
   "threshold": 60,
-  "count": 6,
+  "count": 9,
   "jobs": [
     {
-      "title": "Brand & Graphic Designer",
-      "company": "Cell Labs",
-      "url": "https://www.arbeitnow.com/jobs/companies/cell-labs/brand-graphic-designer-berlin-342992",
+      "title": "Grafikdesigner Digital & Print mit KI-Kompetenz (all genders)",
+      "company": "ValueNet Group",
+      "url": "https://www.arbeitnow.com/jobs/companies/valuenet-group/grafikdesigner-digital-print-mit-ki-kompetenz-all-genders-munich-364184",
       "source": "Arbeitnow",
-      "location": "Berlin",
+      "location": "Munich",
       "remote": false,
       "score": 87,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
-        "Branding",
         "Social Media",
         "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Brand Designer",
@@ -73,6 +72,22 @@
       "is_new": false
     },
     {
+      "title": "Product Designer",
+      "company": "Marshmallow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/product-designer-london-142892",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Sr. Product Designer",
       "company": "databricks",
       "url": "https://www.arbeitnow.nl/jobs/companies/databricks/sr-product-designer-amsterdam-292883",
@@ -85,6 +100,36 @@
       "age_days": 0,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Creative Designer (Fixed Term Contract)",
+      "company": "Mozilla",
+      "url": "https://jobicy.com/jobs/159092-creative-designer-fixed-term-contract",
+      "source": "Jobicy",
+      "location": "UK",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Designer, Web Presence & Platform",
+      "company": "Stripe",
+      "url": "https://jobicy.com/jobs/159088-designer-web-presence-platform",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Vacature: Stagiair Illustrator / Designer",
