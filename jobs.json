@@ -1,41 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-05T17:31:15Z",
+  "updated": "2026-11-05T23:12:31Z",
   "threshold": 60,
-  "count": 7,
+  "count": 5,
   "jobs": [
-    {
-      "title": "Technical Instructional Designer (AI Programmes)",
-      "company": "Multiverse",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/technical-instructional-designer-ai-programmes-london-25092",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Technical Instructional Designer (AI Programmes)",
-      "company": "Multiverse",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/technical-instructional-designer-ai-programmes-london-473053",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -49,7 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -83,7 +51,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Sr. Product Designer",
@@ -95,23 +63,21 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Vacature: Stagiair Illustrator / Designer",
-      "company": "Bigfish.nl",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-54479",
+      "title": "AI Phone - Product Designer",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/ai-phone-product-designer-london-68684",
       "source": "Arbeitnow",
-      "location": "Eindhoven",
+      "location": "United Kingdom",
       "remote": false,
       "score": 42,
       "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 1,
+      "tags": [],
+      "age_days": 0,
       "is_match": false,
       "is_new": false
     }
