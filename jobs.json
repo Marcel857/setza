@@ -1,39 +1,40 @@
 {
   "app": "Setza",
-  "updated": "2026-11-06T18:49:10Z",
+  "updated": "2026-11-06T23:37:22Z",
   "threshold": 60,
   "count": 4,
   "jobs": [
     {
-      "title": "Grafikdesigner (m/w/d) in Vollzeit",
-      "company": "Immo-Marketer",
-      "url": "https://www.arbeitnow.com/jobs/companies/immo-marketer/grafikdesigner-in-vollzeit-bochum-155821",
+      "title": "Junior Grafikdesigner/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/junior-grafikdesigner-in-vollzeit-hamburg-164130",
       "source": "Arbeitnow",
-      "location": "Bochum",
+      "location": "Hamburg, Hamburg, Deutschland",
       "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 100,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
         "Social Media",
-        "Fotografie"
+        "Fotografie",
+        "Junior"
       ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
     },
     {
-      "title": "Grafikdesigner mit Schwerpunkt Verpackung & Einkauf (m/w/d)",
-      "company": "Adam & Eve Beautylounge GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/adam-eve-beautylounge-gmbh/grafikdesigner-mit-schwerpunkt-verpackung-einkauf-hamburg-249915",
+      "title": "Grafikdesigner/in – Vollzeit (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/grafikdesigner-in-vollzeit-hamburg-36885",
       "source": "Arbeitnow",
-      "location": "Hamburg",
+      "location": "Hamburg, Hamburg, Deutschland",
       "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
-        "Branding",
+        "Social Media",
         "Fotografie"
       ],
       "age_days": 0,
@@ -53,7 +54,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": false
     },
