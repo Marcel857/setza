@@ -1,38 +1,40 @@
 {
   "app": "Setza",
-  "updated": "2026-11-06T11:45:07Z",
+  "updated": "2026-11-06T18:49:10Z",
   "threshold": 60,
   "count": 4,
   "jobs": [
     {
-      "title": "Mediengestalter (m/w/d) Marketing und Kommunikation",
-      "company": "Helmut Diebold GmbH & Co.",
-      "url": "https://www.arbeitnow.com/jobs/companies/helmut-diebold-gmbh-co/mediengestalter-marketing-und-kommunikation-jungingen-352018",
+      "title": "Grafikdesigner (m/w/d) in Vollzeit",
+      "company": "Immo-Marketer",
+      "url": "https://www.arbeitnow.com/jobs/companies/immo-marketer/grafikdesigner-in-vollzeit-bochum-155821",
       "source": "Arbeitnow",
-      "location": "Jungingen",
+      "location": "Bochum",
       "remote": false,
       "score": 87,
       "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
-        "Social Media"
+        "Social Media",
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
     },
     {
-      "title": "Grafikdesigner:in - NIBIRII Festival",
-      "company": "Bootshaus Cologne GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/bootshaus-cologne-gmbh/grafikdesignerin-nibirii-festival-cologne-405594",
+      "title": "Grafikdesigner mit Schwerpunkt Verpackung & Einkauf (m/w/d)",
+      "company": "Adam & Eve Beautylounge GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/adam-eve-beautylounge-gmbh/grafikdesigner-mit-schwerpunkt-verpackung-einkauf-hamburg-249915",
       "source": "Arbeitnow",
-      "location": "Cologne",
+      "location": "Hamburg",
       "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
         "Packaging/Print",
-        "Social Media"
+        "Branding",
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
@@ -69,7 +71,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     }
