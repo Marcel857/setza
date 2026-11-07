@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-07T11:14:51Z",
+  "updated": "2026-11-07T16:56:39Z",
   "threshold": 60,
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -35,23 +35,25 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 16,
+      "age_days": 17,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Product Designer, Global Public Sector",
-      "company": "scaleai",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/product-designer-global-public-sector-london-364353",
+      "title": "Brand Designer, Web",
+      "company": "Lovable",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/brand-designer-web-london-402968",
       "source": "Arbeitnow",
       "location": "London",
       "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Digital & Motion Designer",
@@ -65,6 +67,22 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "STAGE - ASSISTANT(E) VISUAL DESIGN CREATION (H/F) - NOVEMBRE 2026 (6 MOIS)",
+      "company": "JACQUEMUS",
+      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/stage-assistante-visual-design-creation-h-f-novembre-2026-6-mois-paris-hq-ile-de-france-330419",
+      "source": "Arbeitnow",
+      "location": "Paris HQ, Île de France",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     },
     {
