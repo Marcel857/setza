@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-07T16:56:39Z",
+  "updated": "2026-11-07T20:40:40Z",
   "threshold": 60,
-  "count": 6,
+  "count": 9,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -53,21 +53,65 @@
       ],
       "age_days": 0,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Instructional Designer",
+      "company": "MedAmerica",
+      "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
+      "source": "WeWorkRemotely",
+      "location": "USA Only",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
       "is_new": true
     },
     {
-      "title": "Digital & Motion Designer",
-      "company": "Wpromote",
-      "url": "https://jobicy.com/jobs/154789-digital-motion-designer-2",
+      "title": "Visual Designer",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/159605-visual-designer",
       "source": "Jobicy",
-      "location": "USA",
+      "location": "EMEA",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "UX Designer - Infrastructure",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/159604-ux-designer-infrastructure",
+      "source": "Jobicy",
+      "location": "EMEA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UX Designer - Design systems",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/159602-ux-designer-design-systems",
+      "source": "Jobicy",
+      "location": "EMEA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "STAGE - ASSISTANT(E) VISUAL DESIGN CREATION (H/F) - NOVEMBRE 2026 (6 MOIS)",
