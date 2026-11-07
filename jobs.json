@@ -1,46 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-07T04:26:32Z",
+  "updated": "2026-11-07T11:14:51Z",
   "threshold": 60,
   "count": 5,
   "jobs": [
-    {
-      "title": "Junior Grafikdesigner/in – Vollzeit (m/w/d)",
-      "company": "Cordes Consulting GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/junior-grafikdesigner-in-vollzeit-hamburg-164130",
-      "source": "Arbeitnow",
-      "location": "Hamburg, Hamburg, Deutschland",
-      "remote": false,
-      "score": 100,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Grafikdesigner/in – Vollzeit (m/w/d)",
-      "company": "Cordes Consulting GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/grafikdesigner-in-vollzeit-hamburg-36885",
-      "source": "Arbeitnow",
-      "location": "Hamburg, Hamburg, Deutschland",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -88,7 +51,37 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Digital & Motion Designer",
+      "company": "Wpromote",
+      "url": "https://jobicy.com/jobs/154789-digital-motion-designer-2",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Brand & Web Designer",
+      "company": "Feedbackfruits",
+      "url": "https://www.arbeitnow.nl/jobs/companies/feedbackfruits/brand-web-designer-amsterdam-379352",
+      "source": "Arbeitnow",
+      "location": "Amsterdam",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
     }
   ]
 }
