@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-06T23:37:22Z",
+  "updated": "2026-11-07T04:26:32Z",
   "threshold": 60,
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "title": "Junior Grafikdesigner/in – Vollzeit (m/w/d)",
@@ -21,7 +21,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Grafikdesigner/in – Vollzeit (m/w/d)",
@@ -39,7 +39,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Brand Designer",
@@ -75,6 +75,20 @@
       "age_days": 16,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer, Global Public Sector",
+      "company": "scaleai",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/product-designer-global-public-sector-london-364353",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
