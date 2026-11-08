@@ -1,22 +1,20 @@
 {
   "app": "Setza",
-  "updated": "2026-11-08T00:09:07Z",
+  "updated": "2026-11-08T06:27:30Z",
   "threshold": 60,
-  "count": 8,
+  "count": 5,
   "jobs": [
     {
-      "title": "Visual Designer (Events, Print & Campaign)",
-      "company": "Omnea",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/visual-designer-events-print-campaign-london-441947",
+      "title": "Unreal Engine Motion Designer - Mob Control",
+      "company": "Voodoo",
+      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/unreal-engine-motion-designer-mob-control-paris-95592",
       "source": "Arbeitnow",
-      "location": "London",
+      "location": "Paris",
       "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
+        "Packaging/Print"
       ],
       "age_days": 0,
       "is_match": true,
@@ -69,48 +67,6 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Visual Designer",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/159605-visual-designer",
-      "source": "Jobicy",
-      "location": "EMEA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX Designer - Infrastructure",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/159604-ux-designer-infrastructure",
-      "source": "Jobicy",
-      "location": "EMEA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UX Designer - Design systems",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/159602-ux-designer-design-systems",
-      "source": "Jobicy",
-      "location": "EMEA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": false
