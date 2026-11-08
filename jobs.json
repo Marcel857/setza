@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-11-07T20:40:40Z",
+  "updated": "2026-11-08T00:09:07Z",
   "threshold": 60,
-  "count": 9,
+  "count": 8,
   "jobs": [
+    {
+      "title": "Visual Designer (Events, Print & Campaign)",
+      "company": "Omnea",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/visual-designer-events-print-campaign-london-441947",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -17,7 +35,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
@@ -40,22 +58,6 @@
       "is_new": false
     },
     {
-      "title": "Brand Designer, Web",
-      "company": "Lovable",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/brand-designer-web-london-402968",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
       "title": "Instructional Designer",
       "company": "MedAmerica",
       "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
@@ -69,7 +71,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Visual Designer",
@@ -83,7 +85,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UX Designer - Infrastructure",
@@ -97,7 +99,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UX Designer - Design systems",
@@ -111,22 +113,6 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "STAGE - ASSISTANT(E) VISUAL DESIGN CREATION (H/F) - NOVEMBRE 2026 (6 MOIS)",
-      "company": "JACQUEMUS",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/stage-assistante-visual-design-creation-h-f-novembre-2026-6-mois-paris-hq-ile-de-france-330419",
-      "source": "Arbeitnow",
-      "location": "Paris HQ, Île de France",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": false,
       "is_new": false
     },
     {
