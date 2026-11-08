@@ -1,25 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-08T13:45:28Z",
+  "updated": "2026-11-08T18:37:42Z",
   "threshold": 60,
-  "count": 6,
+  "count": 5,
   "jobs": [
-    {
-      "title": "Unreal Engine Motion Designer - Mob Control",
-      "company": "Voodoo",
-      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/unreal-engine-motion-designer-mob-control-paris-95592",
-      "source": "Arbeitnow",
-      "location": "Paris",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -69,7 +53,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Instructional Designer",
@@ -83,7 +67,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
