@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-08T06:27:30Z",
+  "updated": "2026-11-08T13:45:28Z",
   "threshold": 60,
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "title": "Unreal Engine Motion Designer - Mob Control",
@@ -18,7 +18,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Brand Designer",
@@ -51,9 +51,25 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Web Designer at AIOS — Remote, $75k-$150k/yr (including equity)",
+      "company": "AIOS (YC W20/S21)",
+      "url": "https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-388201",
+      "source": "Arbeitnow",
+      "location": "Remote (EU)",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Instructional Designer",
@@ -83,7 +99,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": false,
       "is_new": false
     }
