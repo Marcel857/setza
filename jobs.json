@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-11-08T18:37:42Z",
+  "updated": "2026-11-08T22:38:21Z",
   "threshold": 60,
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "title": "Graphic Designer (contract)",
+      "company": "Curio Group",
+      "url": "https://himalayas.app/companies/curiogroup/jobs/graphic-designer-contract?utm_source=api",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
