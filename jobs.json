@@ -1,28 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-08T22:38:21Z",
+  "updated": "2026-11-09T02:19:35Z",
   "threshold": 60,
-  "count": 6,
+  "count": 4,
   "jobs": [
-    {
-      "title": "Graphic Designer (contract)",
-      "company": "Curio Group",
-      "url": "https://himalayas.app/companies/curiogroup/jobs/graphic-designer-contract?utm_source=api",
-      "source": "Himalayas",
-      "location": "Philippines",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -36,7 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 9,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     },
@@ -55,22 +36,6 @@
         "Fotografie"
       ],
       "age_days": 18,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Web Designer at AIOS — Remote, $75k-$150k/yr (including equity)",
-      "company": "AIOS (YC W20/S21)",
-      "url": "https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-388201",
-      "source": "Arbeitnow",
-      "location": "Remote (EU)",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
