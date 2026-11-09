@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-11-09T02:19:35Z",
+  "updated": "2026-11-09T10:01:40Z",
   "threshold": 60,
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "title": "Mediengestalter/in Digital und Print mit Schwerpunkt Kundenberatung (mwd)",
+      "company": "Bugaga Werbeagentur e.K.",
+      "url": "https://www.arbeitnow.com/jobs/companies/bugaga-werbeagentur-ek/mediengestalter-in-digital-und-print-mit-schwerpunkt-kundenberatung-mwd-berlin-286845",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": true,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -67,7 +84,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": false,
       "is_new": false
     }
