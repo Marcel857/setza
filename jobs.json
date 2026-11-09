@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-09T10:01:40Z",
+  "updated": "2026-11-09T20:55:16Z",
   "threshold": 60,
-  "count": 5,
+  "count": 8,
   "jobs": [
-    {
-      "title": "Mediengestalter/in Digital und Print mit Schwerpunkt Kundenberatung (mwd)",
-      "company": "Bugaga Werbeagentur e.K.",
-      "url": "https://www.arbeitnow.com/jobs/companies/bugaga-werbeagentur-ek/mediengestalter-in-digital-und-print-mit-schwerpunkt-kundenberatung-mwd-berlin-286845",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": true,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -52,9 +35,53 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX/UI Designer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/ux-ui-designer-gilching-326429",
+      "source": "Arbeitnow",
+      "location": "Gilching, Bayern, Germany",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Concepteur cabine / Cabin Designer (H/F)",
+      "company": "Sogeclair",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sogeclair/concepteur-cabine-cabin-designer-h-f-mulhouse-142107",
+      "source": "Arbeitnow",
+      "location": "Mulhouse, France",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Concepteur cabine / Cabin Designer (H/F)",
+      "company": "Sogeclair",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sogeclair/concepteur-cabine-cabin-designer-h-f-toulouse-150723",
+      "source": "Arbeitnow",
+      "location": "Toulouse, France",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Instructional Designer",
@@ -68,7 +95,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": false
     },
@@ -85,6 +112,22 @@
         "Branding"
       ],
       "age_days": 2,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "Vacature: Stagiair Illustrator / Designer",
+      "company": "Bigfish.nl",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-10206",
+      "source": "Arbeitnow",
+      "location": "Eindhoven",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
       "is_match": false,
       "is_new": false
     }
