@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-09T20:55:16Z",
+  "updated": "2026-11-10T03:07:36Z",
   "threshold": 60,
-  "count": 8,
+  "count": 7,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -17,7 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 10,
+      "age_days": 11,
       "is_match": true,
       "is_new": false
     },
@@ -53,7 +53,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Concepteur cabine / Cabin Designer (H/F)",
@@ -67,7 +67,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Concepteur cabine / Cabin Designer (H/F)",
@@ -81,7 +81,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Instructional Designer",
@@ -97,22 +97,6 @@
       ],
       "age_days": 2,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Brand & Web Designer",
-      "company": "Feedbackfruits",
-      "url": "https://www.arbeitnow.nl/jobs/companies/feedbackfruits/brand-web-designer-amsterdam-379352",
-      "source": "Arbeitnow",
-      "location": "Amsterdam",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 2,
-      "is_match": false,
       "is_new": false
     },
     {
