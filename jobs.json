@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-10T11:29:34Z",
+  "updated": "2026-11-10T18:46:11Z",
   "threshold": 60,
-  "count": 8,
+  "count": 7,
   "jobs": [
-    {
-      "title": "Junior Grafikdesigner Amazon Visual Content (m/w/d)",
-      "company": "Marketplace Maniacs GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/marketplace-maniacs-gmbh/junior-grafikdesigner-amazon-visual-content-munich-418775",
-      "source": "Arbeitnow",
-      "location": "Munich",
-      "remote": false,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -53,7 +35,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 19,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     },
@@ -69,7 +51,7 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Instructional Designer",
@@ -83,38 +65,34 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Visual Designer",
-      "company": "Revisory",
-      "url": "https://himalayas.app/companies/revisory/jobs/visual-designer?utm_source=api",
-      "source": "Himalayas",
-      "location": "Nigeria",
+      "title": "Technical UI Designer",
+      "company": "HyperHug",
+      "url": "https://jobicy.com/jobs/161090-technical-ui-designer",
+      "source": "Jobicy",
+      "location": "Cyprus",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
     },
     {
-      "title": "Rich Media Designer",
-      "company": "CRAFTSMAN+",
-      "url": "https://jobicy.com/jobs/160790-rich-media-designer",
+      "title": "Graphic Artist",
+      "company": "Fresh Prints",
+      "url": "https://jobicy.com/jobs/161026-graphic-artist",
       "source": "Jobicy",
-      "location": "Argentina",
+      "location": "Philippines",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
