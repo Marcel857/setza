@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-10T18:46:11Z",
+  "updated": "2026-11-10T23:53:17Z",
   "threshold": 60,
-  "count": 7,
+  "count": 12,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -17,7 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
@@ -70,6 +70,110 @@
       "is_new": false
     },
     {
+      "title": "Mobile UI Designer",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/mobile-ui-designer-germany-497035",
+      "source": "Arbeitnow",
+      "location": "Germany",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer (UI/UX)",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-designer-ui-ux-germany-22642",
+      "source": "Arbeitnow",
+      "location": "Germany",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI Designer - AI Neobank App",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/ui-designer-ai-neobank-app-germany-489344",
+      "source": "Arbeitnow",
+      "location": "Germany",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Mobile UI Designer",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/mobile-ui-designer-london-442426",
+      "source": "Arbeitnow",
+      "location": "United Kingdom",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI Designer - AI Neobank App",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bjak/ui-designer-ai-neobank-app-zurich-93467",
+      "source": "Arbeitnow",
+      "location": "Switzerland",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Mobile UI Designer",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/mobile-ui-designer-netherlands-347031",
+      "source": "Arbeitnow",
+      "location": "Netherlands",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer (UI/UX)",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/product-designer-ui-ux-netherlands-163979",
+      "source": "Arbeitnow",
+      "location": "Netherlands",
+      "remote": false,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Technical UI Designer",
       "company": "HyperHug",
       "url": "https://jobicy.com/jobs/161090-technical-ui-designer",
@@ -81,36 +185,6 @@
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Graphic Artist",
-      "company": "Fresh Prints",
-      "url": "https://jobicy.com/jobs/161026-graphic-artist",
-      "source": "Jobicy",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Vacature: Stagiair Illustrator / Designer",
-      "company": "Bigfish.nl",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-10206",
-      "source": "Arbeitnow",
-      "location": "Eindhoven",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 1,
-      "is_match": false,
       "is_new": false
     }
   ]
