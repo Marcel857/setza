@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-11-10T03:07:36Z",
+  "updated": "2026-11-10T11:29:34Z",
   "threshold": 60,
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "title": "Junior Grafikdesigner Amazon Visual Content (m/w/d)",
+      "company": "Marketplace Maniacs GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/marketplace-maniacs-gmbh/junior-grafikdesigner-amazon-visual-content-munich-418775",
+      "source": "Arbeitnow",
+      "location": "Munich",
+      "remote": false,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -40,48 +58,18 @@
       "is_new": false
     },
     {
-      "title": "UX/UI Designer (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/ux-ui-designer-gilching-326429",
+      "title": "Einkauf & Administration & Logistik für Designermöbel (m/w) (80-100%)",
+      "company": "Upscale Interiors AG",
+      "url": "https://www.arbeitnow.ch/jobs/companies/upscale-interiors-ag/einkauf-administration-logistik-fur-designermobel-m-w-80-100-zurich-301252",
       "source": "Arbeitnow",
-      "location": "Gilching, Bayern, Germany",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Concepteur cabine / Cabin Designer (H/F)",
-      "company": "Sogeclair",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sogeclair/concepteur-cabine-cabin-designer-h-f-mulhouse-142107",
-      "source": "Arbeitnow",
-      "location": "Mulhouse, France",
+      "location": "Zürich",
       "remote": false,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Concepteur cabine / Cabin Designer (H/F)",
-      "company": "Sogeclair",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sogeclair/concepteur-cabine-cabin-designer-h-f-toulouse-150723",
-      "source": "Arbeitnow",
-      "location": "Toulouse, France",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Instructional Designer",
@@ -100,6 +88,38 @@
       "is_new": false
     },
     {
+      "title": "Visual Designer",
+      "company": "Revisory",
+      "url": "https://himalayas.app/companies/revisory/jobs/visual-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "Nigeria",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Rich Media Designer",
+      "company": "CRAFTSMAN+",
+      "url": "https://jobicy.com/jobs/160790-rich-media-designer",
+      "source": "Jobicy",
+      "location": "Argentina",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Vacature: Stagiair Illustrator / Designer",
       "company": "Bigfish.nl",
       "url": "https://www.arbeitnow.nl/jobs/companies/bigfishnl/vacature-stagiair-illustrator-designer-eindhoven-10206",
@@ -111,7 +131,7 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": false,
       "is_new": false
     }
