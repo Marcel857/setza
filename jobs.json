@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-11T04:29:38Z",
+  "updated": "2026-11-11T12:04:06Z",
   "threshold": 60,
-  "count": 12,
+  "count": 8,
   "jobs": [
     {
       "title": "Product Designer",
@@ -19,26 +19,7 @@
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Graphic Designer- PLGGD006",
-      "company": "Sagan Recruitment",
-      "url": "https://himalayas.app/companies/sagan-recruitment/jobs/graphic-designer-plggd006?utm_source=api",
-      "source": "Himalayas",
-      "location": "South Africa",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Brand Designer",
@@ -76,6 +57,20 @@
       "is_new": false
     },
     {
+      "title": "UI / UX Designer TEAMBOX (m/w/d)",
+      "company": "everii Group GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/everii-group-gmbh/ui-ux-designer-teambox-hamburg-86752",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Instructional Designer",
       "company": "MedAmerica",
       "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
@@ -88,50 +83,6 @@
         "Branding"
       ],
       "age_days": 3,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Mobile UI Designer",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/mobile-ui-designer-germany-497035",
-      "source": "Arbeitnow",
-      "location": "Germany",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (UI/UX)",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-designer-ui-ux-germany-22642",
-      "source": "Arbeitnow",
-      "location": "Germany",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI Designer - AI Neobank App",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/ui-designer-ai-neobank-app-germany-489344",
-      "source": "Arbeitnow",
-      "location": "Germany",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
       "is_match": true,
       "is_new": false
     },
@@ -172,20 +123,6 @@
       "source": "Arbeitnow",
       "location": "Netherlands",
       "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Technical UI Designer",
-      "company": "HyperHug",
-      "url": "https://jobicy.com/jobs/161090-technical-ui-designer",
-      "source": "Jobicy",
-      "location": "Cyprus",
-      "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
