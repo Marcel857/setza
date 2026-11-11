@@ -1,25 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-11-11T12:04:06Z",
+  "updated": "2026-11-11T19:46:14Z",
   "threshold": 60,
-  "count": 8,
+  "count": 6,
   "jobs": [
     {
-      "title": "Product Designer",
-      "company": "SkyCell AG",
-      "url": "https://www.arbeitnow.nl/jobs/companies/skycell-ag/remote-product-designer-amsterdam-294295",
+      "title": "UX/UI Designer",
+      "company": "Market Cloud",
+      "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/ux-ui-designer-eschborn-315153",
       "source": "Arbeitnow",
-      "location": "Remote job",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "location": "Eschborn",
+      "remote": false,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print",
-        "Branding"
+        "Fotografie",
+        "Junior"
       ],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Brand Designer",
@@ -52,23 +52,9 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "UI / UX Designer TEAMBOX (m/w/d)",
-      "company": "everii Group GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/everii-group-gmbh/ui-ux-designer-teambox-hamburg-86752",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Instructional Designer",
@@ -82,7 +68,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -101,33 +87,17 @@
       "is_new": false
     },
     {
-      "title": "Mobile UI Designer",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/mobile-ui-designer-netherlands-347031",
+      "title": "Product Design",
+      "company": "Axle Careers",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/product-design-london-17340",
       "source": "Arbeitnow",
-      "location": "Netherlands",
+      "location": "London",
       "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer (UI/UX)",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/product-designer-ui-ux-netherlands-163979",
-      "source": "Arbeitnow",
-      "location": "Netherlands",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
       "age_days": 0,
-      "is_match": true,
+      "is_match": false,
       "is_new": false
     }
   ]
