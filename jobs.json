@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-11T19:46:14Z",
+  "updated": "2026-11-12T01:46:20Z",
   "threshold": 60,
   "count": 6,
   "jobs": [
-    {
-      "title": "UX/UI Designer",
-      "company": "Market Cloud",
-      "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/ux-ui-designer-eschborn-315153",
-      "source": "Arbeitnow",
-      "location": "Eschborn",
-      "remote": false,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -34,7 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
@@ -82,23 +65,37 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 0,
+      "age_days": 1,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Product Design",
-      "company": "Axle Careers",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/product-design-london-17340",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Product Designer II",
+      "company": "Deepgram",
+      "url": "https://jobicy.com/jobs/161385-product-designer-ii-2",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 0,
-      "is_match": false,
-      "is_new": false
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Live Ops Game Designer",
+      "company": "HyperHug",
+      "url": "https://jobicy.com/jobs/161363-live-ops-game-designer",
+      "source": "Jobicy",
+      "location": "Cyprus",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     }
   ]
 }
