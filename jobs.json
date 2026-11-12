@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-12T09:12:03Z",
+  "updated": "2026-11-12T17:40:36Z",
   "threshold": 60,
-  "count": 4,
+  "count": 3,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -35,7 +35,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 21,
+      "age_days": 22,
       "is_match": true,
       "is_new": false
     },
@@ -51,21 +51,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "UI Designer - AI Neobank App",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bjak/ui-designer-ai-neobank-app-zurich-93467",
-      "source": "Arbeitnow",
-      "location": "Switzerland",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 1,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     }
