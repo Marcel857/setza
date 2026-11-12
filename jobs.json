@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-12T01:46:20Z",
+  "updated": "2026-11-12T09:12:03Z",
   "threshold": 60,
-  "count": 6,
+  "count": 4,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -68,34 +68,6 @@
       "age_days": 1,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Product Designer II",
-      "company": "Deepgram",
-      "url": "https://jobicy.com/jobs/161385-product-designer-ii-2",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Live Ops Game Designer",
-      "company": "HyperHug",
-      "url": "https://jobicy.com/jobs/161363-live-ops-game-designer",
-      "source": "Jobicy",
-      "location": "Cyprus",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     }
   ]
 }
