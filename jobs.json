@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-11-13T03:30:09Z",
+  "updated": "2026-11-13T11:27:19Z",
   "threshold": 60,
-  "count": 3,
+  "count": 7,
   "jobs": [
+    {
+      "title": "Junior Grafik Designer:in / Mediengestalter:in (m/w/d) - Hamburg",
+      "company": "1KOMMA5˚",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/junior-grafik-designerin-mediengestalterin-hamburg-385536",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 95,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -40,6 +59,20 @@
       "is_new": false
     },
     {
+      "title": "Product Designer (m/f/x)",
+      "company": "UP42 GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/up42-gmbh/product-designer-berlin-295450",
+      "source": "Arbeitnow",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Instructional Designer",
       "company": "MedAmerica",
       "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
@@ -52,6 +85,36 @@
         "Branding"
       ],
       "age_days": 5,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Content Designer | LATAM",
+      "company": "Fueled",
+      "url": "https://jobicy.com/jobs/155227-content-designer-latam",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Conversational Designer, APAC",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/155177-conversational-designer-apac",
+      "source": "Jobicy",
+      "location": "Australia",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
       "is_match": true,
       "is_new": false
     }
