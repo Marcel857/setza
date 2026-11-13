@@ -1,23 +1,57 @@
 {
   "app": "Setza",
-  "updated": "2026-11-13T11:27:19Z",
+  "updated": "2026-11-13T18:39:55Z",
   "threshold": 60,
   "count": 7,
   "jobs": [
     {
-      "title": "Junior Grafik Designer:in / Mediengestalter:in (m/w/d) - Hamburg",
-      "company": "1KOMMA5˚",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/junior-grafik-designerin-mediengestalterin-hamburg-385536",
+      "title": "Grafikdesigner – Vollzeit (m/w/d)",
+      "company": "DIGIHEADS GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/digiheads-gmbh/grafikdesigner-vollzeit-dortmund-146118",
       "source": "Arbeitnow",
-      "location": "Hamburg",
+      "location": "Dortmund",
       "remote": false,
-      "score": 95,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Packaging/Print",
         "Branding",
-        "Fotografie",
-        "Junior"
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Graphic Designer (m/w/d)",
+      "company": "Gauder GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/gauder-gmbh/graphic-designer-berlin-412987",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Visual Content Creator / Mediengestalter:in für Social Media (m/w/d)",
+      "company": "Based",
+      "url": "https://www.arbeitnow.com/jobs/companies/based/visual-content-creator-mediengestalterin-fur-social-media-nuremberg-133978",
+      "source": "Arbeitnow",
+      "location": "Nuremberg",
+      "remote": false,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Social Media"
       ],
       "age_days": 0,
       "is_match": true,
@@ -54,23 +88,9 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Product Designer (m/f/x)",
-      "company": "UP42 GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/up42-gmbh/product-designer-berlin-295450",
-      "source": "Arbeitnow",
-      "location": "Berlin, Berlin, Germany",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Instructional Designer",
@@ -84,38 +104,22 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Content Designer | LATAM",
-      "company": "Fueled",
-      "url": "https://jobicy.com/jobs/155227-content-designer-latam",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Conversational Designer, APAC",
-      "company": "Cresta",
-      "url": "https://jobicy.com/jobs/155177-conversational-designer-apac",
-      "source": "Jobicy",
-      "location": "Australia",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "title": "UX/UI Designer",
+      "company": "O'CD",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-157658",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [],
       "age_days": 0,
-      "is_match": true,
+      "is_match": false,
       "is_new": false
     }
   ]
