@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-14T13:55:08Z",
+  "updated": "2026-11-14T18:56:08Z",
   "threshold": 60,
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "title": "(Junior) Graphic Designer (m/f/d)",
@@ -69,7 +69,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 6,
+      "age_days": 7,
       "is_match": true,
       "is_new": false
     },
@@ -119,6 +119,20 @@
       "tags": [
         "Fotografie"
       ],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Globalwebindex",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/product-designer-london-183427",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
       "age_days": 0,
       "is_match": false,
       "is_new": false
