@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-11-14T00:08:06Z",
+  "updated": "2026-11-14T06:50:54Z",
   "threshold": 60,
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "title": "(Junior) Graphic Designer (m/f/d)",
+      "company": "Statista",
+      "url": "https://www.arbeitnow.com/jobs/companies/statista/junior-graphic-designer-hamburg-214915",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 95,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -40,23 +58,6 @@
       "is_new": false
     },
     {
-      "title": "Grafikdesigner / Creative Designer E-Commerce (m/w/d) | 100 % Remote",
-      "company": "Just Hiring",
-      "url": "https://www.arbeitnow.com/jobs/companies/just-hiring/grafikdesigner-creative-designer-e-commerce-100-remote-berlin-341041",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Instructional Designer",
       "company": "MedAmerica",
       "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
@@ -73,6 +74,20 @@
       "is_new": false
     },
     {
+      "title": "Cabinet Designer",
+      "company": "Remote VA",
+      "url": "https://himalayas.app/companies/remote-va/jobs/cabinet-designer-1730614907?utm_source=api",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Product Designer",
       "company": "Gather AI",
       "url": "https://jobicy.com/jobs/162056-product-designer-3",
@@ -87,15 +102,17 @@
       "is_new": true
     },
     {
-      "title": "UX/UI Designer",
-      "company": "O'CD",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ocd/ux-ui-designer-paris-157658",
+      "title": "CDI - AI Designer  Motion & Génératif  - Artefact 3000 - Paris",
+      "company": "Artefactjobs",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-ai-designer-motion-generatif-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-136422",
       "source": "Arbeitnow",
-      "location": "Paris",
+      "location": "9th arrondissement of Paris, 75009, Paris",
       "remote": false,
       "score": 47,
       "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
+      "tags": [
+        "Fotografie"
+      ],
       "age_days": 0,
       "is_match": false,
       "is_new": false
