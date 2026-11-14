@@ -1,62 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-13T18:39:55Z",
+  "updated": "2026-11-14T00:08:06Z",
   "threshold": 60,
-  "count": 7,
+  "count": 6,
   "jobs": [
-    {
-      "title": "Grafikdesigner – Vollzeit (m/w/d)",
-      "company": "DIGIHEADS GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/digiheads-gmbh/grafikdesigner-vollzeit-dortmund-146118",
-      "source": "Arbeitnow",
-      "location": "Dortmund",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Graphic Designer (m/w/d)",
-      "company": "Gauder GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/gauder-gmbh/graphic-designer-berlin-412987",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Visual Content Creator / Mediengestalter:in für Social Media (m/w/d)",
-      "company": "Based",
-      "url": "https://www.arbeitnow.com/jobs/companies/based/visual-content-creator-mediengestalterin-fur-social-media-nuremberg-133978",
-      "source": "Arbeitnow",
-      "location": "Nuremberg",
-      "remote": false,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -70,7 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 14,
+      "age_days": 15,
       "is_match": true,
       "is_new": false
     },
@@ -93,6 +40,23 @@
       "is_new": false
     },
     {
+      "title": "Grafikdesigner / Creative Designer E-Commerce (m/w/d) | 100 % Remote",
+      "company": "Just Hiring",
+      "url": "https://www.arbeitnow.com/jobs/companies/just-hiring/grafikdesigner-creative-designer-e-commerce-100-remote-berlin-341041",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Instructional Designer",
       "company": "MedAmerica",
       "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
@@ -107,6 +71,20 @@
       "age_days": 6,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Gather AI",
+      "url": "https://jobicy.com/jobs/162056-product-designer-3",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "UX/UI Designer",
