@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-14T18:56:08Z",
+  "updated": "2026-11-14T22:52:08Z",
   "threshold": 60,
-  "count": 8,
+  "count": 6,
   "jobs": [
-    {
-      "title": "(Junior) Graphic Designer (m/f/d)",
-      "company": "Statista",
-      "url": "https://www.arbeitnow.com/jobs/companies/statista/junior-graphic-designer-hamburg-214915",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 95,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Junior"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -35,7 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
@@ -58,6 +40,20 @@
       "is_new": false
     },
     {
+      "title": "Finance Close Automation Solution Designer, Portugal",
+      "company": "Yadimen Consulting Limited",
+      "url": "https://himalayas.app/companies/yadimen-consulting-limited/jobs/finance-close-automation-solution-designer-portugal?utm_source=api",
+      "source": "Himalayas",
+      "location": "Portugal",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Instructional Designer",
       "company": "MedAmerica",
       "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
@@ -72,24 +68,6 @@
       "age_days": 7,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Designer",
-      "company": "Publicis Groupe",
-      "url": "https://himalayas.app/companies/publicis-groupe/jobs/designer?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "CDI - AI Designer  Motion & Génératif  - Artefact 3000 - Paris",
@@ -119,20 +97,6 @@
       "tags": [
         "Fotografie"
       ],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Globalwebindex",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/product-designer-london-183427",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [],
       "age_days": 0,
       "is_match": false,
       "is_new": false
