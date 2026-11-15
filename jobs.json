@@ -1,9 +1,25 @@
 {
   "app": "Setza",
-  "updated": "2026-11-15T09:43:19Z",
+  "updated": "2026-11-15T16:46:00Z",
   "threshold": 60,
   "count": 5,
   "jobs": [
+    {
+      "title": "Junior UX Designer",
+      "company": "Bask Health",
+      "url": "https://himalayas.app/companies/bask-health/jobs/junior-ux-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 90,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -35,7 +51,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 24,
+      "age_days": 25,
       "is_match": true,
       "is_new": false
     },
@@ -70,20 +86,6 @@
       "age_days": 0,
       "is_match": true,
       "is_new": true
-    },
-    {
-      "title": "Product Designer - Mobile",
-      "company": "Kpler",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/product-designer-mobile-united-kingdom-45884",
-      "source": "Arbeitnow",
-      "location": "United Kingdom",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
     }
   ]
 }
