@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-11-14T22:52:08Z",
+  "updated": "2026-11-15T02:21:07Z",
   "threshold": 60,
   "count": 6,
   "jobs": [
@@ -40,20 +40,6 @@
       "is_new": false
     },
     {
-      "title": "Finance Close Automation Solution Designer, Portugal",
-      "company": "Yadimen Consulting Limited",
-      "url": "https://himalayas.app/companies/yadimen-consulting-limited/jobs/finance-close-automation-solution-designer-portugal?utm_source=api",
-      "source": "Himalayas",
-      "location": "Portugal",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Instructional Designer",
       "company": "MedAmerica",
       "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
@@ -68,6 +54,20 @@
       "age_days": 7,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "UX/UI Designer",
+      "company": "Fortive",
+      "url": "https://himalayas.app/companies/fortive/jobs/ux-ui-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "CDI - AI Designer  Motion & Génératif  - Artefact 3000 - Paris",
