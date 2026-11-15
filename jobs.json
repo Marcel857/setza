@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-15T02:21:07Z",
+  "updated": "2026-11-15T09:43:19Z",
   "threshold": 60,
-  "count": 6,
+  "count": 5,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -56,47 +56,31 @@
       "is_new": false
     },
     {
-      "title": "UX/UI Designer",
-      "company": "Fortive",
-      "url": "https://himalayas.app/companies/fortive/jobs/ux-ui-designer?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
+      "title": "Schichtleiter / Teamleiter Verpackung (m/w/d) für das BiFi Werk in Guben",
+      "company": "Ritter von Gral GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/schichtleiter-teamleiter-verpackung-fur-das-bifi-werk-in-guben-guben-401092",
+      "source": "Arbeitnow",
+      "location": "Guben , Brandenburg, Deutschland",
+      "remote": false,
+      "score": 67,
+      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
     },
     {
-      "title": "CDI - AI Designer  Motion & Génératif  - Artefact 3000 - Paris",
-      "company": "Artefactlinkedin",
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-ai-designer-motion-generatif-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-337849",
+      "title": "Product Designer - Mobile",
+      "company": "Kpler",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/product-designer-mobile-united-kingdom-45884",
       "source": "Arbeitnow",
-      "location": "9th arrondissement of Paris, 75009, Paris",
+      "location": "United Kingdom",
       "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
-    },
-    {
-      "title": "CDI - AI Designer  Motion & Génératif  - Artefact 3000 - Paris",
-      "company": "Artefact",
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/cdi-ai-designer-motion-generatif-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-179002",
-      "source": "Arbeitnow",
-      "location": "9th arrondissement of Paris, 75009, Paris",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Fotografie"
-      ],
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
       "age_days": 0,
       "is_match": false,
       "is_new": false
