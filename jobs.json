@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-16T01:17:25Z",
+  "updated": "2026-11-16T08:15:59Z",
   "threshold": 60,
-  "count": 4,
+  "count": 6,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -56,20 +56,50 @@
       "is_new": false
     },
     {
-      "title": "Schichtleiter / Teamleiter Verpackung (m/w/d) für das BiFi Werk in Guben",
-      "company": "Ritter von Gral GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/schichtleiter-teamleiter-verpackung-fur-das-bifi-werk-in-guben-guben-401092",
+      "title": "Graphic Designer (f/m/d)",
+      "company": "Zeal Network",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/graphic-designer-norwich-443277",
       "source": "Arbeitnow",
-      "location": "Guben , Brandenburg, Deutschland",
+      "location": "Norwich, United Kingdom",
       "remote": false,
-      "score": 67,
-      "reasons": "100% Remote, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Packaging/Print"
+        "Branding",
+        "Social Media",
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
+    },
+    {
+      "title": "Marketing Designer",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/153230-marketing-designer",
+      "source": "Jobicy",
+      "location": "Europe",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Interaction Designer, HCI",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/interaction-designer-hci-london-72213",
+      "source": "Arbeitnow",
+      "location": "United Kingdom",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
     }
   ]
 }
