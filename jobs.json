@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-11-16T08:15:59Z",
+  "updated": "2026-11-16T18:45:15Z",
   "threshold": 60,
   "count": 6,
   "jobs": [
@@ -35,9 +35,42 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 25,
+      "age_days": 26,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Digital Designer für E-Mail & E-Commerce (m/w/d)",
+      "company": "Heimer Marketing GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/heimer-marketing-gmbh/digital-designer-fur-e-mail-e-commerce-hamburg-84401",
+      "source": "Arbeitnow",
+      "location": "Hamburg",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Digital Designer",
+      "company": "Who Gives A Crap",
+      "url": "https://himalayas.app/companies/whogivesacrap/jobs/digital-designer-1579955546?utm_source=api",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Instructional Designer",
@@ -51,55 +84,25 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 8,
+      "age_days": 9,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Graphic Designer (f/m/d)",
-      "company": "Zeal Network",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/graphic-designer-norwich-443277",
+      "title": "GUI-Designer Automotive (m/w/x)",
+      "company": "K-tronik GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/gui-designer-automotive-munich-107554",
       "source": "Arbeitnow",
-      "location": "Norwich, United Kingdom",
+      "location": "Munich",
       "remote": false,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Branding",
-        "Social Media",
         "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
-    },
-    {
-      "title": "Marketing Designer",
-      "company": "Playson",
-      "url": "https://jobicy.com/jobs/153230-marketing-designer",
-      "source": "Jobicy",
-      "location": "Europe",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Interaction Designer, HCI",
-      "company": "Bjak",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/interaction-designer-hci-london-72213",
-      "source": "Arbeitnow",
-      "location": "United Kingdom",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
     }
   ]
 }
