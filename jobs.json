@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-17T10:56:29Z",
+  "updated": "2026-11-17T19:38:02Z",
   "threshold": 60,
-  "count": 6,
+  "count": 4,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -35,20 +35,22 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 26,
+      "age_days": 27,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Mechanical Systems Designer (all genders)",
-      "company": "væridion",
-      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/mechanical-systems-designer-all-genders-munich-386394",
-      "source": "Arbeitnow",
-      "location": "Munich HQ",
-      "remote": false,
+      "title": "Product Designer",
+      "company": "Alveole",
+      "url": "https://weworkremotely.com/remote-jobs/alveole-product-designer",
+      "source": "WeWorkRemotely",
+      "location": "Canada Only",
+      "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
+      "tags": [
+        "Branding"
+      ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -65,37 +67,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 9,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Digital Designer",
-      "company": "Who Gives A Crap",
-      "url": "https://jobicy.com/jobs/153327-digital-designer",
-      "source": "Jobicy",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer – Content Solutions",
-      "company": "Fueled",
-      "url": "https://jobicy.com/jobs/150781-product-designer-content-solutions",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
+      "age_days": 10,
       "is_match": true,
       "is_new": false
     }
