@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-16T18:45:15Z",
+  "updated": "2026-11-17T02:16:14Z",
   "threshold": 60,
-  "count": 6,
+  "count": 4,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -17,7 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
@@ -40,34 +40,15 @@
       "is_new": false
     },
     {
-      "title": "Digital Designer für E-Mail & E-Commerce (m/w/d)",
-      "company": "Heimer Marketing GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/heimer-marketing-gmbh/digital-designer-fur-e-mail-e-commerce-hamburg-84401",
+      "title": "Kosmetiker/in, Nageldesigner/in, Fusspfleger/in",
+      "company": "Beauty Mosaic Kosmetikstudio",
+      "url": "https://www.arbeitnow.com/jobs/companies/beauty-mosaic-kosmetikstudio/kosmetiker-in-nageldesigner-in-fusspfleger-in-frankfurt-am-main-179889",
       "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Digital Designer",
-      "company": "Who Gives A Crap",
-      "url": "https://himalayas.app/companies/whogivesacrap/jobs/digital-designer-1579955546?utm_source=api",
-      "source": "Himalayas",
-      "location": "Philippines",
+      "location": "Frankfurt am Main",
       "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
+      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
@@ -87,22 +68,6 @@
       "age_days": 9,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "GUI-Designer Automotive (m/w/x)",
-      "company": "K-tronik GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/gui-designer-automotive-munich-107554",
-      "source": "Arbeitnow",
-      "location": "Munich",
-      "remote": false,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     }
   ]
 }
