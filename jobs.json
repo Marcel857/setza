@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-18T02:02:39Z",
+  "updated": "2026-11-18T10:28:16Z",
   "threshold": 60,
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -38,6 +38,20 @@
       "age_days": 27,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Product Designer UX/UI (m/w/d), Teil- oder Vollzeit, Remote",
+      "company": "AZAV Pilot",
+      "url": "https://www.arbeitnow.com/jobs/companies/azav-pilot/product-designer-ux-ui-teil-oder-vollzeit-remote-berlin-492788",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer",
