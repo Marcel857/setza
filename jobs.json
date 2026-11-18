@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-17T19:38:02Z",
+  "updated": "2026-11-18T02:02:39Z",
   "threshold": 60,
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -17,7 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 18,
+      "age_days": 19,
       "is_match": true,
       "is_new": false
     },
@@ -69,6 +69,22 @@
       ],
       "age_days": 10,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer - BeReal",
+      "company": "BeReal",
+      "url": "https://www.arbeitnow.fr/jobs/companies/bereal/product-designer-bereal-paris-292149",
+      "source": "Arbeitnow",
+      "location": "Paris",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
