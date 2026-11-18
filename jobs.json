@@ -1,105 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-11-18T10:28:16Z",
+  "updated": "2026-11-18T18:58:51Z",
   "threshold": 60,
-  "count": 6,
+  "count": 1,
   "jobs": [
     {
-      "title": "Brand Designer",
-      "company": "Thatch",
-      "url": "https://weworkremotely.com/remote-jobs/thatch-brand-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
+      "title": "Creative Designer (m/w/d)",
+      "company": "Neolymp",
+      "url": "https://himalayas.app/companies/neolymp/jobs/creative-designer-m-w-d?utm_source=api",
+      "source": "Himalayas",
+      "location": "Germany",
       "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 19,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Cata-Kor",
-      "url": "https://weworkremotely.com/remote-jobs/cata-kor-graphic-designer",
-      "source": "WeWorkRemotely",
-      "location": "Anywhere in the World",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
         "Branding",
+        "Social Media",
         "Fotografie"
       ],
-      "age_days": 27,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer UX/UI (m/w/d), Teil- oder Vollzeit, Remote",
-      "company": "AZAV Pilot",
-      "url": "https://www.arbeitnow.com/jobs/companies/azav-pilot/product-designer-ux-ui-teil-oder-vollzeit-remote-berlin-492788",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
       "age_days": 0,
       "is_match": true,
       "is_new": true
-    },
-    {
-      "title": "Product Designer",
-      "company": "Alveole",
-      "url": "https://weworkremotely.com/remote-jobs/alveole-product-designer",
-      "source": "WeWorkRemotely",
-      "location": "Canada Only",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Instructional Designer",
-      "company": "MedAmerica",
-      "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
-      "source": "WeWorkRemotely",
-      "location": "USA Only",
-      "remote": true,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 10,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer - BeReal",
-      "company": "BeReal",
-      "url": "https://www.arbeitnow.fr/jobs/companies/bereal/product-designer-bereal-paris-292149",
-      "source": "Arbeitnow",
-      "location": "Paris",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
     }
   ]
 }
