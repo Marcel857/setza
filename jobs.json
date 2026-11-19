@@ -1,22 +1,119 @@
 {
   "app": "Setza",
-  "updated": "2026-11-18T18:58:51Z",
+  "updated": "2026-11-19T01:00:52Z",
   "threshold": 60,
-  "count": 1,
+  "count": 7,
   "jobs": [
     {
-      "title": "Creative Designer (m/w/d)",
-      "company": "Neolymp",
-      "url": "https://himalayas.app/companies/neolymp/jobs/creative-designer-m-w-d?utm_source=api",
-      "source": "Himalayas",
-      "location": "Germany",
+      "title": "Brand Designer",
+      "company": "Thatch",
+      "url": "https://weworkremotely.com/remote-jobs/thatch-brand-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 20,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Cata-Kor",
+      "url": "https://weworkremotely.com/remote-jobs/cata-kor-graphic-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 28,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Instructional Designer",
+      "company": "MedAmerica",
+      "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
+      "source": "WeWorkRemotely",
+      "location": "USA Only",
       "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Branding",
-        "Social Media",
-        "Fotografie"
+        "Branding"
+      ],
+      "age_days": 11,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Static Ad Designer",
+      "company": "Uplane",
+      "url": "https://www.arbeitnow.com/jobs/companies/uplane/remote-static-ad-designer-215878",
+      "source": "Arbeitnow",
+      "location": "remote",
+      "remote": false,
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Landing Page Designer",
+      "company": "Uplane",
+      "url": "https://www.arbeitnow.com/jobs/companies/uplane/remote-landing-page-designer-376295",
+      "source": "Arbeitnow",
+      "location": "remote",
+      "remote": false,
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Static Ad Designer",
+      "company": "Uplane",
+      "url": "https://www.arbeitnow.com/jobs/companies/uplane/static-ad-designer-berlin-395147",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Landing Page Designer",
+      "company": "Uplane",
+      "url": "https://www.arbeitnow.com/jobs/companies/uplane/landing-page-designer-berlin-137775",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "remote": false,
+      "score": 62,
+      "reasons": "100% Remote, Design-Fokus",
+      "tags": [
+        "Branding"
       ],
       "age_days": 0,
       "is_match": true,
