@@ -1,27 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-19T09:05:12Z",
+  "updated": "2026-11-19T18:27:11Z",
   "threshold": 60,
-  "count": 6,
+  "count": 4,
   "jobs": [
-    {
-      "title": "Industrial Designer",
-      "company": "Vesoma",
-      "url": "https://www.arbeitnow.com/jobs/companies/vesoma/industrial-designer-garching-bei-munchen-37475",
-      "source": "Arbeitnow",
-      "location": "Munich",
-      "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -53,23 +35,9 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 28,
+      "age_days": 29,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Soft Goods Designer",
-      "company": "Vesoma",
-      "url": "https://www.arbeitnow.com/jobs/companies/vesoma/soft-goods-designer-garching-bei-munchen-100295",
-      "source": "Arbeitnow",
-      "location": "Munich",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Instructional Designer",
@@ -83,23 +51,23 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 11,
+      "age_days": 12,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Instructional Designer, TRM Academy (Compliance)",
-      "company": "TRM Labs",
-      "url": "https://jobicy.com/jobs/155918-instructional-designer-trm-academy-compliance",
+      "title": "UI Designer - AI Neobank App",
+      "company": "BJAK",
+      "url": "https://jobicy.com/jobs/163237-ui-designer-ai-neobank-app",
       "source": "Jobicy",
-      "location": "EMEA,  LATAM,  Canada,  USA",
+      "location": "Germany",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
