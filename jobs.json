@@ -1,9 +1,27 @@
 {
   "app": "Setza",
-  "updated": "2026-11-19T01:00:52Z",
+  "updated": "2026-11-19T09:05:12Z",
   "threshold": 60,
-  "count": 7,
+  "count": 6,
   "jobs": [
+    {
+      "title": "Industrial Designer",
+      "company": "Vesoma",
+      "url": "https://www.arbeitnow.com/jobs/companies/vesoma/industrial-designer-garching-bei-munchen-37475",
+      "source": "Arbeitnow",
+      "location": "Munich",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -40,6 +58,20 @@
       "is_new": false
     },
     {
+      "title": "Soft Goods Designer",
+      "company": "Vesoma",
+      "url": "https://www.arbeitnow.com/jobs/companies/vesoma/soft-goods-designer-garching-bei-munchen-100295",
+      "source": "Arbeitnow",
+      "location": "Munich",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Instructional Designer",
       "company": "MedAmerica",
       "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
@@ -56,68 +88,18 @@
       "is_new": false
     },
     {
-      "title": "Static Ad Designer",
-      "company": "Uplane",
-      "url": "https://www.arbeitnow.com/jobs/companies/uplane/remote-static-ad-designer-215878",
-      "source": "Arbeitnow",
-      "location": "remote",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding"
-      ],
+      "title": "Instructional Designer, TRM Academy (Compliance)",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/155918-instructional-designer-trm-academy-compliance",
+      "source": "Jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
       "age_days": 0,
       "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Landing Page Designer",
-      "company": "Uplane",
-      "url": "https://www.arbeitnow.com/jobs/companies/uplane/remote-landing-page-designer-376295",
-      "source": "Arbeitnow",
-      "location": "remote",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Static Ad Designer",
-      "company": "Uplane",
-      "url": "https://www.arbeitnow.com/jobs/companies/uplane/static-ad-designer-berlin-395147",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Landing Page Designer",
-      "company": "Uplane",
-      "url": "https://www.arbeitnow.com/jobs/companies/uplane/landing-page-designer-berlin-137775",
-      "source": "Arbeitnow",
-      "location": "Berlin",
-      "remote": false,
-      "score": 62,
-      "reasons": "100% Remote, Design-Fokus",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
