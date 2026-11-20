@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-11-20T00:47:30Z",
+  "updated": "2026-11-20T08:00:21Z",
   "threshold": 60,
   "count": 7,
   "jobs": [
+    {
+      "title": "Sr. User Experience Designer",
+      "company": "HOME DEPOT U.S.A., INC.",
+      "url": "https://himalayas.app/companies/home-depot-u-s-a-inc/jobs/sr-user-experience-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "remote": true,
+      "score": 85,
+      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Junior"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -72,27 +89,11 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer – Remote (Worldwide)",
-      "company": "RemoteJobsOne",
-      "url": "https://himalayas.app/companies/remotejobsone/jobs/graphic-designer-remote-worldwide-4524626052?utm_source=api",
-      "source": "Himalayas",
-      "location": "Brazil, Canada, France, Germany, India, Netherlands, United Kingdom, United States",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "UI Designer - AI Neobank App",
-      "company": "BJAK",
-      "url": "https://jobicy.com/jobs/163237-ui-designer-ai-neobank-app",
+      "title": "Instructional Designer I",
+      "company": "CentralReach",
+      "url": "https://jobicy.com/jobs/163384-instructional-designer-i",
       "source": "Jobicy",
-      "location": "Germany",
+      "location": "USA",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
@@ -102,11 +103,11 @@
       "is_new": true
     },
     {
-      "title": "Product Designer - Paris",
-      "company": "Hcompany",
-      "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/product-designer-paris-148315",
+      "title": "Product Designer",
+      "company": "Sonarsource",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/product-designer-geneva-411308",
       "source": "Arbeitnow",
-      "location": "Hybrid Paris",
+      "location": "Geneva",
       "remote": false,
       "score": 42,
       "reasons": "Design-Fokus, Deutsch ausreichend",
