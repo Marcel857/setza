@@ -1,21 +1,39 @@
 {
   "app": "Setza",
-  "updated": "2026-11-20T08:00:21Z",
+  "updated": "2026-11-20T17:05:15Z",
   "threshold": 60,
   "count": 7,
   "jobs": [
     {
-      "title": "Sr. User Experience Designer",
-      "company": "HOME DEPOT U.S.A., INC.",
-      "url": "https://himalayas.app/companies/home-depot-u-s-a-inc/jobs/sr-user-experience-designer?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "remote": true,
-      "score": 85,
-      "reasons": "100% Remote, Junior/Einsteiger, Design-Fokus, Deutsch ausreichend",
+      "title": "Mediengestalter/in (m/w/d)",
+      "company": "cw.marketing GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/cwmarketing-gmbh/mediengestalter-in-leer-376593",
+      "source": "Arbeitnow",
+      "location": "Leer",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Branding",
-        "Junior"
+        "Packaging/Print",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Mediengestalter:in / Web- & Grafikdesigner:in",
+      "company": "sprintfish communication gmbh & co. kg",
+      "url": "https://www.arbeitnow.com/jobs/companies/sprintfish-communication-gmbh-co-kg/mediengestalterin-web-grafikdesignerin-lauf-an-der-pegnitz-270074",
+      "source": "Arbeitnow",
+      "location": "Lauf an der Pegnitz",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Fotografie"
       ],
       "age_days": 0,
       "is_match": true,
@@ -52,7 +70,7 @@
         "Branding",
         "Fotografie"
       ],
-      "age_days": 29,
+      "age_days": 30,
       "is_match": true,
       "is_new": false
     },
@@ -84,14 +102,14 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Instructional Designer I",
-      "company": "CentralReach",
-      "url": "https://jobicy.com/jobs/163384-instructional-designer-i",
+      "title": "Product Designer",
+      "company": "Phantom",
+      "url": "https://jobicy.com/jobs/163473-product-designer-6",
       "source": "Jobicy",
       "location": "USA",
       "remote": true,
@@ -101,20 +119,6 @@
       "age_days": 0,
       "is_match": true,
       "is_new": true
-    },
-    {
-      "title": "Product Designer",
-      "company": "Sonarsource",
-      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/product-designer-geneva-411308",
-      "source": "Arbeitnow",
-      "location": "Geneva",
-      "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
     }
   ]
 }
