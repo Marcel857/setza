@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-19T18:27:11Z",
+  "updated": "2026-11-20T00:47:30Z",
   "threshold": 60,
-  "count": 4,
+  "count": 7,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -17,7 +17,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 20,
+      "age_days": 21,
       "is_match": true,
       "is_new": false
     },
@@ -40,6 +40,22 @@
       "is_new": false
     },
     {
+      "title": "Product Designer",
+      "company": "Tebra",
+      "url": "https://weworkremotely.com/remote-jobs/tebra-product-designer",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Instructional Designer",
       "company": "MedAmerica",
       "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
@@ -56,6 +72,22 @@
       "is_new": false
     },
     {
+      "title": "Graphic Designer – Remote (Worldwide)",
+      "company": "RemoteJobsOne",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/graphic-designer-remote-worldwide-4524626052?utm_source=api",
+      "source": "Himalayas",
+      "location": "Brazil, Canada, France, Germany, India, Netherlands, United Kingdom, United States",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "UI Designer - AI Neobank App",
       "company": "BJAK",
       "url": "https://jobicy.com/jobs/163237-ui-designer-ai-neobank-app",
@@ -68,6 +100,20 @@
       "age_days": 0,
       "is_match": true,
       "is_new": true
+    },
+    {
+      "title": "Product Designer - Paris",
+      "company": "Hcompany",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/product-designer-paris-148315",
+      "source": "Arbeitnow",
+      "location": "Hybrid Paris",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": false,
+      "is_new": false
     }
   ]
 }
