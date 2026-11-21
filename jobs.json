@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-20T23:14:19Z",
+  "updated": "2026-11-21T04:07:33Z",
   "threshold": 60,
-  "count": 4,
+  "count": 8,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -40,6 +40,36 @@
       "is_new": false
     },
     {
+      "title": "Langfuse - Product Designer",
+      "company": "Clickhouse",
+      "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-product-designer-berlin-465839",
+      "source": "Arbeitnow",
+      "location": "Germany",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer",
+      "company": "Tebra",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873",
+      "source": "RemoteOK",
+      "location": "US Only",
+      "remote": true,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Social Media"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
       "title": "Product Designer",
       "company": "Tebra",
       "url": "https://weworkremotely.com/remote-jobs/tebra-product-designer",
@@ -69,6 +99,37 @@
       ],
       "age_days": 13,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "XTN-F1A7395 | MECHANICAL DESIGNER",
+      "company": "KMC Solutions Inc",
+      "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-f1a7395-mechanical-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UX Designer at United Media",
+      "company": "United Media",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/ux-designer-at-united-media-london-151382",
+      "source": "Arbeitnow",
+      "location": "London, England, United Kingdom",
+      "remote": false,
+      "score": 42,
+      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
