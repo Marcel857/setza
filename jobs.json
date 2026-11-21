@@ -1,9 +1,28 @@
 {
   "app": "Setza",
-  "updated": "2026-11-21T12:53:00Z",
+  "updated": "2026-11-21T19:54:31Z",
   "threshold": 60,
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "title": "Graphic Designer- PLGGD010",
+      "company": "Sagan Recruitment",
+      "url": "https://himalayas.app/companies/sagan-recruitment/jobs/graphic-designer-plggd010?utm_source=api",
+      "source": "Himalayas",
+      "location": "Serbia",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -20,20 +39,6 @@
       "age_days": 22,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Langfuse - Product Designer",
-      "company": "Clickhouse",
-      "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/langfuse-product-designer-berlin-465839",
-      "source": "Arbeitnow",
-      "location": "Germany",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Product Designer",
@@ -63,7 +68,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": true
     },
@@ -79,22 +84,39 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 13,
+      "age_days": 14,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "Product Designer - Visual Craft & AI",
-      "company": "Envato",
-      "url": "https://jobicy.com/jobs/156135-product-designer-visual-craft-ai",
-      "source": "Jobicy",
-      "location": "Australia,  New Zealand",
+      "title": "3D Environment Artist & Level Designer",
+      "company": "Scape",
+      "url": "https://www.arbeitnow.com/jobs/companies/scape/remote-3d-environment-artist-level-designer-457684",
+      "source": "Arbeitnow",
+      "location": "Remote",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
       "age_days": 0,
       "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UX designer at Private Equity Insights",
+      "company": "Privateequityinsights",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ux-designer-at-private-equity-insights-london-223301",
+      "source": "Arbeitnow",
+      "location": "London",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
