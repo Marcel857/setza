@@ -1,9 +1,26 @@
 {
   "app": "Setza",
-  "updated": "2026-11-22T00:03:24Z",
+  "updated": "2026-11-22T07:13:10Z",
   "threshold": 60,
   "count": 7,
   "jobs": [
+    {
+      "title": "Sr. Marketing Designer",
+      "company": "Imprint",
+      "url": "https://jobicy.com/jobs/156423-sr-marketing-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": false
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -22,22 +39,6 @@
       "is_new": false
     },
     {
-      "title": "Web Designer, Growth at AIOS — Remote, $100k–$200k/yr inc equity",
-      "company": "AIOS (YC W20/S21)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/web-designer-growth-at-aios-remote-100k-200k-yr-inc-equity-blackburn-499188",
-      "source": "Arbeitnow",
-      "location": "Remote (UK hours)",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Product Designer",
       "company": "Tebra",
       "url": "https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873",
@@ -49,7 +50,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "is_match": true,
       "is_new": true
     },
@@ -100,9 +101,9 @@
       "is_new": true
     },
     {
-      "title": "UX designer at Private Equity Insights",
-      "company": "Privateequityinsights",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ux-designer-at-private-equity-insights-london-223301",
+      "title": "UX designer at Retail Insights",
+      "company": "Retailinsights",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/ux-designer-at-retail-insights-london-41238",
       "source": "Arbeitnow",
       "location": "London",
       "remote": false,
