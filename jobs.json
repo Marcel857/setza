@@ -1,26 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-22T07:13:10Z",
+  "updated": "2026-11-22T15:30:21Z",
   "threshold": 60,
-  "count": 7,
+  "count": 5,
   "jobs": [
-    {
-      "title": "Sr. Marketing Designer",
-      "company": "Imprint",
-      "url": "https://jobicy.com/jobs/156423-sr-marketing-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -87,23 +70,9 @@
       "is_new": false
     },
     {
-      "title": "3D Environment Artist & Level Designer",
-      "company": "Scape",
-      "url": "https://www.arbeitnow.com/jobs/companies/scape/remote-3d-environment-artist-level-designer-457684",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "UX designer at Retail Insights",
-      "company": "Retailinsights",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/ux-designer-at-retail-insights-london-41238",
+      "title": "UX designer at CFO Insights",
+      "company": "Cfoinsights",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/ux-designer-at-cfo-insights-london-107091",
       "source": "Arbeitnow",
       "location": "London",
       "remote": false,
