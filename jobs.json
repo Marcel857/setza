@@ -1,28 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-21T19:54:31Z",
+  "updated": "2026-11-22T00:03:24Z",
   "threshold": 60,
   "count": 7,
   "jobs": [
-    {
-      "title": "Graphic Designer- PLGGD010",
-      "company": "Sagan Recruitment",
-      "url": "https://himalayas.app/companies/sagan-recruitment/jobs/graphic-designer-plggd010?utm_source=api",
-      "source": "Himalayas",
-      "location": "Serbia",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Social Media",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -36,9 +17,25 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 22,
+      "age_days": 23,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Web Designer, Growth at AIOS — Remote, $100k–$200k/yr inc equity",
+      "company": "AIOS (YC W20/S21)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/web-designer-growth-at-aios-remote-100k-200k-yr-inc-equity-blackburn-499188",
+      "source": "Arbeitnow",
+      "location": "Remote (UK hours)",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer",
