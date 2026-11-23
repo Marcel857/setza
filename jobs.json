@@ -1,9 +1,74 @@
 {
   "app": "Setza",
-  "updated": "2026-11-23T10:13:38Z",
+  "updated": "2026-11-23T22:08:30Z",
   "threshold": 60,
-  "count": 10,
+  "count": 20,
   "jobs": [
+    {
+      "title": "UI/UX-Designer (m/w/d) in Vollzeit",
+      "company": "MCI Solutions GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/mci-solutions-gmbh/ui-ux-designer-in-vollzeit-stuttgart-432291",
+      "source": "Arbeitnow",
+      "location": "Stuttgart",
+      "remote": false,
+      "score": 87,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Technical Fashion Designer",
+      "company": "Fresh Prints",
+      "url": "https://jobicy.com/jobs/164012-technical-fashion-designer",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Development Associate (Fashion Designer)",
+      "company": "Fresh Prints",
+      "url": "https://jobicy.com/jobs/164007-product-development-associate-fashion-designer",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Sr. Marketing Designer",
+      "company": "Imprint",
+      "url": "https://jobicy.com/jobs/156423-sr-marketing-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": false
+    },
     {
       "title": "Brand Designer",
       "company": "Thatch",
@@ -20,54 +85,6 @@
       "age_days": 24,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "UX/UI-Designer:in | Konzeption & Design (w/m/d)",
-      "company": "Neoskop GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/neoskop-gmbh/ux-ui-designerin-konzeption-design-hanover-50564",
-      "source": "Arbeitnow",
-      "location": "Hanover",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Digital Designer für E-Mail & E-Commerce (m/w/d)",
-      "company": "Heimer Marketing GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/heimer-marketing-gmbh/digital-designer-fur-e-mail-e-commerce-hamburg-55717",
-      "source": "Arbeitnow",
-      "location": "Hamburg",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Grafikdesigner:in (m/w/d) mit KI-Affinität (Studentische Hilfskraft Remote)",
-      "company": "UNCODED I Gorilla Ventures GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/uncoded-i-gorilla-ventures-gmbh/grafikdesignerin-mit-ki-affinitat-studentische-hilfskraft-remote-munich-314376",
-      "source": "Arbeitnow",
-      "location": "Munich",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Branding",
-        "Social Media"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
     },
     {
       "title": "Product Designer",
@@ -97,7 +114,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": true
     },
@@ -113,16 +130,46 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "UI/UX Designer mit Product-Design-Erfahrung im SaaS-Umfeld",
-      "company": "Cannaleo Digital GmbH",
-      "url": "https://www.arbeitnow.com/jobs/companies/cannaleo-digital-gmbh/ui-ux-designer-mit-product-design-erfahrung-im-saas-umfeld-berlin-67875",
-      "source": "Arbeitnow",
-      "location": "Berlin",
+      "title": "Visual Designer",
+      "company": "R/GA",
+      "url": "https://jobicy.com/jobs/163993-visual-designer-2",
+      "source": "Jobicy",
+      "location": "Argentina",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Mobile UI Designer",
+      "company": "BJAK",
+      "url": "https://jobicy.com/jobs/163953-mobile-ui-designer",
+      "source": "Jobicy",
+      "location": "Ireland",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer (UI/UX)",
+      "company": "BJAK",
+      "url": "https://jobicy.com/jobs/163951-product-designer-ui-ux",
+      "source": "Jobicy",
+      "location": "Sweden",
       "remote": true,
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
@@ -146,20 +193,119 @@
       "is_new": false
     },
     {
-      "title": "UX designer at SetSales",
-      "company": "Setsales",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/ux-designer-at-setsales-london-84838",
-      "source": "Arbeitnow",
-      "location": "London",
-      "remote": false,
-      "score": 47,
-      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Creative (Graphic Designer)",
+      "company": "Superside",
+      "url": "https://jobicy.com/jobs/153808-creative-graphic-designer",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
-        "Branding",
-        "Social Media"
+        "Branding"
       ],
       "age_days": 0,
-      "is_match": false,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer - Visual Craft & AI",
+      "company": "Envato",
+      "url": "https://jobicy.com/jobs/156135-product-designer-visual-craft-ai",
+      "source": "Jobicy",
+      "location": "Australia,  New Zealand",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Phantom",
+      "url": "https://jobicy.com/jobs/163473-product-designer-6",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 3,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Instructional Designer I",
+      "company": "CentralReach",
+      "url": "https://jobicy.com/jobs/163384-instructional-designer-i",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 3,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI Designer - AI Neobank App",
+      "company": "BJAK",
+      "url": "https://jobicy.com/jobs/163237-ui-designer-ai-neobank-app",
+      "source": "Jobicy",
+      "location": "Germany",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 4,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Instructional Designer, TRM Academy (Compliance)",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/155918-instructional-designer-trm-academy-compliance",
+      "source": "Jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 4,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Digital Designer",
+      "company": "Who Gives A Crap",
+      "url": "https://jobicy.com/jobs/153327-digital-designer",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 6,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer – Content Solutions",
+      "company": "Fueled",
+      "url": "https://jobicy.com/jobs/150781-product-designer-content-solutions",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 6,
+      "is_match": true,
       "is_new": false
     }
   ]
