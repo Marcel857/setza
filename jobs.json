@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-22T21:28:53Z",
+  "updated": "2026-11-23T01:54:53Z",
   "threshold": 60,
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "title": "Brand Designer",
@@ -17,9 +17,26 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 23,
+      "age_days": 24,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Grafikdesigner:in (m/w/d) mit KI-Affinität (Studentische Hilfskraft Remote)",
+      "company": "UNCODED I Gorilla Ventures GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/uncoded-i-gorilla-ventures-gmbh/grafikdesignerin-mit-ki-affinitat-studentische-hilfskraft-remote-munich-314376",
+      "source": "Arbeitnow",
+      "location": "Munich",
+      "remote": false,
+      "score": 77,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding",
+        "Social Media"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer",
@@ -70,14 +87,14 @@
       "is_new": false
     },
     {
-      "title": "UX Designer at United Media",
-      "company": "Unitedmedia",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ux-designer-at-united-media-london-218799",
+      "title": "UX designer at SetSales",
+      "company": "Setsales",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/ux-designer-at-setsales-london-84838",
       "source": "Arbeitnow",
       "location": "London",
       "remote": false,
-      "score": 42,
-      "reasons": "Design-Fokus, Deutsch ausreichend",
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
         "Branding",
         "Social Media"
