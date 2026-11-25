@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-11-24T18:03:31Z",
+  "updated": "2026-11-25T02:41:11Z",
   "threshold": 60,
   "count": 6,
   "jobs": [
@@ -21,24 +21,6 @@
       "is_new": true
     },
     {
-      "title": "Graphic and Editorial Design Expert, Remote",
-      "company": "Xperteez Technology",
-      "url": "https://himalayas.app/companies/xperteez-technology/jobs/graphic-and-editorial-design-expert-remote?utm_source=api",
-      "source": "Himalayas",
-      "location": "",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
       "title": "Product Designer",
       "company": "Tebra",
       "url": "https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873",
@@ -50,7 +32,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": true
     },
@@ -66,7 +48,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": true
     },
@@ -85,6 +67,23 @@
       "age_days": 17,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Sourcefit",
+      "url": "https://himalayas.app/companies/sourcefit/jobs/graphic-designer?utm_source=api",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding",
+        "Fotografie"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer",
