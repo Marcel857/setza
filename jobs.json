@@ -1,24 +1,57 @@
 {
   "app": "Setza",
-  "updated": "2026-11-25T12:01:50Z",
+  "updated": "2026-11-25T21:53:32Z",
   "threshold": 60,
-  "count": 5,
+  "count": 17,
   "jobs": [
     {
-      "title": "Product Designer (Contract)",
-      "company": "Lemrock",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemrock/product-designer-contract-paris-209160",
-      "source": "Arbeitnow",
-      "location": "Paris",
-      "remote": false,
-      "score": 77,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Technical Fashion Designer",
+      "company": "Fresh Prints",
+      "url": "https://jobicy.com/jobs/164012-technical-fashion-designer",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
       "tags": [
-        "Branding"
+        "Packaging/Print"
       ],
-      "age_days": 0,
+      "age_days": 2,
       "is_match": true,
       "is_new": true
+    },
+    {
+      "title": "Product Development Associate (Fashion Designer)",
+      "company": "Fresh Prints",
+      "url": "https://jobicy.com/jobs/164007-product-development-associate-fashion-designer",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Sr. Marketing Designer",
+      "company": "Imprint",
+      "url": "https://jobicy.com/jobs/156423-sr-marketing-designer",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 3,
+      "is_match": true,
+      "is_new": false
     },
     {
       "title": "Product Designer",
@@ -32,7 +65,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": true
     },
@@ -48,44 +81,187 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "is_match": true,
       "is_new": false
     },
     {
-      "title": "CDI - DESIGNER JUNIOR JERSEY (H/F)",
-      "company": "JACQUEMUS",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-designer-junior-jersey-h-f-paris-hq-ile-de-france-54456",
-      "source": "Arbeitnow",
-      "location": "Paris HQ, Île de France",
-      "remote": false,
-      "score": 60,
-      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "title": "Product Designer",
+      "company": "Binance",
+      "url": "https://jobicy.com/jobs/164147-product-designer-7",
+      "source": "Jobicy",
+      "location": "Singapore",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 1,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Visual Designer",
+      "company": "R/GA",
+      "url": "https://jobicy.com/jobs/163993-visual-designer-2",
+      "source": "Jobicy",
+      "location": "Argentina",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [
+        "Branding"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Mobile UI Designer",
+      "company": "BJAK",
+      "url": "https://jobicy.com/jobs/163953-mobile-ui-designer",
+      "source": "Jobicy",
+      "location": "Ireland",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Product Designer (UI/UX)",
+      "company": "BJAK",
+      "url": "https://jobicy.com/jobs/163951-product-designer-ui-ux",
+      "source": "Jobicy",
+      "location": "Sweden",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Content Designer II (Remote Eligible - Costa Rica)",
+      "company": "Smartsheet",
+      "url": "https://jobicy.com/jobs/156653-content-designer-ii-remote-eligible-costa-rica",
+      "source": "Jobicy",
+      "location": "Costa Rica",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Creative (Graphic Designer)",
+      "company": "Superside",
+      "url": "https://jobicy.com/jobs/153808-creative-graphic-designer",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 2,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer - Visual Craft & AI",
+      "company": "Envato",
+      "url": "https://jobicy.com/jobs/156135-product-designer-visual-craft-ai",
+      "source": "Jobicy",
+      "location": "Australia,  New Zealand",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 4,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Product Designer",
+      "company": "Phantom",
+      "url": "https://jobicy.com/jobs/163473-product-designer-6",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 5,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Instructional Designer I",
+      "company": "CentralReach",
+      "url": "https://jobicy.com/jobs/163384-instructional-designer-i",
+      "source": "Jobicy",
+      "location": "USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 5,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "UI Designer - AI Neobank App",
+      "company": "BJAK",
+      "url": "https://jobicy.com/jobs/163237-ui-designer-ai-neobank-app",
+      "source": "Jobicy",
+      "location": "Germany",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 6,
+      "is_match": true,
+      "is_new": true
+    },
+    {
+      "title": "Instructional Designer, TRM Academy (Compliance)",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/155918-instructional-designer-trm-academy-compliance",
+      "source": "Jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [],
+      "age_days": 6,
+      "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "Artworker / Jr Designer",
+      "company": "Caddy Comps",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/caddy-comps/artworker-jr-designer-peterborough-108812",
+      "source": "Arbeitnow",
+      "location": "Peterborough",
+      "remote": false,
+      "score": 70,
+      "reasons": "Junior/Einsteiger, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Social Media",
         "Fotografie",
         "Junior"
       ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
-    },
-    {
-      "title": "Brand Designer",
-      "company": "Fuseenergy",
-      "url": "https://www.arbeitnow.fr/jobs/companies/fuseenergy/brand-designer-paris-187042",
-      "source": "Arbeitnow",
-      "location": "Paris, France",
-      "remote": false,
-      "score": 57,
-      "reasons": "Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print",
-        "Branding",
-        "Fotografie"
-      ],
-      "age_days": 0,
-      "is_match": false,
-      "is_new": false
     }
   ]
 }
