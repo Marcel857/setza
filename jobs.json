@@ -1,38 +1,22 @@
 {
   "app": "Setza",
-  "updated": "2026-11-25T02:41:11Z",
+  "updated": "2026-11-25T12:01:50Z",
   "threshold": 60,
-  "count": 6,
+  "count": 5,
   "jobs": [
     {
-      "title": "UX/UI-Designer*in (m/w/d)",
-      "company": "Jonasundderwolf",
-      "url": "https://www.arbeitnow.com/jobs/companies/jonasundderwolf/ux-ui-designerin-berlin-308229",
+      "title": "Product Designer (Contract)",
+      "company": "Lemrock",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lemrock/product-designer-contract-paris-209160",
       "source": "Arbeitnow",
-      "location": "Berlin",
+      "location": "Paris",
       "remote": false,
-      "score": 87,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Product Designer",
-      "company": "Tebra",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873",
-      "source": "RemoteOK",
-      "location": "US Only",
-      "remote": true,
       "score": 77,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Social Media"
+        "Branding"
       ],
-      "age_days": 5,
+      "age_days": 0,
       "is_match": true,
       "is_new": true
     },
@@ -69,35 +53,39 @@
       "is_new": false
     },
     {
-      "title": "Graphic Designer",
-      "company": "Sourcefit",
-      "url": "https://himalayas.app/companies/sourcefit/jobs/graphic-designer?utm_source=api",
-      "source": "Himalayas",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "title": "CDI - DESIGNER JUNIOR JERSEY (H/F)",
+      "company": "JACQUEMUS",
+      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-designer-junior-jersey-h-f-paris-hq-ile-de-france-54456",
+      "source": "Arbeitnow",
+      "location": "Paris HQ, Île de France",
+      "remote": false,
+      "score": 60,
+      "reasons": "Junior/Einsteiger, Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
       "tags": [
-        "Branding",
-        "Fotografie"
+        "Fotografie",
+        "Junior"
       ],
       "age_days": 0,
       "is_match": true,
       "is_new": true
     },
     {
-      "title": "Product Designer",
-      "company": "Binance",
-      "url": "https://jobicy.com/jobs/164147-product-designer-7",
-      "source": "Jobicy",
-      "location": "Singapore",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
+      "title": "Brand Designer",
+      "company": "Fuseenergy",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fuseenergy/brand-designer-paris-187042",
+      "source": "Arbeitnow",
+      "location": "Paris, France",
+      "remote": false,
+      "score": 57,
+      "reasons": "Design-Fokus, Packaging/Print, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Packaging/Print",
+        "Branding",
+        "Fotografie"
+      ],
       "age_days": 0,
-      "is_match": true,
-      "is_new": true
+      "is_match": false,
+      "is_new": false
     }
   ]
 }
