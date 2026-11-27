@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-11-27T04:44:29Z",
+  "updated": "2026-11-27T14:38:45Z",
   "threshold": 60,
   "count": 14,
   "jobs": [
@@ -52,6 +52,23 @@
       "age_days": 5,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Content Designer II",
+      "company": "Affirm",
+      "url": "https://weworkremotely.com/remote-jobs/affirm-content-designer-ii",
+      "source": "WeWorkRemotely",
+      "location": "Anywhere in the World",
+      "remote": true,
+      "score": 82,
+      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
+      "tags": [
+        "Packaging/Print",
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer",
@@ -141,7 +158,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": true
     },
@@ -155,7 +172,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": true
     },
@@ -202,20 +219,6 @@
       "age_days": 6,
       "is_match": true,
       "is_new": false
-    },
-    {
-      "title": "Product Designer",
-      "company": "Phantom",
-      "url": "https://jobicy.com/jobs/163473-product-designer-6",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 6,
-      "is_match": true,
-      "is_new": true
     }
   ]
 }
