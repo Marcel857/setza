@@ -1,58 +1,9 @@
 {
   "app": "Setza",
-  "updated": "2026-11-27T14:38:45Z",
+  "updated": "2026-11-27T23:10:46Z",
   "threshold": 60,
-  "count": 14,
+  "count": 3,
   "jobs": [
-    {
-      "title": "Technical Fashion Designer",
-      "company": "Fresh Prints",
-      "url": "https://jobicy.com/jobs/164012-technical-fashion-designer",
-      "source": "Jobicy",
-      "location": "Philippines",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Product Development Associate (Fashion Designer)",
-      "company": "Fresh Prints",
-      "url": "https://jobicy.com/jobs/164007-product-development-associate-fashion-designer",
-      "source": "Jobicy",
-      "location": "Philippines",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print"
-      ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Sr. Marketing Designer",
-      "company": "Imprint",
-      "url": "https://jobicy.com/jobs/156423-sr-marketing-designer",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 82,
-      "reasons": "100% Remote, Design-Fokus, Packaging/Print, Deutsch ausreichend",
-      "tags": [
-        "Packaging/Print",
-        "Branding"
-      ],
-      "age_days": 5,
-      "is_match": true,
-      "is_new": false
-    },
     {
       "title": "Content Designer II",
       "company": "Affirm",
@@ -82,7 +33,7 @@
       "tags": [
         "Social Media"
       ],
-      "age_days": 7,
+      "age_days": 8,
       "is_match": true,
       "is_new": true
     },
@@ -98,125 +49,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 19,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Graphic Designer (Permanent work from home)",
-      "company": "Lightspeed Commerce",
-      "url": "https://jobicy.com/jobs/164463-graphic-designer-permanent-work-from-home-2",
-      "source": "Jobicy",
-      "location": "Philippines",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 0,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Product Designer",
-      "company": "Binance",
-      "url": "https://jobicy.com/jobs/164147-product-designer-7",
-      "source": "Jobicy",
-      "location": "Singapore",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 2,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Visual Designer",
-      "company": "R/GA",
-      "url": "https://jobicy.com/jobs/163993-visual-designer-2",
-      "source": "Jobicy",
-      "location": "Argentina",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 3,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Mobile UI Designer",
-      "company": "BJAK",
-      "url": "https://jobicy.com/jobs/163953-mobile-ui-designer",
-      "source": "Jobicy",
-      "location": "Ireland",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Product Designer (UI/UX)",
-      "company": "BJAK",
-      "url": "https://jobicy.com/jobs/163951-product-designer-ui-ux",
-      "source": "Jobicy",
-      "location": "Sweden",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Content Designer II (Remote Eligible - Costa Rica)",
-      "company": "Smartsheet",
-      "url": "https://jobicy.com/jobs/156653-content-designer-ii-remote-eligible-costa-rica",
-      "source": "Jobicy",
-      "location": "Costa Rica",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Creative (Graphic Designer)",
-      "company": "Superside",
-      "url": "https://jobicy.com/jobs/153808-creative-graphic-designer",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [
-        "Branding"
-      ],
-      "age_days": 4,
-      "is_match": true,
-      "is_new": false
-    },
-    {
-      "title": "Product Designer - Visual Craft & AI",
-      "company": "Envato",
-      "url": "https://jobicy.com/jobs/156135-product-designer-visual-craft-ai",
-      "source": "Jobicy",
-      "location": "Australia,  New Zealand",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 6,
+      "age_days": 20,
       "is_match": true,
       "is_new": false
     }
