@@ -1,6 +1,6 @@
 {
   "app": "Setza",
-  "updated": "2026-11-26T22:31:22Z",
+  "updated": "2026-11-27T04:44:29Z",
   "threshold": 60,
   "count": 14,
   "jobs": [
@@ -49,7 +49,7 @@
         "Packaging/Print",
         "Branding"
       ],
-      "age_days": 4,
+      "age_days": 5,
       "is_match": true,
       "is_new": false
     },
@@ -84,6 +84,22 @@
       "age_days": 19,
       "is_match": true,
       "is_new": false
+    },
+    {
+      "title": "Graphic Designer (Permanent work from home)",
+      "company": "Lightspeed Commerce",
+      "url": "https://jobicy.com/jobs/164463-graphic-designer-permanent-work-from-home-2",
+      "source": "Jobicy",
+      "location": "Philippines",
+      "remote": true,
+      "score": 72,
+      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": true,
+      "is_new": true
     },
     {
       "title": "Product Designer",
@@ -153,7 +169,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -169,7 +185,7 @@
       "tags": [
         "Branding"
       ],
-      "age_days": 3,
+      "age_days": 4,
       "is_match": true,
       "is_new": false
     },
@@ -183,7 +199,7 @@
       "score": 72,
       "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
       "tags": [],
-      "age_days": 5,
+      "age_days": 6,
       "is_match": true,
       "is_new": false
     },
@@ -191,20 +207,6 @@
       "title": "Product Designer",
       "company": "Phantom",
       "url": "https://jobicy.com/jobs/163473-product-designer-6",
-      "source": "Jobicy",
-      "location": "USA",
-      "remote": true,
-      "score": 72,
-      "reasons": "100% Remote, Design-Fokus, Deutsch ausreichend",
-      "tags": [],
-      "age_days": 6,
-      "is_match": true,
-      "is_new": true
-    },
-    {
-      "title": "Instructional Designer I",
-      "company": "CentralReach",
-      "url": "https://jobicy.com/jobs/163384-instructional-designer-i",
       "source": "Jobicy",
       "location": "USA",
       "remote": true,
