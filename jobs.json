@@ -1,8 +1,8 @@
 {
   "app": "Setza",
-  "updated": "2026-11-27T23:10:46Z",
+  "updated": "2026-11-28T04:50:03Z",
   "threshold": 60,
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "title": "Content Designer II",
@@ -51,6 +51,22 @@
       ],
       "age_days": 20,
       "is_match": true,
+      "is_new": false
+    },
+    {
+      "title": "[ VO2 Brand Experience] - Product Designer Retail",
+      "company": "VO2 Group",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-brand-experience-product-designer-retail-paris-france-357747",
+      "source": "Arbeitnow",
+      "location": "Paris, France",
+      "remote": false,
+      "score": 47,
+      "reasons": "Design-Fokus, Deutsch ausreichend, Gehalt angegeben",
+      "tags": [
+        "Branding"
+      ],
+      "age_days": 0,
+      "is_match": false,
       "is_new": false
     }
   ]
